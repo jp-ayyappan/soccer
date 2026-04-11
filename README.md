@@ -14,6 +14,26 @@ The scraper generates three files inside a season directory (e.g. `Spring_2026/`
 - **`games_by_location.txt`** — Human-readable report grouped by venue, with games sorted chronologically within each venue.
 - **`games_by_date_and_location.txt`** — Organized by date first, then by venue within each date. Best for day-of planning to spot back-to-back opportunities.
 
+Each venue entry includes a direct link to the OHTSL map/directions page.
+
+After scraping, a summary is printed to the console showing total games, unique venues, and the **top 15 venues by game count** — the best candidates for scheduling back-to-back games.
+
+## Spring 2026 Stats
+
+- **4,140 games** across **381 venues**
+- 81 Boys divisions + 58 Girls divisions (U09–U15)
+- Season runs April 12 – June 7, 2026
+
+## Re-running
+
+Re-run the scraper anytime to pick up reschedules or score updates:
+
+```bash
+python3 scrape_ohtsl.py
+```
+
+The output files in `Spring_2026/` will be overwritten with fresh data.
+
 ## Requirements
 
 - Python 3.9+
