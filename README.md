@@ -24,16 +24,6 @@ After scraping, a summary is printed to the console showing total games, unique 
 - 81 Boys divisions + 58 Girls divisions (U09–U15)
 - Season runs April 12 – June 7, 2026
 
-## Re-running
-
-Re-run the scraper anytime to pick up reschedules or score updates:
-
-```bash
-python3 scrape_ohtsl.py
-```
-
-The output files in `Spring_2026/` will be overwritten with fresh data.
-
 ## Requirements
 
 - Python 3.9+
@@ -46,13 +36,26 @@ pip install requests beautifulsoup4
 
 ## Usage
 
-```bash
-# Default (Spring 2026)
-python3 scrape_ohtsl.py
+The season is **auto-detected** from today's date (Apr–Aug = Spring, Sep–Mar = Fall), so you can usually just run:
 
-# Specify a different season name
-python3 scrape_ohtsl.py --season Fall_2026
+```bash
+python3 scrape_ohtsl.py
 ```
+
+To explicitly target a season:
+
+```bash
+python3 scrape_ohtsl.py --season fall --year 2026
+python3 scrape_ohtsl.py --season spring --year 2027
+```
+
+To see what you've already scraped:
+
+```bash
+python3 scrape_ohtsl.py --list
+```
+
+Re-run anytime to pick up reschedules — the output files for that season will be overwritten with fresh data.
 
 ## How It Works
 

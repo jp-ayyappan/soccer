@@ -7,13 +7,18 @@ divisions (boys & girls), and outputs them grouped by location and sorted
 by date/time — useful for planning referee assignments at nearby venues.
 
 Usage:
-    python3 scrape_ohtsl.py [--season SEASON_NAME]
+    python3 scrape_ohtsl.py                        # auto-detects current season
+    python3 scrape_ohtsl.py --season fall --year 2026
+    python3 scrape_ohtsl.py --list                  # show previously scraped seasons
 
-Output is written to a directory named after the season (default: "Spring_2026").
+Output is written to a directory named after the season (e.g. "Spring_2026").
+The season is auto-detected from today's date (Apr-Aug = Spring, Sep-Mar = Fall)
+unless explicitly overridden.
 """
 
 import argparse
 import csv
+import glob
 import os
 import re
 import time
@@ -29,6 +34,8 @@ PUBLIC_PAGE = f"{BASE_URL}/public.php"
 
 # Polite delay between requests (seconds)
 REQUEST_DELAY = 0.3
+
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 
 def fetch_division_ids(gender_id: int) -> list[dict]:
@@ -168,11 +175,11 @@ def write_csv(games: list[dict], filepath: str):
         writer.writerows(sorted_games)
 
 
-def write_grouped_report(grouped: dict[str, list[dict]], filepath: str):
+def write_grouped_report(grouped: dict[str, list[dict]], filepath: str, season_label: str):
     """Write a human-readable report grouped by location."""
     with open(filepath, "w") as f:
         f.write("=" * 80 + "\n")
-        f.write("OHTSL SPRING 2026 — GAMES GROUPED BY LOCATION\n")
+        f.write(f"OHTSL {season_label.upper()} — GAMES GROUPED BY LOCATION\n")
         f.write("Sorted by date/time within each venue\n")
         f.write("=" * 80 + "\n\n")
 
@@ -205,11 +212,11 @@ def write_grouped_report(grouped: dict[str, list[dict]], filepath: str):
             f.write("\n")
 
 
-def write_by_date_report(games: list[dict], filepath: str):
+def write_by_date_report(games: list[dict], filepath: str, season_label: str):
     """Write a report sorted by date then grouped by location — best for day-of planning."""
     with open(filepath, "w") as f:
         f.write("=" * 80 + "\n")
-        f.write("OHTSL SPRING 2026 — GAMES BY DATE → LOCATION\n")
+        f.write(f"OHTSL {season_label.upper()} — GAMES BY DATE → LOCATION\n")
         f.write("For planning back-to-back games at the same venue\n")
         f.write("=" * 80 + "\n\n")
 
@@ -251,19 +258,92 @@ def write_by_date_report(games: list[dict], filepath: str):
             f.write("\n")
 
 
+def detect_season() -> tuple[str, int]:
+    """Auto-detect the current OHTSL season from today's date.
+
+    OHTSL runs two seasons per year:
+      - Spring: April – August  (games Apr–Jun, but declared/posted earlier)
+      - Fall:   September – March
+
+    Returns (term, year) e.g. ("Spring", 2026).
+    """
+    now = datetime.now()
+    month = now.month
+    if 4 <= month <= 8:
+        return "Spring", now.year
+    elif month >= 9:
+        return "Fall", now.year
+    else:
+        # Jan–Mar: still the prior fall season
+        return "Fall", now.year - 1
+
+
+def make_season_label(term: str, year: int) -> str:
+    """Canonical season label, e.g. 'Spring 2026'."""
+    return f"{term.capitalize()} {year}"
+
+
+def make_season_dir(term: str, year: int) -> str:
+    """Canonical directory name, e.g. 'Spring_2026'."""
+    return f"{term.capitalize()}_{year}"
+
+
+def list_seasons():
+    """Print previously scraped seasons found in the script directory."""
+    pattern = os.path.join(SCRIPT_DIR, "*_*/all_games.csv")
+    found = sorted(glob.glob(pattern))
+    if not found:
+        print("No previously scraped seasons found.")
+        return
+    print("Previously scraped seasons:")
+    for path in found:
+        season_dir = os.path.basename(os.path.dirname(path))
+        label = season_dir.replace("_", " ")
+        csv_lines = sum(1 for _ in open(path)) - 1  # subtract header
+        print(f"  {label:<20} ({csv_lines} games)  ./{season_dir}/")
+
+
 def main():
-    parser = argparse.ArgumentParser(description="Scrape OHTSL game schedules")
+    parser = argparse.ArgumentParser(
+        description="Scrape OHTSL game schedules, grouped by location for referee planning.",
+    )
     parser.add_argument(
         "--season",
-        default="Spring_2026",
-        help="Season directory name (default: Spring_2026)",
+        choices=["spring", "fall"],
+        default=None,
+        help="Season term (default: auto-detected from today's date)",
+    )
+    parser.add_argument(
+        "--year",
+        type=int,
+        default=None,
+        help="Season year (default: auto-detected from today's date)",
+    )
+    parser.add_argument(
+        "--list",
+        action="store_true",
+        dest="list_seasons",
+        help="List previously scraped seasons and exit",
     )
     args = parser.parse_args()
 
-    output_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), args.season)
+    # --list: show previous runs and exit
+    if args.list_seasons:
+        list_seasons()
+        return
+
+    # Resolve season term and year
+    auto_term, auto_year = detect_season()
+    term = args.season.capitalize() if args.season else auto_term
+    year = args.year if args.year else auto_year
+
+    season_label = make_season_label(term, year)
+    season_dir = make_season_dir(term, year)
+    output_dir = os.path.join(SCRIPT_DIR, season_dir)
     os.makedirs(output_dir, exist_ok=True)
 
     print("OHTSL Game Schedule Scraper")
+    print(f"Season: {season_label}")
     print("=" * 40)
 
     all_games = scrape_all_games()
@@ -282,15 +362,16 @@ def main():
     grouped = group_by_location(all_games)
 
     report_path = os.path.join(output_dir, "games_by_location.txt")
-    write_grouped_report(grouped, report_path)
+    write_grouped_report(grouped, report_path, season_label)
     print(f"Written: {report_path}")
 
     date_report_path = os.path.join(output_dir, "games_by_date_and_location.txt")
-    write_by_date_report(all_games, date_report_path)
+    write_by_date_report(all_games, date_report_path, season_label)
     print(f"Written: {date_report_path}")
 
     # Summary stats
     print(f"\n{'=' * 40}")
+    print(f"Season:         {season_label}")
     print(f"Unique venues:  {len(grouped)}")
     print(f"Total games:    {len(all_games)}")
 
