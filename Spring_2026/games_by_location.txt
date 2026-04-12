@@ -3,11 +3,12 @@ OHTSL SPRING 2026 — GAMES GROUPED BY LOCATION
 Sorted by date/time within each venue
 ================================================================================
 
-Total venues: 381
+Total venues: 382
 Total games:  4140
 
 --------------------------------------------------------------------------------
 VENUE: Al Lease Field (11v11)
+  Address: 1100 Denise Drive, Kent, OH 44240
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=500
 --------------------------------------------------------------------------------
@@ -56,6 +57,7 @@ VENUE: Al Lease Field (11v11)
 
 --------------------------------------------------------------------------------
 VENUE: Arrowhead School (Arrowhead 655)
+  Address: 1600 Raleigh Blvd., Copley, OH 44321
   Games at this venue: 14
   Map: https://www.ohtsl.com/directionmap.php?locationid=169
 --------------------------------------------------------------------------------
@@ -109,6 +111,7 @@ VENUE: Arrowhead School (Arrowhead 655)
 
 --------------------------------------------------------------------------------
 VENUE: Arrowhead School (Arrowhead 656)
+  Address: 1600 Raleigh Blvd., Copley, OH 44321
   Games at this venue: 20
   Map: https://www.ohtsl.com/directionmap.php?locationid=169
 --------------------------------------------------------------------------------
@@ -171,6 +174,7 @@ VENUE: Arrowhead School (Arrowhead 656)
 
 --------------------------------------------------------------------------------
 VENUE: Arrowhead School (Arrowhead 657)
+  Address: 1600 Raleigh Blvd., Copley, OH 44321
   Games at this venue: 6
   Map: https://www.ohtsl.com/directionmap.php?locationid=169
 --------------------------------------------------------------------------------
@@ -201,6 +205,7 @@ VENUE: Arrowhead School (Arrowhead 657)
 
 --------------------------------------------------------------------------------
 VENUE: Art Wright Stadium (11v11)
+  Address: 280 Grandview Avenue, Wadsworth, OH 44281
   Games at this venue: 2
   Map: https://www.ohtsl.com/directionmap.php?locationid=395
 --------------------------------------------------------------------------------
@@ -212,6 +217,7 @@ VENUE: Art Wright Stadium (11v11)
 
 --------------------------------------------------------------------------------
 VENUE: Ashland Comunity Soccer Park (Field 10)
+  Address: 1580 Middle Rowsburg Road, Ashland, OH 44805
   Games at this venue: 26
   Map: https://www.ohtsl.com/directionmap.php?locationid=358
 --------------------------------------------------------------------------------
@@ -283,6 +289,7 @@ VENUE: Ashland Comunity Soccer Park (Field 10)
 
 --------------------------------------------------------------------------------
 VENUE: Ashland Comunity Soccer Park (Field 11)
+  Address: 1580 Middle Rowsburg Road, Ashland, OH 44805
   Games at this venue: 3
   Map: https://www.ohtsl.com/directionmap.php?locationid=358
 --------------------------------------------------------------------------------
@@ -301,6 +308,7 @@ VENUE: Ashland Comunity Soccer Park (Field 11)
 
 --------------------------------------------------------------------------------
 VENUE: Ashland Comunity Soccer Park (Field 6)
+  Address: 1580 Middle Rowsburg Road, Ashland, OH 44805
   Games at this venue: 20
   Map: https://www.ohtsl.com/directionmap.php?locationid=358
 --------------------------------------------------------------------------------
@@ -372,6 +380,7 @@ VENUE: Ashland Comunity Soccer Park (Field 6)
 
 --------------------------------------------------------------------------------
 VENUE: Ashland Comunity Soccer Park (Field 9)
+  Address: 1580 Middle Rowsburg Road, Ashland, OH 44805
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=358
 --------------------------------------------------------------------------------
@@ -417,6 +426,7 @@ VENUE: Ashland Comunity Soccer Park (Field 9)
 
 --------------------------------------------------------------------------------
 VENUE: Babbitt Road Field (7v7)
+  Address: 22550 Milton Drive, Euclid, OH 44123
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=111
 --------------------------------------------------------------------------------
@@ -439,6 +449,7 @@ VENUE: Babbitt Road Field (7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Barberton Community Sports Complex (405)
+  Address: 841 Wooster Rd W, Barberton, OH 44203
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=578
 --------------------------------------------------------------------------------
@@ -461,6 +472,7 @@ VENUE: Barberton Community Sports Complex (405)
 
 --------------------------------------------------------------------------------
 VENUE: Barberton Community Sports Complex (406)
+  Address: 841 Wooster Rd W, Barberton, OH 44203
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=578
 --------------------------------------------------------------------------------
@@ -496,6 +508,7 @@ VENUE: Barberton Community Sports Complex (406)
 
 --------------------------------------------------------------------------------
 VENUE: Barlow Farm Park (Field 1)
+  Address: 1965 Barlow Road, Hudson, OH 44236
   Games at this venue: 17
   Map: https://www.ohtsl.com/directionmap.php?locationid=13
 --------------------------------------------------------------------------------
@@ -558,6 +571,7 @@ VENUE: Barlow Farm Park (Field 1)
 
 --------------------------------------------------------------------------------
 VENUE: Barlow Farm Park (Field 2A)
+  Address: 1965 Barlow Road, Hudson, OH 44236
   Games at this venue: 13
   Map: https://www.ohtsl.com/directionmap.php?locationid=13
 --------------------------------------------------------------------------------
@@ -604,6 +618,7 @@ VENUE: Barlow Farm Park (Field 2A)
 
 --------------------------------------------------------------------------------
 VENUE: Barlow Farm Park (Field 2B)
+  Address: 1965 Barlow Road, Hudson, OH 44236
   Games at this venue: 14
   Map: https://www.ohtsl.com/directionmap.php?locationid=13
 --------------------------------------------------------------------------------
@@ -651,6 +666,7 @@ VENUE: Barlow Farm Park (Field 2B)
 
 --------------------------------------------------------------------------------
 VENUE: Barlow Farm Park (Field 3A)
+  Address: 1965 Barlow Road, Hudson, OH 44236
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=13
 --------------------------------------------------------------------------------
@@ -705,6 +721,7 @@ VENUE: Barlow Farm Park (Field 3A)
 
 --------------------------------------------------------------------------------
 VENUE: Barlow Farm Park (Field 3B)
+  Address: 1965 Barlow Road, Hudson, OH 44236
   Games at this venue: 17
   Map: https://www.ohtsl.com/directionmap.php?locationid=13
 --------------------------------------------------------------------------------
@@ -773,6 +790,7 @@ VENUE: Barlow Farm Park (Field 3B)
 
 --------------------------------------------------------------------------------
 VENUE: Barlow Farm Park (Field 4)
+  Address: 1965 Barlow Road, Hudson, OH 44236
   Games at this venue: 11
   Map: https://www.ohtsl.com/directionmap.php?locationid=13
 --------------------------------------------------------------------------------
@@ -820,6 +838,7 @@ VENUE: Barlow Farm Park (Field 4)
 
 --------------------------------------------------------------------------------
 VENUE: Barlow Farm Park (Field 5A)
+  Address: 1965 Barlow Road, Hudson, OH 44236
   Games at this venue: 13
   Map: https://www.ohtsl.com/directionmap.php?locationid=13
 --------------------------------------------------------------------------------
@@ -872,6 +891,7 @@ VENUE: Barlow Farm Park (Field 5A)
 
 --------------------------------------------------------------------------------
 VENUE: Barlow Farm Park (Field 5B)
+  Address: 1965 Barlow Road, Hudson, OH 44236
   Games at this venue: 7
   Map: https://www.ohtsl.com/directionmap.php?locationid=13
 --------------------------------------------------------------------------------
@@ -903,6 +923,7 @@ VENUE: Barlow Farm Park (Field 5B)
 
 --------------------------------------------------------------------------------
 VENUE: Barton-Bradley Recreation Fields (Field 1)
+  Address: 30642 Bradley Rd, North Olmsted, OH 44070
   Games at this venue: 25
   Map: https://www.ohtsl.com/directionmap.php?locationid=337
 --------------------------------------------------------------------------------
@@ -967,6 +988,7 @@ VENUE: Barton-Bradley Recreation Fields (Field 1)
 
 --------------------------------------------------------------------------------
 VENUE: Barton-Bradley Recreation Fields (Field 2)
+  Address: 30642 Bradley Rd, North Olmsted, OH 44070
   Games at this venue: 33
   Map: https://www.ohtsl.com/directionmap.php?locationid=337
 --------------------------------------------------------------------------------
@@ -1069,6 +1091,7 @@ VENUE: Barton-Bradley Recreation Fields (Field 2)
 
 --------------------------------------------------------------------------------
 VENUE: Barton-Bradley Recreation Fields (Field 3)
+  Address: 30642 Bradley Rd, North Olmsted, OH 44070
   Games at this venue: 20
   Map: https://www.ohtsl.com/directionmap.php?locationid=337
 --------------------------------------------------------------------------------
@@ -1146,6 +1169,7 @@ VENUE: Barton-Bradley Recreation Fields (Field 3)
 
 --------------------------------------------------------------------------------
 VENUE: Bath Community Center (Bath Community Center Field 1)
+  Address: 1615 N Cleveland Massilon Rd, Akron, Oh 44333
   Games at this venue: 7
   Map: https://www.ohtsl.com/directionmap.php?locationid=155
 --------------------------------------------------------------------------------
@@ -1180,6 +1204,7 @@ VENUE: Bath Community Center (Bath Community Center Field 1)
 
 --------------------------------------------------------------------------------
 VENUE: Bath Community Center (Bath Community Center Field 2)
+  Address: 1615 N Cleveland Massilon Rd, Akron, Oh 44333
   Games at this venue: 18
   Map: https://www.ohtsl.com/directionmap.php?locationid=155
 --------------------------------------------------------------------------------
@@ -1243,6 +1268,7 @@ VENUE: Bath Community Center (Bath Community Center Field 2)
 
 --------------------------------------------------------------------------------
 VENUE: Baumgardner Middle School (Rear of building)
+  Address: 3665 Monticello Blvd, Cleveland Heights, OH 44121
   Games at this venue: 11
   Map: https://www.ohtsl.com/directionmap.php?locationid=63
 --------------------------------------------------------------------------------
@@ -1287,6 +1313,7 @@ VENUE: Baumgardner Middle School (Rear of building)
 
 --------------------------------------------------------------------------------
 VENUE: Bay High School  (BHS Stadium 11v11 turf)
+  Address: 29230 Wolf Road, Bay Village, Oh 44140
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=151
 --------------------------------------------------------------------------------
@@ -1319,6 +1346,7 @@ VENUE: Bay High School  (BHS Stadium 11v11 turf)
 
 --------------------------------------------------------------------------------
 VENUE: Bay High School  (Back Field 1 11v11)
+  Address: 29230 Wolf Road, Bay Village, Oh 44140
   Games at this venue: 10
   Map: https://www.ohtsl.com/directionmap.php?locationid=151
 --------------------------------------------------------------------------------
@@ -1365,6 +1393,7 @@ VENUE: Bay High School  (Back Field 1 11v11)
 
 --------------------------------------------------------------------------------
 VENUE: Beaver Creek Park (Beaver Creek #10)
+  Address: 913 N Lake St, Amherst, OH 44001
   Games at this venue: 23
   Map: https://www.ohtsl.com/directionmap.php?locationid=307
 --------------------------------------------------------------------------------
@@ -1445,6 +1474,7 @@ VENUE: Beaver Creek Park (Beaver Creek #10)
 
 --------------------------------------------------------------------------------
 VENUE: Becker Field (Becker Field U13)
+  Address: 2208 N Walnut Street, Rear, Dover, OH 44622
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=597
 --------------------------------------------------------------------------------
@@ -1490,6 +1520,7 @@ VENUE: Becker Field (Becker Field U13)
 
 --------------------------------------------------------------------------------
 VENUE: Blossom Hill (Field G- Lower Grass)
+  Address: 4400 Oakes Road, Brecksville, Oh 44141
   Games at this venue: 25
   Map: https://www.ohtsl.com/directionmap.php?locationid=372
 --------------------------------------------------------------------------------
@@ -1560,6 +1591,7 @@ VENUE: Blossom Hill (Field G- Lower Grass)
 
 --------------------------------------------------------------------------------
 VENUE: Blossom Hill (Field G- Upper A)
+  Address: 4400 Oakes Road, Brecksville, Oh 44141
   Games at this venue: 26
   Map: https://www.ohtsl.com/directionmap.php?locationid=372
 --------------------------------------------------------------------------------
@@ -1616,6 +1648,7 @@ VENUE: Blossom Hill (Field G- Upper A)
 
 --------------------------------------------------------------------------------
 VENUE: Blossom Hill (Field G- Upper B)
+  Address: 4400 Oakes Road, Brecksville, Oh 44141
   Games at this venue: 6
   Map: https://www.ohtsl.com/directionmap.php?locationid=372
 --------------------------------------------------------------------------------
@@ -1640,6 +1673,7 @@ VENUE: Blossom Hill (Field G- Upper B)
 
 --------------------------------------------------------------------------------
 VENUE: Blossom Hill (Turf)
+  Address: 4400 Oakes Road, Brecksville, Oh 44141
   Games at this venue: 14
   Map: https://www.ohtsl.com/directionmap.php?locationid=372
 --------------------------------------------------------------------------------
@@ -1687,6 +1721,7 @@ VENUE: Blossom Hill (Turf)
 
 --------------------------------------------------------------------------------
 VENUE: Brimfield Elementary School U9/U10 (Brimfield Elementary School)
+  Address: 4170 OH-43, Kent, OH 44240
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=512
 --------------------------------------------------------------------------------
@@ -1709,6 +1744,7 @@ VENUE: Brimfield Elementary School U9/U10 (Brimfield Elementary School)
 
 --------------------------------------------------------------------------------
 VENUE: Broadview Heights A Field (BHFC 9v9 (north of the valley))
+  Address: 8938 Broadview Rd., Broadview Heights, OH 44147
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=241
 --------------------------------------------------------------------------------
@@ -1731,6 +1767,7 @@ VENUE: Broadview Heights A Field (BHFC 9v9 (north of the valley))
 
 --------------------------------------------------------------------------------
 VENUE: Broadview Heights C Field (Field C1 (in the valley))
+  Address: 8938 Broadview Rd., Broadview Heights, Oh 44147
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=543
 --------------------------------------------------------------------------------
@@ -1782,6 +1819,7 @@ VENUE: Broadview Heights C Field (Field C1 (in the valley))
 
 --------------------------------------------------------------------------------
 VENUE: Broadview Heights Rec Center (BHFC 11v11 (Football Field))
+  Address: 9543 Broadview Rd., Broadview Heights, OH 44147
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=389
 --------------------------------------------------------------------------------
@@ -1817,6 +1855,7 @@ VENUE: Broadview Heights Rec Center (BHFC 11v11 (Football Field))
 
 --------------------------------------------------------------------------------
 VENUE: Brook Park Recreation Center (7v7  (between baseball diamonds on football field))
+  Address: 17400 Holland Rd, Brook Park, Oh 44142
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=752
 --------------------------------------------------------------------------------
@@ -1839,6 +1878,7 @@ VENUE: Brook Park Recreation Center (7v7  (between baseball diamonds on football
 
 --------------------------------------------------------------------------------
 VENUE: Buckeye Primary School  (Buckeye Primary School Back Field 12)
+  Address: 3180 Columbia Rd, Medina, OH 44256
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=8
 --------------------------------------------------------------------------------
@@ -1861,6 +1901,7 @@ VENUE: Buckeye Primary School  (Buckeye Primary School Back Field 12)
 
 --------------------------------------------------------------------------------
 VENUE: Buckeye Primary School  (Buckeye Primary School Back Field 14)
+  Address: 3180 Columbia Rd, Medina, OH 44256
   Games at this venue: 15
   Map: https://www.ohtsl.com/directionmap.php?locationid=8
 --------------------------------------------------------------------------------
@@ -1906,6 +1947,7 @@ VENUE: Buckeye Primary School  (Buckeye Primary School Back Field 14)
 
 --------------------------------------------------------------------------------
 VENUE: Buckeye Primary School  (Buckeye Primary School Back Field 15)
+  Address: 3180 Columbia Rd, Medina, OH 44256
   Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=8
 --------------------------------------------------------------------------------
@@ -1916,6 +1958,7 @@ VENUE: Buckeye Primary School  (Buckeye Primary School Back Field 15)
 
 --------------------------------------------------------------------------------
 VENUE: Buckeye Primary School  (Buckeye Primary School Back Field 16)
+  Address: 3180 Columbia Rd, Medina, OH 44256
   Games at this venue: 16
   Map: https://www.ohtsl.com/directionmap.php?locationid=8
 --------------------------------------------------------------------------------
@@ -1971,6 +2014,7 @@ VENUE: Buckeye Primary School  (Buckeye Primary School Back Field 16)
 
 --------------------------------------------------------------------------------
 VENUE: Cahoon Memorial Park  (Cahoon 12 7v7)
+  Address: 27600 Lake Road, Bay Village, Oh 44140
   Games at this venue: 2
   Map: https://www.ohtsl.com/directionmap.php?locationid=141
 --------------------------------------------------------------------------------
@@ -1985,6 +2029,7 @@ VENUE: Cahoon Memorial Park  (Cahoon 12 7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Cahoon Memorial Park  (Cahoon 13 11v11 combo)
+  Address: 27600 Lake Road, Bay Village, Oh 44140
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=141
 --------------------------------------------------------------------------------
@@ -2007,6 +2052,7 @@ VENUE: Cahoon Memorial Park  (Cahoon 13 11v11 combo)
 
 --------------------------------------------------------------------------------
 VENUE: Cahoon Memorial Park  (Cahoon 13 9v9  combo)
+  Address: 27600 Lake Road, Bay Village, Oh 44140
   Games at this venue: 2
   Map: https://www.ohtsl.com/directionmap.php?locationid=141
 --------------------------------------------------------------------------------
@@ -2021,6 +2067,7 @@ VENUE: Cahoon Memorial Park  (Cahoon 13 9v9  combo)
 
 --------------------------------------------------------------------------------
 VENUE: Canterbury Elementary School (Canterbury)
+  Address: 2530 Canterbury Rd, Cleveland Heights, OH 44118
   Games at this venue: 13
   Map: https://www.ohtsl.com/directionmap.php?locationid=112
 --------------------------------------------------------------------------------
@@ -2070,6 +2117,7 @@ VENUE: Canterbury Elementary School (Canterbury)
 
 --------------------------------------------------------------------------------
 VENUE: Central Catholic High SchoolStadium (Football Stadium)
+  Address: 4965 13th St SW, Canton, OH 44710
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=740
 --------------------------------------------------------------------------------
@@ -2092,6 +2140,7 @@ VENUE: Central Catholic High SchoolStadium (Football Stadium)
 
 --------------------------------------------------------------------------------
 VENUE: Chagrin Falls High School (Harris Field (Turf))
+  Address: 400 E. Washington St., Chagrin Falls, OH 44022
   Games at this venue: 10
   Map: https://www.ohtsl.com/directionmap.php?locationid=50
 --------------------------------------------------------------------------------
@@ -2126,6 +2175,7 @@ VENUE: Chagrin Falls High School (Harris Field (Turf))
 
 --------------------------------------------------------------------------------
 VENUE: Champion Event Center (7v7)
+  Address: 340 Mississippi St SE, North Canton, OH 44212
   Games at this venue: 16
   Map: https://www.ohtsl.com/directionmap.php?locationid=545
 --------------------------------------------------------------------------------
@@ -2184,6 +2234,7 @@ VENUE: Champion Event Center (7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Charles R Hoagland West Rec (Charles R Hoagland West Rec)
+  Address: 1200 Foster Ave, Elyria, OH 44035
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=353
 --------------------------------------------------------------------------------
@@ -2206,6 +2257,7 @@ VENUE: Charles R Hoagland West Rec (Charles R Hoagland West Rec)
 
 --------------------------------------------------------------------------------
 VENUE: Chelton Park (7v7)
+  Address: 3645 Chelton Road, Shaker Heights, OH 44120
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=683
 --------------------------------------------------------------------------------
@@ -2225,6 +2277,7 @@ VENUE: Chelton Park (7v7)
 
 --------------------------------------------------------------------------------
 VENUE: City Park (Field 2)
+  Address: 9000 Kirby Lane, Streetsboro, OH 44241
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=222
 --------------------------------------------------------------------------------
@@ -2270,6 +2323,7 @@ VENUE: City Park (Field 2)
 
 --------------------------------------------------------------------------------
 VENUE: City Park (Field 3)
+  Address: 9000 Kirby Lane, Streetsboro, OH 44241
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=222
 --------------------------------------------------------------------------------
@@ -2302,6 +2356,7 @@ VENUE: City Park (Field 3)
 
 --------------------------------------------------------------------------------
 VENUE: Clay Eddy Fields (U9/U10)
+  Address: 7871 Wilson Mills Road, Chesterland, OH 44072
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=69
 --------------------------------------------------------------------------------
@@ -2344,6 +2399,7 @@ VENUE: Clay Eddy Fields (U9/U10)
 
 --------------------------------------------------------------------------------
 VENUE: Cloverleaf Soccer Association Fields (CSA Field 10 (11v11))
+  Address: 8075 Buffham Rod, Lodi, OH 44254
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=60
 --------------------------------------------------------------------------------
@@ -2389,6 +2445,7 @@ VENUE: Cloverleaf Soccer Association Fields (CSA Field 10 (11v11))
 
 --------------------------------------------------------------------------------
 VENUE: Cloverleaf Soccer Association Fields (CSA Field 11 (9v9))
+  Address: 8075 Buffham Rod, Lodi, OH 44254
   Games at this venue: 16
   Map: https://www.ohtsl.com/directionmap.php?locationid=60
 --------------------------------------------------------------------------------
@@ -2441,6 +2498,7 @@ VENUE: Cloverleaf Soccer Association Fields (CSA Field 11 (9v9))
 
 --------------------------------------------------------------------------------
 VENUE: Cloverleaf Soccer Association Fields (CSA Field 6 (7v7))
+  Address: 8075 Buffham Rod, Lodi, OH 44254
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=60
 --------------------------------------------------------------------------------
@@ -2476,6 +2534,7 @@ VENUE: Cloverleaf Soccer Association Fields (CSA Field 6 (7v7))
 
 --------------------------------------------------------------------------------
 VENUE: Columbia Soccer Fields  (Field 2 )
+  Address: 13644 Columbia West River Rd., Columbia Station, Oh 44028
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=719
 --------------------------------------------------------------------------------
@@ -2511,6 +2570,7 @@ VENUE: Columbia Soccer Fields  (Field 2 )
 
 --------------------------------------------------------------------------------
 VENUE: Columbia Soccer Fields  (Filed 7 )
+  Address: 13644 Columbia West River Rd., Columbia Station, Oh 44028
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=719
 --------------------------------------------------------------------------------
@@ -2549,6 +2609,7 @@ VENUE: Columbia Soccer Fields  (Filed 7 )
 
 --------------------------------------------------------------------------------
 VENUE: Copley Fairlawn Middle School (Middle School Football)
+  Address: 1531 South Cleveland Massillon Rd, Copley, OH 44321
   Games at this venue: 10
   Map: https://www.ohtsl.com/directionmap.php?locationid=732
 --------------------------------------------------------------------------------
@@ -2592,6 +2653,7 @@ VENUE: Copley Fairlawn Middle School (Middle School Football)
 
 --------------------------------------------------------------------------------
 VENUE: Copley Road Soccer Complex (11v11 field 5)
+  Address: 1806 Copley Rd, Akron, OH 44320
   Games at this venue: 9
   Map: https://www.ohtsl.com/directionmap.php?locationid=590
 --------------------------------------------------------------------------------
@@ -2628,6 +2690,7 @@ VENUE: Copley Road Soccer Complex (11v11 field 5)
 
 --------------------------------------------------------------------------------
 VENUE: Copley Road Soccer Complex (7v7 field 3)
+  Address: 1806 Copley Rd, Akron, OH 44320
   Games at this venue: 6
   Map: https://www.ohtsl.com/directionmap.php?locationid=590
 --------------------------------------------------------------------------------
@@ -2658,6 +2721,7 @@ VENUE: Copley Road Soccer Complex (7v7 field 3)
 
 --------------------------------------------------------------------------------
 VENUE: Copley Road Soccer Complex (9v9 field 1)
+  Address: 1806 Copley Rd, Akron, OH 44320
   Games at this venue: 3
   Map: https://www.ohtsl.com/directionmap.php?locationid=590
 --------------------------------------------------------------------------------
@@ -2676,6 +2740,7 @@ VENUE: Copley Road Soccer Complex (9v9 field 1)
 
 --------------------------------------------------------------------------------
 VENUE: Courtland Oval Field (Courtland East)
+  Address: Courtland Oval, Shaker Heights, OH 44122
   Games at this venue: 23
   Map: https://www.ohtsl.com/directionmap.php?locationid=318
 --------------------------------------------------------------------------------
@@ -2729,6 +2794,7 @@ VENUE: Courtland Oval Field (Courtland East)
 
 --------------------------------------------------------------------------------
 VENUE: Courtland Oval Field (Courtland West)
+  Address: Courtland Oval, Shaker Heights, OH 44122
   Games at this venue: 43
   Map: https://www.ohtsl.com/directionmap.php?locationid=318
 --------------------------------------------------------------------------------
@@ -2826,6 +2892,7 @@ VENUE: Courtland Oval Field (Courtland West)
 
 --------------------------------------------------------------------------------
 VENUE: Cove Park (Cove Field)
+  Address: 1294 Cove Ave, Lakewood, OH 44107
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=312
 --------------------------------------------------------------------------------
@@ -2874,6 +2941,7 @@ VENUE: Cove Park (Cove Field)
 
 --------------------------------------------------------------------------------
 VENUE: Crestview Elementary (9v9)
+  Address: 300 W. 130th Street, Brunswick, OH 44212
   Games at this venue: 20
   Map: https://www.ohtsl.com/directionmap.php?locationid=254
 --------------------------------------------------------------------------------
@@ -2948,6 +3016,7 @@ VENUE: Crestview Elementary (9v9)
 
 --------------------------------------------------------------------------------
 VENUE: DePaola Park  ( DePaola #3)
+  Address: 999 Amchester Dr, Amherst, OH 44001
   Games at this venue: 15
   Map: https://www.ohtsl.com/directionmap.php?locationid=298
 --------------------------------------------------------------------------------
@@ -3005,6 +3074,7 @@ VENUE: DePaola Park  ( DePaola #3)
 
 --------------------------------------------------------------------------------
 VENUE: DePaola Park  (DePaola #4)
+  Address: 999 Amchester Dr, Amherst, OH 44001
   Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=298
 --------------------------------------------------------------------------------
@@ -3015,6 +3085,7 @@ VENUE: DePaola Park  (DePaola #4)
 
 --------------------------------------------------------------------------------
 VENUE: DePaola Park  (DePaola #7)
+  Address: 999 Amchester Dr, Amherst, OH 44001
   Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=298
 --------------------------------------------------------------------------------
@@ -3025,6 +3096,7 @@ VENUE: DePaola Park  (DePaola #7)
 
 --------------------------------------------------------------------------------
 VENUE: Deeds Field (Dover Deeds Field U11/U12 Field)
+  Address: 125 Williams Drive, Dover, OH 44622
   Games at this venue: 16
   Map: https://www.ohtsl.com/directionmap.php?locationid=596
 --------------------------------------------------------------------------------
@@ -3070,10 +3142,11 @@ VENUE: Deeds Field (Dover Deeds Field U11/U12 Field)
   Sun 5/17/26
   ──────────────────────────────────────────────────────────────────────
      2:30 PM  #2934   Dover                     vs Manchester                (Boys 2015(U11) Div South 6)
-     2:30 PM  #7821   Dover                     vs Buckeye                   (Girls 2015(U11) Div South 4)
+     4:00 PM  #7821   Dover                     vs Buckeye                   (Girls 2015(U11) Div South 4)
 
 --------------------------------------------------------------------------------
 VENUE: Deeds Field (Dover Deeds Field U9/U10 Field 7v7)
+  Address: 125 Williams Drive, Dover, OH 44622
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=596
 --------------------------------------------------------------------------------
@@ -3096,6 +3169,7 @@ VENUE: Deeds Field (Dover Deeds Field U9/U10 Field 7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Denison Park (Denison A)
+  Address: 1015 Quarry Rd, Cleveland Heights, OH 44121
   Games at this venue: 20
   Map: https://www.ohtsl.com/directionmap.php?locationid=61
 --------------------------------------------------------------------------------
@@ -3149,6 +3223,7 @@ VENUE: Denison Park (Denison A)
 
 --------------------------------------------------------------------------------
 VENUE: Desan Park (DeSan Park)
+  Address: 483 Trebisky Rd, Richmond Hts, Oh 44143
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=654
 --------------------------------------------------------------------------------
@@ -3191,6 +3266,7 @@ VENUE: Desan Park (DeSan Park)
 
 --------------------------------------------------------------------------------
 VENUE: Dodge Intermediate School  (Dodge Front A)
+  Address: 10225 Ravenna Rd., Twinsburg, Oh 44087
   Games at this venue: 17
   Map: https://www.ohtsl.com/directionmap.php?locationid=178
 --------------------------------------------------------------------------------
@@ -3253,6 +3329,7 @@ VENUE: Dodge Intermediate School  (Dodge Front A)
 
 --------------------------------------------------------------------------------
 VENUE: Dodge Intermediate School  (Dodge Front B)
+  Address: 10225 Ravenna Rd., Twinsburg, Oh 44087
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=178
 --------------------------------------------------------------------------------
@@ -3285,6 +3362,7 @@ VENUE: Dodge Intermediate School  (Dodge Front B)
 
 --------------------------------------------------------------------------------
 VENUE: Doylestown Memorial Turf Stadium (Doylestown Memorial Turf Stadium)
+  Address: 470 Park Drive, Doylestown, OH 44230
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=581
 --------------------------------------------------------------------------------
@@ -3323,6 +3401,7 @@ VENUE: Doylestown Memorial Turf Stadium (Doylestown Memorial Turf Stadium)
 
 --------------------------------------------------------------------------------
 VENUE: Dudley Park (Dudley Park 7v7)
+  Address: 31500 Willowick Dr, Willowick, Oh 44095
   Games at this venue: 3
   Map: https://www.ohtsl.com/directionmap.php?locationid=689
 --------------------------------------------------------------------------------
@@ -3341,6 +3420,7 @@ VENUE: Dudley Park (Dudley Park 7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Dudley Park (Dudley Park 9v9)
+  Address: 31500 Willowick Dr, Willowick, Oh 44095
   Games at this venue: 5
   Map: https://www.ohtsl.com/directionmap.php?locationid=689
 --------------------------------------------------------------------------------
@@ -3361,6 +3441,7 @@ VENUE: Dudley Park (Dudley Park 9v9)
 
 --------------------------------------------------------------------------------
 VENUE: Eastlake North High School (Carter Stadium)
+  Address: 34041 Stevens Blvd, Eastlake, OH 44095
   Games at this venue: 7
   Map: https://www.ohtsl.com/directionmap.php?locationid=763
 --------------------------------------------------------------------------------
@@ -3386,6 +3467,7 @@ VENUE: Eastlake North High School (Carter Stadium)
 
 --------------------------------------------------------------------------------
 VENUE: Eastlake Travel Soccer  (Lower Field U13)
+  Address: 35754 Lake Shore Blvd., Eastlake, OH 44095
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=9
 --------------------------------------------------------------------------------
@@ -3421,6 +3503,7 @@ VENUE: Eastlake Travel Soccer  (Lower Field U13)
 
 --------------------------------------------------------------------------------
 VENUE: Edson Park U13/U14 (Field #1)
+  Address: 4484 Edson Rd., Kent, OH 44240
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=416
 --------------------------------------------------------------------------------
@@ -3443,6 +3526,7 @@ VENUE: Edson Park U13/U14 (Field #1)
 
 --------------------------------------------------------------------------------
 VENUE: Elmwood Park (Field 4)
+  Address: 6363 Selig Road, Independence, OH 44131
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=124
 --------------------------------------------------------------------------------
@@ -3478,6 +3562,7 @@ VENUE: Elmwood Park (Field 4)
 
 --------------------------------------------------------------------------------
 VENUE: Fairchild Fields (Fairchild # 1)
+  Address: 634 Majors Lane, Kent, OH 44240
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=511
 --------------------------------------------------------------------------------
@@ -3513,6 +3598,7 @@ VENUE: Fairchild Fields (Fairchild # 1)
 
 --------------------------------------------------------------------------------
 VENUE: Fairlawn Fields (Fairlawn Field 650)
+  Address: 3303 Ridgewood Rd., Fairlawn, OH 44333
   Games at this venue: 2
   Map: https://www.ohtsl.com/directionmap.php?locationid=165
 --------------------------------------------------------------------------------
@@ -3527,6 +3613,7 @@ VENUE: Fairlawn Fields (Fairlawn Field 650)
 
 --------------------------------------------------------------------------------
 VENUE: Fairview Park High School 11 v 11 (Fairview Park High School)
+  Address: 4507 W. 213 St, Fairview Park, OH 44126
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=23
 --------------------------------------------------------------------------------
@@ -3559,6 +3646,7 @@ VENUE: Fairview Park High School 11 v 11 (Fairview Park High School)
 
 --------------------------------------------------------------------------------
 VENUE: Field High School  (Field High School)
+  Address: 2900 State Route 43, Mogadore, Oh 44260
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=607
 --------------------------------------------------------------------------------
@@ -3597,6 +3685,7 @@ VENUE: Field High School  (Field High School)
 
 --------------------------------------------------------------------------------
 VENUE: Firelands High School (FHS: Field 6 (7v7))
+  Address: 10521 Vermilion Rd, Oberlin, OH 44074
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=758
 --------------------------------------------------------------------------------
@@ -3619,6 +3708,7 @@ VENUE: Firelands High School (FHS: Field 6 (7v7))
 
 --------------------------------------------------------------------------------
 VENUE: Firelands High School (FHS: Field 7 (9v9))
+  Address: 10521 Vermilion Rd, Oberlin, OH 44074
   Games at this venue: 16
   Map: https://www.ohtsl.com/directionmap.php?locationid=758
 --------------------------------------------------------------------------------
@@ -3677,6 +3767,7 @@ VENUE: Firelands High School (FHS: Field 7 (9v9))
 
 --------------------------------------------------------------------------------
 VENUE: Fishcreek Field (9v9)
+  Address: 390 McKinney Blvd, Kent, OH 44240
   Games at this venue: 3
   Map: https://www.ohtsl.com/directionmap.php?locationid=481
 --------------------------------------------------------------------------------
@@ -3695,6 +3786,7 @@ VENUE: Fishcreek Field (9v9)
 
 --------------------------------------------------------------------------------
 VENUE: Foltz Fields (Foltz 1)
+  Address: 15301 Foltz Industrial Parkway, Strongsville, Oh 44149
   Games at this venue: 19
   Map: https://www.ohtsl.com/directionmap.php?locationid=230
 --------------------------------------------------------------------------------
@@ -3771,6 +3863,7 @@ VENUE: Foltz Fields (Foltz 1)
 
 --------------------------------------------------------------------------------
 VENUE: Foltz Fields (Foltz 2)
+  Address: 15301 Foltz Industrial Parkway, Strongsville, Oh 44149
   Games at this venue: 21
   Map: https://www.ohtsl.com/directionmap.php?locationid=230
 --------------------------------------------------------------------------------
@@ -3846,6 +3939,7 @@ VENUE: Foltz Fields (Foltz 2)
 
 --------------------------------------------------------------------------------
 VENUE: Foltz Fields (Foltz 3A)
+  Address: 15301 Foltz Industrial Parkway, Strongsville, Oh 44149
   Games at this venue: 18
   Map: https://www.ohtsl.com/directionmap.php?locationid=230
 --------------------------------------------------------------------------------
@@ -3921,6 +4015,7 @@ VENUE: Foltz Fields (Foltz 3A)
 
 --------------------------------------------------------------------------------
 VENUE: Foltz Fields (Foltz 3B)
+  Address: 15301 Foltz Industrial Parkway, Strongsville, Oh 44149
   Games at this venue: 2
   Map: https://www.ohtsl.com/directionmap.php?locationid=230
 --------------------------------------------------------------------------------
@@ -3935,6 +4030,7 @@ VENUE: Foltz Fields (Foltz 3B)
 
 --------------------------------------------------------------------------------
 VENUE: Foltz Fields (Foltz 4)
+  Address: 15301 Foltz Industrial Parkway, Strongsville, Oh 44149
   Games at this venue: 3
   Map: https://www.ohtsl.com/directionmap.php?locationid=230
 --------------------------------------------------------------------------------
@@ -3953,6 +4049,7 @@ VENUE: Foltz Fields (Foltz 4)
 
 --------------------------------------------------------------------------------
 VENUE: Foltz Fields (Foltz 5 A)
+  Address: 15301 Foltz Industrial Parkway, Strongsville, Oh 44149
   Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=230
 --------------------------------------------------------------------------------
@@ -3963,6 +4060,7 @@ VENUE: Foltz Fields (Foltz 5 A)
 
 --------------------------------------------------------------------------------
 VENUE: Foltz Fields (Foltz 5 B)
+  Address: 15301 Foltz Industrial Parkway, Strongsville, Oh 44149
   Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=230
 --------------------------------------------------------------------------------
@@ -3973,6 +4071,7 @@ VENUE: Foltz Fields (Foltz 5 B)
 
 --------------------------------------------------------------------------------
 VENUE: Foltz Fields (Foltz 6)
+  Address: 15301 Foltz Industrial Parkway, Strongsville, Oh 44149
   Games at this venue: 5
   Map: https://www.ohtsl.com/directionmap.php?locationid=230
 --------------------------------------------------------------------------------
@@ -3996,6 +4095,7 @@ VENUE: Foltz Fields (Foltz 6)
 
 --------------------------------------------------------------------------------
 VENUE: Foltz Fields (Foltz Prandi 11)
+  Address: 15301 Foltz Industrial Parkway, Strongsville, Oh 44149
   Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=230
 --------------------------------------------------------------------------------
@@ -4006,6 +4106,7 @@ VENUE: Foltz Fields (Foltz Prandi 11)
 
 --------------------------------------------------------------------------------
 VENUE: Foltz Fields (Foltz Prandi 12B)
+  Address: 15301 Foltz Industrial Parkway, Strongsville, Oh 44149
   Games at this venue: 3
   Map: https://www.ohtsl.com/directionmap.php?locationid=230
 --------------------------------------------------------------------------------
@@ -4018,6 +4119,7 @@ VENUE: Foltz Fields (Foltz Prandi 12B)
 
 --------------------------------------------------------------------------------
 VENUE: Foltz Fields (Foltz Prandi 13)
+  Address: 15301 Foltz Industrial Parkway, Strongsville, Oh 44149
   Games at this venue: 3
   Map: https://www.ohtsl.com/directionmap.php?locationid=230
 --------------------------------------------------------------------------------
@@ -4036,6 +4138,7 @@ VENUE: Foltz Fields (Foltz Prandi 13)
 
 --------------------------------------------------------------------------------
 VENUE: Garfield Middle School (Garfield Middle School Turf)
+  Address: 13114 Detroit Ave, Lakewood, OH 44107
   Games at this venue: 40
   Map: https://www.ohtsl.com/directionmap.php?locationid=195
 --------------------------------------------------------------------------------
@@ -4112,6 +4215,7 @@ VENUE: Garfield Middle School (Garfield Middle School Turf)
 
 --------------------------------------------------------------------------------
 VENUE: Geneva High School (Intermediate)
+  Address: 1301 S Ridge E, Geneva, OH 44041
   Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=58
 --------------------------------------------------------------------------------
@@ -4122,6 +4226,7 @@ VENUE: Geneva High School (Intermediate)
 
 --------------------------------------------------------------------------------
 VENUE: Geneva High School (Large)
+  Address: 1301 S Ridge E, Geneva, OH 44041
   Games at this venue: 3
   Map: https://www.ohtsl.com/directionmap.php?locationid=58
 --------------------------------------------------------------------------------
@@ -4137,6 +4242,7 @@ VENUE: Geneva High School (Large)
 
 --------------------------------------------------------------------------------
 VENUE: Glenwillow Fields (Glenwillow Fields- 9v9)
+  Address: 7360 Austin Powder Dr., Solon, OH 44139
   Games at this venue: 13
   Map: https://www.ohtsl.com/directionmap.php?locationid=44
 --------------------------------------------------------------------------------
@@ -4180,6 +4286,7 @@ VENUE: Glenwillow Fields (Glenwillow Fields- 9v9)
 
 --------------------------------------------------------------------------------
 VENUE: Glenwillow Fields (Glenwillow Fields- lower )
+  Address: 7360 Austin Powder Dr., Solon, OH 44139
   Games at this venue: 17
   Map: https://www.ohtsl.com/directionmap.php?locationid=44
 --------------------------------------------------------------------------------
@@ -4236,6 +4343,7 @@ VENUE: Glenwillow Fields (Glenwillow Fields- lower )
 
 --------------------------------------------------------------------------------
 VENUE: Glenwillow Fields (Glenwillow Fields- upper)
+  Address: 7360 Austin Powder Dr., Solon, OH 44139
   Games at this venue: 10
   Map: https://www.ohtsl.com/directionmap.php?locationid=44
 --------------------------------------------------------------------------------
@@ -4270,6 +4378,7 @@ VENUE: Glenwillow Fields (Glenwillow Fields- upper)
 
 --------------------------------------------------------------------------------
 VENUE: Goldwood Primary School (Goldwood)
+  Address: 21600 Center Ridge Rd, Rocky River, Oh 44116
   Games at this venue: 6
   Map: https://www.ohtsl.com/directionmap.php?locationid=361
 --------------------------------------------------------------------------------
@@ -4300,6 +4409,7 @@ VENUE: Goldwood Primary School (Goldwood)
 
 --------------------------------------------------------------------------------
 VENUE: Granger Park Fields (7v7 - Field #1A)
+  Address: 3717 Ridge Rd, Medina, OH 44256
   Games at this venue: 40
   Map: https://www.ohtsl.com/directionmap.php?locationid=251
 --------------------------------------------------------------------------------
@@ -4412,6 +4522,7 @@ VENUE: Granger Park Fields (7v7 - Field #1A)
 
 --------------------------------------------------------------------------------
 VENUE: Gurney Elementary (Calvetta Brothers Floor Show - Field A 11v11)
+  Address: 1155 Bell Rd, Chagrin Falls, OH 44022
   Games at this venue: 10
   Map: https://www.ohtsl.com/directionmap.php?locationid=49
 --------------------------------------------------------------------------------
@@ -4458,6 +4569,7 @@ VENUE: Gurney Elementary (Calvetta Brothers Floor Show - Field A 11v11)
 
 --------------------------------------------------------------------------------
 VENUE: Gurney Elementary (Calvetta Brothers Floor Show - Field B 9v9)
+  Address: 1155 Bell Rd, Chagrin Falls, OH 44022
   Games at this venue: 11
   Map: https://www.ohtsl.com/directionmap.php?locationid=49
 --------------------------------------------------------------------------------
@@ -4505,6 +4617,7 @@ VENUE: Gurney Elementary (Calvetta Brothers Floor Show - Field B 9v9)
 
 --------------------------------------------------------------------------------
 VENUE: Gurney Elementary (Calvetta Brothers Floor Show - Field C 7v7)
+  Address: 1155 Bell Rd, Chagrin Falls, OH 44022
   Games at this venue: 14
   Map: https://www.ohtsl.com/directionmap.php?locationid=49
 --------------------------------------------------------------------------------
@@ -4549,6 +4662,7 @@ VENUE: Gurney Elementary (Calvetta Brothers Floor Show - Field C 7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Gurney Elementary (Calvetta Brothers Floor Show - Field D 9v9)
+  Address: 1155 Bell Rd, Chagrin Falls, OH 44022
   Games at this venue: 5
   Map: https://www.ohtsl.com/directionmap.php?locationid=49
 --------------------------------------------------------------------------------
@@ -4575,6 +4689,7 @@ VENUE: Gurney Elementary (Calvetta Brothers Floor Show - Field D 9v9)
 
 --------------------------------------------------------------------------------
 VENUE: Gurney Elementary (Calvetta Brothers Floor Show - Field E 7v7)
+  Address: 1155 Bell Rd, Chagrin Falls, OH 44022
   Games at this venue: 2
   Map: https://www.ohtsl.com/directionmap.php?locationid=49
 --------------------------------------------------------------------------------
@@ -4589,6 +4704,7 @@ VENUE: Gurney Elementary (Calvetta Brothers Floor Show - Field E 7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Hamilton Fields #1 (Field #1)
+  Address: 330 West Hamilton Street, Oberlin, Oh 44074
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=727
 --------------------------------------------------------------------------------
@@ -4611,6 +4727,7 @@ VENUE: Hamilton Fields #1 (Field #1)
 
 --------------------------------------------------------------------------------
 VENUE: Hartman Park (Field 12)
+  Address: 305 Townline Rd, Aurora, OH 44202
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=663
 --------------------------------------------------------------------------------
@@ -4646,6 +4763,7 @@ VENUE: Hartman Park (Field 12)
 
 --------------------------------------------------------------------------------
 VENUE: Hartman Park (Field 8)
+  Address: 305 Townline Rd, Aurora, OH 44202
   Games at this venue: 24
   Map: https://www.ohtsl.com/directionmap.php?locationid=663
 --------------------------------------------------------------------------------
@@ -4718,6 +4836,7 @@ VENUE: Hartman Park (Field 8)
 
 --------------------------------------------------------------------------------
 VENUE: Hartman Park (Townline Rd soccer fields) (#10)
+  Address: 305 Townline Rd, Aurora, oh 44202
   Games at this venue: 24
   Map: https://www.ohtsl.com/directionmap.php?locationid=448
 --------------------------------------------------------------------------------
@@ -4793,6 +4912,7 @@ VENUE: Hartman Park (Townline Rd soccer fields) (#10)
 
 --------------------------------------------------------------------------------
 VENUE: Hartman Park (Townline Rd soccer fields) (#11)
+  Address: 305 Townline Rd, Aurora, oh 44202
   Games at this venue: 16
   Map: https://www.ohtsl.com/directionmap.php?locationid=448
 --------------------------------------------------------------------------------
@@ -4848,6 +4968,7 @@ VENUE: Hartman Park (Townline Rd soccer fields) (#11)
 
 --------------------------------------------------------------------------------
 VENUE: Hartman Park (Townline Rd soccer fields) (#5)
+  Address: 305 Townline Rd, Aurora, oh 44202
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=448
 --------------------------------------------------------------------------------
@@ -4870,6 +4991,7 @@ VENUE: Hartman Park (Townline Rd soccer fields) (#5)
 
 --------------------------------------------------------------------------------
 VENUE: Heigel Park (Heigel Field 1 9v9)
+  Address: 4616 E Catawba Woods Rd, Port Clinton, OH 43452
   Games at this venue: 3
   Map: https://www.ohtsl.com/directionmap.php?locationid=662
 --------------------------------------------------------------------------------
@@ -4888,6 +5010,7 @@ VENUE: Heigel Park (Heigel Field 1 9v9)
 
 --------------------------------------------------------------------------------
 VENUE: Heigel Park (Heigel Field 2 11v11)
+  Address: 4616 E Catawba Woods Rd, Port Clinton, OH 43452
   Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=662
 --------------------------------------------------------------------------------
@@ -4898,6 +5021,7 @@ VENUE: Heigel Park (Heigel Field 2 11v11)
 
 --------------------------------------------------------------------------------
 VENUE: High School Field (High school field)
+  Address: 450 Washington St, AMHERST, Oh 44001
   Games at this venue: 16
   Map: https://www.ohtsl.com/directionmap.php?locationid=767
 --------------------------------------------------------------------------------
@@ -4953,6 +5077,7 @@ VENUE: High School Field (High school field)
 
 --------------------------------------------------------------------------------
 VENUE: Highland High School (HHS Stadium)
+  Address: 4150 Ridge Rd, Medina, OH 44256
   Games at this venue: 7
   Map: https://www.ohtsl.com/directionmap.php?locationid=268
 --------------------------------------------------------------------------------
@@ -4978,6 +5103,7 @@ VENUE: Highland High School (HHS Stadium)
 
 --------------------------------------------------------------------------------
 VENUE: Hoover High Soccer Stadium (Turf)
+  Address: 426 Wise Ave NE, North Canton, OH 44720
   Games at this venue: 6
   Map: https://www.ohtsl.com/directionmap.php?locationid=524
 --------------------------------------------------------------------------------
@@ -5008,6 +5134,7 @@ VENUE: Hoover High Soccer Stadium (Turf)
 
 --------------------------------------------------------------------------------
 VENUE: Hoover Park (9v9)
+  Address: 1875 E Maple St, North Canton, OH 44720
   Games at this venue: 17
   Map: https://www.ohtsl.com/directionmap.php?locationid=614
 --------------------------------------------------------------------------------
@@ -5067,6 +5194,7 @@ VENUE: Hoover Park (9v9)
 
 --------------------------------------------------------------------------------
 VENUE: Hopfinger Zimmerman Park (Field 1 - 7v7)
+  Address: 4909 W Oak Harbor Southeast Rd, Port Clinton, Oh 43452
   Games at this venue: 11
   Map: https://www.ohtsl.com/directionmap.php?locationid=717
 --------------------------------------------------------------------------------
@@ -5105,6 +5233,7 @@ VENUE: Hopfinger Zimmerman Park (Field 1 - 7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Hopfinger Zimmerman Park (Field 2 - 9v9)
+  Address: 4909 W Oak Harbor Southeast Rd, Port Clinton, Oh 43452
   Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=717
 --------------------------------------------------------------------------------
@@ -5115,6 +5244,7 @@ VENUE: Hopfinger Zimmerman Park (Field 2 - 9v9)
 
 --------------------------------------------------------------------------------
 VENUE: Hopkins Park (Laurel) (L3 11v11)
+  Address: 3089 Laurel Road, Brunswick, Oh 44212
   Games at this venue: 25
   Map: https://www.ohtsl.com/directionmap.php?locationid=256
 --------------------------------------------------------------------------------
@@ -5203,6 +5333,7 @@ VENUE: Hopkins Park (Laurel) (L3 11v11)
 
 --------------------------------------------------------------------------------
 VENUE: Independence High School (Grass) (Field 7)
+  Address: 6001 Archwood Road, Independence, OH 44131
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=126
 --------------------------------------------------------------------------------
@@ -5248,6 +5379,7 @@ VENUE: Independence High School (Grass) (Field 7)
 
 --------------------------------------------------------------------------------
 VENUE: Independence High School (Upper Field) (Field 8 A)
+  Address: 6001 Archwood Road, Independence, OH 44131
   Games at this venue: 17
   Map: https://www.ohtsl.com/directionmap.php?locationid=736
 --------------------------------------------------------------------------------
@@ -5307,6 +5439,7 @@ VENUE: Independence High School (Upper Field) (Field 8 A)
 
 --------------------------------------------------------------------------------
 VENUE: James Day Park (Field # 3)
+  Address: 11828 Pleasant Valley Rd, Parma, Oh 44130
   Games at this venue: 20
   Map: https://www.ohtsl.com/directionmap.php?locationid=332
 --------------------------------------------------------------------------------
@@ -5369,6 +5502,7 @@ VENUE: James Day Park (Field # 3)
 
 --------------------------------------------------------------------------------
 VENUE: James Day Park (Field # 7)
+  Address: 11828 Pleasant Valley Rd, Parma, Oh 44130
   Games at this venue: 14
   Map: https://www.ohtsl.com/directionmap.php?locationid=332
 --------------------------------------------------------------------------------
@@ -5413,6 +5547,7 @@ VENUE: James Day Park (Field # 7)
 
 --------------------------------------------------------------------------------
 VENUE: James Day Park (Field #1)
+  Address: 11828 Pleasant Valley Rd, Parma, Oh 44130
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=332
 --------------------------------------------------------------------------------
@@ -5464,6 +5599,7 @@ VENUE: James Day Park (Field #1)
 
 --------------------------------------------------------------------------------
 VENUE: Jindra Park (Jindra Park)
+  Address: 900 Worden Rd., Wickliffe, OH 44092
   Games at this venue: 7
   Map: https://www.ohtsl.com/directionmap.php?locationid=161
 --------------------------------------------------------------------------------
@@ -5492,6 +5628,7 @@ VENUE: Jindra Park (Jindra Park)
 
 --------------------------------------------------------------------------------
 VENUE: John Braun Park (John Braun Field 1 7v7)
+  Address: 2370 N.E. Catawba Rd, Port Clinton, Oh 43452
   Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=716
 --------------------------------------------------------------------------------
@@ -5502,6 +5639,7 @@ VENUE: John Braun Park (John Braun Field 1 7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Kenston High School Bomber Stadium (Stadium Turf)
+  Address: 9500 Bainbridge Road, Chagrin Falls, OH 44023
   Games at this venue: 5
   Map: https://www.ohtsl.com/directionmap.php?locationid=618
 --------------------------------------------------------------------------------
@@ -5528,6 +5666,7 @@ VENUE: Kenston High School Bomber Stadium (Stadium Turf)
 
 --------------------------------------------------------------------------------
 VENUE: Kenston High School Grass Fields ( 11v11 Field 1)
+  Address: 9500 Bainbridge Road, Chagrin Falls, OH 44023
   Games at this venue: 3
   Map: https://www.ohtsl.com/directionmap.php?locationid=619
 --------------------------------------------------------------------------------
@@ -5546,6 +5685,7 @@ VENUE: Kenston High School Grass Fields ( 11v11 Field 1)
 
 --------------------------------------------------------------------------------
 VENUE: Kirk Schuring Park (KSP 11v11 Field 7)
+  Address: 4190 Belden Greens Cir NW, Canton, OH 44718
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=775
 --------------------------------------------------------------------------------
@@ -5584,6 +5724,7 @@ VENUE: Kirk Schuring Park (KSP 11v11 Field 7)
 
 --------------------------------------------------------------------------------
 VENUE: Kirk Schuring Park (KSP 7v7 Field 8)
+  Address: 4190 Belden Greens Cir NW, Canton, OH 44718
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=775
 --------------------------------------------------------------------------------
@@ -5616,6 +5757,7 @@ VENUE: Kirk Schuring Park (KSP 7v7 Field 8)
 
 --------------------------------------------------------------------------------
 VENUE: Kirk Schuring Park (KSP 9v9 Field 3)
+  Address: 4190 Belden Greens Cir NW, Canton, OH 44718
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=775
 --------------------------------------------------------------------------------
@@ -5661,6 +5803,7 @@ VENUE: Kirk Schuring Park (KSP 9v9 Field 3)
 
 --------------------------------------------------------------------------------
 VENUE: Kreuger Park (11v11 #1)
+  Address: 7556 Chillicothe Road, Mentor, Oh 44060
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=77
 --------------------------------------------------------------------------------
@@ -5693,14 +5836,10 @@ VENUE: Kreuger Park (11v11 #1)
 
 --------------------------------------------------------------------------------
 VENUE: Kreuger Park (7v7 #2)
-  Games at this venue: 16
+  Address: 7556 Chillicothe Road, Mentor, Oh 44060
+  Games at this venue: 14
   Map: https://www.ohtsl.com/directionmap.php?locationid=77
 --------------------------------------------------------------------------------
-
-  Sun 4/12/26
-  ──────────────────────────────────────────────────────────────────────
-     1:00 PM  #7001   Mentor                    vs Orange                    (Girls 2016(U10) Div East 4)
-     2:30 PM  #11902  Mentor   Gray             vs Stow   Gold               (Girls 2017(U09) Div East 4 E)
 
   Sun 4/19/26
   ──────────────────────────────────────────────────────────────────────
@@ -5739,6 +5878,7 @@ VENUE: Kreuger Park (7v7 #2)
 
 --------------------------------------------------------------------------------
 VENUE: Kreuger Park (9v9 #6)
+  Address: 7556 Chillicothe Road, Mentor, Oh 44060
   Games at this venue: 16
   Map: https://www.ohtsl.com/directionmap.php?locationid=77
 --------------------------------------------------------------------------------
@@ -5791,6 +5931,7 @@ VENUE: Kreuger Park (9v9 #6)
 
 --------------------------------------------------------------------------------
 VENUE: LaGrange Community Park (Field #3)
+  Address: 422 W Main St., LaGrange, OH 44050
   Games at this venue: 13
   Map: https://www.ohtsl.com/directionmap.php?locationid=16
 --------------------------------------------------------------------------------
@@ -5840,6 +5981,7 @@ VENUE: LaGrange Community Park (Field #3)
 
 --------------------------------------------------------------------------------
 VENUE: LaGrange Community Park (Field #4)
+  Address: 422 W Main St., LaGrange, OH 44050
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=16
 --------------------------------------------------------------------------------
@@ -5891,6 +6033,7 @@ VENUE: LaGrange Community Park (Field #4)
 
 --------------------------------------------------------------------------------
 VENUE: Lake Community Park (Behind Lake HS Stadium) (11U/12U 9v9 Field)
+  Address: 11920 Market Ave NE, Uniontown, Oh 44685
   Games at this venue: 11
   Map: https://www.ohtsl.com/directionmap.php?locationid=668
 --------------------------------------------------------------------------------
@@ -5938,6 +6081,7 @@ VENUE: Lake Community Park (Behind Lake HS Stadium) (11U/12U 9v9 Field)
 
 --------------------------------------------------------------------------------
 VENUE: Lake Community Park (Behind Lake HS Stadium) (13U/14U/15U/HS 11v11)
+  Address: 11920 Market Ave NE, Uniontown, Oh 44685
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=668
 --------------------------------------------------------------------------------
@@ -5980,6 +6124,7 @@ VENUE: Lake Community Park (Behind Lake HS Stadium) (13U/14U/15U/HS 11v11)
 
 --------------------------------------------------------------------------------
 VENUE: Lake Community Park (Behind Lake HS Stadium) (9U/10U 7v7 Field)
+  Address: 11920 Market Ave NE, Uniontown, Oh 44685
   Games at this venue: 15
   Map: https://www.ohtsl.com/directionmap.php?locationid=668
 --------------------------------------------------------------------------------
@@ -6034,6 +6179,7 @@ VENUE: Lake Community Park (Behind Lake HS Stadium) (9U/10U 7v7 Field)
 
 --------------------------------------------------------------------------------
 VENUE: Lakewood High School (Lakewood High School Turf)
+  Address: 14100 Franklin Blvd, Lakewood, OH 44107
   Games at this venue: 19
   Map: https://www.ohtsl.com/directionmap.php?locationid=310
 --------------------------------------------------------------------------------
@@ -6089,6 +6235,7 @@ VENUE: Lakewood High School (Lakewood High School Turf)
 
 --------------------------------------------------------------------------------
 VENUE: Lambert Stadium (Lambert Stadium 11v11)
+  Address: 2630 13th St, Cuyahoga Falls, OH 44223
   Games at this venue: 16
   Map: https://www.ohtsl.com/directionmap.php?locationid=770
 --------------------------------------------------------------------------------
@@ -6153,6 +6300,7 @@ VENUE: Lambert Stadium (Lambert Stadium 11v11)
 
 --------------------------------------------------------------------------------
 VENUE: Lane Field (Field 1 7v7)
+  Address: 603 Vernon Odom Blvd, Akron, Oh 44307
   Games at this venue: 7
   Map: https://www.ohtsl.com/directionmap.php?locationid=705
 --------------------------------------------------------------------------------
@@ -6184,6 +6332,7 @@ VENUE: Lane Field (Field 1 7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Lane Field (Field 3 11v11)
+  Address: 603 Vernon Odom Blvd, Akron, Oh 44307
   Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=705
 --------------------------------------------------------------------------------
@@ -6194,6 +6343,7 @@ VENUE: Lane Field (Field 3 11v11)
 
 --------------------------------------------------------------------------------
 VENUE: Learwood Middle School (Learwood 7A)
+  Address: 340 Lear Rd, Avon Lake, OH 44012
   Games at this venue: 18
   Map: https://www.ohtsl.com/directionmap.php?locationid=250
 --------------------------------------------------------------------------------
@@ -6251,6 +6401,7 @@ VENUE: Learwood Middle School (Learwood 7A)
 
 --------------------------------------------------------------------------------
 VENUE: Learwood Middle School (Learwood 7B)
+  Address: 340 Lear Rd, Avon Lake, OH 44012
   Games at this venue: 18
   Map: https://www.ohtsl.com/directionmap.php?locationid=250
 --------------------------------------------------------------------------------
@@ -6308,6 +6459,7 @@ VENUE: Learwood Middle School (Learwood 7B)
 
 --------------------------------------------------------------------------------
 VENUE: Learwood Middle School (Learwood 9A)
+  Address: 340 Lear Rd, Avon Lake, OH 44012
   Games at this venue: 10
   Map: https://www.ohtsl.com/directionmap.php?locationid=250
 --------------------------------------------------------------------------------
@@ -6348,6 +6500,7 @@ VENUE: Learwood Middle School (Learwood 9A)
 
 --------------------------------------------------------------------------------
 VENUE: Liberty Park  (Lower)
+  Address: 9375 Liberty Rd., Twinsburg, Oh 44087
   Games at this venue: 11
   Map: https://www.ohtsl.com/directionmap.php?locationid=73
 --------------------------------------------------------------------------------
@@ -6383,6 +6536,7 @@ VENUE: Liberty Park  (Lower)
 
 --------------------------------------------------------------------------------
 VENUE: Liberty Park  (Upper)
+  Address: 9375 Liberty Rd., Twinsburg, Oh 44087
   Games at this venue: 25
   Map: https://www.ohtsl.com/directionmap.php?locationid=73
 --------------------------------------------------------------------------------
@@ -6450,6 +6604,7 @@ VENUE: Liberty Park  (Upper)
 
 --------------------------------------------------------------------------------
 VENUE: Linden Park (Linden North)
+  Address: Linden Rd, Rocky River, Oh 44116
   Games at this venue: 34
   Map: https://www.ohtsl.com/directionmap.php?locationid=6
 --------------------------------------------------------------------------------
@@ -6526,6 +6681,7 @@ VENUE: Linden Park (Linden North)
 
 --------------------------------------------------------------------------------
 VENUE: Linden Park (Linden South)
+  Address: Linden Rd, Rocky River, Oh 44116
   Games at this venue: 22
   Map: https://www.ohtsl.com/directionmap.php?locationid=6
 --------------------------------------------------------------------------------
@@ -6587,6 +6743,7 @@ VENUE: Linden Park (Linden South)
 
 --------------------------------------------------------------------------------
 VENUE: Logan Field - #330 (Logan Field 329)
+  Address: 2701 N Turkeyfoot Rd, Akron, OH 44319
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=594
 --------------------------------------------------------------------------------
@@ -6622,6 +6779,7 @@ VENUE: Logan Field - #330 (Logan Field 329)
 
 --------------------------------------------------------------------------------
 VENUE: Logan Field - #330 (Logan Field 331)
+  Address: 2701 N Turkeyfoot Rd, Akron, OH 44319
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=594
 --------------------------------------------------------------------------------
@@ -6659,7 +6817,20 @@ VENUE: Logan Field - #330 (Logan Field 331)
      4:00 PM  #5024   PLX United                vs Mustangs Jr               (Boys 2013(U13) Div South 4)
 
 --------------------------------------------------------------------------------
+VENUE: Lost Nation Sports Park (Field (A) 7v7)
+  Address: 38630 Jet Center Pl, Willoughby, oH 44094
+  Games at this venue: 2
+  Map: https://www.ohtsl.com/directionmap.php?locationid=704
+--------------------------------------------------------------------------------
+
+  Sun 4/12/26
+  ──────────────────────────────────────────────────────────────────────
+     1:00 PM  #7001   Mentor                    vs Orange                    (Girls 2016(U10) Div East 4)
+     2:30 PM  #11902  Mentor   Gray             vs Stow   Gold               (Girls 2017(U09) Div East 4 E)
+
+--------------------------------------------------------------------------------
 VENUE: Lou Groza Field (Lou Groza football field)
+  Address: 7220 Pleasant st, Berea, oh 44017
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=693
 --------------------------------------------------------------------------------
@@ -6698,6 +6869,7 @@ VENUE: Lou Groza Field (Lou Groza football field)
 
 --------------------------------------------------------------------------------
 VENUE: Lucille Heasley Soccer Fields (Heasley 1)
+  Address: 5100 Wallings Rd, North Royalton, OH 44133
   Games at this venue: 22
   Map: https://www.ohtsl.com/directionmap.php?locationid=261
 --------------------------------------------------------------------------------
@@ -6768,6 +6940,7 @@ VENUE: Lucille Heasley Soccer Fields (Heasley 1)
 
 --------------------------------------------------------------------------------
 VENUE: Lucille Heasley Soccer Fields (Heasley 2 W)
+  Address: 5100 Wallings Rd, North Royalton, OH 44133
   Games at this venue: 11
   Map: https://www.ohtsl.com/directionmap.php?locationid=261
 --------------------------------------------------------------------------------
@@ -6812,6 +6985,7 @@ VENUE: Lucille Heasley Soccer Fields (Heasley 2 W)
 
 --------------------------------------------------------------------------------
 VENUE: Lucille Heasley Soccer Fields (Heasley 2)
+  Address: 5100 Wallings Rd, North Royalton, OH 44133
   Games at this venue: 19
   Map: https://www.ohtsl.com/directionmap.php?locationid=261
 --------------------------------------------------------------------------------
@@ -6879,6 +7053,7 @@ VENUE: Lucille Heasley Soccer Fields (Heasley 2)
 
 --------------------------------------------------------------------------------
 VENUE: Lucille Heasley Soccer Fields (Heasley 2E)
+  Address: 5100 Wallings Rd, North Royalton, OH 44133
   Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=261
 --------------------------------------------------------------------------------
@@ -6889,6 +7064,7 @@ VENUE: Lucille Heasley Soccer Fields (Heasley 2E)
 
 --------------------------------------------------------------------------------
 VENUE: Lucille Heasley Soccer Fields (Heasley 3)
+  Address: 5100 Wallings Rd, North Royalton, OH 44133
   Games at this venue: 6
   Map: https://www.ohtsl.com/directionmap.php?locationid=261
 --------------------------------------------------------------------------------
@@ -6916,6 +7092,7 @@ VENUE: Lucille Heasley Soccer Fields (Heasley 3)
 
 --------------------------------------------------------------------------------
 VENUE: Lucille Heasley Soccer Fields (Heasley 3E)
+  Address: 5100 Wallings Rd, North Royalton, OH 44133
   Games at this venue: 11
   Map: https://www.ohtsl.com/directionmap.php?locationid=261
 --------------------------------------------------------------------------------
@@ -6957,6 +7134,7 @@ VENUE: Lucille Heasley Soccer Fields (Heasley 3E)
 
 --------------------------------------------------------------------------------
 VENUE: Lucille Heasley Soccer Fields (Heasley 3W)
+  Address: 5100 Wallings Rd, North Royalton, OH 44133
   Games at this venue: 14
   Map: https://www.ohtsl.com/directionmap.php?locationid=261
 --------------------------------------------------------------------------------
@@ -7004,6 +7182,7 @@ VENUE: Lucille Heasley Soccer Fields (Heasley 3W)
 
 --------------------------------------------------------------------------------
 VENUE: MQA Soccer Fields (Mary Queen of the Apostle's Church) (Field 1 9v9)
+  Address: 6455 Engle Road, Brook Park, OH 44142
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=19
 --------------------------------------------------------------------------------
@@ -7055,6 +7234,7 @@ VENUE: MQA Soccer Fields (Mary Queen of the Apostle's Church) (Field 1 9v9)
 
 --------------------------------------------------------------------------------
 VENUE: Macedonia Rec Center  (North Fields)
+  Address: 1511 E. Aurora Rd., Macedonia, OH 44056
   Games at this venue: 16
   Map: https://www.ohtsl.com/directionmap.php?locationid=115
 --------------------------------------------------------------------------------
@@ -7101,6 +7281,7 @@ VENUE: Macedonia Rec Center  (North Fields)
 
 --------------------------------------------------------------------------------
 VENUE: Madison Middle School (11v11)
+  Address: 6079 Middle Ridge Road, Madison, OH 44057
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=289
 --------------------------------------------------------------------------------
@@ -7139,6 +7320,7 @@ VENUE: Madison Middle School (11v11)
 
 --------------------------------------------------------------------------------
 VENUE: Madison Middle School (7v7)
+  Address: 6079 Middle Ridge Road, Madison, OH 44057
   Games at this venue: 5
   Map: https://www.ohtsl.com/directionmap.php?locationid=289
 --------------------------------------------------------------------------------
@@ -7165,6 +7347,7 @@ VENUE: Madison Middle School (7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Madison Middle School (9v9)
+  Address: 6079 Middle Ridge Road, Madison, OH 44057
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=289
 --------------------------------------------------------------------------------
@@ -7197,6 +7380,7 @@ VENUE: Madison Middle School (9v9)
 
 --------------------------------------------------------------------------------
 VENUE: Madison Park  (Madison Park Field)
+  Address: 13201 Madison Ave, Lakewood, OH 44107
   Games at this venue: 25
   Map: https://www.ohtsl.com/directionmap.php?locationid=311
 --------------------------------------------------------------------------------
@@ -7267,7 +7451,8 @@ VENUE: Madison Park  (Madison Park Field)
 
 --------------------------------------------------------------------------------
 VENUE: Manchester High School Stadium- turf (High School Stadium)
-  Games at this venue: 4
+  Address: 407 W. Nimisila Rd, New Franklin, OH 44319
+  Games at this venue: 7
   Map: https://www.ohtsl.com/directionmap.php?locationid=750
 --------------------------------------------------------------------------------
 
@@ -7279,6 +7464,18 @@ VENUE: Manchester High School Stadium- turf (High School Stadium)
   ──────────────────────────────────────────────────────────────────────
      5:00 PM  #6304   Manchester                vs Green                     (Boys 2011(U15) Div South 3)
 
+  Sun 4/26/26
+  ──────────────────────────────────────────────────────────────────────
+    11:30 AM  #11411  Manchester                vs North Ridgeville          (Girls 2011(U15) Div 5)
+
+  Sun 5/3/26
+  ──────────────────────────────────────────────────────────────────────
+    11:00 AM  #11418  Manchester                vs Louisville                (Girls 2011(U15) Div 5)
+
+  Sat 5/9/26
+  ──────────────────────────────────────────────────────────────────────
+    12:00 PM  #11422  Manchester                vs Mustangs Jr               (Girls 2011(U15) Div 5)
+
   Sun 5/10/26
   ──────────────────────────────────────────────────────────────────────
     11:30 AM  #6317   Manchester                vs Lake Select SC   U15      (Boys 2011(U15) Div South 3)
@@ -7289,7 +7486,8 @@ VENUE: Manchester High School Stadium- turf (High School Stadium)
 
 --------------------------------------------------------------------------------
 VENUE: Manchester Middle School (MSC 11v11)
-  Games at this venue: 12
+  Address: 760 West Nimisila Rd, New Franklin, Oh 44319
+  Games at this venue: 9
   Map: https://www.ohtsl.com/directionmap.php?locationid=497
 --------------------------------------------------------------------------------
 
@@ -7299,7 +7497,6 @@ VENUE: Manchester Middle School (MSC 11v11)
 
   Sun 4/26/26
   ──────────────────────────────────────────────────────────────────────
-    11:30 AM  #11411  Manchester                vs North Ridgeville          (Girls 2011(U15) Div 5)
      4:00 PM  #9712   Manchester                vs Green                     (Girls 2013(U13) Div South 3)
 
   Wed 4/29/26
@@ -7312,12 +7509,7 @@ VENUE: Manchester Middle School (MSC 11v11)
 
   Sun 5/3/26
   ──────────────────────────────────────────────────────────────────────
-    11:00 AM  #11418  Manchester                vs Louisville                (Girls 2011(U15) Div 5)
      2:30 PM  #9717   Manchester                vs Chippewa                  (Girls 2013(U13) Div South 3)
-
-  Sat 5/9/26
-  ──────────────────────────────────────────────────────────────────────
-    12:00 PM  #11422  Manchester                vs Mustangs Jr               (Girls 2011(U15) Div 5)
 
   Sun 5/10/26
   ──────────────────────────────────────────────────────────────────────
@@ -7337,6 +7529,7 @@ VENUE: Manchester Middle School (MSC 11v11)
 
 --------------------------------------------------------------------------------
 VENUE: Manchester Middle School (MSC 7v7)
+  Address: 760 West Nimisila Rd, New Franklin, Oh 44319
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=497
 --------------------------------------------------------------------------------
@@ -7372,6 +7565,7 @@ VENUE: Manchester Middle School (MSC 7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Manchester Middle School (MSC 9v9)
+  Address: 760 West Nimisila Rd, New Franklin, Oh 44319
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=497
 --------------------------------------------------------------------------------
@@ -7411,6 +7605,7 @@ VENUE: Manchester Middle School (MSC 9v9)
 
 --------------------------------------------------------------------------------
 VENUE: Mantua Soccer (Field 4 (9v9 Field))
+  Address: 11045 St Joseph Blvd, Mantua, OH 44255
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=715
 --------------------------------------------------------------------------------
@@ -7433,6 +7628,7 @@ VENUE: Mantua Soccer (Field 4 (9v9 Field))
 
 --------------------------------------------------------------------------------
 VENUE: Mantua Soccer (Field 5 (11v11 Field))
+  Address: 11045 St Joseph Blvd, Mantua, OH 44255
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=715
 --------------------------------------------------------------------------------
@@ -7468,6 +7664,7 @@ VENUE: Mantua Soccer (Field 5 (11v11 Field))
 
 --------------------------------------------------------------------------------
 VENUE: Massillon Middle School (Turf/Lights) (MMS Athletic Complex Main Field)
+  Address: 250 29th St SW, Massillon, Oh 44647
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=685
 --------------------------------------------------------------------------------
@@ -7490,6 +7687,7 @@ VENUE: Massillon Middle School (Turf/Lights) (MMS Athletic Complex Main Field)
 
 --------------------------------------------------------------------------------
 VENUE: Mayfield High School Stadium (Stadium)
+  Address: 6116 Wilson Mills Road, Mayfield Village, OH 44143
   Games at this venue: 15
   Map: https://www.ohtsl.com/directionmap.php?locationid=109
 --------------------------------------------------------------------------------
@@ -7538,6 +7736,7 @@ VENUE: Mayfield High School Stadium (Stadium)
 
 --------------------------------------------------------------------------------
 VENUE: Mayfield Village (Field 2 - North fields, middle field)
+  Address: 300 North Commons Boulevard, Mayfield Village, OH 44143
   Games at this venue: 20
   Map: https://www.ohtsl.com/directionmap.php?locationid=108
 --------------------------------------------------------------------------------
@@ -7603,6 +7802,7 @@ VENUE: Mayfield Village (Field 2 - North fields, middle field)
 
 --------------------------------------------------------------------------------
 VENUE: Mayfield Village (Field 3 - North Field closest to Route 91)
+  Address: 300 North Commons Boulevard, Mayfield Village, OH 44143
   Games at this venue: 20
   Map: https://www.ohtsl.com/directionmap.php?locationid=108
 --------------------------------------------------------------------------------
@@ -7671,6 +7871,7 @@ VENUE: Mayfield Village (Field 3 - North Field closest to Route 91)
 
 --------------------------------------------------------------------------------
 VENUE: Mayfield Village (Field 4)
+  Address: 300 North Commons Boulevard, Mayfield Village, OH 44143
   Games at this venue: 5
   Map: https://www.ohtsl.com/directionmap.php?locationid=108
 --------------------------------------------------------------------------------
@@ -7694,6 +7895,7 @@ VENUE: Mayfield Village (Field 4)
 
 --------------------------------------------------------------------------------
 VENUE: Medina - Blakeslee Park (Blakeslee A- up front near road)
+  Address: 3565 Fenn Road, Medina, OH 44256
   Games at this venue: 6
   Map: https://www.ohtsl.com/directionmap.php?locationid=207
 --------------------------------------------------------------------------------
@@ -7724,6 +7926,7 @@ VENUE: Medina - Blakeslee Park (Blakeslee A- up front near road)
 
 --------------------------------------------------------------------------------
 VENUE: Medina - Blakeslee Park (Blakeslee B-in back to left)
+  Address: 3565 Fenn Road, Medina, OH 44256
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=207
 --------------------------------------------------------------------------------
@@ -7746,6 +7949,7 @@ VENUE: Medina - Blakeslee Park (Blakeslee B-in back to left)
 
 --------------------------------------------------------------------------------
 VENUE: Medina - Whitetail Crossing (Whitetail 1)
+  Address: 4224 Deer Run Drive, Medina, OH 44256
   Games at this venue: 10
   Map: https://www.ohtsl.com/directionmap.php?locationid=206
 --------------------------------------------------------------------------------
@@ -7789,6 +7993,7 @@ VENUE: Medina - Whitetail Crossing (Whitetail 1)
 
 --------------------------------------------------------------------------------
 VENUE: Medina - Whitetail Crossing (Whitetail 2)
+  Address: 4224 Deer Run Drive, Medina, OH 44256
   Games at this venue: 11
   Map: https://www.ohtsl.com/directionmap.php?locationid=206
 --------------------------------------------------------------------------------
@@ -7836,6 +8041,7 @@ VENUE: Medina - Whitetail Crossing (Whitetail 2)
 
 --------------------------------------------------------------------------------
 VENUE: Medina Huffman/Cunningham Fields (Cunningham 12 (11v11) )
+  Address: 4440 Weymouth Rd., Medina, OH 44256
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=205
 --------------------------------------------------------------------------------
@@ -7887,6 +8093,7 @@ VENUE: Medina Huffman/Cunningham Fields (Cunningham 12 (11v11) )
 
 --------------------------------------------------------------------------------
 VENUE: Medina Huffman/Cunningham Fields (Cunningham 13 (9v9))
+  Address: 4440 Weymouth Rd., Medina, OH 44256
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=205
 --------------------------------------------------------------------------------
@@ -7909,13 +8116,15 @@ VENUE: Medina Huffman/Cunningham Fields (Cunningham 13 (9v9))
 
 --------------------------------------------------------------------------------
 VENUE: Medina Huffman/Cunningham Fields (Cunningham 14 (7v7))
-  Games at this venue: 11
+  Address: 4440 Weymouth Rd., Medina, OH 44256
+  Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=205
 --------------------------------------------------------------------------------
 
   Sun 4/12/26
   ──────────────────────────────────────────────────────────────────────
     11:30 AM  #802    Medina   U10W             vs Copley   Gold             (Boys 2016(U10) Div South 4)
+     4:00 PM  #14101  Medina   17GN             vs Green                     (Girls 2017(U09) Div 1)
      5:30 PM  #1102   Medina   U10G             vs Brunswick   RYL           (Boys 2016(U10) Div 1)
 
   Mon 4/27/26
@@ -7950,13 +8159,10 @@ VENUE: Medina Huffman/Cunningham Fields (Cunningham 14 (7v7))
 
 --------------------------------------------------------------------------------
 VENUE: Medina Huffman/Cunningham Fields (Cunningham 15 (7v7))
-  Games at this venue: 11
+  Address: 4440 Weymouth Rd., Medina, OH 44256
+  Games at this venue: 10
   Map: https://www.ohtsl.com/directionmap.php?locationid=205
 --------------------------------------------------------------------------------
-
-  Sun 4/12/26
-  ──────────────────────────────────────────────────────────────────────
-    12:00 PM  #11802  Medina   17WT             vs Highland   EM4            (Girls 2017(U09) Div South 3)
 
   Fri 4/17/26
   ──────────────────────────────────────────────────────────────────────
@@ -7997,6 +8203,7 @@ VENUE: Medina Huffman/Cunningham Fields (Cunningham 15 (7v7))
 
 --------------------------------------------------------------------------------
 VENUE: Medina Huffman/Cunningham Fields (Cunningham 16 (9v9))
+  Address: 4440 Weymouth Rd., Medina, OH 44256
   Games at this venue: 5
   Map: https://www.ohtsl.com/directionmap.php?locationid=205
 --------------------------------------------------------------------------------
@@ -8023,13 +8230,10 @@ VENUE: Medina Huffman/Cunningham Fields (Cunningham 16 (9v9))
 
 --------------------------------------------------------------------------------
 VENUE: Medina Huffman/Cunningham Fields (Cunningham 17 - back of park)
-  Games at this venue: 11
+  Address: 4440 Weymouth Rd., Medina, OH 44256
+  Games at this venue: 10
   Map: https://www.ohtsl.com/directionmap.php?locationid=205
 --------------------------------------------------------------------------------
-
-  Sun 4/12/26
-  ──────────────────────────────────────────────────────────────────────
-     4:00 PM  #14101  Medina   17GN             vs Green                     (Girls 2017(U09) Div 1)
 
   Sun 4/19/26
   ──────────────────────────────────────────────────────────────────────
@@ -8061,6 +8265,7 @@ VENUE: Medina Huffman/Cunningham Fields (Cunningham 17 - back of park)
 
 --------------------------------------------------------------------------------
 VENUE: Medina Huffman/Cunningham Fields (Cunningham 18 (9v9) - Back of the park)
+  Address: 4440 Weymouth Rd., Medina, OH 44256
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=205
 --------------------------------------------------------------------------------
@@ -8083,6 +8288,7 @@ VENUE: Medina Huffman/Cunningham Fields (Cunningham 18 (9v9) - Back of the park)
 
 --------------------------------------------------------------------------------
 VENUE: Medina Huffman/Cunningham Fields (Huffman 1)
+  Address: 4440 Weymouth Rd., Medina, OH 44256
   Games at this venue: 11
   Map: https://www.ohtsl.com/directionmap.php?locationid=205
 --------------------------------------------------------------------------------
@@ -8124,9 +8330,14 @@ VENUE: Medina Huffman/Cunningham Fields (Huffman 1)
 
 --------------------------------------------------------------------------------
 VENUE: Medina Huffman/Cunningham Fields (Huffman 2)
-  Games at this venue: 8
+  Address: 4440 Weymouth Rd., Medina, OH 44256
+  Games at this venue: 9
   Map: https://www.ohtsl.com/directionmap.php?locationid=205
 --------------------------------------------------------------------------------
+
+  Sun 4/12/26
+  ──────────────────────────────────────────────────────────────────────
+    12:00 PM  #11802  Medina   17WT             vs Highland   EM4            (Girls 2017(U09) Div South 3)
 
   Sun 4/19/26
   ──────────────────────────────────────────────────────────────────────
@@ -8159,6 +8370,7 @@ VENUE: Medina Huffman/Cunningham Fields (Huffman 2)
 
 --------------------------------------------------------------------------------
 VENUE: Medina Huffman/Cunningham Fields (Huffman 3)
+  Address: 4440 Weymouth Rd., Medina, OH 44256
   Games at this venue: 2
   Map: https://www.ohtsl.com/directionmap.php?locationid=205
 --------------------------------------------------------------------------------
@@ -8173,6 +8385,7 @@ VENUE: Medina Huffman/Cunningham Fields (Huffman 3)
 
 --------------------------------------------------------------------------------
 VENUE: Medina Huffman/Cunningham Fields (Huffman 4)
+  Address: 4440 Weymouth Rd., Medina, OH 44256
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=205
 --------------------------------------------------------------------------------
@@ -8195,6 +8408,7 @@ VENUE: Medina Huffman/Cunningham Fields (Huffman 4)
 
 --------------------------------------------------------------------------------
 VENUE: Memorial Elementary (#1 7v7)
+  Address: 3845 Magnolia Drive, Brunswick, OH 44214
   Games at this venue: 22
   Map: https://www.ohtsl.com/directionmap.php?locationid=253
 --------------------------------------------------------------------------------
@@ -8280,6 +8494,7 @@ VENUE: Memorial Elementary (#1 7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Memorial Elementary (#2 7v7)
+  Address: 3845 Magnolia Drive, Brunswick, OH 44214
   Games at this venue: 10
   Map: https://www.ohtsl.com/directionmap.php?locationid=253
 --------------------------------------------------------------------------------
@@ -8323,6 +8538,7 @@ VENUE: Memorial Elementary (#2 7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Memorial Pool Field (9v9)
+  Address: 22450 Milton Drive, Euclid, OH 44123
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=42
 --------------------------------------------------------------------------------
@@ -8361,6 +8577,7 @@ VENUE: Memorial Pool Field (9v9)
 
 --------------------------------------------------------------------------------
 VENUE: Meredith Park (Field 138 - 11v11)
+  Address: 843 Genoa Ave SW, Massillon, Oh 44646
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=505
 --------------------------------------------------------------------------------
@@ -8406,6 +8623,7 @@ VENUE: Meredith Park (Field 138 - 11v11)
 
 --------------------------------------------------------------------------------
 VENUE: Metzger Park (Metzger Park 12A)
+  Address: 1420 Nickel Plate S, Louisville, Oh 44641
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=413
 --------------------------------------------------------------------------------
@@ -8441,6 +8659,7 @@ VENUE: Metzger Park (Metzger Park 12A)
 
 --------------------------------------------------------------------------------
 VENUE: Metzger Park (Metzger Park Field 14A)
+  Address: 1420 Nickel Plate S, Louisville, Oh 44641
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=413
 --------------------------------------------------------------------------------
@@ -8463,6 +8682,7 @@ VENUE: Metzger Park (Metzger Park Field 14A)
 
 --------------------------------------------------------------------------------
 VENUE: Middlebranch Elementary School (Field 1 7v7)
+  Address: 7500 Middlebranch Ave NE, Canton, oh 44720
   Games at this venue: 16
   Map: https://www.ohtsl.com/directionmap.php?locationid=588
 --------------------------------------------------------------------------------
@@ -8515,6 +8735,7 @@ VENUE: Middlebranch Elementary School (Field 1 7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Middlebranch Elementary School (Field 2 9v9)
+  Address: 7500 Middlebranch Ave NE, Canton, oh 44720
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=588
 --------------------------------------------------------------------------------
@@ -8557,6 +8778,7 @@ VENUE: Middlebranch Elementary School (Field 2 9v9)
 
 --------------------------------------------------------------------------------
 VENUE: Middlebranch Elementary School (Field 3 11v11)
+  Address: 7500 Middlebranch Ave NE, Canton, oh 44720
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=588
 --------------------------------------------------------------------------------
@@ -8579,6 +8801,7 @@ VENUE: Middlebranch Elementary School (Field 3 11v11)
 
 --------------------------------------------------------------------------------
 VENUE: Middlebranch Elementary School (Middlebranch 7v7)
+  Address: 7500 Middlebranch Ave NE, Canton, Oh 44721
   Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=623
 --------------------------------------------------------------------------------
@@ -8589,6 +8812,7 @@ VENUE: Middlebranch Elementary School (Middlebranch 7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Midview High School Turf (11v11) (Midview High School)
+  Address: 38199 Capel Rd, Grafton, Oh 44044
   Games at this venue: 14
   Map: https://www.ohtsl.com/directionmap.php?locationid=228
 --------------------------------------------------------------------------------
@@ -8642,6 +8866,7 @@ VENUE: Midview High School Turf (11v11) (Midview High School)
 
 --------------------------------------------------------------------------------
 VENUE: Midview Soccer Complex (Field B)
+  Address: 16218 Chamberlain Rd, Grafton, Oh 44044
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=89
 --------------------------------------------------------------------------------
@@ -8677,6 +8902,7 @@ VENUE: Midview Soccer Complex (Field B)
 
 --------------------------------------------------------------------------------
 VENUE: Midview Soccer Complex (Field F)
+  Address: 16218 Chamberlain Rd, Grafton, Oh 44044
   Games at this venue: 7
   Map: https://www.ohtsl.com/directionmap.php?locationid=89
 --------------------------------------------------------------------------------
@@ -8711,6 +8937,7 @@ VENUE: Midview Soccer Complex (Field F)
 
 --------------------------------------------------------------------------------
 VENUE: Midview Soccer Complex (Field H)
+  Address: 16218 Chamberlain Rd, Grafton, Oh 44044
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=89
 --------------------------------------------------------------------------------
@@ -8746,6 +8973,7 @@ VENUE: Midview Soccer Complex (Field H)
 
 --------------------------------------------------------------------------------
 VENUE: Muhl Fields (447)
+  Address: 390 Trease Road, Wadsworth, OH 44281
   Games at this venue: 15
   Map: https://www.ohtsl.com/directionmap.php?locationid=210
 --------------------------------------------------------------------------------
@@ -8803,6 +9031,7 @@ VENUE: Muhl Fields (447)
 
 --------------------------------------------------------------------------------
 VENUE: Muhl Fields (448)
+  Address: 390 Trease Road, Wadsworth, OH 44281
   Games at this venue: 21
   Map: https://www.ohtsl.com/directionmap.php?locationid=210
 --------------------------------------------------------------------------------
@@ -8866,6 +9095,7 @@ VENUE: Muhl Fields (448)
 
 --------------------------------------------------------------------------------
 VENUE: Muhl Fields (449)
+  Address: 390 Trease Road, Wadsworth, OH 44281
   Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=210
 --------------------------------------------------------------------------------
@@ -8876,6 +9106,7 @@ VENUE: Muhl Fields (449)
 
 --------------------------------------------------------------------------------
 VENUE: Muhl Fields (452  )
+  Address: 390 Trease Road, Wadsworth, OH 44281
   Games at this venue: 10
   Map: https://www.ohtsl.com/directionmap.php?locationid=210
 --------------------------------------------------------------------------------
@@ -8922,6 +9153,7 @@ VENUE: Muhl Fields (452  )
 
 --------------------------------------------------------------------------------
 VENUE: Nathan Hale Park (Nathan Hale Park)
+  Address: 7075 Parma Park Blvd, Parma Heights, Oh 44130
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=777
 --------------------------------------------------------------------------------
@@ -8944,6 +9176,7 @@ VENUE: Nathan Hale Park (Nathan Hale Park)
 
 --------------------------------------------------------------------------------
 VENUE: Newbury Field 11v11 (Newbury Field)
+  Address: 14775 Auburn Road, Newbury, Oh
   Games at this venue: 26
   Map: https://www.ohtsl.com/directionmap.php?locationid=739
 --------------------------------------------------------------------------------
@@ -9012,6 +9245,7 @@ VENUE: Newbury Field 11v11 (Newbury Field)
 
 --------------------------------------------------------------------------------
 VENUE: Newton Park (404)
+  Address: 760 Newton St, Barberton, OH 44203
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=577
 --------------------------------------------------------------------------------
@@ -9047,6 +9281,7 @@ VENUE: Newton Park (404)
 
 --------------------------------------------------------------------------------
 VENUE: Nordonia High School (Stadium)
+  Address: 8006 south bedford rd, Macedonia, oh 44056
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=129
 --------------------------------------------------------------------------------
@@ -9095,6 +9330,7 @@ VENUE: Nordonia High School (Stadium)
 
 --------------------------------------------------------------------------------
 VENUE: North Larwrence Township Park (7v7)
+  Address: 6235-6369 Manchester Ave NW, North Lawrence, oh 44666
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=627
 --------------------------------------------------------------------------------
@@ -9127,6 +9363,7 @@ VENUE: North Larwrence Township Park (7v7)
 
 --------------------------------------------------------------------------------
 VENUE: North Lawrence Township Park (11v11 field)
+  Address: 6235-6369 Manchester Ave NW, North Lawrence, Oh 44666
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=598
 --------------------------------------------------------------------------------
@@ -9178,6 +9415,7 @@ VENUE: North Lawrence Township Park (11v11 field)
 
 --------------------------------------------------------------------------------
 VENUE: North Lawrence Township Park (9v9)
+  Address: 6235-6369 Manchester Ave NW, North Lawrence, Oh 44666
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=626
 --------------------------------------------------------------------------------
@@ -9200,6 +9438,7 @@ VENUE: North Lawrence Township Park (9v9)
 
 --------------------------------------------------------------------------------
 VENUE: North Park (9v9)
+  Address: 7549 Community Pkwy NW, Massillon, OH 44646
   Games at this venue: 2
   Map: https://www.ohtsl.com/directionmap.php?locationid=778
 --------------------------------------------------------------------------------
@@ -9211,6 +9450,7 @@ VENUE: North Park (9v9)
 
 --------------------------------------------------------------------------------
 VENUE: North Ridgeville High School  (North Ridgeville HS Turf )
+  Address: 34620 Bainbridge Road, North Ridgeville, OH 44039
   Games at this venue: 19
   Map: https://www.ohtsl.com/directionmap.php?locationid=724
 --------------------------------------------------------------------------------
@@ -9260,6 +9500,7 @@ VENUE: North Ridgeville High School  (North Ridgeville HS Turf )
 
 --------------------------------------------------------------------------------
 VENUE: North Royalton HS Serpentini Soccer Field (Serpintini Stadium)
+  Address: 6579 Royalton Road, North Royalton, OH 44133
   Games at this venue: 2
   Map: https://www.ohtsl.com/directionmap.php?locationid=263
 --------------------------------------------------------------------------------
@@ -9271,6 +9512,7 @@ VENUE: North Royalton HS Serpentini Soccer Field (Serpintini Stadium)
 
 --------------------------------------------------------------------------------
 VENUE: North Royalton Memorial Park Soccer Field (Memorial Park)
+  Address: 14600 State Rd, North Royalton, OH 44133
   Games at this venue: 3
   Map: https://www.ohtsl.com/directionmap.php?locationid=262
 --------------------------------------------------------------------------------
@@ -9289,6 +9531,7 @@ VENUE: North Royalton Memorial Park Soccer Field (Memorial Park)
 
 --------------------------------------------------------------------------------
 VENUE: Northgate Park (7v7)
+  Address: 2155 Eaton Drive, Avon, OH 44011
   Games at this venue: 3
   Map: https://www.ohtsl.com/directionmap.php?locationid=368
 --------------------------------------------------------------------------------
@@ -9307,6 +9550,7 @@ VENUE: Northgate Park (7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Northwest Middle School Fields (Dr. Martin Smilek Stadium)
+  Address: 8614 Erie Ave. N, Canal Fulton, OH 44614
   Games at this venue: 6
   Map: https://www.ohtsl.com/directionmap.php?locationid=595
 --------------------------------------------------------------------------------
@@ -9331,6 +9575,7 @@ VENUE: Northwest Middle School Fields (Dr. Martin Smilek Stadium)
 
 --------------------------------------------------------------------------------
 VENUE: Northwest Middle School Fields (Northwest Middle School Grass Field)
+  Address: 8614 Erie Ave. N, Canal Fulton, OH 44614
   Games at this venue: 14
   Map: https://www.ohtsl.com/directionmap.php?locationid=595
 --------------------------------------------------------------------------------
@@ -9369,7 +9614,7 @@ VENUE: Northwest Middle School Fields (Northwest Middle School Grass Field)
 
   Sun 5/17/26
   ──────────────────────────────────────────────────────────────────────
-     4:00 PM  #10927  Northwest                 vs Highland   DN1            (Girls 2012(U14) Div 4)
+    12:00 PM  #10927  Northwest                 vs Highland   DN1            (Girls 2012(U14) Div 4)
 
   Tue 5/26/26
   ──────────────────────────────────────────────────────────────────────
@@ -9381,6 +9626,7 @@ VENUE: Northwest Middle School Fields (Northwest Middle School Grass Field)
 
 --------------------------------------------------------------------------------
 VENUE: Norton Stadium (Turf)  (High School Stadium Turf )
+  Address: 1 Panther Way, Norton, OH 44203
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=671
 --------------------------------------------------------------------------------
@@ -9403,6 +9649,7 @@ VENUE: Norton Stadium (Turf)  (High School Stadium Turf )
 
 --------------------------------------------------------------------------------
 VENUE: Oakleaf Community Park (Field 1: Bottom)
+  Address: 3163 Wadsworth Road, Norton, OH 44203
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=583
 --------------------------------------------------------------------------------
@@ -9448,6 +9695,7 @@ VENUE: Oakleaf Community Park (Field 1: Bottom)
 
 --------------------------------------------------------------------------------
 VENUE: Oakleaf Community Park (Field 3: Top Left)
+  Address: 3163 Wadsworth Road, Norton, OH 44203
   Games at this venue: 16
   Map: https://www.ohtsl.com/directionmap.php?locationid=583
 --------------------------------------------------------------------------------
@@ -9509,6 +9757,7 @@ VENUE: Oakleaf Community Park (Field 3: Top Left)
 
 --------------------------------------------------------------------------------
 VENUE: Oberland Park (11v11 - Field 4)
+  Address: 14775 Auburn Rd, Newbury, Oh 44065
   Games at this venue: 20
   Map: https://www.ohtsl.com/directionmap.php?locationid=90
 --------------------------------------------------------------------------------
@@ -9571,6 +9820,7 @@ VENUE: Oberland Park (11v11 - Field 4)
 
 --------------------------------------------------------------------------------
 VENUE: Oberland Park (7-7 Field 2)
+  Address: 14775 Auburn Rd, Newbury, Oh 44065
   Games at this venue: 20
   Map: https://www.ohtsl.com/directionmap.php?locationid=90
 --------------------------------------------------------------------------------
@@ -9630,6 +9880,7 @@ VENUE: Oberland Park (7-7 Field 2)
 
 --------------------------------------------------------------------------------
 VENUE: Oberland Park (7v7 - Field 5)
+  Address: 14775 Auburn Rd, Newbury, Oh 44065
   Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=90
 --------------------------------------------------------------------------------
@@ -9640,6 +9891,7 @@ VENUE: Oberland Park (7v7 - Field 5)
 
 --------------------------------------------------------------------------------
 VENUE: Oberland Park (9v9 - Field 1)
+  Address: 14775 Auburn Rd, Newbury, Oh 44065
   Games at this venue: 17
   Map: https://www.ohtsl.com/directionmap.php?locationid=90
 --------------------------------------------------------------------------------
@@ -9693,6 +9945,7 @@ VENUE: Oberland Park (9v9 - Field 1)
 
 --------------------------------------------------------------------------------
 VENUE: Olmsted Falls High School Stadium (11v11)
+  Address: 26939 Bagley Road, Olmsted Falls, OH 44138
   Games at this venue: 5
   Map: https://www.ohtsl.com/directionmap.php?locationid=257
 --------------------------------------------------------------------------------
@@ -9716,6 +9969,7 @@ VENUE: Olmsted Falls High School Stadium (11v11)
 
 --------------------------------------------------------------------------------
 VENUE: Orange - Brady Middle School 7v7 Fields  (7v7 Field 1 B3 Top of Hill - )
+  Address: 32000 Chagrin Boulevard, Orange, Oh 44124
   Games at this venue: 15
   Map: https://www.ohtsl.com/directionmap.php?locationid=258
 --------------------------------------------------------------------------------
@@ -9770,6 +10024,7 @@ VENUE: Orange - Brady Middle School 7v7 Fields  (7v7 Field 1 B3 Top of Hill - )
 
 --------------------------------------------------------------------------------
 VENUE: Orange - Brady Middle School B4 9v9 Field - Upper Left Corner  (Brady Middle School)
+  Address: 32000 Chagrin Boulevard, Orange, OH 44124
   Games at this venue: 16
   Map: https://www.ohtsl.com/directionmap.php?locationid=264
 --------------------------------------------------------------------------------
@@ -9828,6 +10083,7 @@ VENUE: Orange - Brady Middle School B4 9v9 Field - Upper Left Corner  (Brady Mid
 
 --------------------------------------------------------------------------------
 VENUE: Orange - Chagrin Blvd Frontage  F4 11v11 (11v11)
+  Address: 32000 Chagrin Boulevard, Orange, OH 44124
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=291
 --------------------------------------------------------------------------------
@@ -9860,6 +10116,7 @@ VENUE: Orange - Chagrin Blvd Frontage  F4 11v11 (11v11)
 
 --------------------------------------------------------------------------------
 VENUE: Orange High School Stadium  (High school football/soccer stadium)
+  Address: 32000 Chagrin Boulevard, Pepper Pike, Oh 44124
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=610
 --------------------------------------------------------------------------------
@@ -9882,6 +10139,7 @@ VENUE: Orange High School Stadium  (High school football/soccer stadium)
 
 --------------------------------------------------------------------------------
 VENUE: Orchard Middle School (11v11)
+  Address: 6800 SOM Ctr. Rd., Solon, OH 44139
   Games at this venue: 10
   Map: https://www.ohtsl.com/directionmap.php?locationid=46
 --------------------------------------------------------------------------------
@@ -9928,6 +10186,7 @@ VENUE: Orchard Middle School (11v11)
 
 --------------------------------------------------------------------------------
 VENUE: Orchard Middle School (7v7 (South Half))
+  Address: 6800 SOM Ctr. Rd., Solon, OH 44139
   Games at this venue: 10
   Map: https://www.ohtsl.com/directionmap.php?locationid=46
 --------------------------------------------------------------------------------
@@ -9965,6 +10224,7 @@ VENUE: Orchard Middle School (7v7 (South Half))
 
 --------------------------------------------------------------------------------
 VENUE: Oregon Trail Park (Oregon Trail Park 7v7 #747)
+  Address: 2905 Graham Rd, Stow, Oh 44224
   Games at this venue: 20
   Map: https://www.ohtsl.com/directionmap.php?locationid=177
 --------------------------------------------------------------------------------
@@ -10015,6 +10275,7 @@ VENUE: Oregon Trail Park (Oregon Trail Park 7v7 #747)
 
 --------------------------------------------------------------------------------
 VENUE: Oregon Trail Park (Oregon Trail Park 7v7 #748)
+  Address: 2905 Graham Rd, Stow, Oh 44224
   Games at this venue: 15
   Map: https://www.ohtsl.com/directionmap.php?locationid=177
 --------------------------------------------------------------------------------
@@ -10060,6 +10321,7 @@ VENUE: Oregon Trail Park (Oregon Trail Park 7v7 #748)
 
 --------------------------------------------------------------------------------
 VENUE: Oregon Trail Park (Oregon Trail Park 7v7 #749)
+  Address: 2905 Graham Rd, Stow, Oh 44224
   Games at this venue: 3
   Map: https://www.ohtsl.com/directionmap.php?locationid=177
 --------------------------------------------------------------------------------
@@ -10075,6 +10337,7 @@ VENUE: Oregon Trail Park (Oregon Trail Park 7v7 #749)
 
 --------------------------------------------------------------------------------
 VENUE: Orlando Park (Orlando Park 7v7)
+  Address: 30100 Twin Lakes Dr., Wickliffe, OH 44092
   Games at this venue: 5
   Map: https://www.ohtsl.com/directionmap.php?locationid=40
 --------------------------------------------------------------------------------
@@ -10095,6 +10358,7 @@ VENUE: Orlando Park (Orlando Park 7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Osborne Park (Osborne Park 11v11)
+  Address: 38575 Lakeshore Blvd, Willoughby, Oh 44094
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=81
 --------------------------------------------------------------------------------
@@ -10117,6 +10381,7 @@ VENUE: Osborne Park (Osborne Park 11v11)
 
 --------------------------------------------------------------------------------
 VENUE: Osborne Park (Osborne Park 7v7)
+  Address: 38575 Lakeshore Blvd, Willoughby, Oh 44094
   Games at this venue: 16
   Map: https://www.ohtsl.com/directionmap.php?locationid=81
 --------------------------------------------------------------------------------
@@ -10175,6 +10440,7 @@ VENUE: Osborne Park (Osborne Park 7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Osborne Park (Osborne Park 9v9)
+  Address: 38575 Lakeshore Blvd, Willoughby, Oh 44094
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=81
 --------------------------------------------------------------------------------
@@ -10207,6 +10473,7 @@ VENUE: Osborne Park (Osborne Park 9v9)
 
 --------------------------------------------------------------------------------
 VENUE: Parkside (Field #1 - 11v11)
+  Address: 24525 Hilliard Blvd., Westlake, OH 44145
   Games at this venue: 2
   Map: https://www.ohtsl.com/directionmap.php?locationid=690
 --------------------------------------------------------------------------------
@@ -10221,6 +10488,7 @@ VENUE: Parkside (Field #1 - 11v11)
 
 --------------------------------------------------------------------------------
 VENUE: Parkside (Field #1S - 7v7)
+  Address: 24525 Hilliard Blvd., Westlake, OH 44145
   Games at this venue: 7
   Map: https://www.ohtsl.com/directionmap.php?locationid=690
 --------------------------------------------------------------------------------
@@ -10249,6 +10517,7 @@ VENUE: Parkside (Field #1S - 7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Parkside (Field #2N - 7v7)
+  Address: 24525 Hilliard Blvd., Westlake, OH 44145
   Games at this venue: 22
   Map: https://www.ohtsl.com/directionmap.php?locationid=690
 --------------------------------------------------------------------------------
@@ -10313,6 +10582,7 @@ VENUE: Parkside (Field #2N - 7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Parkside (Field #2S - 7v7)
+  Address: 24525 Hilliard Blvd., Westlake, OH 44145
   Games at this venue: 37
   Map: https://www.ohtsl.com/directionmap.php?locationid=690
 --------------------------------------------------------------------------------
@@ -10410,6 +10680,7 @@ VENUE: Parkside (Field #2S - 7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Parma Community Middle School (Parma Community Middle School)
+  Address: 5983 W54th St, Parma, OH 44129
   Games at this venue: 2
   Map: https://www.ohtsl.com/directionmap.php?locationid=516
 --------------------------------------------------------------------------------
@@ -10421,6 +10692,7 @@ VENUE: Parma Community Middle School (Parma Community Middle School)
 
 --------------------------------------------------------------------------------
 VENUE: Pleasant Valley (9v9) (NP 9v9)
+  Address: 2012 Pleasant Valley Rd NE, New Philadelphia, Oh 44663
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=575
 --------------------------------------------------------------------------------
@@ -10463,6 +10735,7 @@ VENUE: Pleasant Valley (9v9) (NP 9v9)
 
 --------------------------------------------------------------------------------
 VENUE: Portage Lakes Career Center Fields (101)
+  Address: 4401 Shriver Rd, Uniontown, Oh 44685
   Games at this venue: 18
   Map: https://www.ohtsl.com/directionmap.php?locationid=439
 --------------------------------------------------------------------------------
@@ -10526,6 +10799,7 @@ VENUE: Portage Lakes Career Center Fields (101)
 
 --------------------------------------------------------------------------------
 VENUE: Portage Lakes Career Center Fields (102)
+  Address: 4401 Shriver Rd, Uniontown, Oh 44685
   Games at this venue: 2
   Map: https://www.ohtsl.com/directionmap.php?locationid=439
 --------------------------------------------------------------------------------
@@ -10540,6 +10814,7 @@ VENUE: Portage Lakes Career Center Fields (102)
 
 --------------------------------------------------------------------------------
 VENUE: Porter Fields (Field #1 - 9v9)
+  Address: 29301 Center Ridge Road, Westlake, OH 44145
   Games at this venue: 32
   Map: https://www.ohtsl.com/directionmap.php?locationid=246
 --------------------------------------------------------------------------------
@@ -10632,6 +10907,7 @@ VENUE: Porter Fields (Field #1 - 9v9)
 
 --------------------------------------------------------------------------------
 VENUE: Porter Fields (Field #2 - 11v11)
+  Address: 29301 Center Ridge Road, Westlake, OH 44145
   Games at this venue: 26
   Map: https://www.ohtsl.com/directionmap.php?locationid=246
 --------------------------------------------------------------------------------
@@ -10721,6 +10997,7 @@ VENUE: Porter Fields (Field #2 - 11v11)
 
 --------------------------------------------------------------------------------
 VENUE: Revere High School (Revere High School)
+  Address: 3420 Everett Rd, Richfield, Oh 44286
   Games at this venue: 10
   Map: https://www.ohtsl.com/directionmap.php?locationid=154
 --------------------------------------------------------------------------------
@@ -10752,6 +11029,7 @@ VENUE: Revere High School (Revere High School)
 
 --------------------------------------------------------------------------------
 VENUE: Richfield Woods Park (Richfield Woods Park Field # 1 (Closest to Pond))
+  Address: 4100 Broadview Rd, Richfield, Oh 44286
   Games at this venue: 23
   Map: https://www.ohtsl.com/directionmap.php?locationid=175
 --------------------------------------------------------------------------------
@@ -10826,6 +11104,7 @@ VENUE: Richfield Woods Park (Richfield Woods Park Field # 1 (Closest to Pond))
 
 --------------------------------------------------------------------------------
 VENUE: Richfield Woods Park (Richfield Woods Park Field # 2 (Middle Field))
+  Address: 4100 Broadview Rd, Richfield, Oh 44286
   Games at this venue: 5
   Map: https://www.ohtsl.com/directionmap.php?locationid=175
 --------------------------------------------------------------------------------
@@ -10852,6 +11131,7 @@ VENUE: Richfield Woods Park (Richfield Woods Park Field # 2 (Middle Field))
 
 --------------------------------------------------------------------------------
 VENUE: Richfield Woods Park (Richfield Woods Park Field # 3 (Closest to Woods))
+  Address: 4100 Broadview Rd, Richfield, Oh 44286
   Games at this venue: 10
   Map: https://www.ohtsl.com/directionmap.php?locationid=175
 --------------------------------------------------------------------------------
@@ -10895,6 +11175,7 @@ VENUE: Richfield Woods Park (Richfield Woods Park Field # 3 (Closest to Woods))
 
 --------------------------------------------------------------------------------
 VENUE: River Road Park (River Road Park 2)
+  Address: 17535 Chagrin River Road, Chagrin Falls, OH 44023
   Games at this venue: 11
   Map: https://www.ohtsl.com/directionmap.php?locationid=617
 --------------------------------------------------------------------------------
@@ -10933,6 +11214,7 @@ VENUE: River Road Park (River Road Park 2)
 
 --------------------------------------------------------------------------------
 VENUE: River Road Park (River Road Park 9v9 West)
+  Address: 17535 Chagrin River Road, Chagrin Falls, OH 44023
   Games at this venue: 20
   Map: https://www.ohtsl.com/directionmap.php?locationid=617
 --------------------------------------------------------------------------------
@@ -10998,6 +11280,7 @@ VENUE: River Road Park (River Road Park 9v9 West)
 
 --------------------------------------------------------------------------------
 VENUE: River Road Park (River Road Park East 1)
+  Address: 17535 Chagrin River Road, Chagrin Falls, OH 44023
   Games at this venue: 16
   Map: https://www.ohtsl.com/directionmap.php?locationid=617
 --------------------------------------------------------------------------------
@@ -11056,6 +11339,7 @@ VENUE: River Road Park (River Road Park East 1)
 
 --------------------------------------------------------------------------------
 VENUE: Riverside HS Stadium - turf field (Stadium turf field 11v11)
+  Address: 585 Riverside Dr, Painesville, OH 44077
   Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=602
 --------------------------------------------------------------------------------
@@ -11066,6 +11350,7 @@ VENUE: Riverside HS Stadium - turf field (Stadium turf field 11v11)
 
 --------------------------------------------------------------------------------
 VENUE: Riverside High School - grass field 11v11 (Varsity Grass (11v11))
+  Address: 585 Riverside Dr, Paineville, OH 44077
   Games at this venue: 11
   Map: https://www.ohtsl.com/directionmap.php?locationid=383
 --------------------------------------------------------------------------------
@@ -11104,6 +11389,7 @@ VENUE: Riverside High School - grass field 11v11 (Varsity Grass (11v11))
 
 --------------------------------------------------------------------------------
 VENUE: Riverview Elementary (7v7)
+  Address: 845 Madison Ave, Painesville, Oh 44077
   Games at this venue: 16
   Map: https://www.ohtsl.com/directionmap.php?locationid=15
 --------------------------------------------------------------------------------
@@ -11153,6 +11439,7 @@ VENUE: Riverview Elementary (7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Riverview Elementary (9v9)
+  Address: 845 Madison Ave, Painesville, Oh 44077
   Games at this venue: 20
   Map: https://www.ohtsl.com/directionmap.php?locationid=15
 --------------------------------------------------------------------------------
@@ -11212,6 +11499,7 @@ VENUE: Riverview Elementary (9v9)
 
 --------------------------------------------------------------------------------
 VENUE: Rocky River High School (RRHS)
+  Address: 20951 Detroit Rd, Rocky River, Oh 44116
   Games at this venue: 7
   Map: https://www.ohtsl.com/directionmap.php?locationid=3
 --------------------------------------------------------------------------------
@@ -11237,6 +11525,7 @@ VENUE: Rocky River High School (RRHS)
 
 --------------------------------------------------------------------------------
 VENUE: Rocky River Middle School (RRMS)
+  Address: 1631 Lakeview Ave, Rocky River, OH 44116
   Games at this venue: 13
   Map: https://www.ohtsl.com/directionmap.php?locationid=4
 --------------------------------------------------------------------------------
@@ -11292,6 +11581,7 @@ VENUE: Rocky River Middle School (RRMS)
 
 --------------------------------------------------------------------------------
 VENUE: Root Road Soccer Complex (Field 2)
+  Address: 8949 Root Road, North Ridgeville, OH 44039
   Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=666
 --------------------------------------------------------------------------------
@@ -11302,6 +11592,7 @@ VENUE: Root Road Soccer Complex (Field 2)
 
 --------------------------------------------------------------------------------
 VENUE: Rootstown Community Park - Gracie Fields (#1)
+  Address: 4104 Case Ave, Rootstown, OH 44272
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=651
 --------------------------------------------------------------------------------
@@ -11324,6 +11615,7 @@ VENUE: Rootstown Community Park - Gracie Fields (#1)
 
 --------------------------------------------------------------------------------
 VENUE: Rootstown Community Park - Gracie Fields (#4)
+  Address: 4104 Case Ave, Rootstown, OH 44272
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=651
 --------------------------------------------------------------------------------
@@ -11346,6 +11638,7 @@ VENUE: Rootstown Community Park - Gracie Fields (#4)
 
 --------------------------------------------------------------------------------
 VENUE: Rootstown Community Park - Gracie Fields (#6)
+  Address: 4104 Case Ave, Rootstown, OH 44272
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=651
 --------------------------------------------------------------------------------
@@ -11368,6 +11661,7 @@ VENUE: Rootstown Community Park - Gracie Fields (#6)
 
 --------------------------------------------------------------------------------
 VENUE: Roxbury Field (11v11)
+  Address: 6800 SOM Ctr Rd, Solon, Oh 44139
   Games at this venue: 7
   Map: https://www.ohtsl.com/directionmap.php?locationid=540
 --------------------------------------------------------------------------------
@@ -11387,6 +11681,7 @@ VENUE: Roxbury Field (11v11)
 
 --------------------------------------------------------------------------------
 VENUE: Schady Rd Soccer Complex (11v11-1)
+  Address: 27075 Schady Road, Olmsted Falls, Oh 44138
   Games at this venue: 20
   Map: https://www.ohtsl.com/directionmap.php?locationid=12
 --------------------------------------------------------------------------------
@@ -11449,6 +11744,7 @@ VENUE: Schady Rd Soccer Complex (11v11-1)
 
 --------------------------------------------------------------------------------
 VENUE: Schady Rd Soccer Complex (11v11-2)
+  Address: 27075 Schady Road, Olmsted Falls, Oh 44138
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=12
 --------------------------------------------------------------------------------
@@ -11471,6 +11767,7 @@ VENUE: Schady Rd Soccer Complex (11v11-2)
 
 --------------------------------------------------------------------------------
 VENUE: Schady Rd Soccer Complex (7v7-1)
+  Address: 27075 Schady Road, Olmsted Falls, Oh 44138
   Games at this venue: 18
   Map: https://www.ohtsl.com/directionmap.php?locationid=12
 --------------------------------------------------------------------------------
@@ -11531,6 +11828,7 @@ VENUE: Schady Rd Soccer Complex (7v7-1)
 
 --------------------------------------------------------------------------------
 VENUE: Schady Rd Soccer Complex (7v7-2)
+  Address: 27075 Schady Road, Olmsted Falls, Oh 44138
   Games at this venue: 14
   Map: https://www.ohtsl.com/directionmap.php?locationid=12
 --------------------------------------------------------------------------------
@@ -11575,6 +11873,7 @@ VENUE: Schady Rd Soccer Complex (7v7-2)
 
 --------------------------------------------------------------------------------
 VENUE: Schady Rd Soccer Complex (9v9-1)
+  Address: 27075 Schady Road, Olmsted Falls, Oh 44138
   Games at this venue: 15
   Map: https://www.ohtsl.com/directionmap.php?locationid=12
 --------------------------------------------------------------------------------
@@ -11629,6 +11928,7 @@ VENUE: Schady Rd Soccer Complex (9v9-1)
 
 --------------------------------------------------------------------------------
 VENUE: Schady Rd Soccer Complex (9v9-2)
+  Address: 27075 Schady Road, Olmsted Falls, Oh 44138
   Games at this venue: 13
   Map: https://www.ohtsl.com/directionmap.php?locationid=12
 --------------------------------------------------------------------------------
@@ -11684,6 +11984,7 @@ VENUE: Schady Rd Soccer Complex (9v9-2)
 
 --------------------------------------------------------------------------------
 VENUE: Schwartz Road Park (#10 - 7v7)
+  Address: 35001 Schwartz Road, Avon, OH 44011
   Games at this venue: 14
   Map: https://www.ohtsl.com/directionmap.php?locationid=330
 --------------------------------------------------------------------------------
@@ -11725,6 +12026,7 @@ VENUE: Schwartz Road Park (#10 - 7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Schwartz Road Park (#11 - 7v7)
+  Address: 35001 Schwartz Road, Avon, OH 44011
   Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=330
 --------------------------------------------------------------------------------
@@ -11735,6 +12037,7 @@ VENUE: Schwartz Road Park (#11 - 7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Schwartz Road Park (#12 - 7v7)
+  Address: 35001 Schwartz Road, Avon, OH 44011
   Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=330
 --------------------------------------------------------------------------------
@@ -11745,6 +12048,7 @@ VENUE: Schwartz Road Park (#12 - 7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Schwartz Road Park (#13 - 11V11)
+  Address: 35001 Schwartz Road, Avon, OH 44011
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=330
 --------------------------------------------------------------------------------
@@ -11790,6 +12094,7 @@ VENUE: Schwartz Road Park (#13 - 11V11)
 
 --------------------------------------------------------------------------------
 VENUE: Schwartz Road Park (#3 - 9v9)
+  Address: 35001 Schwartz Road, Avon, OH 44011
   Games at this venue: 28
   Map: https://www.ohtsl.com/directionmap.php?locationid=330
 --------------------------------------------------------------------------------
@@ -11869,6 +12174,7 @@ VENUE: Schwartz Road Park (#3 - 9v9)
 
 --------------------------------------------------------------------------------
 VENUE: Schwartz Road Park (#9 - 7v7)
+  Address: 35001 Schwartz Road, Avon, OH 44011
   Games at this venue: 38
   Map: https://www.ohtsl.com/directionmap.php?locationid=330
 --------------------------------------------------------------------------------
@@ -11952,6 +12258,7 @@ VENUE: Schwartz Road Park (#9 - 7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Settler's Park (Field 1 7v7)
+  Address: 17800 Haskins Road, Chagrin Falls, Oh 44023
   Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=616
 --------------------------------------------------------------------------------
@@ -11962,6 +12269,7 @@ VENUE: Settler's Park (Field 1 7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Shaker Heights High School (Stadium Turf Field)
+  Address: 15911 Aldersyde Dr, Shaker Heights, OH 44122
   Games at this venue: 3
   Map: https://www.ohtsl.com/directionmap.php?locationid=426
 --------------------------------------------------------------------------------
@@ -11974,6 +12282,7 @@ VENUE: Shaker Heights High School (Stadium Turf Field)
 
 --------------------------------------------------------------------------------
 VENUE: Shaker Heights Main Library (Main Library Field)
+  Address: 16500 Van Aken Blvd, Shaker Heights, OH 44120
   Games at this venue: 25
   Map: https://www.ohtsl.com/directionmap.php?locationid=316
 --------------------------------------------------------------------------------
@@ -12047,6 +12356,7 @@ VENUE: Shaker Heights Main Library (Main Library Field)
 
 --------------------------------------------------------------------------------
 VENUE: Shaker Heights Middle School (Lower Field (east end of school building))
+  Address: 20600 Shaker Blvd, Shaker Heights, OH 44122
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=487
 --------------------------------------------------------------------------------
@@ -12082,6 +12392,7 @@ VENUE: Shaker Heights Middle School (Lower Field (east end of school building))
 
 --------------------------------------------------------------------------------
 VENUE: Shaker Heights Middle School (Median Field (across Shaker Blvd from the school))
+  Address: 20600 Shaker Blvd, Shaker Heights, OH 44122
   Games at this venue: 27
   Map: https://www.ohtsl.com/directionmap.php?locationid=487
 --------------------------------------------------------------------------------
@@ -12166,6 +12477,7 @@ VENUE: Shaker Heights Middle School (Median Field (across Shaker Blvd from the s
 
 --------------------------------------------------------------------------------
 VENUE: Sharon Community Park (Field 1: 11v11 - Front Field)
+  Address: 6674 Ridge Rd, Wadsworth, OH 44281
   Games at this venue: 21
   Map: https://www.ohtsl.com/directionmap.php?locationid=199
 --------------------------------------------------------------------------------
@@ -12253,6 +12565,7 @@ VENUE: Sharon Community Park (Field 1: 11v11 - Front Field)
 
 --------------------------------------------------------------------------------
 VENUE: Sharon Community Park (Field 2: 9v9 - Middle Field)
+  Address: 6674 Ridge Rd, Wadsworth, OH 44281
   Games at this venue: 32
   Map: https://www.ohtsl.com/directionmap.php?locationid=199
 --------------------------------------------------------------------------------
@@ -12348,6 +12661,7 @@ VENUE: Sharon Community Park (Field 2: 9v9 - Middle Field)
 
 --------------------------------------------------------------------------------
 VENUE: Shelburne Field (Corner of North Park and Shelburne)
+  Address: 19815 North Park Blvd, Shaker Heights, OH 44122
   Games at this venue: 25
   Map: https://www.ohtsl.com/directionmap.php?locationid=317
 --------------------------------------------------------------------------------
@@ -12424,6 +12738,7 @@ VENUE: Shelburne Field (Corner of North Park and Shelburne)
 
 --------------------------------------------------------------------------------
 VENUE: Shore Field (11v11 primary)
+  Address: 22400 Shore Center, Euclid, OH 44123
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=43
 --------------------------------------------------------------------------------
@@ -12446,6 +12761,7 @@ VENUE: Shore Field (11v11 primary)
 
 --------------------------------------------------------------------------------
 VENUE: Silver Springs Park (Silver Springs Park 11v11/9v9 (Field 1 Close to Road))
+  Address: 5027 Stow Rd, Stow, OH 44224
   Games at this venue: 38
   Map: https://www.ohtsl.com/directionmap.php?locationid=176
 --------------------------------------------------------------------------------
@@ -12565,6 +12881,7 @@ VENUE: Silver Springs Park (Silver Springs Park 11v11/9v9 (Field 1 Close to Road
 
 --------------------------------------------------------------------------------
 VENUE: Sofios Park (Field #6  7v7)
+  Address: 39 N. Old State Rd, Norwalk, Oh 44857
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=323
 --------------------------------------------------------------------------------
@@ -12601,6 +12918,7 @@ VENUE: Sofios Park (Field #6  7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Sofios Park (Field #7 9v9)
+  Address: 39 N. Old State Rd, Norwalk, Oh 44857
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=323
 --------------------------------------------------------------------------------
@@ -12636,6 +12954,7 @@ VENUE: Sofios Park (Field #7 9v9)
 
 --------------------------------------------------------------------------------
 VENUE: Sofios Park (Field #8 11v11)
+  Address: 39 N. Old State Rd, Norwalk, Oh 44857
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=323
 --------------------------------------------------------------------------------
@@ -12668,6 +12987,7 @@ VENUE: Sofios Park (Field #8 11v11)
 
 --------------------------------------------------------------------------------
 VENUE: Solon Community Park (11v11)
+  Address: 6775 SOM Ctr Rd, SOLON, OH 44139
   Games at this venue: 7
   Map: https://www.ohtsl.com/directionmap.php?locationid=47
 --------------------------------------------------------------------------------
@@ -12693,6 +13013,7 @@ VENUE: Solon Community Park (11v11)
 
 --------------------------------------------------------------------------------
 VENUE: Solon Community Park (9v9)
+  Address: 6775 SOM Ctr Rd, SOLON, OH 44139
   Games at this venue: 3
   Map: https://www.ohtsl.com/directionmap.php?locationid=47
 --------------------------------------------------------------------------------
@@ -12711,6 +13032,7 @@ VENUE: Solon Community Park (9v9)
 
 --------------------------------------------------------------------------------
 VENUE: Solon High School (High School Stadium Turf)
+  Address: 33600 Inwood Dr., SOLON, OH 44139
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=45
 --------------------------------------------------------------------------------
@@ -12733,6 +13055,7 @@ VENUE: Solon High School (High School Stadium Turf)
 
 --------------------------------------------------------------------------------
 VENUE: Southside Community Park (11v11) (SSCP - 11v11)
+  Address: 989 Perry Dr SE, New Philadelphia, OH 44663
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=772
 --------------------------------------------------------------------------------
@@ -12755,6 +13078,7 @@ VENUE: Southside Community Park (11v11) (SSCP - 11v11)
 
 --------------------------------------------------------------------------------
 VENUE: Southside Community Park (7v7) (SSCP - 7v7)
+  Address: 989 Perry Dr SE, New Philadelphia, OH 44663
   Games at this venue: 16
   Map: https://www.ohtsl.com/directionmap.php?locationid=620
 --------------------------------------------------------------------------------
@@ -12807,6 +13131,7 @@ VENUE: Southside Community Park (7v7) (SSCP - 7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Spire Institute (Indoor Full Field - Field Turf)
+  Address: 5201 Spire Circle, Geneva, OH 44041
   Games at this venue: 5
   Map: https://www.ohtsl.com/directionmap.php?locationid=224
 --------------------------------------------------------------------------------
@@ -12830,6 +13155,7 @@ VENUE: Spire Institute (Indoor Full Field - Field Turf)
 
 --------------------------------------------------------------------------------
 VENUE: Spire Institute (Indoor Partial Field - Field Turf)
+  Address: 5201 Spire Circle, Geneva, OH 44041
   Games at this venue: 14
   Map: https://www.ohtsl.com/directionmap.php?locationid=224
 --------------------------------------------------------------------------------
@@ -12865,6 +13191,7 @@ VENUE: Spire Institute (Indoor Partial Field - Field Turf)
 
 --------------------------------------------------------------------------------
 VENUE: Spire Institute (Outdoor Turf Stadium )
+  Address: 5201 Spire Circle, Geneva, OH 44041
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=224
 --------------------------------------------------------------------------------
@@ -12888,6 +13215,7 @@ VENUE: Spire Institute (Outdoor Turf Stadium )
 
 --------------------------------------------------------------------------------
 VENUE: Spire Institute (Track and Field Buildling Indoor Turf Field)
+  Address: 5201 Spire Circle, Geneva, OH 44041
   Games at this venue: 10
   Map: https://www.ohtsl.com/directionmap.php?locationid=224
 --------------------------------------------------------------------------------
@@ -12925,6 +13253,7 @@ VENUE: Spire Institute (Track and Field Buildling Indoor Turf Field)
 
 --------------------------------------------------------------------------------
 VENUE: Sports Force Parks (11v11 Field 1)
+  Address: 3115 Cleveland Rd, Sandusky, OH 44870
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=483
 --------------------------------------------------------------------------------
@@ -12973,6 +13302,7 @@ VENUE: Sports Force Parks (11v11 Field 1)
 
 --------------------------------------------------------------------------------
 VENUE: Sports Force Parks (11v11 Field 4)
+  Address: 3115 Cleveland Rd, Sandusky, OH 44870
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=483
 --------------------------------------------------------------------------------
@@ -12993,6 +13323,7 @@ VENUE: Sports Force Parks (11v11 Field 4)
 
 --------------------------------------------------------------------------------
 VENUE: Sports Force Parks (7v7 Field 1)
+  Address: 3115 Cleveland Rd, Sandusky, OH 44870
   Games at this venue: 13
   Map: https://www.ohtsl.com/directionmap.php?locationid=483
 --------------------------------------------------------------------------------
@@ -13039,6 +13370,7 @@ VENUE: Sports Force Parks (7v7 Field 1)
 
 --------------------------------------------------------------------------------
 VENUE: Sports Force Parks (7v7 Field 7A)
+  Address: 3115 Cleveland Rd, Sandusky, OH 44870
   Games at this venue: 7
   Map: https://www.ohtsl.com/directionmap.php?locationid=483
 --------------------------------------------------------------------------------
@@ -13073,6 +13405,7 @@ VENUE: Sports Force Parks (7v7 Field 7A)
 
 --------------------------------------------------------------------------------
 VENUE: Sports Force Parks (9v9 Field 1)
+  Address: 3115 Cleveland Rd, Sandusky, OH 44870
   Games at this venue: 5
   Map: https://www.ohtsl.com/directionmap.php?locationid=483
 --------------------------------------------------------------------------------
@@ -13096,6 +13429,7 @@ VENUE: Sports Force Parks (9v9 Field 1)
 
 --------------------------------------------------------------------------------
 VENUE: Sports Force Parks (9v9 Field 7B)
+  Address: 3115 Cleveland Rd, Sandusky, OH 44870
   Games at this venue: 3
   Map: https://www.ohtsl.com/directionmap.php?locationid=483
 --------------------------------------------------------------------------------
@@ -13114,6 +13448,7 @@ VENUE: Sports Force Parks (9v9 Field 7B)
 
 --------------------------------------------------------------------------------
 VENUE: Spring Hill Sports Complex  (Field #111)
+  Address: 3749 Fortuna Dr, Akron, OH 44312
   Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=779
 --------------------------------------------------------------------------------
@@ -13124,6 +13459,7 @@ VENUE: Spring Hill Sports Complex  (Field #111)
 
 --------------------------------------------------------------------------------
 VENUE: Spring Hill Sports Complex (Field 111)
+  Address: 3749 Fortuna Dr, Akron, OH 44312
   Games at this venue: 7
   Map: https://www.ohtsl.com/directionmap.php?locationid=162
 --------------------------------------------------------------------------------
@@ -13149,6 +13485,7 @@ VENUE: Spring Hill Sports Complex (Field 111)
 
 --------------------------------------------------------------------------------
 VENUE: Spring Hill Sports Complex (Field 112)
+  Address: 3749 Fortuna Dr, Akron, OH 44312
   Games at this venue: 17
   Map: https://www.ohtsl.com/directionmap.php?locationid=162
 --------------------------------------------------------------------------------
@@ -13211,6 +13548,7 @@ VENUE: Spring Hill Sports Complex (Field 112)
 
 --------------------------------------------------------------------------------
 VENUE: Spring Hill Sports Complex (Field 113)
+  Address: 3749 Fortuna Dr, Akron, OH 44312
   Games at this venue: 19
   Map: https://www.ohtsl.com/directionmap.php?locationid=162
 --------------------------------------------------------------------------------
@@ -13278,6 +13616,7 @@ VENUE: Spring Hill Sports Complex (Field 113)
 
 --------------------------------------------------------------------------------
 VENUE: Spring Hill Sports Complex (Field 114)
+  Address: 3749 Fortuna Dr, Akron, OH 44312
   Games at this venue: 13
   Map: https://www.ohtsl.com/directionmap.php?locationid=162
 --------------------------------------------------------------------------------
@@ -13315,6 +13654,7 @@ VENUE: Spring Hill Sports Complex (Field 114)
 
 --------------------------------------------------------------------------------
 VENUE: St. Joan of Arc (7v7)
+  Address: 4940 W Tuscarawas St, Canton, OH 44708
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=477
 --------------------------------------------------------------------------------
@@ -13360,6 +13700,7 @@ VENUE: St. Joan of Arc (7v7)
 
 --------------------------------------------------------------------------------
 VENUE: St. Joan of Arc (9v9)
+  Address: 4940 W Tuscarawas St, Canton, OH 44708
   Games at this venue: 16
   Map: https://www.ohtsl.com/directionmap.php?locationid=477
 --------------------------------------------------------------------------------
@@ -13418,6 +13759,7 @@ VENUE: St. Joan of Arc (9v9)
 
 --------------------------------------------------------------------------------
 VENUE: Stonewater Field (Stonewater 1)
+  Address: 502 Stonewater Drive, Kent, OH 44240
   Games at this venue: 13
   Map: https://www.ohtsl.com/directionmap.php?locationid=499
 --------------------------------------------------------------------------------
@@ -13473,6 +13815,7 @@ VENUE: Stonewater Field (Stonewater 1)
 
 --------------------------------------------------------------------------------
 VENUE: Streetsboro High School (High School Stadium)
+  Address: 8585 OH-14, Streetsboro, OH 44241
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=394
 --------------------------------------------------------------------------------
@@ -13502,6 +13845,7 @@ VENUE: Streetsboro High School (High School Stadium)
 
 --------------------------------------------------------------------------------
 VENUE: Summit Fairgrounds (Field 1A/B)
+  Address: 730 North Avenue, Tallmadge, OH 44278
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=484
 --------------------------------------------------------------------------------
@@ -13531,6 +13875,7 @@ VENUE: Summit Fairgrounds (Field 1A/B)
 
 --------------------------------------------------------------------------------
 VENUE: Summit Fairgrounds (Field 2A)
+  Address: 730 North Avenue, Tallmadge, OH 44278
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=484
 --------------------------------------------------------------------------------
@@ -13566,6 +13911,7 @@ VENUE: Summit Fairgrounds (Field 2A)
 
 --------------------------------------------------------------------------------
 VENUE: Summit Fairgrounds (Field 2B)
+  Address: 730 North Avenue, Tallmadge, OH 44278
   Games at this venue: 8
   Map: https://www.ohtsl.com/directionmap.php?locationid=484
 --------------------------------------------------------------------------------
@@ -13604,6 +13950,7 @@ VENUE: Summit Fairgrounds (Field 2B)
 
 --------------------------------------------------------------------------------
 VENUE: Tiger Stadium - Turf (High School Turf Field)
+  Address: 10270 Ravenna Rd., Twinsburg, Oh 4087
   Games at this venue: 20
   Map: https://www.ohtsl.com/directionmap.php?locationid=74
 --------------------------------------------------------------------------------
@@ -13651,6 +13998,7 @@ VENUE: Tiger Stadium - Turf (High School Turf Field)
 
 --------------------------------------------------------------------------------
 VENUE: Tri City (Field #1 - 9v9 South Fields, By Baseball Diamond)
+  Address: 3529 Delmar Drive, Rocky River, OH 44116
   Games at this venue: 2
   Map: https://www.ohtsl.com/directionmap.php?locationid=557
 --------------------------------------------------------------------------------
@@ -13665,6 +14013,7 @@ VENUE: Tri City (Field #1 - 9v9 South Fields, By Baseball Diamond)
 
 --------------------------------------------------------------------------------
 VENUE: Tri City (Field #2 - 7v7 South Fields, By Baseball Diamond)
+  Address: 3529 Delmar Drive, Rocky River, OH 44116
   Games at this venue: 2
   Map: https://www.ohtsl.com/directionmap.php?locationid=557
 --------------------------------------------------------------------------------
@@ -13679,6 +14028,7 @@ VENUE: Tri City (Field #2 - 7v7 South Fields, By Baseball Diamond)
 
 --------------------------------------------------------------------------------
 VENUE: Tri City (Field #3 - 9v9 North Fields, By Tennis Courts)
+  Address: 3529 Delmar Drive, Rocky River, OH 44116
   Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=557
 --------------------------------------------------------------------------------
@@ -13689,6 +14039,7 @@ VENUE: Tri City (Field #3 - 9v9 North Fields, By Tennis Courts)
 
 --------------------------------------------------------------------------------
 VENUE: Tri City (Field #4 - 7v7 North Fields, By Tennis Courts)
+  Address: 3529 Delmar Drive, Rocky River, OH 44116
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=557
 --------------------------------------------------------------------------------
@@ -13711,6 +14062,7 @@ VENUE: Tri City (Field #4 - 7v7 North Fields, By Tennis Courts)
 
 --------------------------------------------------------------------------------
 VENUE: Tri-City Park  (#1 South)
+  Address: 3640 Delmar Dr, Rocky River, Oh 44116
   Games at this venue: 6
   Map: https://www.ohtsl.com/directionmap.php?locationid=288
 --------------------------------------------------------------------------------
@@ -13738,6 +14090,7 @@ VENUE: Tri-City Park  (#1 South)
 
 --------------------------------------------------------------------------------
 VENUE: Tri-City Park  (#2 South)
+  Address: 3640 Delmar Dr, Rocky River, Oh 44116
   Games at this venue: 21
   Map: https://www.ohtsl.com/directionmap.php?locationid=288
 --------------------------------------------------------------------------------
@@ -13807,6 +14160,7 @@ VENUE: Tri-City Park  (#2 South)
 
 --------------------------------------------------------------------------------
 VENUE: Tri-City Park (Tri-City #3  9 v 9 North (next to Tennis))
+  Address: 22950 Westwood, Fairview Park, Oh 44126
   Games at this venue: 16
   Map: https://www.ohtsl.com/directionmap.php?locationid=223
 --------------------------------------------------------------------------------
@@ -13862,6 +14216,7 @@ VENUE: Tri-City Park (Tri-City #3  9 v 9 North (next to Tennis))
 
 --------------------------------------------------------------------------------
 VENUE: Tri-City Park (Tri-City #4 7 v 7 North (next to Tennis))
+  Address: 22950 Westwood, Fairview Park, Oh 44126
   Games at this venue: 28
   Map: https://www.ohtsl.com/directionmap.php?locationid=223
 --------------------------------------------------------------------------------
@@ -13941,6 +14296,7 @@ VENUE: Tri-City Park (Tri-City #4 7 v 7 North (next to Tennis))
 
 --------------------------------------------------------------------------------
 VENUE: Troy Intermediate School (Troy 11A)
+  Address: 237 Belmar Blvd, Avon Lake, OH 44012
   Games at this venue: 17
   Map: https://www.ohtsl.com/directionmap.php?locationid=249
 --------------------------------------------------------------------------------
@@ -14000,6 +14356,7 @@ VENUE: Troy Intermediate School (Troy 11A)
 
 --------------------------------------------------------------------------------
 VENUE: Troy Intermediate School (Troy 11B)
+  Address: 237 Belmar Blvd, Avon Lake, OH 44012
   Games at this venue: 3
   Map: https://www.ohtsl.com/directionmap.php?locationid=249
 --------------------------------------------------------------------------------
@@ -14018,6 +14375,7 @@ VENUE: Troy Intermediate School (Troy 11B)
 
 --------------------------------------------------------------------------------
 VENUE: Troy Intermediate School (Troy 7B)
+  Address: 237 Belmar Blvd, Avon Lake, OH 44012
   Games at this venue: 13
   Map: https://www.ohtsl.com/directionmap.php?locationid=249
 --------------------------------------------------------------------------------
@@ -14067,6 +14425,7 @@ VENUE: Troy Intermediate School (Troy 7B)
 
 --------------------------------------------------------------------------------
 VENUE: Troy Intermediate School (Troy 7C)
+  Address: 237 Belmar Blvd, Avon Lake, OH 44012
   Games at this venue: 11
   Map: https://www.ohtsl.com/directionmap.php?locationid=249
 --------------------------------------------------------------------------------
@@ -14105,6 +14464,7 @@ VENUE: Troy Intermediate School (Troy 7C)
 
 --------------------------------------------------------------------------------
 VENUE: Troy Intermediate School (Troy 9A)
+  Address: 237 Belmar Blvd, Avon Lake, OH 44012
   Games at this venue: 14
   Map: https://www.ohtsl.com/directionmap.php?locationid=249
 --------------------------------------------------------------------------------
@@ -14161,6 +14521,7 @@ VENUE: Troy Intermediate School (Troy 9A)
 
 --------------------------------------------------------------------------------
 VENUE: Tru-Lay Stadium (High School 11v11)
+  Address: 601 Fremont Rd., Port Clinton, OH 43452
   Games at this venue: 6
   Map: https://www.ohtsl.com/directionmap.php?locationid=749
 --------------------------------------------------------------------------------
@@ -14190,7 +14551,8 @@ VENUE: Tru-Lay Stadium (High School 11v11)
      4:00 PM  #5223   Port Clinton              vs Strongsville              (Boys 2013(U13) Div West 3)
 
 --------------------------------------------------------------------------------
-VENUE: Vermilion Soccer Club Fields (VR-A)
+VENUE: Vermilion Soccer Club Fields (VR-C)
+  Address: 51750 North Ridge Rd., Vermilion, OH 44089
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=331
 --------------------------------------------------------------------------------
@@ -14212,7 +14574,8 @@ VENUE: Vermilion Soccer Club Fields (VR-A)
      2:30 PM  #1130   Vermilion                 vs North Royalton            (Boys 2016(U10) Div 1)
 
 --------------------------------------------------------------------------------
-VENUE: Vermilion Soccer Club Fields (VR-C)
+VENUE: Vermilion Soccer Club Fields (VR-E)
+  Address: 51750 North Ridge Rd., Vermilion, OH 44089
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=331
 --------------------------------------------------------------------------------
@@ -14234,7 +14597,8 @@ VENUE: Vermilion Soccer Club Fields (VR-C)
      2:30 PM  #8622   Vermilion                 vs Parma                     (Girls 2015(U11) Div West 3)
 
 --------------------------------------------------------------------------------
-VENUE: Vermilion Soccer Club Fields (VR-D)
+VENUE: Vermilion Soccer Club Fields (VR-G)
+  Address: 51750 North Ridge Rd., Vermilion, OH 44089
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=331
 --------------------------------------------------------------------------------
@@ -14257,6 +14621,7 @@ VENUE: Vermilion Soccer Club Fields (VR-D)
 
 --------------------------------------------------------------------------------
 VENUE: Victory Park (Grass Field #2)
+  Address: 7777 Victory Lane, North Ridgeville, OH 44039
   Games at this venue: 5
   Map: https://www.ohtsl.com/directionmap.php?locationid=776
 --------------------------------------------------------------------------------
@@ -14283,6 +14648,7 @@ VENUE: Victory Park (Grass Field #2)
 
 --------------------------------------------------------------------------------
 VENUE: Victory Park (Grass Field #3)
+  Address: 7777 Victory Lane, North Ridgeville, OH 44039
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=776
 --------------------------------------------------------------------------------
@@ -14305,6 +14671,7 @@ VENUE: Victory Park (Grass Field #3)
 
 --------------------------------------------------------------------------------
 VENUE: Victory Park (Method)
+  Address: 7777 Victory Lane, North Ridgeville, OH 44039
   Games at this venue: 18
   Map: https://www.ohtsl.com/directionmap.php?locationid=776
 --------------------------------------------------------------------------------
@@ -14350,6 +14717,7 @@ VENUE: Victory Park (Method)
 
 --------------------------------------------------------------------------------
 VENUE: Walker Road Park  (Walker 1 - 7v7)
+  Address: 31621 Walker Road, Avon Lake, Oh 44012
   Games at this venue: 31
   Map: https://www.ohtsl.com/directionmap.php?locationid=144
 --------------------------------------------------------------------------------
@@ -14429,6 +14797,7 @@ VENUE: Walker Road Park  (Walker 1 - 7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Walker Road Park  (Walker 2 7v7)
+  Address: 31621 Walker Road, Avon Lake, Oh 44012
   Games at this venue: 11
   Map: https://www.ohtsl.com/directionmap.php?locationid=144
 --------------------------------------------------------------------------------
@@ -14470,6 +14839,7 @@ VENUE: Walker Road Park  (Walker 2 7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Walker Road Park  (Walker 4 7v7)
+  Address: 31621 Walker Road, Avon Lake, Oh 44012
   Games at this venue: 16
   Map: https://www.ohtsl.com/directionmap.php?locationid=144
 --------------------------------------------------------------------------------
@@ -14534,6 +14904,7 @@ VENUE: Walker Road Park  (Walker 4 7v7)
 
 --------------------------------------------------------------------------------
 VENUE: Walker Road Park  (Walker 5 9v9)
+  Address: 31621 Walker Road, Avon Lake, Oh 44012
   Games at this venue: 26
   Map: https://www.ohtsl.com/directionmap.php?locationid=144
 --------------------------------------------------------------------------------
@@ -14614,6 +14985,7 @@ VENUE: Walker Road Park  (Walker 5 9v9)
 
 --------------------------------------------------------------------------------
 VENUE: Walker Road Park  (Walker 6 9v9)
+  Address: 31621 Walker Road, Avon Lake, Oh 44012
   Games at this venue: 11
   Map: https://www.ohtsl.com/directionmap.php?locationid=144
 --------------------------------------------------------------------------------
@@ -14661,6 +15033,7 @@ VENUE: Walker Road Park  (Walker 6 9v9)
 
 --------------------------------------------------------------------------------
 VENUE: Walker Road Park  (Walker 7 11v11)
+  Address: 31621 Walker Road, Avon Lake, Oh 44012
   Games at this venue: 15
   Map: https://www.ohtsl.com/directionmap.php?locationid=144
 --------------------------------------------------------------------------------
@@ -14709,6 +15082,7 @@ VENUE: Walker Road Park  (Walker 7 11v11)
 
 --------------------------------------------------------------------------------
 VENUE: Walsh University - Vasco Field (Vasco Field)
+  Address: 2020 East Maple St, North Canton, OH 44720
   Games at this venue: 2
   Map: https://www.ohtsl.com/directionmap.php?locationid=695
 --------------------------------------------------------------------------------
@@ -14723,6 +15097,7 @@ VENUE: Walsh University - Vasco Field (Vasco Field)
 
 --------------------------------------------------------------------------------
 VENUE: Water Works Park (Field 2)
+  Address: 2025 Munroe Falls Ave, Cuyahoga Falls, OH 44221
   Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=706
 --------------------------------------------------------------------------------
@@ -14733,6 +15108,7 @@ VENUE: Water Works Park (Field 2)
 
 --------------------------------------------------------------------------------
 VENUE: Waterworks Park (Waterworks 7v7 (Field 1))
+  Address: 2025 Munroe Falls Ave, Cuyahoga Falls, OH 44221
   Games at this venue: 19
   Map: https://www.ohtsl.com/directionmap.php?locationid=279
 --------------------------------------------------------------------------------
@@ -14797,6 +15173,7 @@ VENUE: Waterworks Park (Waterworks 7v7 (Field 1))
 
 --------------------------------------------------------------------------------
 VENUE: Waterworks Park (Waterworks 7v7 (Field 3))
+  Address: 2025 Munroe Falls Ave, Cuyahoga Falls, OH 44221
   Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=279
 --------------------------------------------------------------------------------
@@ -14807,6 +15184,7 @@ VENUE: Waterworks Park (Waterworks 7v7 (Field 3))
 
 --------------------------------------------------------------------------------
 VENUE: Waterworks Park (Waterworks 9V9 (Field 2))
+  Address: 2025 Munroe Falls Ave, Cuyahoga Falls, OH 44221
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=279
 --------------------------------------------------------------------------------
@@ -14849,6 +15227,7 @@ VENUE: Waterworks Park (Waterworks 9V9 (Field 2))
 
 --------------------------------------------------------------------------------
 VENUE: West Geauga Commons (Junior (Side) Field)
+  Address: 14070 Chillicothe Road, Novelty, OH 44072
   Games at this venue: 12
   Map: https://www.ohtsl.com/directionmap.php?locationid=70
 --------------------------------------------------------------------------------
@@ -14891,6 +15270,7 @@ VENUE: West Geauga Commons (Junior (Side) Field)
 
 --------------------------------------------------------------------------------
 VENUE: West Geauga Commons (Upper (Front) Field)
+  Address: 14070 Chillicothe Road, Novelty, OH 44072
   Games at this venue: 2
   Map: https://www.ohtsl.com/directionmap.php?locationid=70
 --------------------------------------------------------------------------------
@@ -14905,6 +15285,7 @@ VENUE: West Geauga Commons (Upper (Front) Field)
 
 --------------------------------------------------------------------------------
 VENUE: Wickliffe High School (Football Field in Back)
+  Address: 2255 Rockefeller Road, Wickliffe, OH 44092
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=753
 --------------------------------------------------------------------------------
@@ -14924,6 +15305,7 @@ VENUE: Wickliffe High School (Football Field in Back)
 
 --------------------------------------------------------------------------------
 VENUE: Willowick Middle School (Willowick Middle 11v11)
+  Address: 31500 Royalview Dr,, Willowick, OH 44095
   Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=721
 --------------------------------------------------------------------------------
@@ -14934,6 +15316,7 @@ VENUE: Willowick Middle School (Willowick Middle 11v11)
 
 --------------------------------------------------------------------------------
 VENUE: Woodridge Elementary School (Edwards Field) (U12 field closest to entrance)
+  Address: 4351 Quick Rd, Peninsula, OH 44264
   Games at this venue: 3
   Map: https://www.ohtsl.com/directionmap.php?locationid=761
 --------------------------------------------------------------------------------
@@ -14952,6 +15335,7 @@ VENUE: Woodridge Elementary School (Edwards Field) (U12 field closest to entranc
 
 --------------------------------------------------------------------------------
 VENUE: Woodridge Elementary School (Edwards Field) (U9/U10 field closest to State Road)
+  Address: 4351 Quick Rd, Peninsula, OH 44264
   Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=761
 --------------------------------------------------------------------------------
@@ -14974,6 +15358,7 @@ VENUE: Woodridge Elementary School (Edwards Field) (U9/U10 field closest to Stat
 
 --------------------------------------------------------------------------------
 VENUE: Wooster Soccer Complex (Field # 11)
+  Address: 100 Oldman Rd, Wooster, OH 44691
   Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=35
 --------------------------------------------------------------------------------
@@ -14984,6 +15369,7 @@ VENUE: Wooster Soccer Complex (Field # 11)
 
 --------------------------------------------------------------------------------
 VENUE: Wooster Soccer Complex (Field #1)
+  Address: 100 Oldman Rd, Wooster, OH 44691
   Games at this venue: 3
   Map: https://www.ohtsl.com/directionmap.php?locationid=35
 --------------------------------------------------------------------------------
@@ -15002,6 +15388,7 @@ VENUE: Wooster Soccer Complex (Field #1)
 
 --------------------------------------------------------------------------------
 VENUE: Wooster Soccer Complex (Field #10)
+  Address: 100 Oldman Rd, Wooster, OH 44691
   Games at this venue: 7
   Map: https://www.ohtsl.com/directionmap.php?locationid=35
 --------------------------------------------------------------------------------
@@ -15036,6 +15423,7 @@ VENUE: Wooster Soccer Complex (Field #10)
 
 --------------------------------------------------------------------------------
 VENUE: Wooster Soccer Complex (Field #13)
+  Address: 100 Oldman Rd, Wooster, OH 44691
   Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=35
 --------------------------------------------------------------------------------
@@ -15046,6 +15434,7 @@ VENUE: Wooster Soccer Complex (Field #13)
 
 --------------------------------------------------------------------------------
 VENUE: Wooster Soccer Complex (Field #2)
+  Address: 100 Oldman Rd, Wooster, OH 44691
   Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=35
 --------------------------------------------------------------------------------
@@ -15056,6 +15445,7 @@ VENUE: Wooster Soccer Complex (Field #2)
 
 --------------------------------------------------------------------------------
 VENUE: Wooster Soccer Complex (Field #5)
+  Address: 100 Oldman Rd, Wooster, OH 44691
   Games at this venue: 10
   Map: https://www.ohtsl.com/directionmap.php?locationid=35
 --------------------------------------------------------------------------------
@@ -15090,6 +15480,7 @@ VENUE: Wooster Soccer Complex (Field #5)
 
 --------------------------------------------------------------------------------
 VENUE: Wooster Soccer Complex (Field #6)
+  Address: 100 Oldman Rd, Wooster, OH 44691
   Games at this venue: 5
   Map: https://www.ohtsl.com/directionmap.php?locationid=35
 --------------------------------------------------------------------------------

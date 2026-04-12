@@ -841,7 +841,7 @@ Deeds Field (Dover Deeds Field U11/U12 Field),5/10/26,Sun,1:00 PM,7818,Dover,,Ma
 Deeds Field (Dover Deeds Field U11/U12 Field),5/10/26,Sun,2:30 PM,2930,Dover,,Akron Inner City,,Boys,2015(U11),South 6,596
 Deeds Field (Dover Deeds Field U11/U12 Field),5/10/26,Sun,4:00 PM,4014,Dover,,Cuyahoga Falls   JH,,Boys,2014(U12),South 3,596
 Deeds Field (Dover Deeds Field U11/U12 Field),5/17/26,Sun,2:30 PM,2934,Dover,,Manchester,,Boys,2015(U11),South 6,596
-Deeds Field (Dover Deeds Field U11/U12 Field),5/17/26,Sun,2:30 PM,7821,Dover,,Buckeye,,Girls,2015(U11),South 4,596
+Deeds Field (Dover Deeds Field U11/U12 Field),5/17/26,Sun,4:00 PM,7821,Dover,,Buckeye,,Girls,2015(U11),South 4,596
 Deeds Field (Dover Deeds Field U9/U10 Field 7v7),4/11/26,Sat,2:00 PM,6901,Dover,4,Revere   RED,1,Girls,2016(U10),South 4,596
 Deeds Field (Dover Deeds Field U9/U10 Field 7v7),4/26/26,Sun,2:30 PM,6907,Dover,,North Royalton,,Girls,2016(U10),South 4,596
 Deeds Field (Dover Deeds Field U9/U10 Field 7v7),5/3/26,Sun,2:30 PM,6913,Dover,,Perry (Stark),,Girls,2016(U10),South 4,596
@@ -1538,8 +1538,6 @@ Kreuger Park (11v11 #1),4/23/26,Thu,6:30 PM,4615,Mentor,,Parma,,Boys,2013(U13),2
 Kreuger Park (11v11 #1),5/10/26,Sun,1:30 PM,4635,Mentor,,Shaker Hts.   BLK,,Boys,2013(U13),2,77
 Kreuger Park (11v11 #1),5/10/26,Sun,5:30 PM,5717,Mentor,,Copley,,Boys,2012(U14),East 4,77
 Kreuger Park (11v11 #1),5/31/26,Sun,5:30 PM,5723,Mentor,,Twinsburg   Whte,,Boys,2012(U14),East 4,77
-Kreuger Park (7v7 #2),4/12/26,Sun,1:00 PM,7001,Mentor,,Orange,,Girls,2016(U10),East 4,77
-Kreuger Park (7v7 #2),4/12/26,Sun,2:30 PM,11902,Mentor   Gray,,Stow   Gold,,Girls,2017(U09),East 4 E,77
 Kreuger Park (7v7 #2),4/19/26,Sun,11:00 AM,11904,Mentor   Gray,,Solon United   Gold,,Girls,2017(U09),East 4 E,77
 Kreuger Park (7v7 #2),4/19/26,Sun,1:00 PM,12611,Mentor   Gray,,Streetsboro,,Boys,2017(U09),East 4,77
 Kreuger Park (7v7 #2),4/19/26,Sun,4:30 PM,7019,Mentor,,Geauga Federation SC,,Girls,2016(U10),East 4,77
@@ -1830,6 +1828,8 @@ Logan Field - #330 (Logan Field 331),5/8/26,Fri,6:30 PM,9721,PLX United,,Chippew
 Logan Field - #330 (Logan Field 331),5/17/26,Sun,2:30 PM,5020,PLX United,,Highland   CM6,,Boys,2013(U13),South 4,594
 Logan Field - #330 (Logan Field 331),5/21/26,Thu,6:30 PM,5010,PLX United,,Green,,Boys,2013(U13),South 4,594
 Logan Field - #330 (Logan Field 331),5/31/26,Sun,4:00 PM,5024,PLX United,,Mustangs Jr,,Boys,2013(U13),South 4,594
+Lost Nation Sports Park (Field (A) 7v7),4/12/26,Sun,1:00 PM,7001,Mentor,,Orange,,Girls,2016(U10),East 4,704
+Lost Nation Sports Park (Field (A) 7v7),4/12/26,Sun,2:30 PM,11902,Mentor   Gray,,Stow   Gold,,Girls,2017(U09),East 4 E,704
 Lou Groza Field (Lou Groza football field),4/12/26,Sun,2:30 PM,11304,TUSA,,North Royalton,,Girls,2011(U15),4,693
 Lou Groza Field (Lou Groza football field),4/19/26,Sun,1:00 PM,11306,TUSA,,Mayfield   DS,,Girls,2011(U15),4,693
 Lou Groza Field (Lou Groza football field),4/26/26,Sun,4:00 PM,5409,TUSA,,Bay Village   MM,,Boys,2012(U14),West 3,693
@@ -1998,16 +1998,16 @@ Madison Park  (Madison Park Field),5/31/26,Sun,1:00 PM,148,Lakewood   B16G,,Woos
 Madison Park  (Madison Park Field),5/31/26,Sun,2:30 PM,14523,Lakewood   B17B,,Westlake   NF,,Boys,2017(U09),West 6 EV,311
 Manchester High School Stadium- turf (High School Stadium),4/12/26,Sun,11:30 AM,6302,Manchester,,Stow   Gold,,Boys,2011(U15),South 3,750
 Manchester High School Stadium- turf (High School Stadium),4/19/26,Sun,5:00 PM,6304,Manchester,,Green,,Boys,2011(U15),South 3,750
+Manchester High School Stadium- turf (High School Stadium),4/26/26,Sun,11:30 AM,11411,Manchester,,North Ridgeville,,Girls,2011(U15),5,750
+Manchester High School Stadium- turf (High School Stadium),5/3/26,Sun,11:00 AM,11418,Manchester,,Louisville,,Girls,2011(U15),5,750
+Manchester High School Stadium- turf (High School Stadium),5/9/26,Sat,12:00 PM,11422,Manchester,,Mustangs Jr,,Girls,2011(U15),5,750
 Manchester High School Stadium- turf (High School Stadium),5/10/26,Sun,11:30 AM,6317,Manchester,,Lake Select SC   U15,,Boys,2011(U15),South 3,750
 Manchester High School Stadium- turf (High School Stadium),5/31/26,Sun,5:30 PM,6323,Manchester,,Copley,,Boys,2011(U15),South 3,750
 Manchester Middle School (MSC 11v11),4/12/26,Sun,5:30 PM,11402,Manchester,,Geneva   11G,,Girls,2011(U15),5,497
-Manchester Middle School (MSC 11v11),4/26/26,Sun,11:30 AM,11411,Manchester,,North Ridgeville,,Girls,2011(U15),5,497
 Manchester Middle School (MSC 11v11),4/26/26,Sun,4:00 PM,9712,Manchester,,Green,,Girls,2013(U13),South 3,497
 Manchester Middle School (MSC 11v11),4/29/26,Wed,6:30 PM,9713,Manchester,,Akron Inner City,,Girls,2013(U13),South 3,497
 Manchester Middle School (MSC 11v11),4/30/26,Thu,6:15 PM,5515,Manchester,,Rootstown,,Boys,2012(U14),South 3,497
-Manchester Middle School (MSC 11v11),5/3/26,Sun,11:00 AM,11418,Manchester,,Louisville,,Girls,2011(U15),5,497
 Manchester Middle School (MSC 11v11),5/3/26,Sun,2:30 PM,9717,Manchester,,Chippewa,,Girls,2013(U13),South 3,497
-Manchester Middle School (MSC 11v11),5/9/26,Sat,12:00 PM,11422,Manchester,,Mustangs Jr,,Girls,2011(U15),5,497
 Manchester Middle School (MSC 11v11),5/10/26,Sun,4:00 PM,9719,Manchester,,Dover,,Girls,2013(U13),South 3,497
 Manchester Middle School (MSC 11v11),5/17/26,Sun,11:30 AM,5520,Manchester,,Northwest,,Boys,2012(U14),South 3,497
 Manchester Middle School (MSC 11v11),5/26/26,Tue,6:30 PM,5510,Manchester,,Broadview Hts.,,Boys,2012(U14),South 3,497
@@ -2156,6 +2156,7 @@ Medina Huffman/Cunningham Fields (Cunningham 13 (9v9)),4/26/26,Sun,4:00 PM,2610,
 Medina Huffman/Cunningham Fields (Cunningham 13 (9v9)),4/29/26,Wed,6:30 PM,15210,Medina   14WT,,Parma,,Girls,2014(U12),South 3,205
 Medina Huffman/Cunningham Fields (Cunningham 13 (9v9)),5/21/26,Thu,6:30 PM,4020,Medina   14Wh,,Copley   Gold,,Boys,2014(U12),South 3,205
 Medina Huffman/Cunningham Fields (Cunningham 14 (7v7)),4/12/26,Sun,11:30 AM,802,Medina   U10W,,Copley   Gold,,Boys,2016(U10),South 4,205
+Medina Huffman/Cunningham Fields (Cunningham 14 (7v7)),4/12/26,Sun,4:00 PM,14101,Medina   17GN,,Green,,Girls,2017(U09),1,205
 Medina Huffman/Cunningham Fields (Cunningham 14 (7v7)),4/12/26,Sun,5:30 PM,1102,Medina   U10G,,Brunswick   RYL,,Boys,2016(U10),1,205
 Medina Huffman/Cunningham Fields (Cunningham 14 (7v7)),4/27/26,Mon,6:30 PM,811,Medina   U10W,,Perry (Stark),,Boys,2016(U10),South 4,205
 Medina Huffman/Cunningham Fields (Cunningham 14 (7v7)),4/29/26,Wed,6:30 PM,13815,Medina   U8Go,,Highland   SR1,,Boys,2017(U09),South 5,205
@@ -2166,7 +2167,6 @@ Medina Huffman/Cunningham Fields (Cunningham 14 (7v7)),5/10/26,Sun,12:00 PM,1500
 Medina Huffman/Cunningham Fields (Cunningham 14 (7v7)),5/10/26,Sun,2:30 PM,13823,Medina   U8Go,,Woodridge,,Boys,2017(U09),South 5,205
 Medina Huffman/Cunningham Fields (Cunningham 14 (7v7)),5/17/26,Sun,2:30 PM,14133,Medina   17GN,,Hudson   BATS,,Girls,2017(U09),1,205
 Medina Huffman/Cunningham Fields (Cunningham 14 (7v7)),5/31/26,Sun,1:00 PM,13832,Medina   U8Go,,Copley,,Boys,2017(U09),South 5,205
-Medina Huffman/Cunningham Fields (Cunningham 15 (7v7)),4/12/26,Sun,12:00 PM,11802,Medina   17WT,,Highland   EM4,,Girls,2017(U09),South 3,205
 Medina Huffman/Cunningham Fields (Cunningham 15 (7v7)),4/17/26,Fri,6:30 PM,1109,Medina   U10G,,Broadview Hts.,,Boys,2016(U10),1,205
 Medina Huffman/Cunningham Fields (Cunningham 15 (7v7)),4/18/26,Sat,10:00 AM,14917,Medina   19GN,,Brecksville Bees SA   Y,,Girls,2017(U09),South 4 EN,205
 Medina Huffman/Cunningham Fields (Cunningham 15 (7v7)),4/19/26,Sun,2:30 PM,10708,Medina   16WT,,Green,,Girls,2016(U10),2,205
@@ -2182,7 +2182,6 @@ Medina Huffman/Cunningham Fields (Cunningham 16 (9v9)),4/24/26,Fri,6:30 PM,3509,
 Medina Huffman/Cunningham Fields (Cunningham 16 (9v9)),4/29/26,Wed,6:30 PM,15611,Medina   15Gr,,Wadsworth,,Boys,2015(U11),2 South,205
 Medina Huffman/Cunningham Fields (Cunningham 16 (9v9)),5/6/26,Wed,6:30 PM,3627,Medina   14Gr,,Avon   LS,,Boys,2014(U12),1,205
 Medina Huffman/Cunningham Fields (Cunningham 16 (9v9)),5/31/26,Sun,2:30 PM,15224,Medina   14WT,,Cuyahoga Falls   MN,,Girls,2014(U12),South 3,205
-Medina Huffman/Cunningham Fields (Cunningham 17 - back of park),4/12/26,Sun,4:00 PM,14101,Medina   17GN,,Green,,Girls,2017(U09),1,205
 Medina Huffman/Cunningham Fields (Cunningham 17 - back of park),4/19/26,Sun,11:30 AM,14910,Medina   19GN,,Medina   17GR,,Girls,2017(U09),South 4 EN,205
 Medina Huffman/Cunningham Fields (Cunningham 17 - back of park),4/19/26,Sun,2:30 PM,12808,Medina   U8Wh,,Manchester,,Boys,2017(U09),South 4,205
 Medina Huffman/Cunningham Fields (Cunningham 17 - back of park),4/28/26,Tue,6:00 PM,7112,Medina   16GN,,Brunswick   RYL,,Girls,2016(U10),1,205
@@ -2208,6 +2207,7 @@ Medina Huffman/Cunningham Fields (Huffman 1),5/4/26,Mon,6:30 PM,7121,Medina   16
 Medina Huffman/Cunningham Fields (Huffman 1),5/17/26,Sun,11:30 AM,15016,Medina   16GR,,Copley,,Girls,2016(U10),South 3,205
 Medina Huffman/Cunningham Fields (Huffman 1),5/31/26,Sun,11:30 AM,12832,Medina   U8Wh,,Wadsworth   HIL,,Boys,2017(U09),South 4,205
 Medina Huffman/Cunningham Fields (Huffman 1),5/31/26,Sun,5:30 PM,1436,Medina   U9Wh,,New Philadelphia,,Boys,2016(U10),South 5,205
+Medina Huffman/Cunningham Fields (Huffman 2),4/12/26,Sun,12:00 PM,11802,Medina   17WT,,Highland   EM4,,Girls,2017(U09),South 3,205
 Medina Huffman/Cunningham Fields (Huffman 2),4/19/26,Sun,5:30 PM,1107,Medina   U10G,,Vermilion,,Boys,2016(U10),1,205
 Medina Huffman/Cunningham Fields (Huffman 2),4/26/26,Sun,5:30 PM,1412,Medina   U9Wh,,Broadview Hts.,,Boys,2016(U10),South 5,205
 Medina Huffman/Cunningham Fields (Huffman 2),5/2/26,Sat,10:00 AM,1428,Medina   U9Wh,,North Canton   Blk,,Boys,2016(U10),South 5,205
@@ -2433,7 +2433,7 @@ Newbury Field 11v11 (Newbury Field),5/31/26,Sun,4:00 PM,4605,West Geauga,,Westla
 Newbury Field 11v11 (Newbury Field),5/31/26,Sun,5:30 PM,6031,West Geauga,,Sandusky,,Boys,2012(U14),2,739
 Newbury Field 11v11 (Newbury Field),6/7/26,Sun,10:00 AM,6009,West Geauga,,Brecksville Bees SA,,Boys,2012(U14),2,739
 Newbury Field 11v11 (Newbury Field),6/7/26,Sun,1:00 PM,4628,West Geauga,,Avon Lake   GOLD,,Boys,2013(U13),2,739
-Newton Park (404),4/11/26,Sat,2:00 PM,14701,Barberton,,Revere   BLUE,,Boys,2016(U10),South 6,577
+Newton Park (404),4/11/26,Sat,2:00 PM,14701,Barberton,3,Revere   BLUE,5,Boys,2016(U10),South 6,577
 Newton Park (404),4/26/26,Sun,2:30 PM,14708,Barberton,,Copley   Blue,,Boys,2016(U10),South 6,577
 Newton Park (404),4/28/26,Tue,6:30 PM,13115,Barberton,,Lake Select SC,,Boys,2017(U09),South 6,577
 Newton Park (404),5/9/26,Sat,2:30 PM,13108,Barberton,,Highland   BZ1,,Boys,2017(U09),South 6,577
@@ -2523,7 +2523,7 @@ Northwest Middle School Fields (Northwest Middle School Grass Field),5/3/26,Sun,
 Northwest Middle School Fields (Northwest Middle School Grass Field),5/9/26,Sat,11:30 AM,13128,Northwest,,Highland   BZ1,,Boys,2017(U09),South 6,595
 Northwest Middle School Fields (Northwest Middle School Grass Field),5/10/26,Sun,2:30 PM,3922,Northwest,,Copley   Blue,,Boys,2014(U12),South 4,595
 Northwest Middle School Fields (Northwest Middle School Grass Field),5/16/26,Sat,1:00 PM,14716,Northwest,,Revere   BLUE,,Boys,2016(U10),South 6,595
-Northwest Middle School Fields (Northwest Middle School Grass Field),5/17/26,Sun,4:00 PM,10927,Northwest,,Highland   DN1,,Girls,2012(U14),4,595
+Northwest Middle School Fields (Northwest Middle School Grass Field),5/17/26,Sun,12:00 PM,10927,Northwest,,Highland   DN1,,Girls,2012(U14),4,595
 Northwest Middle School Fields (Northwest Middle School Grass Field),5/26/26,Tue,6:00 PM,13129,Northwest,,North Canton,,Boys,2017(U09),South 6,595
 Northwest Middle School Fields (Northwest Middle School Grass Field),6/3/26,Wed,6:00 PM,5522,Northwest,,Broadview Hts.,,Boys,2012(U14),South 3,595
 Norton Stadium (Turf)  (High School Stadium Turf ),4/13/26,Mon,6:30 PM,4803,Norton,,Kenston,,Boys,2013(U13),1,671
@@ -3901,18 +3901,18 @@ Tru-Lay Stadium (High School 11v11),4/28/26,Tue,6:00 PM,5202,Port Clinton,,Rocky
 Tru-Lay Stadium (High School 11v11),5/3/26,Sun,4:30 PM,15413,Port Clinton,,Brunswick   RYL,,Girls,2012(U14),West 4,749
 Tru-Lay Stadium (High School 11v11),5/10/26,Sun,4:15 PM,5217,Port Clinton,,Brunswick   RYL,,Boys,2013(U13),West 3,749
 Tru-Lay Stadium (High School 11v11),5/31/26,Sun,4:00 PM,5223,Port Clinton,,Strongsville,,Boys,2013(U13),West 3,749
-Vermilion Soccer Club Fields (VR-A),4/21/26,Tue,6:30 PM,1112,Vermilion,,Avon   PK,,Boys,2016(U10),1,331
-Vermilion Soccer Club Fields (VR-A),4/28/26,Tue,6:30 PM,1119,Vermilion,,Rocky River   MRN,,Boys,2016(U10),1,331
-Vermilion Soccer Club Fields (VR-A),5/3/26,Sun,5:30 PM,1121,Vermilion,,Shaker Hts.   BLK,,Boys,2016(U10),1,331
-Vermilion Soccer Club Fields (VR-A),5/17/26,Sun,2:30 PM,1130,Vermilion,,North Royalton,,Boys,2016(U10),1,331
-Vermilion Soccer Club Fields (VR-C),4/19/26,Sun,2:30 PM,8605,Vermilion,,Avon   DT,,Girls,2015(U11),West 3,331
-Vermilion Soccer Club Fields (VR-C),5/3/26,Sun,4:00 PM,8614,Vermilion,,Bay Village   AC,,Girls,2015(U11),West 3,331
-Vermilion Soccer Club Fields (VR-C),5/7/26,Thu,6:30 PM,8603,Vermilion,,Rocky River   WHT,,Girls,2015(U11),West 3,331
-Vermilion Soccer Club Fields (VR-C),5/31/26,Sun,2:30 PM,8622,Vermilion,,Parma,,Girls,2015(U11),West 3,331
-Vermilion Soccer Club Fields (VR-D),4/19/26,Sun,1:00 PM,15404,Vermilion,,Port Clinton,,Girls,2012(U14),West 4,331
-Vermilion Soccer Club Fields (VR-D),5/10/26,Sun,2:30 PM,15417,Vermilion,,Avon Lake,,Girls,2012(U14),West 4,331
-Vermilion Soccer Club Fields (VR-D),5/20/26,Wed,6:30 PM,15402,Vermilion,,Sandusky,,Girls,2012(U14),West 4,331
-Vermilion Soccer Club Fields (VR-D),5/31/26,Sun,1:00 PM,15423,Vermilion,,Olmsted Falls   Blue,,Girls,2012(U14),West 4,331
+Vermilion Soccer Club Fields (VR-C),4/21/26,Tue,6:30 PM,1112,Vermilion,,Avon   PK,,Boys,2016(U10),1,331
+Vermilion Soccer Club Fields (VR-C),4/28/26,Tue,6:30 PM,1119,Vermilion,,Rocky River   MRN,,Boys,2016(U10),1,331
+Vermilion Soccer Club Fields (VR-C),5/3/26,Sun,5:30 PM,1121,Vermilion,,Shaker Hts.   BLK,,Boys,2016(U10),1,331
+Vermilion Soccer Club Fields (VR-C),5/17/26,Sun,2:30 PM,1130,Vermilion,,North Royalton,,Boys,2016(U10),1,331
+Vermilion Soccer Club Fields (VR-E),4/19/26,Sun,2:30 PM,8605,Vermilion,,Avon   DT,,Girls,2015(U11),West 3,331
+Vermilion Soccer Club Fields (VR-E),5/3/26,Sun,4:00 PM,8614,Vermilion,,Bay Village   AC,,Girls,2015(U11),West 3,331
+Vermilion Soccer Club Fields (VR-E),5/7/26,Thu,6:30 PM,8603,Vermilion,,Rocky River   WHT,,Girls,2015(U11),West 3,331
+Vermilion Soccer Club Fields (VR-E),5/31/26,Sun,2:30 PM,8622,Vermilion,,Parma,,Girls,2015(U11),West 3,331
+Vermilion Soccer Club Fields (VR-G),4/19/26,Sun,1:00 PM,15404,Vermilion,,Port Clinton,,Girls,2012(U14),West 4,331
+Vermilion Soccer Club Fields (VR-G),5/10/26,Sun,2:30 PM,15417,Vermilion,,Avon Lake,,Girls,2012(U14),West 4,331
+Vermilion Soccer Club Fields (VR-G),5/20/26,Wed,6:30 PM,15402,Vermilion,,Sandusky,,Girls,2012(U14),West 4,331
+Vermilion Soccer Club Fields (VR-G),5/31/26,Sun,1:00 PM,15423,Vermilion,,Olmsted Falls   Blue,,Girls,2012(U14),West 4,331
 Victory Park (Grass Field #2),4/28/26,Tue,6:30 PM,913,North Ridgeville   Navy,,Olmsted Falls   Blue,,Boys,2016(U10),West 3,776
 Victory Park (Grass Field #2),4/29/26,Wed,6:30 PM,7511,North Ridgeville,,Norwalk HCYSC   MW,,Girls,2016(U10),West 5,776
 Victory Park (Grass Field #2),5/6/26,Wed,6:30 PM,4113,North Ridgeville   Gold,,Rocky River   WHT,,Boys,2014(U12),West 4,776

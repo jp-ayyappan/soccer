@@ -25,11 +25,14 @@ import time
 from collections import defaultdict
 from datetime import datetime
 
+import xml.etree.ElementTree as ET
+
 import requests
 from bs4 import BeautifulSoup
 
 BASE_URL = "https://www.ohtsl.com"
 GAMES_ENDPOINT = f"{BASE_URL}/core/getgames.php"
+LOCATION_ENDPOINT = f"{BASE_URL}/core/wsa_get_location_xml.php"
 PUBLIC_PAGE = f"{BASE_URL}/public.php"
 
 # Polite delay between requests (seconds)
@@ -146,6 +149,87 @@ def scrape_all_games() -> list[dict]:
     return all_games
 
 
+def fetch_location_details(location_ids: set[int]) -> dict[int, dict]:
+    """Fetch address details for each unique location ID from the OHTSL location API.
+
+    Returns a dict keyed by location_id with values like:
+        {"field_name": ..., "community": ..., "address": ..., "city": ...,
+         "state": ..., "zip": ..., "latitude": ..., "longitude": ...}
+    """
+    locations = {}
+    total = len(location_ids)
+    print(f"\nFetching address details for {total} venues...")
+
+    for i, loc_id in enumerate(sorted(location_ids)):
+        if (i + 1) % 50 == 0 or i == 0:
+            print(f"  [{i+1}/{total}] Fetching locations...")
+        try:
+            resp = requests.post(LOCATION_ENDPOINT, data={"id": loc_id})
+            resp.raise_for_status()
+            root = ET.fromstring(resp.text)
+
+            community = root.find(".//cname")
+            marker = root.find(".//marker")
+            if marker is not None:
+                locations[loc_id] = {
+                    "community": community.text if community is not None else "",
+                    "field_name": (marker.findtext("name") or "").strip(),
+                    "address": (marker.findtext("address") or "").strip(),
+                    "city": (marker.findtext("city") or "").strip(),
+                    "state": (marker.findtext("state") or "").strip(),
+                    "zip": (marker.findtext("zip") or marker.findtext("zio") or "").strip(),
+                    "latitude": (marker.findtext("latitude") or "").strip(),
+                    "longitude": (marker.findtext("longitude") or "").strip(),
+                }
+        except Exception as e:
+            print(f"  WARNING: Could not fetch location {loc_id}: {e}")
+        time.sleep(REQUEST_DELAY)
+
+    print(f"  Fetched {len(locations)} of {total} venue addresses")
+    return locations
+
+
+def get_unique_location_ids(games: list[dict]) -> set[int]:
+    """Extract all unique location IDs from scraped games."""
+    return {g["location_id"] for g in games if g.get("location_id")}
+
+
+def format_address(loc: dict) -> str:
+    """Format a location dict into a one-line address string."""
+    parts = [loc.get("address", "")]
+    city_state_zip = ", ".join(
+        p for p in [loc.get("city", ""), loc.get("state", "")] if p
+    )
+    if loc.get("zip"):
+        city_state_zip += f" {loc['zip']}"
+    if city_state_zip:
+        parts.append(city_state_zip)
+    return ", ".join(p for p in parts if p)
+
+
+def write_locations_csv(
+    locations: dict[int, dict],
+    game_counts: dict[int, int],
+    filepath: str,
+):
+    """Write a CSV of all venues with addresses, coordinates, and game counts."""
+    fieldnames = [
+        "location_id", "field_name", "community", "address", "city",
+        "state", "zip", "latitude", "longitude", "game_count",
+    ]
+    # Sort by game count descending
+    rows = []
+    for loc_id, loc in locations.items():
+        row = {"location_id": loc_id, **loc, "game_count": game_counts.get(loc_id, 0)}
+        rows.append(row)
+    rows.sort(key=lambda r: r["game_count"], reverse=True)
+
+    with open(filepath, "w", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(rows)
+
+
 def group_by_location(games: list[dict]) -> dict[str, list[dict]]:
     """Group games by location, sorted by datetime within each group."""
     grouped = defaultdict(list)
@@ -175,8 +259,14 @@ def write_csv(games: list[dict], filepath: str):
         writer.writerows(sorted_games)
 
 
-def write_grouped_report(grouped: dict[str, list[dict]], filepath: str, season_label: str):
+def write_grouped_report(
+    grouped: dict[str, list[dict]],
+    filepath: str,
+    season_label: str,
+    locations: dict[int, dict] | None = None,
+):
     """Write a human-readable report grouped by location."""
+    locations = locations or {}
     with open(filepath, "w") as f:
         f.write("=" * 80 + "\n")
         f.write(f"OHTSL {season_label.upper()} — GAMES GROUPED BY LOCATION\n")
@@ -190,9 +280,13 @@ def write_grouped_report(grouped: dict[str, list[dict]], filepath: str, season_l
         for location, games in grouped.items():
             f.write("-" * 80 + "\n")
             f.write(f"VENUE: {location}\n")
+            loc_id = games[0].get("location_id")
+            loc = locations.get(loc_id) if loc_id else None
+            if loc:
+                f.write(f"  Address: {format_address(loc)}\n")
             f.write(f"  Games at this venue: {len(games)}\n")
-            if games[0].get("location_id"):
-                f.write(f"  Map: {BASE_URL}/directionmap.php?locationid={games[0]['location_id']}\n")
+            if loc_id:
+                f.write(f"  Map: {BASE_URL}/directionmap.php?locationid={loc_id}\n")
             f.write("-" * 80 + "\n")
 
             # Sub-group by date for easy scanning
@@ -212,8 +306,14 @@ def write_grouped_report(grouped: dict[str, list[dict]], filepath: str, season_l
             f.write("\n")
 
 
-def write_by_date_report(games: list[dict], filepath: str, season_label: str):
+def write_by_date_report(
+    games: list[dict],
+    filepath: str,
+    season_label: str,
+    locations: dict[int, dict] | None = None,
+):
     """Write a report sorted by date then grouped by location — best for day-of planning."""
+    locations = locations or {}
     with open(filepath, "w") as f:
         f.write("=" * 80 + "\n")
         f.write(f"OHTSL {season_label.upper()} — GAMES BY DATE → LOCATION\n")
@@ -244,9 +344,13 @@ def write_by_date_report(games: list[dict], filepath: str, season_label: str):
 
             for location in sorted(loc_groups.keys()):
                 loc_games = sorted(loc_groups[location], key=lambda g: g["datetime"] or datetime.max)
+                loc_id = loc_games[0].get("location_id")
+                loc = locations.get(loc_id) if loc_id else None
                 f.write(f"\n  📍 {location} ({len(loc_games)} games)\n")
-                if loc_games[0].get("location_id"):
-                    f.write(f"     Map: {BASE_URL}/directionmap.php?locationid={loc_games[0]['location_id']}\n")
+                if loc:
+                    f.write(f"     {format_address(loc)}\n")
+                if loc_id:
+                    f.write(f"     Map: {BASE_URL}/directionmap.php?locationid={loc_id}\n")
 
                 for game in loc_games:
                     f.write(
@@ -354,19 +458,33 @@ def main():
 
     print(f"\nTotal games scraped: {len(all_games)}")
 
+    # Fetch venue address details
+    unique_loc_ids = get_unique_location_ids(all_games)
+    locations = fetch_location_details(unique_loc_ids)
+
+    # Compute game counts per location_id for the locations CSV
+    loc_game_counts: dict[int, int] = defaultdict(int)
+    for game in all_games:
+        if game.get("location_id"):
+            loc_game_counts[game["location_id"]] += 1
+
     # Write all outputs
     csv_path = os.path.join(output_dir, "all_games.csv")
     write_csv(all_games, csv_path)
     print(f"Written: {csv_path}")
 
+    loc_csv_path = os.path.join(output_dir, "locations.csv")
+    write_locations_csv(locations, loc_game_counts, loc_csv_path)
+    print(f"Written: {loc_csv_path}")
+
     grouped = group_by_location(all_games)
 
     report_path = os.path.join(output_dir, "games_by_location.txt")
-    write_grouped_report(grouped, report_path, season_label)
+    write_grouped_report(grouped, report_path, season_label, locations)
     print(f"Written: {report_path}")
 
     date_report_path = os.path.join(output_dir, "games_by_date_and_location.txt")
-    write_by_date_report(all_games, date_report_path, season_label)
+    write_by_date_report(all_games, date_report_path, season_label, locations)
     print(f"Written: {date_report_path}")
 
     # Summary stats
