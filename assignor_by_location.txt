@@ -1,0 +1,447 @@
+==========================================================================================
+ASSIGNOR SCHEDULE — GROUPED BY LOCATION → DATE → TIME
+==========================================================================================
+
+------------------------------------------------------------------------------------------
+VENUE: Baumgardner Middle School
+  Games: 2
+------------------------------------------------------------------------------------------
+
+  Sun 4/19/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     2:30 PM  #2705   Eastside Kickers             vs Madison                      (Boys 2015(U11) East 5)
+             Field: Rear of building
+
+  Tue 4/21/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     6:30 PM  #3309   Eastside Kickers             vs Geneva   15B                 (Boys 2014(U12) East 4)
+             Field: Rear of building
+
+------------------------------------------------------------------------------------------
+VENUE: Canterbury Elementary School
+  Games: 2
+------------------------------------------------------------------------------------------
+
+  Sun 4/19/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     1:00 PM  #1005   Eastside Kickers             vs Shaker Hts.   SILV           (Boys 2016(U10) East 5)
+             Field: Canterbury
+     2:30 PM  #12909  Eastside Kickers             vs Kenston   Whit               (Boys 2017(U09) East 5)
+             Field: Canterbury
+
+------------------------------------------------------------------------------------------
+VENUE: Chelton Park
+  Games: 1
+------------------------------------------------------------------------------------------
+
+  Wed 4/22/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     6:30 PM  #1110   Shaker Hts.   BLK            vs Rocky River   MRN            (Boys 2016(U10) 1)
+             Field: 7v7
+
+------------------------------------------------------------------------------------------
+VENUE: Clay Eddy Fields
+  Games: 2
+------------------------------------------------------------------------------------------
+
+  Sun 4/19/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     1:00 PM  #1008   West Geauga                  vs Field                        (Boys 2016(U10) East 5)
+             Field: U9/U10
+     5:30 PM  #12408  West Geauga                  vs Twinsburg                    (Girls 2017(U09) East 5)
+             Field: U9/U10
+
+------------------------------------------------------------------------------------------
+VENUE: Courtland Oval Field
+  Games: 11
+------------------------------------------------------------------------------------------
+
+  Sun 4/19/2026
+  ────────────────────────────────────────────────────────────────────────────────
+    11:30 AM  #12907  Shaker Hts.   SILV           vs Stow   Gold                  (Boys 2017(U09) East 5)
+             Field: Courtland West
+    11:30 AM  #7005   Shaker Hts.   RED            vs Riverside                    (Girls 2016(U10) East 4)
+             Field: Courtland East
+     1:00 PM  #1608   Shaker Hts.   RED            vs Kenston                      (Boys 2016(U10) East 3)
+             Field: Courtland East
+     2:30 PM  #1108   Shaker Hts.   BLK            vs NP Aurora   GR               (Boys 2016(U10) 1)
+             Field: Courtland East
+     4:00 PM  #6606   Shaker Hts.   WHT            vs Eastside Kickers             (Girls 2016(U10) East 5)
+             Field: Courtland East
+     4:00 PM  #12609  Shaker Hts.   WHT            vs Geauga Federation SC         (Boys 2017(U09) East 4)
+             Field: Courtland West
+     5:15 PM  #12607  Shaker Hts.   U8 B           vs Willoughby                   (Boys 2017(U09) East 4)
+             Field: Courtland East
+     5:30 PM  #405    Shaker Hts.   WHT            vs Geauga Federation SC         (Boys 2016(U10) East 4)
+             Field: Courtland West
+     6:30 PM  #13205  Stow   Whit                  vs Shaker Hts.   U8 R           (Boys 2017(U09) East 6)
+             Field: Courtland West
+
+  Tue 4/21/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     6:30 PM  #14311  Shaker Hts.   BLK            vs Norton                       (Boys 2017(U09) 1)
+             Field: Courtland West
+
+  Wed 4/22/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     6:30 PM  #10705  Shaker Hts.   BLK            vs Independence                 (Girls 2016(U10) 2)
+             Field: Courtland West
+
+------------------------------------------------------------------------------------------
+VENUE: Denison Park
+  Games: 1
+------------------------------------------------------------------------------------------
+
+  Sun 4/19/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     2:30 PM  #4704   Eastside Kickers             vs Hudson   HARW                (Boys 2013(U13) East 5)
+             Field: Denison A
+
+------------------------------------------------------------------------------------------
+VENUE: Eastlake Travel Soccer
+  Games: 1
+------------------------------------------------------------------------------------------
+
+  Sun 4/19/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     1:00 PM  #13306  Eastlake                     vs Eastside Kickers             (Boys 2011(U15) East 4)
+             Field: Lower Field U13
+
+------------------------------------------------------------------------------------------
+VENUE: Gurney Elementary
+  Games: 4
+------------------------------------------------------------------------------------------
+
+  Sun 4/19/2026
+  ────────────────────────────────────────────────────────────────────────────────
+    11:30 AM  #9410   Chagrin Falls                vs Shaker Hts.   RED            (Girls 2014(U12) 2)
+             Field: Calvetta Brothers Floor Show - Field B 9v9
+     1:00 PM  #408    Chagrin Falls   Orng         vs Euclid                       (Boys 2016(U10) East 4)
+             Field: Calvetta Brothers Floor Show - Field C 7v7
+     2:30 PM  #14410  Chagrin Falls                vs Broadview Hts.               (Boys 2017(U09) East 3)
+             Field: Calvetta Brothers Floor Show - Field C 7v7
+     4:00 PM  #6605   Chagrin Falls   Blck         vs Twinsburg   Whte             (Girls 2016(U10) East 5)
+             Field: Calvetta Brothers Floor Show - Field C 7v7
+
+------------------------------------------------------------------------------------------
+VENUE: Jindra Park
+  Games: 1
+------------------------------------------------------------------------------------------
+
+  Sun 4/19/2026
+  ────────────────────────────────────────────────────────────────────────────────
+    11:30 AM  #9204   Wickliffe                    vs Strongsville                 (Girls 2014(U12) East 3)
+             Field: Jindra Park
+
+------------------------------------------------------------------------------------------
+VENUE: Kreuger Park
+  Games: 9
+------------------------------------------------------------------------------------------
+
+  Sun 4/19/2026
+  ────────────────────────────────────────────────────────────────────────────────
+    11:00 AM  #11904  Mentor   Gray                vs Solon United   Gold          (Girls 2017(U09) East 4 E)
+             Field: 7v7 #2
+     1:00 PM  #7904   Mentor                       vs Stow   Mar                   (Girls 2015(U11) East 3)
+             Field: 9v9 #6
+     1:00 PM  #5704   Mentor                       vs NP Aurora                    (Boys 2012(U14) East 4)
+             Field: 11v11 #1
+     1:00 PM  #12611  Mentor   Gray                vs Streetsboro                  (Boys 2017(U09) East 4)
+             Field: 7v7 #2
+     2:30 PM  #4610   Mentor                       vs West Geauga                  (Boys 2013(U13) 2)
+             Field: 11v11 #1
+     4:00 PM  #2204   Mentor                       vs Solon United   Blue          (Boys 2015(U11) East 3)
+             Field: 9v9 #6
+     4:30 PM  #7019   Mentor                       vs Geauga Federation SC         (Girls 2016(U10) East 4)
+             Field: 7v7 #2
+     5:30 PM  #3106   Mentor                       vs Twinsburg                    (Boys 2014(U12) East 3)
+             Field: 9v9 #6
+
+  Wed 4/22/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     6:30 PM  #2209   Mentor                       vs Eastside Kickers             (Boys 2015(U11) East 3)
+             Field: 9v9 #6
+
+------------------------------------------------------------------------------------------
+VENUE: Madison Middle School
+  Games: 3
+------------------------------------------------------------------------------------------
+
+  Sun 4/19/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     1:00 PM  #1007   Stow   Gold                  vs Madison                      (Boys 2016(U10) East 5)
+             Field: 7v7
+     5:30 PM  #10504  Madison                      vs Cloverleaf   JF              (Girls 2012(U14) 3)
+             Field: 11v11
+
+  Tue 4/21/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     6:30 PM  #9107   Madison                      vs Orange                       (Girls 2014(U12) East 4)
+             Field: 9v9
+
+------------------------------------------------------------------------------------------
+VENUE: Mayfield High School Stadium
+  Games: 2
+------------------------------------------------------------------------------------------
+
+  Sun 4/19/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     1:00 PM  #5805   Mayfield   RP14              vs Chagrin Falls   Orng         (Boys 2012(U14) East 3)
+             Field: Stadium
+     4:00 PM  #6008   Mayfield   MA                vs Riverside                    (Boys 2012(U14) 2)
+             Field: Stadium
+
+------------------------------------------------------------------------------------------
+VENUE: Mayfield Village
+  Games: 7
+------------------------------------------------------------------------------------------
+
+  Sun 4/19/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     1:00 PM  #7206   Mayfield   MF                vs Kent   TS                    (Girls 2016(U10) East 3)
+             Field: Field 2 - North fields, middle field
+     2:30 PM  #107    Mayfield   KHA               vs Strongsville                 (Boys 2016(U10) 2)
+             Field: Field 2 - North fields, middle field
+     5:30 PM  #3708   Mayfield   MW                vs Aurora                       (Boys 2014(U12) East 2)
+             Field: Field 3 - North Field closest to Route 91
+
+  Mon 4/20/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     6:30 PM  #7905   Mayfield   TS                vs Orange                       (Girls 2015(U11) East 3)
+             Field: Field 3 - North Field closest to Route 91
+     6:30 PM  #14114  Mayfield   DW                vs Medina   17GN                (Girls 2017(U09) 1)
+             Field: Field 2 - North fields, middle field
+
+  Tue 4/21/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     6:00 PM  #9407   Mayfield   SS                vs Bay Village   KB             (Girls 2014(U12) 2)
+             Field: Field 3 - North Field closest to Route 91
+     6:30 PM  #14312  Mayfield   SR                vs Mentor   Red                 (Boys 2017(U09) 1)
+             Field: Field 2 - North fields, middle field
+
+------------------------------------------------------------------------------------------
+VENUE: Memorial Pool Field
+  Games: 1
+------------------------------------------------------------------------------------------
+
+  Sun 4/19/2026
+  ────────────────────────────────────────────────────────────────────────────────
+    11:00 AM  #9409   Euclid                       vs Hudson   SHUT                (Girls 2014(U12) 2)
+             Field: 9v9
+
+------------------------------------------------------------------------------------------
+VENUE: Newbury Field 11v11
+  Games: 2
+------------------------------------------------------------------------------------------
+
+  Sun 4/19/2026
+  ────────────────────────────────────────────────────────────────────────────────
+    10:00 AM  #6209   West Geauga                  vs Hudson   KNAP                (Boys 2011(U15) 1)
+             Field: Newbury Field
+    11:30 AM  #4406   West Geauga                  vs Geauga Federation SC   GRN   (Boys 2013(U13) East 3)
+             Field: Newbury Field
+
+------------------------------------------------------------------------------------------
+VENUE: Orange - Brady Middle School 7v7 Fields
+  Games: 3
+------------------------------------------------------------------------------------------
+
+  Sun 4/19/2026
+  ────────────────────────────────────────────────────────────────────────────────
+    11:30 AM  #7006   Orange                       vs Eastside Kickers             (Girls 2016(U10) East 4)
+             Field: 7v7 Field 1 B3 Top of Hill -
+     1:00 PM  #13207  Orange                       vs Cuyahoga Falls   TG          (Boys 2017(U09) East 6)
+             Field: 7v7 Field 1 B3 Top of Hill -
+     4:00 PM  #1605   Orange                       vs North Royalton               (Boys 2016(U10) East 3)
+             Field: 7v7 Field 1 B3 Top of Hill -
+
+------------------------------------------------------------------------------------------
+VENUE: Orange - Brady Middle School B4 9v9 Field - Upper Left Corner
+  Games: 2
+------------------------------------------------------------------------------------------
+
+  Fri 4/17/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     6:30 PM  #1708   Orange                       vs Brunswick   RYL              (Boys 2015(U11) 1)
+             Field: Brady Middle School
+
+  Sun 4/19/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     5:30 PM  #2708   Orange                       vs Brecksville Bees SA   Y      (Boys 2015(U11) East 5)
+             Field: Brady Middle School
+
+------------------------------------------------------------------------------------------
+VENUE: Orlando Park
+  Games: 2
+------------------------------------------------------------------------------------------
+
+  Sun 4/19/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     1:00 PM  #406    Wickliffe                    vs Eastside Kickers             (Boys 2016(U10) East 4)
+             Field: Orlando Park 7v7
+     2:30 PM  #12908  Wickliffe                    vs Solon United   U8            (Boys 2017(U09) East 5)
+             Field: Orlando Park 7v7
+
+------------------------------------------------------------------------------------------
+VENUE: Osborne Park
+  Games: 3
+------------------------------------------------------------------------------------------
+
+  Sun 4/19/2026
+  ────────────────────────────────────────────────────────────────────────────────
+    12:15 PM  #1606   Willoughby                   vs Twinsburg   Blue             (Boys 2016(U10) East 3)
+             Field: Osborne Park 7v7
+     4:00 PM  #2707   Willoughby                   vs Euclid                       (Boys 2015(U11) East 5)
+             Field: Osborne Park 9v9
+
+  Tue 4/21/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     6:30 PM  #2107   Willoughby                   vs Shaker Hts.   WHT            (Boys 2015(U11) East 4)
+             Field: Osborne Park 9v9
+
+------------------------------------------------------------------------------------------
+VENUE: Riverside High School - grass field 11v11
+  Games: 2
+------------------------------------------------------------------------------------------
+
+  Sun 4/19/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     2:30 PM  #4306   Riverside   NS               vs Mantua                       (Boys 2013(U13) East 4)
+             Field: Varsity Grass (11v11)
+     4:00 PM  #4407   Riverside   CT               vs North Royalton               (Boys 2013(U13) East 3)
+             Field: Varsity Grass (11v11)
+
+------------------------------------------------------------------------------------------
+VENUE: Riverview Elementary
+  Games: 5
+------------------------------------------------------------------------------------------
+
+  Sun 4/19/2026
+  ────────────────────────────────────────────────────────────────────────────────
+    10:00 AM  #3110   Riverside   JJ               vs Wickliffe                    (Boys 2014(U12) East 3)
+             Field: 9v9
+    11:30 AM  #8104   Riverside                    vs Chagrin Falls                (Girls 2015(U11) East 4)
+             Field: 9v9
+     1:00 PM  #14409  Riverside   CB               vs Hudson   SATT                (Boys 2017(U09) East 3)
+             Field: 7v7
+     4:00 PM  #204    Riverside                    vs Shaker Hts.   GOLD           (Boys 2016(U10) East 6)
+             Field: 7v7
+     6:30 PM  #2106   Riverside   BH               vs Shaker Hts.   WHT            (Boys 2015(U11) East 4)
+             Field: 9v9
+
+------------------------------------------------------------------------------------------
+VENUE: Shaker Heights Main Library
+  Games: 3
+------------------------------------------------------------------------------------------
+
+  Fri 4/17/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     6:30 PM  #4608   Shaker Hts.   BLK            vs Bay Village   BW             (Boys 2013(U13) 2)
+             Field: Main Library Field
+
+  Sun 4/19/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     1:00 PM  #4706   Shaker Hts.   WHT            vs Orange                       (Boys 2013(U13) East 5)
+             Field: Main Library Field
+     5:30 PM  #9806   Shaker Hts.   BLK            vs West Geauga                  (Girls 2013(U13) East 2)
+             Field: Main Library Field
+
+------------------------------------------------------------------------------------------
+VENUE: Shaker Heights Middle School
+  Games: 5
+------------------------------------------------------------------------------------------
+
+  Thu 4/16/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     6:30 PM  #6510   Shaker Hts.   BLK            vs Green                        (Boys 2011(U15) 2)
+             Field: Lower Field (east end of school building)
+
+  Sun 4/19/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     2:30 PM  #9106   Shaker Hts.   SILV           vs Orange                       (Girls 2014(U12) East 4)
+             Field: Median Field (across Shaker Blvd from the school)
+     5:30 PM  #1706   Shaker Hts.   BLK            vs Orange                       (Boys 2015(U11) 1)
+             Field: Median Field (across Shaker Blvd from the school)
+
+  Mon 4/20/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     6:30 PM  #15106  Shaker Hts.   BLK            vs North Royalton               (Girls 2015(U11) East 2)
+             Field: Median Field (across Shaker Blvd from the school)
+
+  Wed 4/22/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     6:30 PM  #3613   Shaker Hts.   BLK            vs NP Aurora                    (Boys 2014(U12) 1)
+             Field: Median Field (across Shaker Blvd from the school)
+
+------------------------------------------------------------------------------------------
+VENUE: Shelburne Field
+  Games: 3
+------------------------------------------------------------------------------------------
+
+  Sun 4/19/2026
+  ────────────────────────────────────────────────────────────────────────────────
+    11:30 AM  #3306   Shaker Hts.   RED            vs North Royalton               (Boys 2014(U12) East 4)
+             Field: Corner of North Park and Shelburne
+     1:00 PM  #3308   Shaker Hts.   WHT            vs Hudson   SHUT                (Boys 2014(U12) East 4)
+             Field: Corner of North Park and Shelburne
+     2:30 PM  #8105   Shaker Hts.   RED            vs West Geauga                  (Girls 2015(U11) East 4)
+             Field: Corner of North Park and Shelburne
+
+------------------------------------------------------------------------------------------
+VENUE: Shore Field
+  Games: 1
+------------------------------------------------------------------------------------------
+
+  Tue 4/21/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     6:30 PM  #6408   Euclid                       vs Geauga Federation SC         (Boys 2011(U15) East 3)
+             Field: 11v11 primary
+
+------------------------------------------------------------------------------------------
+VENUE: Spire Institute
+  Games: 5
+------------------------------------------------------------------------------------------
+
+  Sun 4/19/2026
+  ────────────────────────────────────────────────────────────────────────────────
+    11:30 AM  #9104   Geneva   14G                 vs Madison                      (Girls 2014(U12) East 4)
+             Field: Indoor Partial Field - Field Turf
+     1:00 PM  #206    Geneva                       vs Willoughby                   (Boys 2016(U10) East 6)
+             Field: Indoor Partial Field - Field Turf
+     2:30 PM  #12906  Geneva   17B                 vs Stow   Gray                  (Boys 2017(U09) East 5)
+             Field: Indoor Partial Field - Field Turf
+     4:00 PM  #3305   Geneva   15B                 vs Rootstown                    (Boys 2014(U12) East 4)
+             Field: Indoor Partial Field - Field Turf
+
+  Tue 4/21/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     6:30 PM  #9109   Geneva   14G                 vs Kenston                      (Girls 2014(U12) East 4)
+             Field: Track and Field Buildling Indoor Turf Field
+
+------------------------------------------------------------------------------------------
+VENUE: West Geauga Commons
+  Games: 2
+------------------------------------------------------------------------------------------
+
+  Sun 4/19/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     2:30 PM  #1904   West Geauga                  vs Chagrin Falls   Blck         (Boys 2015(U11) East 6)
+             Field: Junior (Side) Field
+
+  Tue 4/21/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     6:30 PM  #1909   West Geauga                  vs Shaker Hts.   SILV           (Boys 2015(U11) East 6)
+             Field: Junior (Side) Field
+
+------------------------------------------------------------------------------------------
+VENUE: Wickliffe High School
+  Games: 2
+------------------------------------------------------------------------------------------
+
+  Sun 4/19/2026
+  ────────────────────────────────────────────────────────────────────────────────
+     4:00 PM  #4705   Wickliffe                    vs North Royalton               (Boys 2013(U13) East 5)
+             Field: Football Field in Back
+     5:30 PM  #5821   Wickliffe                    vs Geauga Federation SC         (Boys 2012(U14) East 3)
+             Field: Football Field in Back
+
