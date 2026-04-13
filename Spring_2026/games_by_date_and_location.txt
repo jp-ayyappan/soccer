@@ -193,11 +193,12 @@ Sun 4/12/26  (333 games)
        2:30 PM  #13101  North Canton              vs Northwest                 (Boys 2017(U09) Div South 6)
        4:00 PM  #6902   North Canton              vs Eagles Select   2016      (Girls 2016(U10) Div South 4)
 
-  📍 Chelton Park (7v7) (2 games)
+  📍 Chelton Park (7v7) (3 games)
      3645 Chelton Road, Shaker Heights, OH 44120
      Map: https://www.ohtsl.com/directionmap.php?locationid=683
        1:30 PM  #13202  Orange                    vs Shaker Hts.   U8 R        (Boys 2017(U09) Div East 6)
        2:30 PM  #12203  Shaker Hts.   RED         vs Kenston                   (Girls 2017(U09) Div East 3)
+       4:00 PM  #7003   Shaker Hts.   RED         vs Eastside Kickers          (Girls 2016(U10) Div East 4)
 
   📍 City Park (Field 2) (2 games)
      9000 Kirby Lane, Streetsboro, OH 44241
@@ -245,11 +246,10 @@ Sun 4/12/26  (333 games)
        1:00 PM  #12605  Shaker Hts.   WHT         vs Willoughby                (Boys 2017(U09) Div East 4)
        2:30 PM  #401    Shaker Hts.   WHT         vs Hudson   CORV             (Boys 2016(U10) Div East 4)
 
-  📍 Courtland Oval Field (Courtland West) (2 games)
+  📍 Courtland Oval Field (Courtland West) (1 games)
      Courtland Oval, Shaker Heights, OH 44122
      Map: https://www.ohtsl.com/directionmap.php?locationid=318
        2:45 PM  #14304  Shaker Hts.   BLK         vs Mayfield   SR             (Boys 2017(U09) Div 1)
-       4:00 PM  #7003   Shaker Hts.   RED         vs Eastside Kickers          (Girls 2016(U10) Div East 4)
 
   📍 Crestview Elementary (9v9) (2 games)
      300 W. 130th Street, Brunswick, OH 44212
@@ -1459,7 +1459,7 @@ Thu 4/16/26  (20 games)
        6:30 PM  #3810   Bay Village   JS          vs LaGrange                  (Boys 2014(U12) Div West 3)
 
 ================================================================================
-Fri 4/17/26  (18 games)
+Fri 4/17/26  (15 games)
 ================================================================================
 
   📍 Ashland Comunity Soccer Park (Field 6) (1 games)
@@ -1471,11 +1471,6 @@ Fri 4/17/26  (18 games)
      1965 Barlow Road, Hudson, OH 44236
      Map: https://www.ohtsl.com/directionmap.php?locationid=13
        6:30 PM  #14106  Hudson   BATS             vs Mayfield   DW             (Girls 2017(U09) Div 1)
-
-  📍 Barlow Farm Park (Field 4) (1 games)
-     1965 Barlow Road, Hudson, OH 44236
-     Map: https://www.ohtsl.com/directionmap.php?locationid=13
-       6:30 PM  #11201  Hudson   BOWM             vs Jackson                   (Girls 2011(U15) Div 1)
 
   📍 Barton-Bradley Recreation Fields (Field 2) (1 games)
      30642 Bradley Rd, North Olmsted, OH 44070
@@ -1517,11 +1512,6 @@ Fri 4/17/26  (18 games)
      Map: https://www.ohtsl.com/directionmap.php?locationid=310
        7:00 PM  #11111  Lakewood   G11G           vs Medina   12GN             (Girls 2011(U15) Div 3)
 
-  📍 Medina Huffman/Cunningham Fields (Cunningham 15 (7v7)) (1 games)
-     4440 Weymouth Rd., Medina, OH 44256
-     Map: https://www.ohtsl.com/directionmap.php?locationid=205
-       6:30 PM  #1109   Medina   U10G             vs Broadview Hts.            (Boys 2016(U10) Div 1)
-
   📍 Orange - Brady Middle School B4 9v9 Field - Upper Left Corner  (Brady Middle School) (1 games)
      32000 Chagrin Boulevard, Orange, OH 44124
      Map: https://www.ohtsl.com/directionmap.php?locationid=264
@@ -1536,11 +1526,6 @@ Fri 4/17/26  (18 games)
      29301 Center Ridge Road, Westlake, OH 44145
      Map: https://www.ohtsl.com/directionmap.php?locationid=246
        6:30 PM  #4511   Westlake   JM             vs Brecksville Bees SA       (Boys 2013(U13) Div West 4)
-
-  📍 Rocky River Middle School (RRMS) (1 games)
-     1631 Lakeview Ave, Rocky River, OH 44116
-     Map: https://www.ohtsl.com/directionmap.php?locationid=4
-       6:00 PM  #10202  Rocky River   WHT         vs Olmsted Falls   Gold      (Girls 2013(U13) Div West 3)
 
   📍 Shaker Heights Main Library (Main Library Field) (1 games)
      16500 Van Aken Blvd, Shaker Heights, OH 44120
@@ -1622,13 +1607,18 @@ Sat 4/18/26  (13 games)
        1:00 PM  #805    Cuyahoga Falls   JH10     vs Copley   Gold             (Boys 2016(U10) Div South 4)
 
 ================================================================================
-Sun 4/19/26  (353 games)
+Sun 4/19/26  (351 games)
 ================================================================================
 
   📍 Al Lease Field (11v11) (1 games)
      1100 Denise Drive, Kent, OH 44240
      Map: https://www.ohtsl.com/directionmap.php?locationid=500
        5:30 PM  #10907  Kent   TH                 vs Orange                    (Girls 2012(U14) Div 4)
+
+  📍 Amherst Junior High (AJH #12) (1 games)
+     548 Milan Ave, Amherst, OH 44001
+     Map: https://www.ohtsl.com/directionmap.php?locationid=308
+       2:30 PM  #5605   Amherst                   vs Twinsburg   Blue          (Boys 2012(U14) Div 1)
 
   📍 Arrowhead School (Arrowhead 656) (2 games)
      1600 Raleigh Blvd., Copley, OH 44321
@@ -1969,12 +1959,6 @@ Sun 4/19/26  (353 games)
        1:15 PM  #10408  Aurora                    vs Eastside Kickers          (Girls 2013(U13) Div East 3)
        6:00 PM  #11503  Aurora                    vs Bay Village   ML          (Girls 2011(U15) Div 2)
 
-  📍 High School Field (High school field) (2 games)
-     450 Washington St, AMHERST, Oh 44001
-     Map: https://www.ohtsl.com/directionmap.php?locationid=767
-       1:00 PM  #10506  Amherst                   vs Chagrin Falls             (Girls 2012(U14) Div 3)
-       2:30 PM  #5605   Amherst                   vs Twinsburg   Blue          (Boys 2012(U14) Div 1)
-
   📍 Highland High School (HHS Stadium) (1 games)
      4150 Ridge Rd, Medina, OH 44256
      Map: https://www.ohtsl.com/directionmap.php?locationid=268
@@ -2107,11 +2091,10 @@ Sun 4/19/26  (353 games)
        1:00 PM  #13904  Avon Lake                 vs Avon   DK                 (Boys 2017(U09) Div West 6 EN)
        4:00 PM  #907    Avon Lake                 vs Lakewood   B16P           (Boys 2016(U10) Div West 3)
 
-  📍 Linden Park (Linden North) (3 games)
+  📍 Linden Park (Linden North) (2 games)
      Linden Rd, Rocky River, Oh 44116
      Map: https://www.ohtsl.com/directionmap.php?locationid=6
        1:00 PM  #12008  Rocky River   GLD         vs Avon Lake   BLK           (Girls 2017(U09) Div West 5)
-       2:30 PM  #11706  Rocky River   BLK         vs Avon Lake   MRN           (Girls 2017(U09) Div West 4)
        5:30 PM  #6705   Rocky River   GRY         vs North Olmsted             (Girls 2016(U10) Div West 6)
 
   📍 Linden Park (Linden South) (3 games)
@@ -2874,7 +2857,7 @@ Mon 4/20/26  (19 games)
        6:30 PM  #5603   Highland   AS1            vs Westlake   MW             (Boys 2012(U14) Div 1)
 
 ================================================================================
-Tue 4/21/26  (65 games)
+Tue 4/21/26  (64 games)
 ================================================================================
 
   📍 Arrowhead School (Arrowhead 655) (1 games)
@@ -3060,8 +3043,8 @@ Tue 4/21/26  (65 games)
   📍 Muhl Fields (447) (2 games)
      390 Trease Road, Wadsworth, OH 44281
      Map: https://www.ohtsl.com/directionmap.php?locationid=210
-       6:30 PM  #12827  Wadsworth   HIL           vs Highland   JC6            (Boys 2017(U09) Div South 4)
        6:30 PM  #12807  Wadsworth   LID           vs Eagles Select   2018      (Boys 2017(U09) Div South 4)
+       6:30 PM  #12827  Wadsworth   HIL           vs Highland   JC6            (Boys 2017(U09) Div South 4)
 
   📍 Nordonia High School (Stadium) (1 games)
      8006 south bedford rd, Macedonia, oh 44056
@@ -3072,11 +3055,6 @@ Tue 4/21/26  (65 games)
      6235-6369 Manchester Ave NW, North Lawrence, oh 44666
      Map: https://www.ohtsl.com/directionmap.php?locationid=627
        6:30 PM  #15005  Mustangs Jr               vs Highland   JM1            (Girls 2016(U10) Div South 3)
-
-  📍 Northgate Park (7v7) (1 games)
-     2155 Eaton Drive, Avon, OH 44011
-     Map: https://www.ohtsl.com/directionmap.php?locationid=368
-       6:30 PM  #14309  Avon   DB                 vs Highland   NF4            (Boys 2017(U09) Div 1)
 
   📍 Osborne Park (Osborne Park 9v9) (1 games)
      38575 Lakeshore Blvd, Willoughby, Oh 44094
@@ -3199,7 +3177,7 @@ Tue 4/21/26  (65 games)
        6:30 PM  #5107   Wooster                   vs Ashland                   (Boys 2013(U13) Div South 3)
 
 ================================================================================
-Wed 4/22/26  (46 games)
+Wed 4/22/26  (47 games)
 ================================================================================
 
   📍 Barlow Farm Park (Field 2A) (1 games)
@@ -3277,9 +3255,10 @@ Wed 4/22/26  (46 games)
      Map: https://www.ohtsl.com/directionmap.php?locationid=250
        6:30 PM  #111    Avon Lake   BLK           vs Stow   Mar                (Boys 2016(U10) Div 2)
 
-  📍 Linden Park (Linden North) (1 games)
+  📍 Linden Park (Linden North) (2 games)
      Linden Rd, Rocky River, Oh 44116
      Map: https://www.ohtsl.com/directionmap.php?locationid=6
+       6:00 PM  #11706  Rocky River   BLK         vs Avon Lake   MRN           (Girls 2017(U09) Div West 4)
        6:30 PM  #12705  Rocky River   MRN         vs Lakewood   B17G           (Boys 2017(U09) Div West 3)
 
   📍 Linden Park (Linden South) (1 games)
@@ -3433,7 +3412,7 @@ Wed 4/22/26  (46 games)
        6:30 PM  #13211  Cuyahoga Falls   JH9      vs Shaker Hts.   U8 R        (Boys 2017(U09) Div East 6)
 
 ================================================================================
-Thu 4/23/26  (41 games)
+Thu 4/23/26  (40 games)
 ================================================================================
 
   📍 Bath Community Center (Bath Community Center Field 2) (1 games)
@@ -3456,7 +3435,7 @@ Thu 4/23/26  (41 games)
      Map: https://www.ohtsl.com/directionmap.php?locationid=141
        6:30 PM  #8303   Bay Village   JTR         vs North Olmsted             (Girls 2015(U11) Div 1)
 
-  📍 DePaola Park  ( DePaola #3) (1 games)
+  📍 DePaola Park  (DePaola #4) (1 games)
      999 Amchester Dr, Amherst, OH 44001
      Map: https://www.ohtsl.com/directionmap.php?locationid=298
        6:30 PM  #14005  Amherst                   vs Avon Lake                 (Boys 2017(U09) Div West 4)
@@ -3535,11 +3514,6 @@ Thu 4/23/26  (41 games)
      4440 Weymouth Rd., Medina, OH 44256
      Map: https://www.ohtsl.com/directionmap.php?locationid=205
        6:30 PM  #4006   Medina   14Wh             vs Cuyahoga Falls   JH       (Boys 2014(U12) Div South 3)
-
-  📍 Newbury Field 11v11 (Newbury Field) (1 games)
-     14775 Auburn Road, Newbury, Oh
-     Map: https://www.ohtsl.com/directionmap.php?locationid=739
-       6:30 PM  #4613   West Geauga               vs Hudson   HARB             (Boys 2013(U13) Div 2)
 
   📍 Osborne Park (Osborne Park 7v7) (1 games)
      38575 Lakeshore Blvd, Willoughby, Oh 44094
@@ -3642,7 +3616,7 @@ Thu 4/23/26  (41 games)
        6:30 PM  #2108   West Geauga               vs Riverside   BH            (Boys 2015(U11) Div East 4)
 
 ================================================================================
-Fri 4/24/26  (18 games)
+Fri 4/24/26  (19 games)
 ================================================================================
 
   📍 Arrowhead School (Arrowhead 656) (1 games)
@@ -3689,6 +3663,11 @@ Fri 4/24/26  (18 games)
      2701 N Turkeyfoot Rd, Akron, OH 44319
      Map: https://www.ohtsl.com/directionmap.php?locationid=594
        6:30 PM  #14705  PLX United                vs Copley   Blue             (Boys 2016(U10) Div South 6)
+
+  📍 Medina Huffman/Cunningham Fields (Cunningham 15 (7v7)) (1 games)
+     4440 Weymouth Rd., Medina, OH 44256
+     Map: https://www.ohtsl.com/directionmap.php?locationid=205
+       6:30 PM  #1109   Medina   U10G             vs Broadview Hts.            (Boys 2016(U10) Div 1)
 
   📍 Medina Huffman/Cunningham Fields (Cunningham 16 (9v9)) (1 games)
      4440 Weymouth Rd., Medina, OH 44256
@@ -3838,6 +3817,11 @@ Sun 4/26/26  (368 games)
      1100 Denise Drive, Kent, OH 44240
      Map: https://www.ohtsl.com/directionmap.php?locationid=500
        2:30 PM  #6012   Kent   BW                 vs Sandusky                  (Boys 2012(U14) Div 2)
+
+  📍 Amherst Junior High (AJH #12) (1 games)
+     548 Milan Ave, Amherst, OH 44001
+     Map: https://www.ohtsl.com/directionmap.php?locationid=308
+       4:00 PM  #11311  Amherst                   vs Rocky River               (Girls 2011(U15) Div 4)
 
   📍 Arrowhead School (Arrowhead 655) (1 games)
      1600 Raleigh Blvd., Copley, OH 44321
@@ -4187,11 +4171,10 @@ Sun 4/26/26  (368 games)
      Map: https://www.ohtsl.com/directionmap.php?locationid=663
        2:30 PM  #5707   NP Aurora                 vs Copley                    (Boys 2012(U14) Div East 4)
 
-  📍 High School Field (High school field) (2 games)
+  📍 High School Field (High school field) (1 games)
      450 Washington St, AMHERST, Oh 44001
      Map: https://www.ohtsl.com/directionmap.php?locationid=767
        1:00 PM  #10511  Amherst                   vs Cloverleaf   JF           (Girls 2012(U14) Div 3)
-       4:00 PM  #11311  Amherst                   vs Rocky River               (Girls 2011(U15) Div 4)
 
   📍 Highland High School (HHS Stadium) (1 games)
      4150 Ridge Rd, Medina, OH 44256
@@ -5768,6 +5751,11 @@ Tue 4/28/26  (118 games)
 Wed 4/29/26  (99 games)
 ================================================================================
 
+  📍 Amherst Junior High (AJH #12) (1 games)
+     548 Milan Ave, Amherst, OH 44001
+     Map: https://www.ohtsl.com/directionmap.php?locationid=308
+       6:30 PM  #5212   Amherst                   vs Brunswick   RYL           (Boys 2013(U13) Div West 3)
+
   📍 Arrowhead School (Arrowhead 656) (1 games)
      1600 Raleigh Blvd., Copley, OH 44321
      Map: https://www.ohtsl.com/directionmap.php?locationid=169
@@ -5883,11 +5871,6 @@ Wed 4/29/26  (99 games)
      4616 E Catawba Woods Rd, Port Clinton, OH 43452
      Map: https://www.ohtsl.com/directionmap.php?locationid=662
        6:30 PM  #9309   Port Clinton              vs Westlake   CG             (Girls 2014(U12) Div West 3)
-
-  📍 High School Field (High school field) (1 games)
-     450 Washington St, AMHERST, Oh 44001
-     Map: https://www.ohtsl.com/directionmap.php?locationid=767
-       6:30 PM  #5212   Amherst                   vs Brunswick   RYL           (Boys 2013(U13) Div West 3)
 
   📍 Hoover Park (9v9) (1 games)
      1875 E Maple St, North Canton, OH 44720
@@ -6259,6 +6242,11 @@ Wed 4/29/26  (99 games)
 Thu 4/30/26  (94 games)
 ================================================================================
 
+  📍 Amherst Junior High (AJH #12) (1 games)
+     548 Milan Ave, Amherst, OH 44001
+     Map: https://www.ohtsl.com/directionmap.php?locationid=308
+       6:30 PM  #10514  Amherst                   vs Fairview Park             (Girls 2012(U14) Div 3)
+
   📍 Arrowhead School (Arrowhead 656) (1 games)
      1600 Raleigh Blvd., Copley, OH 44321
      Map: https://www.ohtsl.com/directionmap.php?locationid=169
@@ -6389,11 +6377,6 @@ Thu 4/30/26  (94 games)
      Map: https://www.ohtsl.com/directionmap.php?locationid=663
        6:00 PM  #14416  NP Aurora   WH            vs Solon United   Blue       (Boys 2017(U09) Div East 3)
        6:30 PM  #15116  NP Aurora                 vs Highland   EM4            (Girls 2015(U11) Div East 2)
-
-  📍 High School Field (High school field) (1 games)
-     450 Washington St, AMHERST, Oh 44001
-     Map: https://www.ohtsl.com/directionmap.php?locationid=767
-       6:30 PM  #10514  Amherst                   vs Fairview Park             (Girls 2012(U14) Div 3)
 
   📍 Hoover Park (9v9) (1 games)
      1875 E Maple St, North Canton, OH 44720
@@ -7043,8 +7026,13 @@ Sat 5/2/26  (28 games)
       11:00 AM  #816    Cuyahoga Falls   JH10     vs Wooster                   (Boys 2016(U10) Div South 4)
 
 ================================================================================
-Sun 5/3/26  (413 games)
+Sun 5/3/26  (412 games)
 ================================================================================
+
+  📍 Amherst Junior High (AJH #12) (1 games)
+     548 Milan Ave, Amherst, OH 44001
+     Map: https://www.ohtsl.com/directionmap.php?locationid=308
+       2:30 PM  #10518  Amherst                   vs Madison                   (Girls 2012(U14) Div 3)
 
   📍 Arrowhead School (Arrowhead 655) (1 games)
      1600 Raleigh Blvd., Copley, OH 44321
@@ -7390,10 +7378,9 @@ Sun 5/3/26  (413 games)
      Map: https://www.ohtsl.com/directionmap.php?locationid=23
        5:30 PM  #10213  Fairview Park             vs North Ridgeville          (Girls 2013(U13) Div West 3)
 
-  📍 Firelands High School (FHS: Field 7 (9v9)) (3 games)
+  📍 Firelands High School (FHS: Field 7 (9v9)) (2 games)
      10521 Vermilion Rd, Oberlin, OH 44074
      Map: https://www.ohtsl.com/directionmap.php?locationid=758
-      10:00 AM  #14618  Firelands                 vs Rocky River   MRN         (Girls 2015(U11) Div West 2)
        2:30 PM  #2315   Firelands                 vs Lakewood   B15G           (Boys 2015(U11) Div West 5)
        4:00 PM  #3830   Firelands                 vs North Ridgeville   Navy   (Boys 2014(U12) Div West 3)
 
@@ -7474,11 +7461,10 @@ Sun 5/3/26  (413 games)
       10:30 AM  #13316  Aurora                    vs Kenston                   (Boys 2011(U15) Div East 4)
        4:00 PM  #11511  Aurora                    vs North Olmsted             (Girls 2011(U15) Div 2)
 
-  📍 High School Field (High school field) (2 games)
+  📍 High School Field (High school field) (1 games)
      450 Washington St, AMHERST, Oh 44001
      Map: https://www.ohtsl.com/directionmap.php?locationid=767
        1:00 PM  #11322  Amherst                   vs Midview                   (Girls 2011(U15) Div 4)
-       2:30 PM  #10518  Amherst                   vs Madison                   (Girls 2012(U14) Div 3)
 
   📍 Highland High School (HHS Stadium) (2 games)
      4150 Ridge Rd, Medina, OH 44256
@@ -8472,7 +8458,7 @@ Mon 5/4/26  (24 games)
        6:30 PM  #9412   Bay Village   KB          vs Independence              (Girls 2014(U12) Div 2)
 
 ================================================================================
-Tue 5/5/26  (31 games)
+Tue 5/5/26  (32 games)
 ================================================================================
 
   📍 Arrowhead School (Arrowhead 657) (1 games)
@@ -8519,6 +8505,11 @@ Tue 5/5/26  (31 games)
      1294 Cove Ave, Lakewood, OH 44107
      Map: https://www.ohtsl.com/directionmap.php?locationid=312
        6:30 PM  #14029  Lakewood   B17P           vs Amherst                   (Boys 2017(U09) Div West 4)
+
+  📍 Firelands High School (FHS: Field 7 (9v9)) (1 games)
+     10521 Vermilion Rd, Oberlin, OH 44074
+     Map: https://www.ohtsl.com/directionmap.php?locationid=758
+       6:30 PM  #14618  Firelands                 vs Rocky River   MRN         (Girls 2015(U11) Div West 2)
 
   📍 Hopfinger Zimmerman Park (Field 1 - 7v7) (1 games)
      4909 W Oak Harbor Southeast Rd, Port Clinton, Oh 43452
@@ -8631,7 +8622,7 @@ Tue 5/5/26  (31 games)
        6:30 PM  #4012   Cuyahoga Falls   JH       vs Copley   Gold             (Boys 2014(U12) Div South 3)
 
 ================================================================================
-Wed 5/6/26  (38 games)
+Wed 5/6/26  (40 games)
 ================================================================================
 
   📍 Barlow Farm Park (Field 1) (1 games)
@@ -8643,6 +8634,11 @@ Wed 5/6/26  (38 games)
      1965 Barlow Road, Hudson, OH 44236
      Map: https://www.ohtsl.com/directionmap.php?locationid=13
        6:30 PM  #8908   Hudson   BEZD             vs North Royalton   15P      (Girls 2014(U12) Div 1)
+
+  📍 Barlow Farm Park (Field 4) (1 games)
+     1965 Barlow Road, Hudson, OH 44236
+     Map: https://www.ohtsl.com/directionmap.php?locationid=13
+       7:25 PM  #11201  Hudson   BOWM             vs Jackson                   (Girls 2011(U15) Div 1)
 
   📍 Champion Event Center (7v7) (1 games)
      340 Mississippi St SE, North Canton, OH 44212
@@ -8779,6 +8775,11 @@ Wed 5/6/26  (38 games)
      Map: https://www.ohtsl.com/directionmap.php?locationid=739
        6:30 PM  #6013   West Geauga               vs Riverside                 (Boys 2012(U14) Div 2)
 
+  📍 Northgate Park (7v7) (1 games)
+     2155 Eaton Drive, Avon, OH 44011
+     Map: https://www.ohtsl.com/directionmap.php?locationid=368
+       6:30 PM  #14309  Avon   DB                 vs Highland   NF4            (Boys 2017(U09) Div 1)
+
   📍 Orchard Middle School (11v11) (1 games)
      6800 SOM Ctr. Rd., Solon, OH 44139
      Map: https://www.ohtsl.com/directionmap.php?locationid=46
@@ -8825,8 +8826,13 @@ Wed 5/6/26  (38 games)
        6:30 PM  #15218  Cuyahoga Falls   MN       vs Medina   14WT             (Girls 2014(U12) Div South 3)
 
 ================================================================================
-Thu 5/7/26  (38 games)
+Thu 5/7/26  (39 games)
 ================================================================================
+
+  📍 Amherst Junior High (AJH #12) (1 games)
+     548 Milan Ave, Amherst, OH 44001
+     Map: https://www.ohtsl.com/directionmap.php?locationid=308
+       6:00 PM  #5208   Amherst                   vs Port Clinton              (Boys 2013(U13) Div West 3)
 
   📍 Ashland Comunity Soccer Park (Field 9) (1 games)
      1580 Middle Rowsburg Road, Ashland, OH 44805
@@ -8888,11 +8894,6 @@ Thu 5/7/26  (38 games)
      Map: https://www.ohtsl.com/directionmap.php?locationid=727
        6:30 PM  #14815  Oberlin                   vs Olmsted Falls   Gold      (Boys 2014(U12) Div West 6)
 
-  📍 High School Field (High school field) (1 games)
-     450 Washington St, AMHERST, Oh 44001
-     Map: https://www.ohtsl.com/directionmap.php?locationid=767
-       6:00 PM  #5208   Amherst                   vs Port Clinton              (Boys 2013(U13) Div West 3)
-
   📍 Hoover Park (9v9) (1 games)
      1875 E Maple St, North Canton, OH 44720
      Map: https://www.ohtsl.com/directionmap.php?locationid=614
@@ -8947,6 +8948,11 @@ Thu 5/7/26  (38 games)
      3845 Magnolia Drive, Brunswick, OH 44214
      Map: https://www.ohtsl.com/directionmap.php?locationid=253
        6:30 PM  #7107   Brunswick   RYL           vs Avon   AG                 (Girls 2016(U10) Div 1)
+
+  📍 Newbury Field 11v11 (Newbury Field) (1 games)
+     14775 Auburn Road, Newbury, Oh
+     Map: https://www.ohtsl.com/directionmap.php?locationid=739
+       6:30 PM  #4613   West Geauga               vs Hudson   HARB             (Boys 2013(U13) Div 2)
 
   📍 Parkside (Field #2N - 7v7) (1 games)
      24525 Hilliard Blvd., Westlake, OH 44145
@@ -9291,13 +9297,18 @@ Sat 5/9/26  (27 games)
        1:00 PM  #10912  Wickliffe                 vs Kent   TH                 (Girls 2012(U14) Div 4)
 
 ================================================================================
-Sun 5/10/26  (373 games)
+Sun 5/10/26  (374 games)
 ================================================================================
 
   📍 Al Lease Field (11v11) (1 games)
      1100 Denise Drive, Kent, OH 44240
      Map: https://www.ohtsl.com/directionmap.php?locationid=500
        1:00 PM  #10924  Kent   TH                 vs Northwest                 (Girls 2012(U14) Div 4)
+
+  📍 Amherst Junior High (AJH #12) (1 games)
+     548 Milan Ave, Amherst, OH 44001
+     Map: https://www.ohtsl.com/directionmap.php?locationid=308
+       2:30 PM  #5218   Amherst                   vs Rocky River   MRN         (Boys 2013(U13) Div West 3)
 
   📍 Arrowhead School (Arrowhead 655) (2 games)
      1600 Raleigh Blvd., Copley, OH 44321
@@ -9675,9 +9686,9 @@ Sun 5/10/26  (373 games)
      3717 Ridge Rd, Medina, OH 44256
      Map: https://www.ohtsl.com/directionmap.php?locationid=251
       10:30 AM  #14926  Highland   BB2            vs New Philadelphia          (Girls 2017(U09) Div South 4 EN)
-      11:30 AM  #13821  Highland   SR1            vs Jackson                   (Boys 2017(U09) Div South 5)
        2:30 PM  #11821  Highland   EM4            vs Brecksville Bees SA   R   (Girls 2017(U09) Div South 3)
        4:00 PM  #13122  Highland   BZ1            vs North Canton              (Boys 2017(U09) Div South 6)
+       6:15 PM  #13821  Highland   SR1            vs Jackson                   (Boys 2017(U09) Div South 5)
 
   📍 Gurney Elementary (Calvetta Brothers Floor Show - Field A 11v11) (1 games)
      1155 Bell Rd, Chagrin Falls, OH 44022
@@ -9725,8 +9736,8 @@ Sun 5/10/26  (373 games)
   📍 High School Field (High school field) (2 games)
      450 Washington St, AMHERST, Oh 44001
      Map: https://www.ohtsl.com/directionmap.php?locationid=767
+      10:30 AM  #10506  Amherst                   vs Chagrin Falls             (Girls 2012(U14) Div 3)
        1:00 PM  #5620   Amherst                   vs Westlake   MW             (Boys 2012(U14) Div 1)
-       2:30 PM  #5218   Amherst                   vs Rocky River   MRN         (Boys 2013(U13) Div West 3)
 
   📍 Hoover High Soccer Stadium (Turf) (1 games)
      426 Wise Ave NE, North Canton, OH 44720
@@ -11171,10 +11182,14 @@ Fri 5/15/26  (32 games)
      Map: https://www.ohtsl.com/directionmap.php?locationid=241
        6:30 PM  #2620   Broadview Hts.            vs North Royalton            (Boys 2015(U11) Div South 3)
 
-  📍 Broadview Heights C Field (Field C1 (in the valley)) (2 games)
+  📍 Broadview Heights C Field (Field C1 (in the valley)) (1 games)
      8938 Broadview Rd., Broadview Heights, Oh 44147
      Map: https://www.ohtsl.com/directionmap.php?locationid=543
        6:30 PM  #1116   Broadview Hts.            vs North Royalton            (Boys 2016(U10) Div 1)
+
+  📍 Broadview Heights C Field (Field C2 (in the valley)) (1 games)
+     8938 Broadview Rd., Broadview Heights, Oh 44147
+     Map: https://www.ohtsl.com/directionmap.php?locationid=543
        6:30 PM  #1408   Broadview Hts.            vs Ashland                   (Boys 2016(U10) Div South 5)
 
   📍 Crestview Elementary (9v9) (1 games)
@@ -11445,6 +11460,11 @@ Sun 5/17/26  (421 games)
      Map: https://www.ohtsl.com/directionmap.php?locationid=500
        1:00 PM  #10925  Kent   TH                 vs Perry (Stark)             (Girls 2012(U14) Div 4)
        4:00 PM  #4324   Kent   BW                 vs Twinsburg                 (Boys 2013(U13) Div East 4)
+
+  📍 Amherst Junior High (AJH #12) (1 games)
+     548 Milan Ave, Amherst, OH 44001
+     Map: https://www.ohtsl.com/directionmap.php?locationid=308
+       2:30 PM  #5221   Amherst                   vs Strongsville              (Boys 2013(U13) Div West 3)
 
   📍 Arrowhead School (Arrowhead 655) (2 games)
      1600 Raleigh Blvd., Copley, OH 44321
@@ -11855,11 +11875,10 @@ Sun 5/17/26  (421 games)
      Map: https://www.ohtsl.com/directionmap.php?locationid=662
        2:30 PM  #15419  Port Clinton              vs Vermilion                 (Girls 2012(U14) Div West 4)
 
-  📍 High School Field (High school field) (2 games)
+  📍 High School Field (High school field) (1 games)
      450 Washington St, AMHERST, Oh 44001
      Map: https://www.ohtsl.com/directionmap.php?locationid=767
        1:00 PM  #5622   Amherst                   vs Olmsted Falls   Blue      (Boys 2012(U14) Div 1)
-       2:30 PM  #5221   Amherst                   vs Strongsville              (Boys 2013(U13) Div West 3)
 
   📍 Hoover Park (9v9) (2 games)
      1875 E Maple St, North Canton, OH 44720
@@ -12439,12 +12458,16 @@ Sun 5/17/26  (421 games)
        1:00 PM  #5720   Solon United   Whit       vs Copley                    (Boys 2012(U14) Div East 4)
        2:30 PM  #10426  Solon United   Blue       vs Stow   Mar                (Girls 2013(U13) Div East 3)
 
-  📍 Schady Rd Soccer Complex (7v7-1) (3 games)
+  📍 Schady Rd Soccer Complex (7v7-1) (2 games)
+     27075 Schady Road, Olmsted Falls, Oh 44138
+     Map: https://www.ohtsl.com/directionmap.php?locationid=12
+       1:00 PM  #1526   Olmsted Falls             vs Westlake   JL             (Boys 2016(U10) Div West 4)
+       2:30 PM  #14026  Olmsted Falls   Gold      vs Avon Lake                 (Boys 2017(U09) Div West 4)
+
+  📍 Schady Rd Soccer Complex (7v7-2) (1 games)
      27075 Schady Road, Olmsted Falls, Oh 44138
      Map: https://www.ohtsl.com/directionmap.php?locationid=12
       11:30 AM  #13506  Olmsted Falls   Blue      vs Avon Lake                 (Boys 2017(U09) Div 2)
-       1:00 PM  #1526   Olmsted Falls             vs Westlake   JL             (Boys 2016(U10) Div West 4)
-       2:30 PM  #14026  Olmsted Falls   Gold      vs Avon Lake                 (Boys 2017(U09) Div West 4)
 
   📍 Schady Rd Soccer Complex (9v9-1) (1 games)
      27075 Schady Road, Olmsted Falls, Oh 44138
@@ -13193,11 +13216,15 @@ Wed 5/20/26  (34 games)
      Map: https://www.ohtsl.com/directionmap.php?locationid=483
        6:00 PM  #7426   Sandusky                  vs Port Clinton              (Girls 2016(U10) Div West 3)
 
-  📍 Spring Hill Sports Complex (Field 113) (2 games)
+  📍 Spring Hill Sports Complex (Field 113) (1 games)
+     3749 Fortuna Dr, Akron, OH 44312
+     Map: https://www.ohtsl.com/directionmap.php?locationid=162
+       6:30 PM  #10819  Green   13Bk              vs Chippewa                  (Girls 2012(U14) Div 2)
+
+  📍 Spring Hill Sports Complex (Field 114) (1 games)
      3749 Fortuna Dr, Akron, OH 44312
      Map: https://www.ohtsl.com/directionmap.php?locationid=162
        6:30 PM  #6313   Green                     vs Ashland                   (Boys 2011(U15) Div South 3)
-       6:30 PM  #10819  Green   13Bk              vs Chippewa                  (Girls 2012(U14) Div 2)
 
   📍 Vermilion Soccer Club Fields (VR-G) (1 games)
      51750 North Ridge Rd., Vermilion, OH 44089
@@ -13212,6 +13239,11 @@ Wed 5/20/26  (34 games)
 ================================================================================
 Thu 5/21/26  (31 games)
 ================================================================================
+
+  📍 Amherst Junior High (AJH #12) (1 games)
+     548 Milan Ave, Amherst, OH 44001
+     Map: https://www.ohtsl.com/directionmap.php?locationid=308
+       6:45 PM  #5601   Amherst                   vs Lakewood   B12G           (Boys 2012(U14) Div 1)
 
   📍 Arrowhead School (Arrowhead 655) (1 games)
      1600 Raleigh Blvd., Copley, OH 44321
@@ -13272,11 +13304,6 @@ Thu 5/21/26  (31 games)
      305 Townline Rd, Aurora, oh 44202
      Map: https://www.ohtsl.com/directionmap.php?locationid=448
        6:30 PM  #4415   Aurora                    vs Independence              (Boys 2013(U13) Div East 3)
-
-  📍 High School Field (High school field) (1 games)
-     450 Washington St, AMHERST, Oh 44001
-     Map: https://www.ohtsl.com/directionmap.php?locationid=767
-       6:45 PM  #5601   Amherst                   vs Lakewood   B12G           (Boys 2012(U14) Div 1)
 
   📍 Logan Field - #330 (Logan Field 331) (1 games)
      2701 N Turkeyfoot Rd, Akron, OH 44319
@@ -13846,7 +13873,7 @@ Thu 5/28/26  (19 games)
        6:30 PM  #2807   Wooster                   vs Stow   Gold               (Boys 2015(U11) Div South 5)
 
 ================================================================================
-Fri 5/29/26  (16 games)
+Fri 5/29/26  (17 games)
 ================================================================================
 
   📍 Ashland Comunity Soccer Park (Field 6) (1 games)
@@ -13914,10 +13941,11 @@ Fri 5/29/26  (16 games)
      Map: https://www.ohtsl.com/directionmap.php?locationid=246
        6:30 PM  #11321  Westlake   RN             vs North Royalton            (Girls 2011(U15) Div 4)
 
-  📍 Rocky River Middle School (RRMS) (1 games)
+  📍 Rocky River Middle School (RRMS) (2 games)
      1631 Lakeview Ave, Rocky River, OH 44116
      Map: https://www.ohtsl.com/directionmap.php?locationid=4
        6:30 PM  #10114  Rocky River   MRN         vs Brunswick   RYL           (Girls 2013(U13) Div 1)
+       6:30 PM  #10202  Rocky River   WHT         vs Olmsted Falls   Gold      (Girls 2013(U13) Div West 3)
 
   📍 Schwartz Road Park (#13 - 11V11) (1 games)
      35001 Schwartz Road, Avon, OH 44011
@@ -13930,7 +13958,7 @@ Fri 5/29/26  (16 games)
        6:30 PM  #11222  Stow   Mar                vs Hudson   BOWM             (Girls 2011(U15) Div 1)
 
 ================================================================================
-Sat 5/30/26  (11 games)
+Sat 5/30/26  (12 games)
 ================================================================================
 
   📍 Ashland Comunity Soccer Park (Field 6) (1 games)
@@ -13983,13 +14011,18 @@ Sat 5/30/26  (11 games)
      Map: https://www.ohtsl.com/directionmap.php?locationid=177
        2:00 PM  #7204   Stow   Gold               vs Hudson   SHUT             (Girls 2016(U10) Div East 3)
 
+  📍 Rootstown Community Park - Gracie Fields (#6) (1 games)
+     4104 Case Ave, Rootstown, OH 44272
+     Map: https://www.ohtsl.com/directionmap.php?locationid=651
+       5:00 PM  #5523   Rootstown                 vs Highland   DG1            (Boys 2012(U14) Div South 3)
+
   📍 Shelburne Field (Corner of North Park and Shelburne) (1 games)
      19815 North Park Blvd, Shaker Heights, OH 44122
      Map: https://www.ohtsl.com/directionmap.php?locationid=317
        4:30 PM  #2228   Shaker Hts.   RED         vs Hudson   SHUT             (Boys 2015(U11) Div East 3)
 
 ================================================================================
-Sun 5/31/26  (412 games)
+Sun 5/31/26  (411 games)
 ================================================================================
 
   📍 Al Lease Field (11v11) (2 games)
@@ -13997,6 +14030,11 @@ Sun 5/31/26  (412 games)
      Map: https://www.ohtsl.com/directionmap.php?locationid=500
        1:00 PM  #6030   Kent   BW                 vs Riverside                 (Boys 2012(U14) Div 2)
        2:30 PM  #4327   Kent   BW                 vs Riverside   NS            (Boys 2013(U13) Div East 4)
+
+  📍 Amherst Junior High (AJH #12) (1 games)
+     548 Milan Ave, Amherst, OH 44001
+     Map: https://www.ohtsl.com/directionmap.php?locationid=308
+       2:30 PM  #11337  Amherst                   vs Mayfield   DS             (Girls 2011(U15) Div 4)
 
   📍 Arrowhead School (Arrowhead 655) (2 games)
      1600 Raleigh Blvd., Copley, OH 44321
@@ -14401,11 +14439,6 @@ Sun 5/31/26  (412 games)
      Map: https://www.ohtsl.com/directionmap.php?locationid=448
        4:00 PM  #10432  Aurora                    vs NP Aurora                 (Girls 2013(U13) Div East 3)
        5:30 PM  #4432   Aurora                    vs West Geauga               (Boys 2013(U13) Div East 3)
-
-  📍 High School Field (High school field) (1 games)
-     450 Washington St, AMHERST, Oh 44001
-     Map: https://www.ohtsl.com/directionmap.php?locationid=767
-       2:30 PM  #11337  Amherst                   vs Mayfield   DS             (Girls 2011(U15) Div 4)
 
   📍 Highland High School (HHS Stadium) (3 games)
      4150 Ridge Rd, Medina, OH 44256
@@ -14997,11 +15030,6 @@ Sun 5/31/26  (412 games)
      Map: https://www.ohtsl.com/directionmap.php?locationid=651
        2:30 PM  #11636  Rootstown                 vs New Philadelphia          (Girls 2016(U10) Div South 5)
 
-  📍 Rootstown Community Park - Gracie Fields (#6) (1 games)
-     4104 Case Ave, Rootstown, OH 44272
-     Map: https://www.ohtsl.com/directionmap.php?locationid=651
-       1:00 PM  #5523   Rootstown                 vs Highland   DG1            (Boys 2012(U14) Div South 3)
-
   📍 Roxbury Field (11v11) (5 games)
      6800 SOM Ctr Rd, Solon, Oh 44139
      Map: https://www.ohtsl.com/directionmap.php?locationid=540
@@ -15570,6 +15598,11 @@ Fri 6/5/26  (10 games)
      Map: https://www.ohtsl.com/directionmap.php?locationid=250
        6:00 PM  #14522  Avon Lake                 vs LaGrange                  (Boys 2017(U09) Div West 6 EV)
 
+  📍 Liberty Park  (Upper) (1 games)
+     9375 Liberty Rd., Twinsburg, Oh 44087
+     Map: https://www.ohtsl.com/directionmap.php?locationid=73
+       6:00 PM  #5610   Twinsburg   Blue          vs Highland   AS1            (Boys 2012(U14) Div 1)
+
   📍 Riverview Elementary (9v9) (1 games)
      845 Madison Ave, Painesville, Oh 44077
      Map: https://www.ohtsl.com/directionmap.php?locationid=15
@@ -15589,11 +15622,6 @@ Fri 6/5/26  (10 games)
      5027 Stow Rd, Stow, OH 44224
      Map: https://www.ohtsl.com/directionmap.php?locationid=176
        6:30 PM  #11203  Stow   Mar                vs Highland   JK2            (Girls 2011(U15) Div 1)
-
-  📍 Tiger Stadium - Turf (High School Turf Field) (1 games)
-     10270 Ravenna Rd., Twinsburg, Oh 4087
-     Map: https://www.ohtsl.com/directionmap.php?locationid=74
-       6:00 PM  #5610   Twinsburg   Blue          vs Highland   AS1            (Boys 2012(U14) Div 1)
 
 ================================================================================
 Sat 6/6/26  (7 games)

@@ -9,7 +9,7 @@ location_id,field_name,community,address,city,state,zip,latitude,longitude,game_
 230,Foltz Fields,Strongsville,15301 Foltz Industrial Parkway,Strongsville,Oh,44149,41.301456,-81.870888,77
 372,Blossom Hill,Brecksville Bees SA,4400 Oakes Road,Brecksville,Oh,44141,41.304996,-81.661255,71
 690,Parkside,Westlake,24525 Hilliard Blvd.,Westlake,OH,44145,41.461178,-81.893608,68
-318,Courtland Oval Field,Shaker Hts.,Courtland Oval,Shaker Heights,OH,44122,41.485661,-81.543114,66
+318,Courtland Oval Field,Shaker Hts.,Courtland Oval,Shaker Heights,OH,44122,41.485661,-81.543114,65
 358,Ashland Comunity Soccer Park,Ashland,1580 Middle Rowsburg Road,Ashland,OH,44805,40.872303,-82.288521,61
 90,Oberland Park,Geauga Federation SC,14775 Auburn Rd,Newbury,Oh,44065,41.466331,-81.243645,58
 246,Porter Fields,Westlake,29301 Center Ridge Road,Westlake,OH,44145,41.432343,-81.943947,58
@@ -35,11 +35,11 @@ location_id,field_name,community,address,city,state,zip,latitude,longitude,game_
 176,Silver Springs Park,Stow,5027 Stow Rd,Stow,OH,44224,41.196747,-81.417053,38
 177,Oregon Trail Park,Stow,2905 Graham Rd,Stow,Oh,44224,41.167919,-81.409698,38
 668,Lake Community Park (Behind Lake HS Stadium),Lake Select SC,11920 Market Ave NE,Uniontown,Oh,44685,40.959610,-81.357803,38
+73,Liberty Park,Twinsburg,9375 Liberty Rd.,Twinsburg,Oh,44087,41.317570,-81.419228,37
 224,Spire Institute,Geneva,5201 Spire Circle,Geneva,OH,44041,41.773827,-80.941177,37
 8,Buckeye Primary School,Buckeye,3180 Columbia Rd,Medina,OH,44256,41.187717,-81.927521,36
 15,Riverview Elementary,Riverside,845 Madison Ave,Painesville,Oh,44077,41.727589,-81.220947,36
 60,Cloverleaf Soccer Association Fields,Cloverleaf,8075 Buffham Rod,Lodi,OH,44254,41.041016,-81.980164,36
-73,Liberty Park,Twinsburg,9375 Liberty Rd.,Twinsburg,Oh,44087,41.317570,-81.419228,36
 487,Shaker Heights Middle School,Shaker Hts.,20600 Shaker Blvd,Shaker Heights,OH,44122,41.477341,-81.533417,35
 253,Memorial Elementary,Brunswick,3845 Magnolia Drive,Brunswick,OH,44214,41.270493,-81.823212,32
 279,Waterworks Park,Cuyahoga Falls,2025 Munroe Falls Ave,Cuyahoga Falls,OH,44221,41.140919,-81.455688,32
@@ -69,13 +69,13 @@ location_id,field_name,community,address,city,state,zip,latitude,longitude,game_
 289,Madison Middle School,Madison,6079 Middle Ridge Road,Madison,OH,44057,41.791576,-81.072395,21
 46,Orchard Middle School,Solon United,6800 SOM Ctr. Rd.,Solon,OH,44139,41.374065,-81.439751,20
 61,Denison Park,Eastside Kickers,1015 Quarry Rd,Cleveland Heights,OH,44121,41.534809,-81.532402,20
-74,Tiger Stadium - Turf,Twinsburg,10270 Ravenna Rd.,Twinsburg,Oh,4087,41.321110,-81.455894,20
 222,City Park,Streetsboro,9000 Kirby Lane,Streetsboro,OH,44241,41.236401,-81.321426,20
 254,Crestview Elementary,Brunswick,300 W. 130th Street,Brunswick,OH,44212,41.268188,-81.787025,20
 439,Portage Lakes Career Center Fields,Green,4401 Shriver Rd,Uniontown,Oh,44685,40.943470,-81.471573,20
 595,Northwest Middle School Fields,Northwest,8614 Erie Ave. N,Canal Fulton,OH,44614,40.909664,-81.616089,20
 596,Deeds Field,Dover,125 Williams Drive,Dover,OH,44622,40.556416,-81.498520,20
 758,Firelands High School,Firelands,10521 Vermilion Rd,Oberlin,OH,44074,41.338608,-82.299347,20
+74,Tiger Stadium - Turf,Twinsburg,10270 Ravenna Rd.,Twinsburg,Oh,4087,41.321110,-81.455894,19
 310,Lakewood High School,Lakewood,14100 Franklin Blvd,Lakewood,OH,44107,41.480804,-81.791817,19
 724,North Ridgeville High School,North Ridgeville,34620 Bainbridge Road,North Ridgeville,OH,44039,41.388763,-82.003242,19
 151,Bay High School,Bay Village,29230 Wolf Road,Bay Village,Oh,44140,41.485695,-81.942520,18
@@ -89,7 +89,6 @@ location_id,field_name,community,address,city,state,zip,latitude,longitude,game_
 594,Logan Field - #330,PLX United,2701 N Turkeyfoot Rd,Akron,OH,44319,41.014530,-81.532486,16
 620,Southside Community Park (7v7),New Philadelphia,989 Perry Dr SE,New Philadelphia,OH,44663,40.460503,-81.456665,16
 719,Columbia Soccer Fields,Columbia Station,13644 Columbia West River Rd.,Columbia Station,Oh,44028,41.310993,-81.923393,16
-767,High School Field,Amherst,450 Washington St,AMHERST,Oh,44001,41.403816,-82.222336,16
 770,Lambert Stadium,Cuyahoga Falls,2630 13th St,Cuyahoga Falls,OH,44223,41.145302,-81.499763,16
 109,Mayfield High School Stadium,Mayfield,6116 Wilson Mills Road,Mayfield Village,OH,44143,41.538918,-81.459007,15
 258,Orange - Brady Middle School 7v7 Fields,Orange,32000 Chagrin Boulevard,Orange,Oh,44124,41.454521,-81.447517,15
@@ -122,6 +121,7 @@ location_id,field_name,community,address,city,state,zip,latitude,longitude,game_
 50,Chagrin Falls High School,Chagrin Falls,400 E. Washington St.,Chagrin Falls,OH,44022,41.428261,-81.381477,10
 154,Revere High School,Revere,3420 Everett Rd,Richfield,Oh,44286,41.200485,-81.618050,10
 207,Medina - Blakeslee Park,Medina,3565 Fenn Road,Medina,OH,44256,41.170898,-81.816811,10
+308,Amherst Junior High,Amherst,548 Milan Ave,Amherst,OH,44001,41.395481,-82.236244,10
 732,Copley Fairlawn Middle School,Copley,1531 South Cleveland Massillon Rd,Copley,OH,44321,41.096272,-81.643074,10
 557,Tri City,Westlake,3529 Delmar Drive,Rocky River,OH,44116,41.453457,-81.872093,9
 9,Eastlake Travel Soccer,Eastlake,35754 Lake Shore Blvd.,Eastlake,OH,44095,41.665573,-81.426666,8
@@ -150,9 +150,11 @@ location_id,field_name,community,address,city,state,zip,latitude,longitude,game_
 361,Goldwood Primary School,Rocky River,21600 Center Ridge Rd,Rocky River,Oh,44116,41.461803,-81.859558,6
 524,Hoover High Soccer Stadium,North Canton,426 Wise Ave NE,North Canton,OH,44720,40.880985,-81.393486,6
 749,Tru-Lay Stadium,Port Clinton,601 Fremont Rd.,Port Clinton,OH,43452,41.507683,-82.950867,6
+767,High School Field,Amherst,450 Washington St,AMHERST,Oh,44001,41.403816,-82.222336,6
 40,Orlando Park,Wickliffe,30100 Twin Lakes Dr.,Wickliffe,OH,44092,41.608578,-81.458763,5
 257,Olmsted Falls High School Stadium,Olmsted Falls,26939 Bagley Road,Olmsted Falls,OH,44138,41.370056,-81.927521,5
 618,Kenston High School Bomber Stadium,Kenston,9500 Bainbridge Road,Chagrin Falls,OH,44023,41.392948,-81.303825,5
+683,Chelton Park,Shaker Hts.,3645 Chelton Road,Shaker Heights,OH,44120,41.461033,-81.567146,5
 43,Shore Field,Euclid,22400 Shore Center,Euclid,OH,44123,41.607761,-81.524384,4
 45,Solon High School,Solon United,33600 Inwood Dr.,SOLON,OH,44139,41.376579,-81.441330,4
 58,Geneva High School,Geneva,1301 S Ridge E,Geneva,OH,44041,41.800232,-80.928825,4
@@ -165,7 +167,6 @@ location_id,field_name,community,address,city,state,zip,latitude,longitude,game_
 626,North Lawrence Township Park,Mustangs Jr,6235-6369 Manchester Ave NW,North Lawrence,Oh,44666,40.868210,-81.605087,4
 662,Heigel Park,Port Clinton,4616 E Catawba Woods Rd,Port Clinton,OH,43452,41.576050,-82.847198,4
 671,Norton Stadium (Turf),Norton,1 Panther Way,Norton,OH,44203,41.034611,-81.642212,4
-683,Chelton Park,Shaker Hts.,3645 Chelton Road,Shaker Heights,OH,44120,41.461033,-81.567146,4
 685,Massillon Middle School (Turf/Lights),Massillon,250 29th St SW,Massillon,Oh,44647,40.765732,-81.384285,4
 727,Hamilton Fields #1,Oberlin,330 West Hamilton Street,Oberlin,Oh,44074,41.280006,-82.229675,4
 740,Central Catholic High SchoolStadium,Perry (Stark),4965 13th St SW,Canton,OH,44710,40.789536,-81.440163,4
