@@ -21,7 +21,7 @@ After scraping, a summary is printed to the console showing total games, unique 
 
 ## Spring 2026 Stats
 
-- **4,140 games** across **381 venues**
+- **4,140 games** across **401 venues** (201 unique locations)
 - 81 Boys divisions + 58 Girls divisions (U09–U15)
 - Season runs April 12 – June 7, 2026
 
@@ -32,6 +32,8 @@ After scraping, a summary is printed to the console showing total games, unique 
 - `beautifulsoup4`
 
 ```bash
+python3 -m venv .venv
+source .venv/bin/activate
 pip install requests beautifulsoup4
 ```
 
@@ -58,6 +60,24 @@ python3 scrape_ohtsl.py --list
 
 Re-run anytime to pick up reschedules — the output files for that season will be overwritten with fresh data.
 
+## Game Finder Map UI
+
+A static single-page app hosted on GitHub Pages at **https://jp-ayyappan.github.io/soccer/**.
+
+- Interactive Leaflet.js map showing all venues with game count markers
+- Filter by ZIP code + radius (10–50 miles), game date, and season
+- Click a venue marker to see the full game list (time, teams, field, division)
+- Breadcrumb navigation: `All Seasons › Spring 2026 › Sun Apr 19 › Kreuger Park`
+
+To rebuild the site data after a re-scrape:
+
+```bash
+python3 build_site_data.py
+git add -A && git commit -m "Update schedule data" && git push
+```
+
+GitHub Pages auto-deploys from the `docs/` folder on `main`.
+
 ## Assignor Schedule Sorter
 
 A separate utility (`sort_assignor.py`) sorts referee assignor schedule data (TSV format) by location → date → time.
@@ -78,4 +98,5 @@ Outputs both a human-readable `.txt` report and a `.csv` for Excel, grouped by v
 2. For each division, calls the internal AJAX endpoint (`core/getgames.php`) to retrieve the game schedule HTML
 3. Parses game details: teams, date, time, location, game number
 4. Fetches venue addresses and coordinates via `core/wsa_get_location_xml.php`
-5. Groups and sorts the data, then writes the output files
+5. Groups and sorts the data, then writes the CSV/text output files
+6. `build_site_data.py` converts CSVs to JSON (`docs/data/`) for the map UI
