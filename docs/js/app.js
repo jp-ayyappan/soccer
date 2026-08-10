@@ -1,3 +1,8 @@
+/* ── OHTSL Game Finder ────────────────────────────────────── */
+
+(() => {
+  "use strict";
+
   // ── State ──────────────────────────────────────────────────
   let seasons = [];
   let currentSeason = null;   // { id, label }
