@@ -35,6 +35,7 @@
   const $mapContainer = document.getElementById("map-container");
   const $dateSelect = document.getElementById("date-select");
   const $zipInput = document.getElementById("zip-input");
+  const $useLocationBtn = document.getElementById("use-location-btn");
   const $radiusSelect = document.getElementById("radius-select");
   const $applyBtn = document.getElementById("apply-filters");
 
@@ -67,6 +68,32 @@
   const $toggleMapBtn = document.getElementById("toggle-map-btn");
   const $toggleListBtn = document.getElementById("toggle-list-btn");
   const $listCountBadge = document.getElementById("list-count-badge");
+
+  // ── Browser Geolocation ────────────────────────────────────
+  function getUserLocation() {
+    if (!navigator.geolocation) {
+      alert("Geolocation is not supported by your browser.");
+      return;
+    }
+
+    if ($useLocationBtn) $useLocationBtn.textContent = "⌛";
+    navigator.geolocation.getCurrentPosition(
+      (pos) => {
+        userLatLng = [pos.coords.latitude, pos.coords.longitude];
+        $zipInput.value = "GPS";
+        if ($useLocationBtn) $useLocationBtn.textContent = "📍";
+        renderMarkers();
+        renderSearchResults();
+        renderBreadcrumb();
+      },
+      (err) => {
+        console.warn("Geolocation error:", err);
+        if ($useLocationBtn) $useLocationBtn.textContent = "📍";
+        alert("Could not access your location. Please check browser permissions or enter a ZIP code.");
+      },
+      { timeout: 10000, enableHighAccuracy: true }
+    );
+  }
 
   // ── Selection & Assignor Format Helpers ────────────────────
   function updateSelectionBar() {
@@ -409,7 +436,16 @@
       const loca = (locMap[a.lid] ? locMap[a.lid].name : a.loc) || "";
       const locb = (locMap[b.lid] ? locMap[b.lid].name : b.loc) || "";
 
+      let dista = Infinity, distb = Infinity;
+      if (userLatLng) {
+        if (locMap[a.lid]) dista = haversine(userLatLng[0], userLatLng[1], locMap[a.lid].lat, locMap[a.lid].lng);
+        if (locMap[b.lid]) distb = haversine(userLatLng[0], userLatLng[1], locMap[b.lid].lat, locMap[b.lid].lng);
+      }
+
       if (sortMode === "location" || sortMode === "location_time") {
+        if (userLatLng && dista !== distb) {
+          return dista - distb;
+        }
         const locComp = loca.localeCompare(locb);
         if (locComp !== 0) return locComp;
         if (da - db !== 0) return da - db;
@@ -417,11 +453,17 @@
       } else if (sortMode === "time_location") {
         if (da - db !== 0) return da - db;
         if (ta - tb !== 0) return ta - tb;
+        if (userLatLng && dista !== distb) {
+          return dista - distb;
+        }
         return loca.localeCompare(locb);
       } else {
         // Default "time": Start Time across all locations
         if (da - db !== 0) return da - db;
         if (ta - tb !== 0) return ta - tb;
+        if (userLatLng && dista !== distb) {
+          return dista - distb;
+        }
         const locComp = loca.localeCompare(locb);
         if (locComp !== 0) return locComp;
         return (parseInt(a.gn) || 0) - (parseInt(b.gn) || 0);
@@ -450,9 +492,15 @@
       const locObj = locMap[g.lid];
       const venueName = locObj ? locObj.name : g.loc;
 
+      let distBadge = "";
+      if (userLatLng && locObj) {
+        const dMiles = haversine(userLatLng[0], userLatLng[1], locObj.lat, locObj.lng);
+        distBadge = ` (${dMiles.toFixed(1)} mi away)`;
+      }
+
       let groupHeader = "";
       if (currentSort === "location" || currentSort === "location_time") {
-        groupHeader = `📍 ${venueName}`;
+        groupHeader = `📍 ${venueName}${distBadge}`;
       } else {
         groupHeader = `🗓 ${g.day} ${g.d}`;
       }
@@ -497,7 +545,7 @@
         <span class="game-num">#${g.gn}</span>
         <span class="teams">${g.h} vs ${g.v}</span>
         <span class="meta">${g.g} ${g.age} ${g.div}</span>
-        <span class="field"><span class="result-venue-tag">${venueName}</span> ${g.loc}</span>
+        <span class="field"><span class="result-venue-tag">${venueName}${distBadge}</span> ${g.loc}</span>
       `;
       row.appendChild(rowContent);
 
@@ -642,6 +690,10 @@
     renderSearchResults();
     renderBreadcrumb();
   });
+
+  if ($useLocationBtn) {
+    $useLocationBtn.addEventListener("click", getUserLocation);
+  }
 
   $dateSelect.addEventListener("change", () => {
     selectedDate = $dateSelect.value;

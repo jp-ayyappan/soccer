@@ -61,7 +61,12 @@ body { display: flex; flex-direction: column; }
   border-radius: 4px;
   font-size: 14px;
 }
-.filter-group input { width: 100px; }
+.filter-group input { width: 110px; }
+.zip-input-group {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
 .btn {
   padding: 6px 16px;
   background: #1b5e20;
@@ -73,6 +78,18 @@ body { display: flex; flex-direction: column; }
   font-weight: 600;
 }
 .btn:hover { background: #2e7d32; }
+.btn-icon {
+  padding: 5px 8px;
+  background: #e8f5e9;
+  color: #1b5e20;
+  border: 1px solid #c8e6c9;
+  border-radius: 4px;
+  font-size: 14px;
+  cursor: pointer;
+}
+.btn-icon:hover {
+  background: #c8e6c9;
+}
 
 /* ── Season picker ────────────────────────────────────────── */
 .season-picker {
