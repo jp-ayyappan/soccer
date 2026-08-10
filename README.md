@@ -19,6 +19,12 @@ Each venue entry includes the street address and a direct link to the OHTSL map/
 
 After scraping, a summary is printed to the console showing total games, unique venues, and the **top 15 venues by game count** — the best candidates for scheduling back-to-back games.
 
+## Fall 2026 Stats
+
+- **4,144 games** across **337 venues** (172 unique locations)
+- 82 Boys divisions + 57 Girls divisions (U08–U15)
+- Season runs August 16 – October 25, 2026
+
 ## Spring 2026 Stats
 
 - **4,140 games** across **401 venues** (201 unique locations)
