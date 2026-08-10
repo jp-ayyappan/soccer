@@ -1,8 +1,3 @@
-/* ── OHTSL Game Finder ────────────────────────────────────── */
-
-(() => {
-  "use strict";
-
   // ── State ──────────────────────────────────────────────────
   let seasons = [];
   let currentSeason = null;   // { id, label }
@@ -20,6 +15,7 @@
 
   const selectedGames = new Map(); // gn -> game object
   let currentVenueGames = [];      // currently rendered games in detail panel
+  let currentSort = "time";        // "time", "location", "location_time", "time_location"
 
   // Northern Ohio default center
   const DEFAULT_CENTER = [41.4, -81.7];
@@ -30,27 +26,42 @@
   const $filterBar = document.getElementById("filter-bar");
   const $seasonPicker = document.getElementById("season-picker");
   const $seasonList = document.getElementById("season-list");
+  const $mainContent = document.getElementById("main-content");
   const $mapContainer = document.getElementById("map-container");
   const $dateSelect = document.getElementById("date-select");
   const $zipInput = document.getElementById("zip-input");
   const $radiusSelect = document.getElementById("radius-select");
   const $applyBtn = document.getElementById("apply-filters");
+
+  const $resultsPanel = document.getElementById("results-panel");
+  const $resultsTitle = document.getElementById("results-title");
+  const $resultsCount = document.getElementById("results-count");
+  const $sortSelect = document.getElementById("sort-select");
+  const $selectAllResults = document.getElementById("select-all-results");
+  const $resultsList = document.getElementById("results-list");
+
   const $detailPanel = document.getElementById("detail-panel");
   const $detailTitle = document.getElementById("detail-title");
   const $detailAddress = document.getElementById("detail-address");
   const $detailGames = document.getElementById("detail-games");
   const $detailClose = document.getElementById("detail-close");
+  const $selectAllVenueGames = document.getElementById("select-all-venue-games");
 
-  const $selectAllGames = document.getElementById("select-all-games");
   const $selectionBar = document.getElementById("selection-bar");
   const $selectionCount = document.getElementById("selection-count");
   const $generateEmailBtn = document.getElementById("generate-email-btn");
   const $clearSelectionBtn = document.getElementById("clear-selection-btn");
+
   const $emailModal = document.getElementById("email-modal");
   const $modalClose = document.getElementById("modal-close");
   const $modalDismiss = document.getElementById("modal-dismiss");
   const $copyEmailBtn = document.getElementById("copy-email-btn");
   const $emailOutput = document.getElementById("email-output");
+
+  const $viewToggle = document.getElementById("view-toggle");
+  const $toggleMapBtn = document.getElementById("toggle-map-btn");
+  const $toggleListBtn = document.getElementById("toggle-list-btn");
+  const $listCountBadge = document.getElementById("list-count-badge");
 
   // ── Selection & Assignor Format Helpers ────────────────────
   function updateSelectionBar() {
@@ -65,7 +76,8 @@
 
   function clearSelection() {
     selectedGames.clear();
-    if ($selectAllGames) $selectAllGames.checked = false;
+    if ($selectAllResults) $selectAllResults.checked = false;
+    if ($selectAllVenueGames) $selectAllVenueGames.checked = false;
     document.querySelectorAll(".game-checkbox").forEach(cb => {
       cb.checked = false;
       const row = cb.closest(".game-row");
@@ -74,13 +86,23 @@
     updateSelectionBar();
   }
 
-  function updateSelectAllCheckbox() {
-    if (!$selectAllGames || !currentVenueGames || currentVenueGames.length === 0) {
-      if ($selectAllGames) $selectAllGames.checked = false;
+  function updateSelectAllVenueCheckbox() {
+    if (!$selectAllVenueGames || !currentVenueGames || currentVenueGames.length === 0) {
+      if ($selectAllVenueGames) $selectAllVenueGames.checked = false;
       return;
     }
     const allSelected = currentVenueGames.every(g => selectedGames.has(g.gn));
-    $selectAllGames.checked = allSelected;
+    $selectAllVenueGames.checked = allSelected;
+  }
+
+  function updateSelectAllResultsCheckbox() {
+    if (!$selectAllResults) return;
+    const filtered = getFilteredGames();
+    if (filtered.length === 0) {
+      $selectAllResults.checked = false;
+      return;
+    }
+    $selectAllResults.checked = filtered.every(g => selectedGames.has(g.gn));
   }
 
   function formatAssignorLine(g) {
@@ -120,12 +142,7 @@
   }
 
   function generateAssignorText() {
-    const sorted = [...selectedGames.values()].sort((a, b) => {
-      const da = parseDate(a.d), db = parseDate(b.d);
-      if (da - db !== 0) return da - db;
-      return parseTime(a.t) - parseTime(b.t);
-    });
-
+    const sorted = sortGames([...selectedGames.values()], "time");
     return sorted.map(g => formatAssignorLine(g)).join("\n");
   }
 
@@ -213,7 +230,8 @@
     selectedVenue = null;
     closeDetail();
     $filterBar.classList.add("hidden");
-    $mapContainer.classList.add("hidden");
+    $mainContent.classList.add("hidden");
+    $viewToggle.classList.add("hidden");
     $seasonPicker.classList.remove("hidden");
     renderBreadcrumb();
   }
@@ -226,13 +244,31 @@
 
     $seasonPicker.classList.add("hidden");
     $filterBar.classList.remove("hidden");
-    $mapContainer.classList.remove("hidden");
+    $mainContent.classList.remove("hidden");
+    $viewToggle.classList.remove("hidden");
+    setMobileView("map");
 
     await loadSeasonData(season.id);
     populateDateDropdown();
     initMap();
     renderMarkers();
+    renderSearchResults();
     renderBreadcrumb();
+  }
+
+  function setMobileView(viewMode) {
+    if (viewMode === "map") {
+      $mainContent.classList.add("show-map");
+      $mainContent.classList.remove("show-list");
+      $toggleMapBtn.classList.add("active");
+      $toggleListBtn.classList.remove("active");
+      if (map) setTimeout(() => map.invalidateSize(), 100);
+    } else {
+      $mainContent.classList.add("show-list");
+      $mainContent.classList.remove("show-map");
+      $toggleListBtn.classList.add("active");
+      $toggleMapBtn.classList.remove("active");
+    }
   }
 
   // ── Season picker ──────────────────────────────────────────
@@ -249,7 +285,6 @@
 
   // ── Date dropdown ──────────────────────────────────────────
   function populateDateDropdown() {
-    // Extract unique dates, sorted chronologically
     const dateSet = new Set();
     games.forEach(g => { if (g.d) dateSet.add(g.d); });
     const dates = [...dateSet].sort((a, b) => parseDate(a) - parseDate(b));
@@ -258,7 +293,6 @@
     dates.forEach(d => {
       const opt = document.createElement("option");
       opt.value = d;
-      // Find the day name from any game with this date
       const sample = games.find(g => g.d === d);
       opt.textContent = sample ? `${sample.day} ${d}` : d;
       $dateSelect.appendChild(opt);
@@ -266,7 +300,6 @@
   }
 
   function parseDate(dateStr) {
-    // "4/12/26" -> Date
     const parts = dateStr.split("/");
     if (parts.length !== 3) return new Date(0);
     const year = parseInt(parts[2]) + 2000;
@@ -291,7 +324,6 @@
       maxZoom: 18,
     }).addTo(map);
 
-    // Resize fix for hidden container
     setTimeout(() => map.invalidateSize(), 100);
   }
 
@@ -304,16 +336,14 @@
     if (!map) return;
     clearMarkers();
 
-    // Build game count per location_id for current filters
     const filteredGames = getFilteredGames();
     const countByLoc = {};
     filteredGames.forEach(g => {
       countByLoc[g.lid] = (countByLoc[g.lid] || 0) + 1;
     });
 
-    // Filter locations by distance if user set a ZIP
     const visibleLocs = locations.filter(loc => {
-      if (!countByLoc[loc.id] && selectedDate) return false; // hide zero-game venues when date filtered
+      if (!countByLoc[loc.id] && selectedDate) return false;
       if (userLatLng && radiusMiles > 0) {
         const dist = haversine(userLatLng[0], userLatLng[1], loc.lat, loc.lng);
         return dist <= radiusMiles;
@@ -337,7 +367,6 @@
         .addTo(map)
         .on("click", () => openVenueDetail(loc.id));
 
-      // Tooltip on hover
       marker.bindTooltip(`${loc.name}<br>${loc.city}, ${loc.state}`, {
         direction: "top", offset: [0, -size / 2],
       });
@@ -346,7 +375,6 @@
       bounds.push([loc.lat, loc.lng]);
     });
 
-    // Fit bounds
     if (bounds.length > 0) {
       map.fitBounds(bounds, { padding: [30, 30], maxZoom: 13 });
     }
@@ -357,7 +385,119 @@
     if (selectedDate) {
       filtered = filtered.filter(g => g.d === selectedDate);
     }
+    if (userLatLng && radiusMiles > 0) {
+      const allowedLocIds = new Set(
+        locations
+          .filter(loc => haversine(userLatLng[0], userLatLng[1], loc.lat, loc.lng) <= radiusMiles)
+          .map(loc => loc.id)
+      );
+      filtered = filtered.filter(g => allowedLocIds.has(g.lid));
+    }
     return filtered;
+  }
+
+  function sortGames(gamesList, sortMode) {
+    const sorted = [...gamesList];
+    sorted.sort((a, b) => {
+      const da = parseDate(a.d), db = parseDate(b.d);
+      const ta = parseTime(a.t), tb = parseTime(b.t);
+      const loca = (locMap[a.lid] ? locMap[a.lid].name : a.loc) || "";
+      const locb = (locMap[b.lid] ? locMap[b.lid].name : b.loc) || "";
+
+      if (sortMode === "location" || sortMode === "location_time") {
+        const locComp = loca.localeCompare(locb);
+        if (locComp !== 0) return locComp;
+        if (da - db !== 0) return da - db;
+        return ta - tb;
+      } else if (sortMode === "time_location") {
+        if (da - db !== 0) return da - db;
+        if (ta - tb !== 0) return ta - tb;
+        return loca.localeCompare(locb);
+      } else {
+        // Default "time": Start Time across all locations
+        if (da - db !== 0) return da - db;
+        if (ta - tb !== 0) return ta - tb;
+        const locComp = loca.localeCompare(locb);
+        if (locComp !== 0) return locComp;
+        return (parseInt(a.gn) || 0) - (parseInt(b.gn) || 0);
+      }
+    });
+    return sorted;
+  }
+
+  function renderSearchResults() {
+    const filtered = getFilteredGames();
+    const sorted = sortGames(filtered, currentSort);
+
+    $resultsCount.textContent = `${sorted.length} game${sorted.length === 1 ? "" : "s"}`;
+    $listCountBadge.textContent = sorted.length;
+    updateSelectAllResultsCheckbox();
+
+    $resultsList.innerHTML = "";
+
+    if (sorted.length === 0) {
+      $resultsList.innerHTML = '<p style="padding:20px;color:#888;text-align:center;">No games match your active filters.</p>';
+      return;
+    }
+
+    let currentGroupHeader = "";
+    sorted.forEach(g => {
+      const locObj = locMap[g.lid];
+      const venueName = locObj ? locObj.name : g.loc;
+
+      let groupHeader = "";
+      if (currentSort === "location" || currentSort === "location_time") {
+        groupHeader = `📍 ${venueName}`;
+      } else {
+        groupHeader = `🗓 ${g.day} ${g.d}`;
+      }
+
+      if (groupHeader !== currentGroupHeader) {
+        currentGroupHeader = groupHeader;
+        const headerEl = document.createElement("div");
+        headerEl.className = "game-date-header";
+        headerEl.textContent = groupHeader;
+        $resultsList.appendChild(headerEl);
+      }
+
+      const isSelected = selectedGames.has(g.gn);
+
+      const row = document.createElement("div");
+      row.className = "game-row" + (isSelected ? " selected" : "");
+
+      const checkbox = document.createElement("input");
+      checkbox.type = "checkbox";
+      checkbox.className = "game-checkbox";
+      checkbox.checked = isSelected;
+      checkbox.addEventListener("change", (e) => {
+        const checked = e.target.checked;
+        if (checked) {
+          selectedGames.set(g.gn, g);
+          row.classList.add("selected");
+        } else {
+          selectedGames.delete(g.gn);
+          row.classList.remove("selected");
+        }
+        updateSelectionBar();
+        updateSelectAllResultsCheckbox();
+        updateSelectAllVenueCheckbox();
+      });
+
+      row.appendChild(checkbox);
+
+      const rowContent = document.createElement("div");
+      rowContent.style.display = "contents";
+      rowContent.innerHTML = `
+        <span class="time">${g.t}</span>
+        <span class="game-num">#${g.gn}</span>
+        <span class="teams">${g.h} vs ${g.v}</span>
+        <span class="meta">${g.g} ${g.age} ${g.div}</span>
+        <span class="field"><span class="result-venue-tag">${venueName}</span> ${g.loc}</span>
+      `;
+      row.appendChild(rowContent);
+
+      $resultsList.appendChild(row);
+    });
   }
 
   // ── ZIP geocoding ──────────────────────────────────────────
@@ -387,13 +527,11 @@
     const addrParts = [loc.address, loc.city, loc.state, loc.zip].filter(Boolean);
     $detailAddress.textContent = addrParts.join(", ");
 
-    // Get games for this venue
     let venueGames = games.filter(g => g.lid === locId);
     if (selectedDate) {
       venueGames = venueGames.filter(g => g.d === selectedDate);
     }
 
-    // Sort by date then time
     venueGames.sort((a, b) => {
       const da = parseDate(a.d), db = parseDate(b.d);
       if (da - db !== 0) return da - db;
@@ -401,9 +539,8 @@
     });
 
     currentVenueGames = venueGames;
-    updateSelectAllCheckbox();
+    updateSelectAllVenueCheckbox();
 
-    // Render grouped by date
     $detailGames.innerHTML = "";
     let currentDate = "";
     venueGames.forEach(g => {
@@ -434,7 +571,8 @@
           row.classList.remove("selected");
         }
         updateSelectionBar();
-        updateSelectAllCheckbox();
+        updateSelectAllVenueCheckbox();
+        updateSelectAllResultsCheckbox();
       });
 
       row.appendChild(checkbox);
@@ -469,7 +607,6 @@
   }
 
   function parseTime(timeStr) {
-    // "2:30 PM" -> minutes since midnight
     const m = timeStr.match(/(\d+):(\d+)\s*(AM|PM)/i);
     if (!m) return 0;
     let h = parseInt(m[1]);
@@ -497,6 +634,7 @@
     }
 
     renderMarkers();
+    renderSearchResults();
     renderBreadcrumb();
   });
 
@@ -505,19 +643,43 @@
     selectedVenue = null;
     closeDetail();
     renderMarkers();
+    renderSearchResults();
     renderBreadcrumb();
   });
 
+  $sortSelect.addEventListener("change", () => {
+    currentSort = $sortSelect.value;
+    renderSearchResults();
+  });
+
+  $toggleMapBtn.addEventListener("click", () => setMobileView("map"));
+  $toggleListBtn.addEventListener("click", () => setMobileView("list"));
+
   $detailClose.addEventListener("click", closeDetail);
 
-  // Allow Enter key on ZIP input to trigger apply
   $zipInput.addEventListener("keydown", (e) => {
     if (e.key === "Enter") $applyBtn.click();
   });
 
-  // Select all checkbox handler
-  if ($selectAllGames) {
-    $selectAllGames.addEventListener("change", (e) => {
+  if ($selectAllResults) {
+    $selectAllResults.addEventListener("change", (e) => {
+      const isChecked = e.target.checked;
+      const filtered = getFilteredGames();
+      filtered.forEach(g => {
+        if (isChecked) {
+          selectedGames.set(g.gn, g);
+        } else {
+          selectedGames.delete(g.gn);
+        }
+      });
+      renderSearchResults();
+      if (selectedVenue) openVenueDetail(selectedVenue);
+      updateSelectionBar();
+    });
+  }
+
+  if ($selectAllVenueGames) {
+    $selectAllVenueGames.addEventListener("change", (e) => {
       const isChecked = e.target.checked;
       currentVenueGames.forEach(g => {
         if (isChecked) {
@@ -526,26 +688,23 @@
           selectedGames.delete(g.gn);
         }
       });
-      document.querySelectorAll(".game-checkbox").forEach(cb => {
-        cb.checked = isChecked;
-        const row = cb.closest(".game-row");
-        if (row) {
-          if (isChecked) row.classList.add("selected");
-          else row.classList.remove("selected");
-        }
-      });
+      renderSearchResults();
+      if (selectedVenue) openVenueDetail(selectedVenue);
       updateSelectionBar();
     });
   }
 
-  // Selection bar & modal handlers
   $generateEmailBtn.addEventListener("click", () => {
     const text = generateAssignorText();
     $emailOutput.value = text;
     $emailModal.classList.remove("hidden");
   });
 
-  $clearSelectionBtn.addEventListener("click", clearSelection);
+  $clearSelectionBtn.addEventListener("click", () => {
+    clearSelection();
+    renderSearchResults();
+    if (selectedVenue) openVenueDetail(selectedVenue);
+  });
 
   $modalClose.addEventListener("click", () => $emailModal.classList.add("hidden"));
   $modalDismiss.addEventListener("click", () => $emailModal.classList.add("hidden"));

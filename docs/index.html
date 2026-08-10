@@ -46,12 +46,46 @@
     <div id="season-list" class="season-list"></div>
   </div>
 
-  <!-- Map container -->
-  <div id="map-container" class="map-container hidden">
-    <div id="map"></div>
+  <!-- View Toggle Tabs for Mobile -->
+  <div id="view-toggle" class="view-toggle hidden">
+    <button id="toggle-map-btn" class="toggle-btn active">Map View</button>
+    <button id="toggle-list-btn" class="toggle-btn">List View (<span id="list-count-badge">0</span>)</button>
   </div>
 
-  <!-- Game detail panel -->
+  <!-- Main Content Layout (Map + Search Results Panel) -->
+  <div id="main-content" class="main-content hidden">
+    <!-- Map container -->
+    <div id="map-container" class="map-container">
+      <div id="map"></div>
+    </div>
+
+    <!-- Search Results Panel -->
+    <div id="results-panel" class="results-panel">
+      <div class="results-header">
+        <div class="results-header-top">
+          <h3 id="results-title">Matching Games</h3>
+          <span id="results-count" class="results-count">0 games</span>
+        </div>
+        <div class="results-controls">
+          <div class="sort-group">
+            <label for="sort-select">Sort By</label>
+            <select id="sort-select">
+              <option value="time" selected>Start Time</option>
+              <option value="location">Location</option>
+              <option value="location_time">Location &rarr; Start Time</option>
+              <option value="time_location">Start Time &rarr; Location</option>
+            </select>
+          </div>
+          <label class="select-all-label">
+            <input type="checkbox" id="select-all-results"> Select All Results
+          </label>
+        </div>
+      </div>
+      <div id="results-list" class="results-list"></div>
+    </div>
+  </div>
+
+  <!-- Venue detail panel (when clicking a map pin) -->
   <div id="detail-panel" class="detail-panel hidden">
     <div class="detail-header">
       <div class="detail-header-main">
@@ -59,7 +93,7 @@
         <p id="detail-address" class="detail-address"></p>
       </div>
       <div class="detail-header-actions">
-        <label class="select-all-label"><input type="checkbox" id="select-all-games"> Select All</label>
+        <label class="select-all-label"><input type="checkbox" id="select-all-venue-games"> Select All Venue</label>
         <button id="detail-close" class="btn-close">&times;</button>
       </div>
     </div>
