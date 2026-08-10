@@ -18,6 +18,9 @@
   let map = null;
   let markers = [];           // leaflet marker refs
 
+  const selectedGames = new Map(); // gn -> game object
+  let currentVenueGames = [];      // currently rendered games in detail panel
+
   // Northern Ohio default center
   const DEFAULT_CENTER = [41.4, -81.7];
   const DEFAULT_ZOOM = 9;
@@ -37,6 +40,94 @@
   const $detailAddress = document.getElementById("detail-address");
   const $detailGames = document.getElementById("detail-games");
   const $detailClose = document.getElementById("detail-close");
+
+  const $selectAllGames = document.getElementById("select-all-games");
+  const $selectionBar = document.getElementById("selection-bar");
+  const $selectionCount = document.getElementById("selection-count");
+  const $generateEmailBtn = document.getElementById("generate-email-btn");
+  const $clearSelectionBtn = document.getElementById("clear-selection-btn");
+  const $emailModal = document.getElementById("email-modal");
+  const $modalClose = document.getElementById("modal-close");
+  const $modalDismiss = document.getElementById("modal-dismiss");
+  const $copyEmailBtn = document.getElementById("copy-email-btn");
+  const $emailOutput = document.getElementById("email-output");
+
+  // ── Selection & Assignor Format Helpers ────────────────────
+  function updateSelectionBar() {
+    const count = selectedGames.size;
+    if (count > 0) {
+      $selectionCount.textContent = `${count} game${count === 1 ? "" : "s"} selected`;
+      $selectionBar.classList.remove("hidden");
+    } else {
+      $selectionBar.classList.add("hidden");
+    }
+  }
+
+  function clearSelection() {
+    selectedGames.clear();
+    if ($selectAllGames) $selectAllGames.checked = false;
+    document.querySelectorAll(".game-checkbox").forEach(cb => {
+      cb.checked = false;
+      const row = cb.closest(".game-row");
+      if (row) row.classList.remove("selected");
+    });
+    updateSelectionBar();
+  }
+
+  function updateSelectAllCheckbox() {
+    if (!$selectAllGames || !currentVenueGames || currentVenueGames.length === 0) {
+      if ($selectAllGames) $selectAllGames.checked = false;
+      return;
+    }
+    const allSelected = currentVenueGames.every(g => selectedGames.has(g.gn));
+    $selectAllGames.checked = allSelected;
+  }
+
+  function formatAssignorLine(g) {
+    // Format: GameID - Date - Time - SiteName - SubSiteName - LevelName - HomeTeams - AwayTeams
+    const gn = g.gn || "";
+
+    // Date: M/D/YY -> M/D/YYYY
+    let dStr = g.d || "";
+    const dateParts = dStr.split("/");
+    if (dateParts.length === 3 && dateParts[2].length === 2) {
+      dStr = `${dateParts[0]}/${dateParts[1]}/20${dateParts[2]}`;
+    }
+
+    const tStr = g.t || "";
+
+    const locObj = locMap[g.lid];
+    const siteName = locObj ? (locObj.name || locObj.community || "") : "";
+
+    // SubSiteName from g.loc: e.g. "River Road Park (River Road Park East 1)" -> "River Road Park East 1"
+    let subSite = g.loc || siteName;
+    const subMatch = subSite.match(/\((.*?)\)/);
+    if (subMatch) {
+      subSite = subMatch[1].trim();
+    }
+
+    // LevelName: extract Uxx from g.age e.g. "2017(U10)" -> "U10"
+    let level = g.age || "";
+    const levelMatch = level.match(/\(?(U\d{2}(?:\/\d{2})?)\)?/i);
+    if (levelMatch) {
+      level = levelMatch[1].toUpperCase();
+    }
+
+    const home = (g.h || "").trim();
+    const away = (g.v || "").trim();
+
+    return `${gn} - ${dStr} - ${tStr} - ${siteName} - ${subSite} - ${level} - ${home} - ${away}`;
+  }
+
+  function generateAssignorText() {
+    const sorted = [...selectedGames.values()].sort((a, b) => {
+      const da = parseDate(a.d), db = parseDate(b.d);
+      if (da - db !== 0) return da - db;
+      return parseTime(a.t) - parseTime(b.t);
+    });
+
+    return sorted.map(g => formatAssignorLine(g)).join("\n");
+  }
 
   // ── Haversine distance (miles) ─────────────────────────────
   function haversine(lat1, lng1, lat2, lng2) {
@@ -309,6 +400,9 @@
       return parseTime(a.t) - parseTime(b.t);
     });
 
+    currentVenueGames = venueGames;
+    updateSelectAllCheckbox();
+
     // Render grouped by date
     $detailGames.innerHTML = "";
     let currentDate = "";
@@ -321,15 +415,41 @@
         $detailGames.appendChild(header);
       }
 
+      const isSelected = selectedGames.has(g.gn);
+
       const row = document.createElement("div");
-      row.className = "game-row";
-      row.innerHTML = `
+      row.className = "game-row" + (isSelected ? " selected" : "");
+
+      const checkbox = document.createElement("input");
+      checkbox.type = "checkbox";
+      checkbox.className = "game-checkbox";
+      checkbox.checked = isSelected;
+      checkbox.addEventListener("change", (e) => {
+        const checked = e.target.checked;
+        if (checked) {
+          selectedGames.set(g.gn, g);
+          row.classList.add("selected");
+        } else {
+          selectedGames.delete(g.gn);
+          row.classList.remove("selected");
+        }
+        updateSelectionBar();
+        updateSelectAllCheckbox();
+      });
+
+      row.appendChild(checkbox);
+
+      const rowContent = document.createElement("div");
+      rowContent.style.display = "contents";
+      rowContent.innerHTML = `
         <span class="time">${g.t}</span>
         <span class="game-num">#${g.gn}</span>
         <span class="teams">${g.h} vs ${g.v}</span>
         <span class="meta">${g.g} ${g.age} ${g.div}</span>
         <span class="field">${g.loc}</span>
       `;
+      row.appendChild(rowContent);
+
       $detailGames.appendChild(row);
     });
 
@@ -343,6 +463,7 @@
 
   function closeDetail() {
     selectedVenue = null;
+    currentVenueGames = [];
     $detailPanel.classList.add("hidden");
     renderBreadcrumb();
   }
@@ -392,6 +513,53 @@
   // Allow Enter key on ZIP input to trigger apply
   $zipInput.addEventListener("keydown", (e) => {
     if (e.key === "Enter") $applyBtn.click();
+  });
+
+  // Select all checkbox handler
+  if ($selectAllGames) {
+    $selectAllGames.addEventListener("change", (e) => {
+      const isChecked = e.target.checked;
+      currentVenueGames.forEach(g => {
+        if (isChecked) {
+          selectedGames.set(g.gn, g);
+        } else {
+          selectedGames.delete(g.gn);
+        }
+      });
+      document.querySelectorAll(".game-checkbox").forEach(cb => {
+        cb.checked = isChecked;
+        const row = cb.closest(".game-row");
+        if (row) {
+          if (isChecked) row.classList.add("selected");
+          else row.classList.remove("selected");
+        }
+      });
+      updateSelectionBar();
+    });
+  }
+
+  // Selection bar & modal handlers
+  $generateEmailBtn.addEventListener("click", () => {
+    const text = generateAssignorText();
+    $emailOutput.value = text;
+    $emailModal.classList.remove("hidden");
+  });
+
+  $clearSelectionBtn.addEventListener("click", clearSelection);
+
+  $modalClose.addEventListener("click", () => $emailModal.classList.add("hidden"));
+  $modalDismiss.addEventListener("click", () => $emailModal.classList.add("hidden"));
+
+  $copyEmailBtn.addEventListener("click", async () => {
+    try {
+      await navigator.clipboard.writeText($emailOutput.value);
+      const origText = $copyEmailBtn.textContent;
+      $copyEmailBtn.textContent = "Copied!";
+      setTimeout(() => { $copyEmailBtn.textContent = origText; }, 2000);
+    } catch (e) {
+      $emailOutput.select();
+      document.execCommand("copy");
+    }
   });
 
   // ── Init ───────────────────────────────────────────────────

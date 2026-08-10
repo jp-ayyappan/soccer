@@ -54,11 +54,43 @@
   <!-- Game detail panel -->
   <div id="detail-panel" class="detail-panel hidden">
     <div class="detail-header">
-      <h3 id="detail-title"></h3>
-      <p id="detail-address" class="detail-address"></p>
-      <button id="detail-close" class="btn-close">&times;</button>
+      <div class="detail-header-main">
+        <h3 id="detail-title"></h3>
+        <p id="detail-address" class="detail-address"></p>
+      </div>
+      <div class="detail-header-actions">
+        <label class="select-all-label"><input type="checkbox" id="select-all-games"> Select All</label>
+        <button id="detail-close" class="btn-close">&times;</button>
+      </div>
     </div>
     <div id="detail-games" class="detail-games"></div>
+  </div>
+
+  <!-- Floating selection bar -->
+  <div id="selection-bar" class="selection-bar hidden">
+    <span id="selection-count">0 games selected</span>
+    <div class="selection-actions">
+      <button id="generate-email-btn" class="btn btn-accent">Generate Assignor List</button>
+      <button id="clear-selection-btn" class="btn btn-secondary">Clear</button>
+    </div>
+  </div>
+
+  <!-- Email output modal -->
+  <div id="email-modal" class="modal-overlay hidden">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h3>Formatted Assignor Game List</h3>
+        <button id="modal-close" class="btn-close">&times;</button>
+      </div>
+      <div class="modal-body">
+        <p class="modal-help">Copy and paste this list into your email reply to the assignor:</p>
+        <textarea id="email-output" readonly rows="10"></textarea>
+      </div>
+      <div class="modal-footer">
+        <button id="copy-email-btn" class="btn btn-accent">Copy to Clipboard</button>
+        <button id="modal-dismiss" class="btn btn-secondary">Close</button>
+      </div>
+    </div>
   </div>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
