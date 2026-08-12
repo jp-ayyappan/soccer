@@ -30,6 +30,16 @@ jobs:
         run: |
           python3 scrape_ohtsl.py
 
+      - name: Upload Reschedule Reports Artifact
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: reschedule-reports
+          path: |
+            **/reschedules/*.txt
+            **/games_by_*.txt
+          if-no-files-found: ignore
+
       - name: Build web application JSON site data
         run: |
           python3 build_site_data.py
