@@ -78,6 +78,14 @@ body { display: flex; flex-direction: column; }
   font-weight: 600;
 }
 .btn:hover { background: #2e7d32; }
+.btn-secondary {
+  background: #f0f4f8;
+  color: #333;
+  border: 1px solid #ccc;
+}
+.btn-secondary:hover {
+  background: #e2e8f0;
+}
 .btn-icon {
   padding: 5px 8px;
   background: #e8f5e9;

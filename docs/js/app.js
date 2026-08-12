@@ -68,6 +68,126 @@
   const $toggleMapBtn = document.getElementById("toggle-map-btn");
   const $toggleListBtn = document.getElementById("toggle-list-btn");
   const $listCountBadge = document.getElementById("list-count-badge");
+  const $shareLinkBtn = document.getElementById("share-link-btn");
+
+  // ── URL State Sync ──────────────────────────────────────────
+  let isRestoringURL = false;
+
+  function updateURLState() {
+    if (isRestoringURL) return;
+    const params = new URLSearchParams();
+
+    if (currentSeason) params.set("season", currentSeason.id);
+    if (selectedDate) params.set("date", selectedDate);
+    if ($zipInput && $zipInput.value.trim() && $zipInput.value.trim() !== "GPS") {
+      params.set("zip", $zipInput.value.trim());
+    }
+    if (radiusMiles > 0 && radiusMiles !== 20) {
+      params.set("radius", radiusMiles);
+    }
+    if (currentSort && currentSort !== "time") {
+      params.set("sort", currentSort);
+    }
+    if (selectedVenue) {
+      params.set("venue", selectedVenue);
+    }
+    if (selectedGames.size > 0) {
+      params.set("games", Array.from(selectedGames.keys()).join(","));
+    }
+    if ($mainContent && !$mainContent.classList.contains("hidden") && window.innerWidth < 900) {
+      if ($toggleListBtn && $toggleListBtn.classList.contains("active")) {
+        params.set("view", "list");
+      }
+    }
+
+    const newQuery = params.toString();
+    const newURL = newQuery ? `?${newQuery}` : window.location.pathname;
+    window.history.replaceState(null, "", newURL);
+  }
+
+  async function restoreStateFromURL() {
+    const params = new URLSearchParams(window.location.search);
+    const seasonId = params.get("season");
+    if (!seasonId || !seasons || seasons.length === 0) return;
+
+    const matchedSeason = seasons.find(s => s.id === seasonId);
+    if (!matchedSeason) return;
+
+    isRestoringURL = true;
+
+    // Load season
+    currentSeason = matchedSeason;
+    $seasonPicker.classList.add("hidden");
+    $filterBar.classList.remove("hidden");
+    $mainContent.classList.remove("hidden");
+    if ($viewToggle) $viewToggle.classList.remove("hidden");
+
+    await loadSeasonData(currentSeason.id);
+    populateDateDropdown();
+    initMap();
+
+    // Restore date
+    const dateParam = params.get("date");
+    if (dateParam) {
+      selectedDate = dateParam;
+      if ($dateSelect) $dateSelect.value = dateParam;
+    }
+
+    // Restore radius
+    const radiusParam = params.get("radius");
+    if (radiusParam) {
+      radiusMiles = parseInt(radiusParam) || 20;
+      if ($radiusSelect) $radiusSelect.value = radiusMiles;
+    }
+
+    // Restore ZIP
+    const zipParam = params.get("zip");
+    if (zipParam && zipParam.length === 5) {
+      if ($zipInput) $zipInput.value = zipParam;
+      userLatLng = await geocodeZip(zipParam);
+    }
+
+    // Restore sort
+    const sortParam = params.get("sort");
+    if (sortParam) {
+      currentSort = sortParam;
+      if ($sortSelect) $sortSelect.value = sortParam;
+    }
+
+    // Restore selected games
+    const gamesParam = params.get("games");
+    if (gamesParam) {
+      const gns = gamesParam.split(",").map(s => s.trim());
+      games.forEach(g => {
+        if (gns.includes(String(g.gn))) {
+          selectedGames.set(g.gn, g);
+        }
+      });
+      updateSelectionBar();
+    }
+
+    renderMarkers();
+    renderSearchResults();
+
+    // Restore venue detail panel
+    const venueParam = params.get("venue");
+    if (venueParam) {
+      const locId = parseInt(venueParam) || venueParam;
+      if (locMap[locId]) {
+        openVenueDetail(locId);
+      }
+    } else {
+      renderBreadcrumb();
+    }
+
+    // Restore mobile view tab
+    const viewParam = params.get("view");
+    if (viewParam === "list") {
+      setMobileView("list");
+    }
+
+    isRestoringURL = false;
+  }
 
   // ── Browser Geolocation ────────────────────────────────────
   function getUserLocation() {
@@ -104,6 +224,7 @@
     } else {
       $selectionBar.classList.add("hidden");
     }
+    updateURLState();
   }
 
   function clearSelection() {
@@ -199,6 +320,7 @@
   async function loadSeasons() {
     seasons = await fetchJSON("data/seasons.json");
     renderSeasonPicker();
+    await restoreStateFromURL();
   }
 
   async function loadSeasonData(seasonId) {
@@ -266,6 +388,7 @@
     $viewToggle.classList.add("hidden");
     $seasonPicker.classList.remove("hidden");
     renderBreadcrumb();
+    updateURLState();
   }
 
   async function navToSeason(season) {
@@ -286,6 +409,7 @@
     renderMarkers();
     renderSearchResults();
     renderBreadcrumb();
+    updateURLState();
   }
 
   function setMobileView(viewMode) {
@@ -301,6 +425,7 @@
       $toggleListBtn.classList.add("active");
       $toggleMapBtn.classList.remove("active");
     }
+    updateURLState();
   }
 
   // ── Season picker ──────────────────────────────────────────
@@ -650,6 +775,7 @@
 
     $detailPanel.classList.remove("hidden");
     renderBreadcrumb();
+    updateURLState();
   }
 
   function closeDetail() {
@@ -657,6 +783,7 @@
     currentVenueGames = [];
     $detailPanel.classList.add("hidden");
     renderBreadcrumb();
+    updateURLState();
   }
 
   function parseTime(timeStr) {
@@ -689,10 +816,25 @@
     renderMarkers();
     renderSearchResults();
     renderBreadcrumb();
+    updateURLState();
   });
 
   if ($useLocationBtn) {
     $useLocationBtn.addEventListener("click", getUserLocation);
+  }
+
+  if ($shareLinkBtn) {
+    $shareLinkBtn.addEventListener("click", async () => {
+      updateURLState();
+      try {
+        await navigator.clipboard.writeText(window.location.href);
+        const origText = $shareLinkBtn.textContent;
+        $shareLinkBtn.textContent = "Copied!";
+        setTimeout(() => { $shareLinkBtn.textContent = origText; }, 2000);
+      } catch (e) {
+        prompt("Shareable link:", window.location.href);
+      }
+    });
   }
 
   $dateSelect.addEventListener("change", () => {
@@ -702,11 +844,13 @@
     renderMarkers();
     renderSearchResults();
     renderBreadcrumb();
+    updateURLState();
   });
 
   $sortSelect.addEventListener("change", () => {
     currentSort = $sortSelect.value;
     renderSearchResults();
+    updateURLState();
   });
 
   $toggleMapBtn.addEventListener("click", () => setMobileView("map"));
