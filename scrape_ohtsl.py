@@ -366,20 +366,50 @@ def detect_season() -> tuple[str, int]:
     """Auto-detect the current OHTSL season from today's date.
 
     OHTSL runs two seasons per year:
-      - Spring: April – August  (games Apr–Jun, but declared/posted earlier)
-      - Fall:   September – March
+      - Spring: March – July (games Mar–Jun)
+      - Fall:   August – February (games Aug–Oct)
 
-    Returns (term, year) e.g. ("Spring", 2026).
+    Returns (term, year) e.g. ("Fall", 2026).
     """
     now = datetime.now()
     month = now.month
-    if 4 <= month <= 8:
+    if 3 <= month <= 7:
         return "Spring", now.year
-    elif month >= 9:
+    elif month >= 8:
         return "Fall", now.year
     else:
-        # Jan–Mar: still the prior fall season
+        # Jan–Feb: still part of prior Fall season
         return "Fall", now.year - 1
+
+
+def infer_season_from_games(all_games: list[dict]) -> tuple[str, int]:
+    """Infer season term and year directly from scraped game dates."""
+    months = []
+    years = []
+    for g in all_games:
+        d = g.get("date", "")
+        parts = d.split("/")
+        if len(parts) == 3:
+            try:
+                m = int(parts[0])
+                y = int(parts[2])
+                if y < 100:
+                    y += 2000
+                months.append(m)
+                years.append(y)
+            except ValueError:
+                pass
+
+    if not months:
+        return detect_season()
+
+    spring_count = sum(1 for m in months if 3 <= m <= 7)
+    fall_count = sum(1 for m in months if m >= 8 or m <= 2)
+
+    term = "Fall" if fall_count >= spring_count else "Spring"
+    most_common_year = max(set(years), key=years.count) if years else datetime.now().year
+
+    return term, most_common_year
 
 
 def make_season_label(term: str, year: int) -> str:
@@ -535,18 +565,7 @@ def main():
         list_seasons()
         return
 
-    # Resolve season term and year
-    auto_term, auto_year = detect_season()
-    term = args.season.capitalize() if args.season else auto_term
-    year = args.year if args.year else auto_year
-
-    season_label = make_season_label(term, year)
-    season_dir = make_season_dir(term, year)
-    output_dir = os.path.join(SCRIPT_DIR, season_dir)
-    os.makedirs(output_dir, exist_ok=True)
-
     print("OHTSL Game Schedule Scraper")
-    print(f"Season: {season_label}")
     print("=" * 40)
 
     all_games = scrape_all_games()
@@ -556,6 +575,22 @@ def main():
         return
 
     print(f"\nTotal games scraped: {len(all_games)}")
+
+    # Resolve season term and year: use explicit args if provided, otherwise infer from scraped game dates
+    if args.season and args.year:
+        term = args.season.capitalize()
+        year = args.year
+    else:
+        inferred_term, inferred_year = infer_season_from_games(all_games)
+        term = args.season.capitalize() if args.season else inferred_term
+        year = args.year if args.year else inferred_year
+
+    season_label = make_season_label(term, year)
+    season_dir = make_season_dir(term, year)
+    output_dir = os.path.join(SCRIPT_DIR, season_dir)
+    os.makedirs(output_dir, exist_ok=True)
+
+    print(f"Season: {season_label}")
 
     # Detect schedule changes before writing new outputs
     detect_schedule_changes(all_games, output_dir, season_label)
