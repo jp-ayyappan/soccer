@@ -1,0 +1,929 @@
+================================================================================
+OHTSL FALL 2026 — RESCHEDULING & CHANGE REPORT (2026-08-12)
+Generated on 2026-08-12 12:13:57
+================================================================================
+
+🔄 Game #201 (Boys U08 East — Kenston vs Shaker Hts.   RED)
+   Location: River Road Park (River Road Park East 1) -> River Road Park (River Road Park East 3)
+
+🔄 Game #208 (Boys U08 East — Kenston vs Shaker Hts.   BLK)
+   Location: Settler's Park (Field 1 7v7) -> River Road Park (River Road Park East 3)
+
+🔄 Game #214 (Boys U08 East — Kenston vs Solon United)
+   Location: Settler's Park (Field 1 7v7) -> River Road Park (River Road Park 2)
+
+🔄 Game #219 (Boys U08 East — Kenston vs Orange)
+   Location: Settler's Park (Field 1 7v7) -> River Road Park (River Road Park East 3)
+
+🔄 Game #9808 (Boys U08 West E — Avon Lake vs Fairview Park)
+   Time:     11:30 AM -> 2:30 PM
+   Location: Troy Intermediate School (Troy 7B) -> Troy Intermediate School (Troy 7C)
+
+🔄 Game #9706 (Boys U08 West N — Avon Lake vs Bay Village   BH)
+   Location: Troy Intermediate School (Troy 7B) -> Troy Intermediate School (Troy 7A)
+
+🔄 Game #9711 (Boys U08 West N — Avon Lake vs Olmsted Falls   Blue)
+   Location: Troy Intermediate School (Troy 7B) -> Troy Intermediate School (Troy 7A)
+
+🔄 Game #101 (Boys U08 West V — Bay Village   BK vs Olmsted Falls   Gold)
+   Location: Walker Road Park  (Walker 2 7v7) -> Walker Road Park  (Walker 4 7v7)
+
+🔄 Game #3701 (Boys U09 2 — Avon Lake vs Hudson   SATB)
+   Date:     8/16/26 -> 8/24/26
+   Time:     10:00 AM -> 6:30 PM
+
+🔄 Game #3719 (Boys U09 2 — Hudson   SATB vs Lakewood   B17G)
+   Time:     2:30 PM -> 3:00 PM
+
+🔄 Game #3726 (Boys U09 2 — Hudson   SATB vs Fairview Park)
+   Location: Barlow Farm Park (Field 3A) -> Barlow Farm Park (Field 2B)
+
+🔄 Game #3732 (Boys U09 2 — Hudson   SATB vs North Royalton)
+   Location: Barlow Farm Park (Field 3A) -> Barlow Farm Park (Field 2B)
+
+🔄 Game #9903 (Boys U09 3 East — Hudson   SATW vs Geauga Federation SC)
+   Location: Barlow Farm Park (Field 3A) -> Barlow Farm Park (Field 2B)
+
+🔄 Game #3801 (Boys U09 3 West — Westlake   EL vs Rocky River   MRN)
+   Location: St John Medical Center Fields (Field #1 - 7v7 (west, near Crocker Rd.)) -> Parkside (Field #1S - 7v7)
+
+🔄 Game #10101 (Boys U09 4 East — Kenston   AT vs Aurora)
+   Location: Settler's Park (Field 1 7v7) -> River Road Park (River Road Park 2)
+
+🔄 Game #10103 (Boys U09 4 East — North Royalton vs Streetsboro)
+   Location: Lucille Heasley Soccer Fields (Heasley 2 W) -> Lucille Heasley Soccer Fields (Heasley 3W)
+
+🔄 Game #10105 (Boys U09 4 East — Kenston   AT vs Riverside)
+   Location: Settler's Park (Field 1 7v7) -> River Road Park (River Road Park 2)
+
+🔄 Game #10107 (Boys U09 4 East — North Royalton vs Aurora)
+   Location: Lucille Heasley Soccer Fields (Heasley 2 W) -> Lucille Heasley Soccer Fields (Heasley 3W)
+
+🔄 Game #10116 (Boys U09 4 East — Kenston   AT vs North Royalton)
+   Location: Settler's Park (Field 1 7v7) -> River Road Park (River Road Park 2)
+
+🔄 Game #10119 (Boys U09 4 East — Kenston   AT vs Solon United)
+   Location: Settler's Park (Field 1 7v7) -> River Road Park (River Road Park East 3)
+
+🔄 Game #3901 (Boys U09 4 West EN — Westlake   TB vs Bay Village   SE)
+   Location: St John Medical Center Fields (Field #1 - 7v7 (west, near Crocker Rd.)) -> Parkside (Field #1N - 7v7)
+
+🔄 Game #13701 (Boys U09 4 West EV — Sandusky vs Westlake   SB)
+   Location: Sports Force Parks (7v7 Field 7A) -> Sports Force Parks (7v7 Field 1)
+
+🔄 Game #10407 (Boys U09 5 East EN — Kenston   SK vs Willoughby)
+   Location: Settler's Park (Field 1 7v7) -> River Road Park (River Road Park 2)
+
+🔄 Game #10425 (Boys U09 5 East EN — Kenston   SK vs Geauga Federation SC)
+   Location: Settler's Park (Field 1 7v7) -> River Road Park (River Road Park 2)
+
+🔄 Game #10431 (Boys U09 5 East EN — Kenston   SK vs Twinsburg   Blue)
+   Location: Settler's Park (Field 1 7v7) -> River Road Park (River Road Park 2)
+
+🔄 Game #10437 (Boys U09 5 East EN — Kenston   SK vs Wickliffe)
+   Location: Settler's Park (Field 1 7v7) -> River Road Park (River Road Park 2)
+
+🔄 Game #14112 (Boys U09 5 East EV — Hudson   SCHA vs Twinsburg   WHTE)
+   Location: Barlow Farm Park (Field 3A) -> Barlow Farm Park (Field 2B)
+
+🔄 Game #14123 (Boys U09 5 East EV — Hudson   SCHA vs Stow   Blck)
+   Location: Barlow Farm Park (Field 3A) -> Barlow Farm Park (Field 5B)
+
+🔄 Game #14136 (Boys U09 5 East EV — Hudson   SCHA vs Mentor)
+   Location: Barlow Farm Park (Field 3A) -> Barlow Farm Park (Field 5B)
+
+🔄 Game #14128 (Boys U09 5 East EV — Hudson   SCHA vs West Geauga)
+   Location: Barlow Farm Park (Field 3A) -> Barlow Farm Park (Field 2B)
+
+🔄 Game #10318 (Boys U09 5 South EV — North Royalton vs Brunswick   WHT)
+   Location: Lucille Heasley Soccer Fields (Heasley 2 W) -> Lucille Heasley Soccer Fields (Heasley 3W)
+
+🔄 Game #10313 (Boys U09 5 South EV — North Royalton vs Parma)
+   Location: Lucille Heasley Soccer Fields (Heasley 2 W) -> Lucille Heasley Soccer Fields (Heasley 3W)
+
+🔄 Game #13901 (Boys U09 5 West EN — Sandusky vs North Ridgeville)
+   Location: Sports Force Parks (7v7 Field 7A) -> Sports Force Parks (7v7 Field 1)
+
+🔄 Game #13904 (Boys U09 5 West EN — Avon Lake vs Rocky River   GLD)
+   Date:     8/16/26 -> 9/12/26
+
+🔄 Game #4107 (Boys U10 1 — Hudson   PEIG vs Mayfield   KHA)
+   Location: Barlow Farm Park (Field 5B) -> Barlow Farm Park (Field 3A)
+
+🔄 Game #4113 (Boys U10 1 — Hudson   PEIG vs Solon United)
+   Location: Barlow Farm Park (Field 3A) -> Barlow Farm Park (Field 2B)
+
+🔄 Game #4119 (Boys U10 1 — Hudson   PEIG vs Bay Village   BK)
+   Location: Barlow Farm Park (Field 3A) -> Barlow Farm Park (Field 2B)
+
+🔄 Game #14211 (Boys U10 2 South — Highland   NF1 vs Strongsville   AS)
+   Date:     9/16/26 -> 10/7/26
+
+🔄 Game #10501 (Boys U10 2 West — North Royalton vs Avon Lake)
+   Location: Lucille Heasley Soccer Fields (Heasley 2 W) -> Lucille Heasley Soccer Fields (Heasley 3E)
+
+🔄 Game #10507 (Boys U10 2 West — North Royalton vs Westlake   RG)
+   Location: Lucille Heasley Soccer Fields (Heasley 2E) -> Lucille Heasley Soccer Fields (Heasley 3E)
+
+🔄 Game #10601 (Boys U10 3 East — Kenston   BL vs Solon United)
+   Location: River Road Park (River Road Park East 1) -> River Road Park (River Road Park East 3)
+
+🔄 Game #10602 (Boys U10 3 East — Shaker Hts.   RED vs Riverside   JA)
+   Location: Lomond School (Field #2) -> Mercer Elementary School (7v7 Field)
+
+🔄 Game #10607 (Boys U10 3 East — Kenston   BL vs Independence)
+   Location: Settler's Park (Field 1 7v7) -> River Road Park (River Road Park 2)
+
+🔄 Game #10613 (Boys U10 3 East — Kenston   BL vs Geauga Federation SC)
+   Location: Settler's Park (Field 1 7v7) -> River Road Park (River Road Park East 3)
+
+🔄 Game #10619 (Boys U10 3 East — Kenston   BL vs Shaker Hts.   RED)
+   Location: Settler's Park (Field 1 7v7) -> River Road Park (River Road Park 2)
+
+🔄 Game #4304 (Boys U10 3 West — Sandusky vs Port Clinton   RED)
+   Location: Sports Force Parks (7v7 Field 7A) -> Sports Force Parks (7v7 Field 1)
+
+🔄 Game #14301 (Boys U10 4 East EN — Shaker Hts.   WHT vs Wickliffe)
+   Location: Lomond School (Field #2) -> Mercer Elementary School (7v7 Field)
+
+🔄 Game #10803 (Boys U10 4 East EV — Hudson   GRWA vs NP Aurora)
+   Location: Barlow Farm Park (Field 3A) -> Barlow Farm Park (Field 5B)
+
+🔄 Game #10802 (Boys U10 4 East EV — Riverside   CB vs Chagrin Falls)
+   Time:     2:30 PM -> 3:00 PM
+
+🔄 Game #10807 (Boys U10 4 East EV — Hudson   GRWA vs Madison)
+   Location: Barlow Farm Park (Field 3A) -> Barlow Farm Park (Field 2B)
+
+🔄 Game #10814 (Boys U10 4 East EV — Eastside Kickers vs Madison)
+   Location: Denison Park (Denison A) -> Canterbury Elementary School (Canterbury)
+
+🔄 Game #10824 (Boys U10 4 East EV — Hudson   GRWA vs Eastside Kickers)
+   Location: Barlow Farm Park (Field 5B) -> Barlow Farm Park (Field 3A)
+
+🔄 Game #14409 (Boys U10 4 South EN — North Canton vs Green)
+   Date:     8/26/26 -> 10/1/26
+   Time:     6:30 PM -> 6:00 PM
+
+🔄 Game #10909 (Boys U10 4 South EV — North Royalton vs Highland   DT)
+   Location: Lucille Heasley Soccer Fields (Heasley 2E) -> Lucille Heasley Soccer Fields (Heasley 3E)
+
+🔄 Game #10913 (Boys U10 4 South EV — North Royalton vs Cloverleaf)
+   Location: Lucille Heasley Soccer Fields (Heasley 2 W) -> Lucille Heasley Soccer Fields (Heasley 3E)
+
+🔄 Game #4421 (Boys U10 4 West — Avon Lake vs Norwalk HCYSC)
+   Location: Troy Intermediate School (Troy 7B) -> Troy Intermediate School (Troy 7C)
+
+🔄 Game #11012 (Boys U10 5 East — Kenston   WT vs Nordonia)
+   Location: Settler's Park (Field 2 7v7) -> River Road Park (River Road Park East 3)
+
+🔄 Game #11023 (Boys U10 5 East — Kenston   WT vs Geneva)
+   Location: Settler's Park (Field 2 7v7) -> River Road Park (River Road Park 2)
+
+🔄 Game #11028 (Boys U10 5 East — Kenston   WT vs Shaker Hts.   SLV)
+   Location: Settler's Park (Field 1 7v7) -> River Road Park (River Road Park East 3)
+
+🔄 Game #11036 (Boys U10 5 East — Kenston   WT vs Willoughby)
+   Location: Settler's Park (Field 1 7v7) -> River Road Park (River Road Park East 3)
+
+🔄 Game #14506 (Boys U10 5 South EN — Perry (Stark) vs Eagles Select   U10)
+   Date:     8/23/26 -> 9/27/26
+   Time:     1:00 PM -> 4:00 PM
+
+🔄 Game #11113 (Boys U10 5 South EV — Hudson   VERL vs Tallmadge)
+   Location: Barlow Farm Park (Field 5B) -> Barlow Farm Park (Field 3A)
+
+🔄 Game #11107 (Boys U10 5 South EV — Hudson   VERL vs Highland   KS2)
+   Location: Barlow Farm Park (Field 2B) -> Barlow Farm Park (Field 5B)
+
+🔄 Game #4608 (Boys U11 1 — Hudson   SFER vs Green)
+   Location: Barlow Farm Park (Field 2A) -> Barlow Farm Park (Field 5A)
+
+🔄 Game #4615 (Boys U11 1 — Hudson   SFER vs Medina   11Gr)
+   Location: Barlow Farm Park (Field 2A) -> Barlow Farm Park (Field 3B)
+
+🔄 Game #4611 (Boys U11 1 — Green vs Solon United)
+   Date:     8/27/26 -> 9/3/26
+
+🔄 Game #4623 (Boys U11 1 — Hudson   SFER vs North Royalton)
+   Location: Barlow Farm Park (Field 2A) -> Barlow Farm Park (Field 3B)
+
+🔄 Game #4632 (Boys U11 1 — Hudson   SFER vs Solon United)
+   Location: Barlow Farm Park (Field 2A) -> Barlow Farm Park (Field 3B)
+
+🔄 Game #4704 (Boys U11 2 — Shaker Hts.   BLK vs Rocky River   MRN)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #4705 (Boys U11 2 — Vermilion vs Olmsted Falls   Blue)
+   Time:     11:30 AM -> 12:30 PM
+
+🔄 Game #4706 (Boys U11 2 — Shaker Hts.   BLK vs Avon Lake)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #4716 (Boys U11 2 — Shaker Hts.   BLK vs Vermilion)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #4727 (Boys U11 2 — Shaker Hts.   BLK vs Mayfield   MO)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #4702 (Boys U11 2 — Mayfield   MO vs Westlake   AM)
+   Date:     8/16/26 -> 10/18/26
+   Time:     1:00 PM -> 5:00 PM
+
+🔄 Game #11804 (Boys U11 2 South — Hudson   PEIG vs Hudson   PRIN)
+   Location: Barlow Farm Park (Field 2A) -> Barlow Farm Park (Field 3B)
+
+🔄 Game #11823 (Boys U11 2 South — Hudson   PRIN vs Brunswick   RYL)
+   Location: Barlow Farm Park (Field 2A) -> Barlow Farm Park (Field 5A)
+
+🔄 Game #11832 (Boys U11 2 South — Hudson   PRIN vs Hudson   PEIG)
+   Location: Barlow Farm Park (Field 2A) -> Barlow Farm Park (Field 3B)
+
+🔄 Game #4811 (Boys U11 3 — Bay Village   AS vs Avon Lake)
+   Location: Walker Road Park  (Walker 5 9v9) -> Walker Road Park  (Walker 6 9v9)
+
+🔄 Game #11211 (Boys U11 3 East — Kenston vs Riverside   BH)
+   Location: Settler's Park (9v9 Field) -> River Road Park (River Road Park 9v9 West)
+
+🔄 Game #11218 (Boys U11 3 East — Kenston vs Willoughby)
+   Location: Settler's Park (9v9 Field) -> River Road Park (River Road Park 9v9 West)
+
+🔄 Game #11220 (Boys U11 3 East — Shaker Hts.   RED vs Twinsburg   Blue)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #11222 (Boys U11 3 East — Kenston vs NP Aurora)
+   Location: Settler's Park (9v9 Field) -> River Road Park (River Road Park 9v9 West)
+
+🔄 Game #11228 (Boys U11 3 East — Shaker Hts.   RED vs Kenston)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #11229 (Boys U11 3 East — Shaker Hts.   RED vs NP Aurora)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #11406 (Boys U11 4 East — Shaker Hts.   WHT vs Stow   Gold)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #11416 (Boys U11 4 East — Shaker Hts.   WHT vs Solon United)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #11413 (Boys U11 4 East — Hudson   CORV vs Stow   Gold)
+   Location: Barlow Farm Park (Field 2A) -> Barlow Farm Park (Field 5A)
+
+🔄 Game #11421 (Boys U11 4 East — Shaker Hts.   WHT vs Streetsboro)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #11424 (Boys U11 4 East — West Geauga vs Willoughby)
+   Date:     9/13/26 -> 9/15/26
+   Time:     2:30 PM -> 6:30 PM
+
+🔄 Game #11437 (Boys U11 4 East — Hudson   CORV vs Chagrin Falls)
+   Location: Barlow Farm Park (Field 2A) -> Barlow Farm Park (Field 5A)
+
+🔄 Game #4921 (Boys U11 4 West — Amherst vs LaGrange)
+   Location: DePaola Park  (DePaola #7) -> Beaver Creek Park (Beaver Creek #10)
+
+🔄 Game #4930 (Boys U11 4 West — Amherst vs North Olmsted)
+   Location: DePaola Park  (DePaola #7) -> Beaver Creek Park (Beaver Creek #10)
+
+🔄 Game #14606 (Boys U11 5 East EN — Shaker Hts.   SLV vs Broadview Hts.)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #14611 (Boys U11 5 East EN — Shaker Hts.   SLV vs Streetsboro)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #11611 (Boys U11 5 East EV — Shaker Hts.   GLD vs Madison)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #11604 (Boys U11 5 East EV — Shaker Hts.   GLD vs Geauga Federation SC)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #5005 (Boys U11 5 West — Midview   JL vs Avon)
+   Date:     8/16/26 -> 8/28/26
+   Time:     1:00 PM -> 6:30 PM
+
+🔄 Game #5023 (Boys U11 5 West — Avon vs North Ridgeville)
+   Location: Schwartz Road Park (#3 - 9v9) -> Schwartz Road Park (#4 - 9V9)
+
+🔄 Game #5034 (Boys U11 5 West — Fairview Park vs Lakewood   B15G)
+   Time:     5:30 PM -> 10:00 AM
+
+🔄 Game #5112 (Boys U12 1 — Shaker Hts.   BLK vs Avon Lake)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #5103 (Boys U12 1 — Avon Lake vs Orange)
+   Date:     8/16/26 -> 10/18/26
+   Time:     11:30 AM -> 1:00 PM
+
+🔄 Game #11904 (Boys U12 3 East — Kenston vs Solon United)
+   Location: Settler's Park (9v9 Field) -> River Road Park (River Road Park 9v9 West)
+
+🔄 Game #11906 (Boys U12 3 East — Kenston vs Shaker Hts.   RED)
+   Location: Settler's Park (9v9 Field) -> River Road Park (River Road Park 9v9 West)
+
+🔄 Game #11913 (Boys U12 3 East — Shaker Hts.   RED vs Riverside   Blk)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #11914 (Boys U12 3 East — Kenston vs Chagrin Falls)
+   Location: Settler's Park (9v9 Field) -> River Road Park (River Road Park 9v9 West)
+
+🔄 Game #11912 (Boys U12 3 East — Hudson   RENN vs Geauga Federation SC)
+   Date:     8/27/26 -> 9/9/26
+
+🔄 Game #11917 (Boys U12 3 East — Hudson   RENN vs Kenston)
+   Location: Barlow Farm Park (Field 2A) -> Barlow Farm Park (Field 5A)
+
+🔄 Game #11910 (Boys U12 3 East — Chagrin Falls vs Solon United)
+   Date:     8/25/26 -> 9/15/26
+
+🔄 Game #11921 (Boys U12 3 East — Hudson   RENN vs Chagrin Falls)
+   Location: Barlow Farm Park (Field 2A) -> Barlow Farm Park (Field 3A)
+
+🔄 Game #11927 (Boys U12 3 East — Kenston vs West Geauga)
+   Location: Settler's Park (9v9 Field) -> River Road Park (River Road Park 9v9 West)
+
+🔄 Game #11926 (Boys U12 3 East — Shaker Hts.   RED vs Hudson   RENN)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #11930 (Boys U12 3 East — Hudson   RENN vs Riverside   Blk)
+   Location: Barlow Farm Park (Field 3B) -> Barlow Farm Park (Field 5A)
+
+🔄 Game #11909 (Boys U12 3 East — Shaker Hts.   RED vs West Geauga)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #5301 (Boys U12 3 West — Sandusky vs Rocky River   MRN)
+   Location: Sports Force Parks (9v9 Field 7B) -> Sports Force Parks (9v9 Field 1)
+
+🔄 Game #5312 (Boys U12 3 West — Amherst vs Olmsted Falls   Blue)
+   Location: DePaola Park  (DePaola #7) -> Beaver Creek Park (Beaver Creek #10)
+
+🔄 Game #5308 (Boys U12 3 West — Amherst vs Westlake   TM)
+   Location: DePaola Park  (DePaola #7) -> Beaver Creek Park (Beaver Creek #10)
+
+🔄 Game #5318 (Boys U12 3 West — Amherst vs Bay Village   AC)
+   Location: DePaola Park  (DePaola #7) -> Beaver Creek Park (Beaver Creek #10)
+
+🔄 Game #12140 (Boys U12 4 East — Wickliffe vs Orange)
+   Location: Jindra Park (Jindra Park) -> Dudley Park (Dudley Park 9v9)
+
+🔄 Game #12201 (Boys U12 4 South EV — Brunswick   WHT vs New Philadelphia   MM)
+   Date:     8/16/26 -> 10/17/26
+   Time:     5:30 PM -> 3:00 PM
+
+🔄 Game #5407 (Boys U12 4 West — Amherst vs Fairview Park)
+   Location: DePaola Park  (DePaola #7) -> Beaver Creek Park (Beaver Creek #10)
+
+🔄 Game #5403 (Boys U12 4 West — Amherst vs Westlake   ZA)
+   Location: DePaola Park  (DePaola #7) -> Beaver Creek Park (Beaver Creek #10)
+
+🔄 Game #5424 (Boys U12 4 West — Amherst vs Rocky River   WHT)
+   Location: DePaola Park  (DePaola #7) -> Beaver Creek Park (Beaver Creek #10)
+
+🔄 Game #5425 (Boys U12 4 West — Amherst vs TUSA)
+   Location: DePaola Park  (DePaola #7) -> Beaver Creek Park (Beaver Creek #10)
+
+🔄 Game #12331 (Boys U12 5 East — Hudson   HARR vs Mantua)
+   Location: Barlow Farm Park (Field 3B) -> Barlow Farm Park (Field 5A)
+
+🔄 Game #12404 (Boys U12 5 South — Akron Inner City vs Revere   BLUE)
+   Location: Copley Road Soccer Complex (9v9 field 1) -> Copley Road Soccer Complex (9v9 field 2)
+
+🔄 Game #12406 (Boys U12 5 South — Akron Inner City vs Dover)
+   Location: Copley Road Soccer Complex (9v9 field 1) -> Copley Road Soccer Complex (9v9 field 2)
+
+🔄 Game #12416 (Boys U12 5 South — Akron Inner City vs Cloverleaf)
+   Location: Copley Road Soccer Complex (9v9 field 1) -> Copley Road Soccer Complex (9v9 field 2)
+
+🔄 Game #12427 (Boys U12 5 South — Akron Inner City vs North Canton)
+   Location: Copley Road Soccer Complex (9v9 field 1) -> Copley Road Soccer Complex (9v9 field 2)
+
+🔄 Game #5601 (Boys U13 1 — Hudson   SFER vs Bay Village   BW)
+   Time:     5:30 PM -> 9:00 AM
+   Location: Barlow Farm Park (Field 1) -> Barlow Farm Park (Field 4)
+
+🔄 Game #5605 (Boys U13 1 — Hudson   SFER vs Medina   13Gr)
+   Location: Barlow Farm Park (Field 1) -> Barlow Farm Park (Field 4)
+
+🔄 Game #5620 (Boys U13 1 — Hudson   SFER vs Green)
+   Location: Barlow Farm Park (Field 1) -> Barlow Farm Park (Field 4)
+
+🔄 Game #5622 (Boys U13 1 — Hudson   SFER vs Solon United)
+   Location: Barlow Farm Park (Field 4) -> Barlow Farm Park (Field 1)
+
+🔄 Game #5618 (Boys U13 1 — Bay Village   BW vs Green)
+   Location: Walker Road Park  (Walker 7 11v11) -> Bay High School  (BHS Stadium 11v11 turf)
+
+🔄 Game #5704 (Boys U13 2 — Avon Lake vs North Olmsted)
+   Location: Troy Intermediate School (Troy 11A) -> Troy Intermediate School (Troy 11B)
+
+🔄 Game #5727 (Boys U13 2 — Avon Lake vs Akron Inner City)
+   Location: Troy Intermediate School (Troy 11A) -> Troy Intermediate School (Troy 11B)
+
+🔄 Game #5703 (Boys U13 2 — Solon United vs Geauga Federation SC)
+   Date:     8/16/26 -> 10/25/26
+
+🔄 Game #12510 (Boys U13 3 East — Hudson   PRIN vs Field)
+   Location: Barlow Farm Park (Field 1) -> Barlow Farm Park (Field 4)
+
+🔄 Game #5812 (Boys U13 3 West — Bay Village   TH vs Fairview Park)
+   Location: Walker Road Park  (Walker 7 11v11) -> Bay High School  (BHS Stadium 11v11 turf)
+
+🔄 Game #5811 (Boys U13 3 West — LaGrange vs Port Clinton)
+   Date:     9/1/26 -> 9/29/26
+   Time:     6:00 PM -> 6:30 PM
+
+🔄 Game #5824 (Boys U13 3 West — Avon Lake vs Bay Village   TH)
+   Location: Troy Intermediate School (Troy 11A) -> Troy Intermediate School (Troy 11B)
+
+🔄 Game #12708 (Boys U13 4 East — Kent   BW vs Kenston   SLV)
+   Location: Al Lease Field (11v11) -> Fairchild Fields (Fairchild # 4)
+
+🔄 Game #12711 (Boys U13 4 East — Wickliffe vs Kenston   SLV)
+   Location: Willowick Middle School (Willowick Middle 11v11) -> Eastlake North High School (Carter Stadium)
+
+🔄 Game #12715 (Boys U13 4 East — Hudson   HARR vs Kenston   SLV)
+   Location: Barlow Farm Park (Field 1) -> Barlow Farm Park (Field 4)
+
+🔄 Game #12716 (Boys U13 4 East — Wickliffe vs Mayfield   DW)
+   Location: Willowick Middle School (Willowick Middle 11v11) -> Eastlake North High School (Carter Stadium)
+
+🔄 Game #12724 (Boys U13 4 East — Hudson   HARR vs Kent   BW)
+   Location: Barlow Farm Park (Field 1) -> Barlow Farm Park (Field 4)
+
+🔄 Game #5907 (Boys U13 4 West — TUSA vs Amherst)
+   Location: MQA Soccer Fields (Mary Queen of the Apostle's Church) (Field 2 - 11v11) -> Lou Groza Field (Lou Groza football field)
+
+🔄 Game #12903 (Boys U13 5 East — North Royalton vs Eastside Kickers)
+   Location: Lucille Heasley Soccer Fields (Heasley 2) -> North Royalton Memorial Park Soccer Field (Memorial Park)
+
+🔄 Game #13022 (Boys U13 5 South — Lake Select SC   U13 vs Dover)
+   Date:     10/11/26 -> 10/10/26
+   Time:     4:00 PM -> 3:00 PM
+
+🔄 Game #6001 (Boys U13 5 West — Oberlin vs Avon)
+   Location: Location Not Assigned -> Field #4 11v11 - u13/14/15 (Oberlin)
+
+🔄 Game #6008 (Boys U13 5 West — Oberlin vs Vermilion)
+   Location: Location Not Assigned -> Field #4 11v11 - u13/14/15 (Oberlin)
+
+🔄 Game #6014 (Boys U13 5 West — Oberlin vs North Ridgeville)
+   Location: Location Not Assigned -> Field #4 11v11 - u13/14/15 (Oberlin)
+
+🔄 Game #6019 (Boys U13 5 West — Oberlin vs Sandusky)
+   Location: Location Not Assigned -> Field #4 11v11 - u13/14/15 (Oberlin)
+
+🔄 Game #6110 (Boys U14/15 1 — Amherst vs Highland   AS1)
+   Location: Amherst Junior High (AJH #12) -> High School Field (High school field)
+
+🔄 Game #6115 (Boys U14/15 1 — Amherst vs Medina   15Gr)
+   Location: Amherst Junior High (AJH #12) -> High School Field (High school field)
+
+🔄 Game #6123 (Boys U14/15 1 — Amherst vs Norton)
+   Location: Amherst Junior High (AJH #12) -> High School Field (High school field)
+
+🔄 Game #6126 (Boys U14/15 1 — Amherst vs Olmsted Falls   Gold)
+   Location: Amherst Junior High (AJH #12) -> High School Field (High school field)
+
+🔄 Game #6201 (Boys U14/15 2 — North Olmsted vs North Ridgeville)
+   Time:     2:30 PM -> 5:30 PM
+
+🔄 Game #14811 (Boys U14/15 2 East — Kenston vs Green)
+   Location: Kenston High School Bomber Stadium (Stadium Turf) -> Kenston High School Grass Fields ( 11v11 Field 1)
+
+🔄 Game #14803 (Boys U14/15 2 East — Hudson   GUTI vs Chagrin Falls)
+   Location: Barlow Farm Park (Field 1) -> Barlow Farm Park (Field 4)
+
+🔄 Game #14816 (Boys U14/15 2 East — Hudson   GUTI vs Warren)
+   Location: Barlow Farm Park (Field 1) -> Barlow Farm Park (Field 4)
+
+🔄 Game #14825 (Boys U14/15 2 East — Hudson   GUTI vs Broadview Hts.)
+   Location: Barlow Farm Park (Field 4) -> Barlow Farm Park (Field 1)
+
+🔄 Game #13123 (Boys U14/15 3 East — Hudson   NEGR vs Twinsburg   WHTE)
+   Location: Barlow Farm Park (Field 1) -> Barlow Farm Park (Field 4)
+
+🔄 Game #13117 (Boys U14/15 3 East — Hudson   NEGR vs Riverside   CT)
+   Location: Barlow Farm Park (Field 1) -> Barlow Farm Park (Field 4)
+
+🔄 Game #6334 (Boys U14/15 3 West — Amherst vs Avon)
+   Location: Amherst Junior High (AJH #12) -> High School Field (High school field)
+
+🔄 Game #13301 (Boys U14/15 4 East — Wickliffe vs Shaker Hts.   B/R)
+   Location: Willowick Middle School (Willowick Middle 11v11) -> Eastlake North High School (Carter Stadium)
+
+🔄 Game #13305 (Boys U14/15 4 East — Wickliffe vs Mentor)
+   Location: Willowick Middle School (Willowick Middle 11v11) -> Eastlake North High School (Carter Stadium)
+
+🔄 Game #13316 (Boys U14/15 4 East — Wickliffe vs Stow   Mar)
+   Location: Willowick Middle School (Willowick Middle 11v11) -> Eastlake North High School (Carter Stadium)
+
+🔄 Game #13319 (Boys U14/15 4 East — Wickliffe vs Aurora)
+   Location: Willowick Middle School (Willowick Middle 11v11) -> Eastlake North High School (Carter Stadium)
+
+🔄 Game #13426 (Boys U14/15 4 South — Northwest vs Brunswick)
+   Location: Northwest Middle School Fields (Northwest Middle School Grass Field) -> Northwest Middle School Fields (Dr. Martin Smilek Stadium)
+
+🔄 Game #6602 (Girls U08 West E — Westlake   RG vs Westlake   HH)
+   Location: St John Medical Center Fields (Field #1 - 7v7 (west, near Crocker Rd.)) -> Parkside (Field #1N - 7v7)
+
+🔄 Game #402 (Girls U08 West N — Bay Village   MU vs Bay Village   AC)
+   Time:     1:00 PM -> 5:30 PM
+   Location: Walker Road Park  (Walker 2 7v7) -> Walker Road Park  (Walker 3 7v7)
+
+🔄 Game #419 (Girls U08 West N — Avon Lake vs Rocky River   TID)
+   Location: Troy Intermediate School (Troy 7B) -> Troy Intermediate School (Troy 7C)
+
+🔄 Game #518 (Girls U08 West V — Olmsted Falls   Blue vs Rocky River   STM)
+   Location: Schady Rd Soccer Complex (7v7-1) -> Schady Rd Soccer Complex (7v7-4)
+
+🔄 Game #705 (Girls U09 2 — North Royalton vs Hudson   CHIB)
+   Location: Lucille Heasley Soccer Fields (Heasley 2 W) -> Lucille Heasley Soccer Fields (Heasley 3W)
+
+🔄 Game #711 (Girls U09 2 — North Royalton vs Rocky River   MRN)
+   Location: Lucille Heasley Soccer Fields (Heasley 2 W) -> Lucille Heasley Soccer Fields (Heasley 3W)
+
+🔄 Game #733 (Girls U09 2 — Avon vs Olmsted Falls   Blue)
+   Location: Schwartz Road Park (#9 - 7v7) -> Schwartz Road Park (#11 - 7v7)
+
+🔄 Game #723 (Girls U09 2 — Hudson   CHIB vs Olmsted Falls   Blue)
+   Location: Barlow Farm Park (Field 3A) -> Barlow Farm Park (Field 5B)
+
+🔄 Game #736 (Girls U09 2 — Hudson   CHIB vs Westlake   JB)
+   Location: Barlow Farm Park (Field 3A) -> Barlow Farm Park (Field 5B)
+
+🔄 Game #725 (Girls U09 2 — Avon Lake vs Lakewood   G17G)
+   Location: Troy Intermediate School (Troy 7B) -> Troy Intermediate School (Troy 7A)
+
+🔄 Game #728 (Girls U09 2 — Hudson   CHIB vs Avon)
+   Location: Barlow Farm Park (Field 3A) -> Barlow Farm Park (Field 2B)
+
+🔄 Game #804 (Girls U09 3 — Avon Lake vs North Ridgeville)
+   Time:     1:00 PM -> 5:30 PM
+
+🔄 Game #805 (Girls U09 3 — Kenston vs Bay Village   JW)
+   Location: Settler's Park (Field 1 7v7) -> River Road Park (River Road Park 2)
+
+🔄 Game #811 (Girls U09 3 — Olmsted Falls   Gold vs Avon Lake)
+   Location: Schady Rd Soccer Complex (7v7-2) -> Schady Rd Soccer Complex (7v7-3)
+
+🔄 Game #816 (Girls U09 3 — Kenston vs Strongsville   DC)
+   Location: Settler's Park (Field 1 7v7) -> River Road Park (River Road Park 2)
+
+🔄 Game #818 (Girls U09 3 — Olmsted Falls   Gold vs Strongsville   DC)
+   Location: Schady Rd Soccer Complex (7v7-2) -> Schady Rd Soccer Complex (7v7-3)
+
+🔄 Game #819 (Girls U09 3 — Kenston vs North Ridgeville)
+   Location: Settler's Park (Field 1 7v7) -> River Road Park (River Road Park East 3)
+
+🔄 Game #801 (Girls U09 3 — Kenston vs Mayfield   Sk)
+   Date:     8/16/26 -> 10/1/26
+   Time:     4:00 PM -> 6:00 PM
+   Location: River Road Park (River Road Park East 1) -> River Road Park (River Road Park East 3)
+
+🔄 Game #6812 (Girls U09 4 East — Kenston vs Twinsburg)
+   Location: Settler's Park (Field 1 7v7) -> River Road Park (River Road Park 2)
+
+🔄 Game #6817 (Girls U09 4 East — Kenston vs Geauga Federation SC)
+   Location: Settler's Park (Field 1 7v7) -> River Road Park (River Road Park East 3)
+
+🔄 Game #6820 (Girls U09 4 East — Hudson   CHIW vs Orange)
+   Location: Barlow Farm Park (Field 3A) -> Barlow Farm Park (Field 5B)
+
+🔄 Game #6821 (Girls U09 4 East — Kenston vs Hudson   CHIW)
+   Location: Settler's Park (Field 1 7v7) -> River Road Park (River Road Park East 3)
+
+🔄 Game #6830 (Girls U09 4 East — Kenston vs Mentor)
+   Location: Settler's Park (Field 1 7v7) -> River Road Park (River Road Park East 3)
+
+🔄 Game #6810 (Girls U09 4 East — Hudson   CHIW vs Solon United)
+   Location: Barlow Farm Park (Field 3A) -> Barlow Farm Park (Field 2B)
+
+🔄 Game #910 (Girls U09 4 West — Avon vs Bay Village   TU)
+   Location: Schwartz Road Park (#9 - 7v7) -> Schwartz Road Park (#10 - 7v7)
+
+🔄 Game #919 (Girls U09 4 West — Westlake   GF vs Avon)
+   Date:     9/27/26 -> 10/16/26
+   Time:     4:00 PM -> 5:30 PM
+
+🔄 Game #902 (Girls U09 4 West — Parma vs Avon)
+   Date:     8/16/26 -> 10/25/26
+   Time:     12:00 PM -> 1:00 PM
+
+🔄 Game #14903 (Girls U09 5 South EN — North Royalton vs Cloverleaf)
+   Location: Lucille Heasley Soccer Fields (Heasley 2 W) -> Lucille Heasley Soccer Fields (Heasley 3W)
+
+🔄 Game #1010 (Girls U09 5 South EV — Akron Inner City vs Stow   Gold)
+   Location: Copley Road Soccer Complex (7v7 field 3) -> Copley Road Soccer Complex (7v7 field 4)
+
+🔄 Game #7204 (Girls U09 5 West — Westlake   KP vs Rocky River   GLD)
+   Location: St John Medical Center Fields (Field #1 - 7v7 (west, near Crocker Rd.)) -> Parkside (Field #1S - 7v7)
+
+🔄 Game #7223 (Girls U09 5 West — Westlake   KP vs Port Clinton)
+   Location: John Braun Park (John Braun Field 1 7v7) -> Parkside (Field #1N - 7v7)
+
+🔄 Game #1104 (Girls U10 1 — Hudson   BATS vs Green)
+   Location: Barlow Farm Park (Field 3A) -> Barlow Farm Park (Field 2B)
+
+🔄 Game #1115 (Girls U10 1 — Avon vs Hudson   BATS)
+   Location: Schwartz Road Park (#9 - 7v7) -> Schwartz Road Park (#11 - 7v7)
+
+🔄 Game #1120 (Girls U10 1 — Avon vs Brunswick   RYL)
+   Location: Schwartz Road Park (#9 - 7v7) -> Schwartz Road Park (#10 - 7v7)
+
+🔄 Game #1123 (Girls U10 1 — Hudson   BATS vs Medina   10GN)
+   Location: Barlow Farm Park (Field 3A) -> Barlow Farm Park (Field 5B)
+
+🔄 Game #1117 (Girls U10 1 — Hudson   BATS vs Brunswick   RYL)
+   Location: Barlow Farm Park (Field 3A) -> Barlow Farm Park (Field 5B)
+
+🔄 Game #1205 (Girls U10 2 — Avon Lake vs Olmsted Falls   Blue)
+   Time:     2:30 PM -> 11:30 AM
+
+🔄 Game #1218 (Girls U10 2 — Kenston vs Brecksville Bees SA)
+   Location: Settler's Park (Field 1 7v7) -> River Road Park (River Road Park 2)
+
+🔄 Game #1224 (Girls U10 2 — Westlake   NF vs Rocky River   MRN)
+   Location: Parkside (Field #1N - 7v7) -> Parkside (Field #1S - 7v7)
+
+🔄 Game #1213 (Girls U10 2 — Kenston vs Shaker Hts.   BLK)
+   Location: Settler's Park (Field 1 7v7) -> River Road Park (River Road Park East 3)
+
+🔄 Game #1229 (Girls U10 2 — Kenston vs Avon Lake)
+   Location: Settler's Park (Field 1 7v7) -> River Road Park (River Road Park East 3)
+
+🔄 Game #1235 (Girls U10 2 — Kenston vs Rocky River   MRN)
+   Location: Settler's Park (Field 1 7v7) -> River Road Park (River Road Park 2)
+
+🔄 Game #1312 (Girls U10 3 East — Hudson   KENW vs Shaker Hts.   RED)
+   Location: Barlow Farm Park (Field 3A) -> Barlow Farm Park (Field 5B)
+
+🔄 Game #1308 (Girls U10 3 East — Hudson   KENW vs Mayfield   MF)
+   Location: Barlow Farm Park (Field 5B) -> Barlow Farm Park (Field 3A)
+
+🔄 Game #1321 (Girls U10 3 East — Hudson   KENW vs Chagrin Falls)
+   Location: Barlow Farm Park (Field 3A) -> Barlow Farm Park (Field 5B)
+
+🔄 Game #15002 (Girls U10 3 West — North Royalton vs Brunswick   WHT)
+   Location: Lucille Heasley Soccer Fields (Heasley 2E) -> Lucille Heasley Soccer Fields (Heasley 3E)
+
+🔄 Game #1421 (Girls U10 4 East — Solon United vs Geneva)
+   Time:     3:00 PM -> 5:30 PM
+
+🔄 Game #7705 (Girls U10 5 East — Hudson   KENS vs Eastside Kickers   SEL)
+   Location: Barlow Farm Park (Field 3A) -> Barlow Farm Park (Field 2B)
+
+🔄 Game #7703 (Girls U10 5 East — Shaker Hts.   WHT vs Twinsburg   WHT)
+   Location: Lomond School (Field #2) -> Mercer Elementary School (7v7 Field)
+
+🔄 Game #7737 (Girls U10 5 East — Hudson   KENS vs Twinsburg   WHT)
+   Location: Barlow Farm Park (Field 5B) -> Barlow Farm Park (Field 2B)
+
+🔄 Game #7711 (Girls U10 5 East — Hudson   KENS vs Shaker Hts.   WHT)
+   Location: Barlow Farm Park (Field 5B) -> Barlow Farm Park (Field 2B)
+
+🔄 Game #1502 (Girls U10 5 West — Sandusky vs Midview)
+   Location: Sports Force Parks (7v7 Field 7A) -> Sports Force Parks (7v7 Field 1)
+
+🔄 Game #1520 (Girls U10 5 West — Westlake   JG vs Avon)
+   Location: Parkside (Field #1N - 7v7) -> Parkside (Field #1S - 7v7)
+
+🔄 Game #1525 (Girls U10 5 West — Avon Lake vs Rocky River   GRY)
+   Location: Troy Intermediate School (Troy 7C) -> Troy Intermediate School (Troy 7B)
+
+🔄 Game #1615 (Girls U11 1 — Avon vs Highland   EM2)
+   Location: Schwartz Road Park (#3 - 9v9) -> Schwartz Road Park (#4 - 9V9)
+
+🔄 Game #7803 (Girls U11 3 East — Shaker Hts.   BLK vs Hudson   RENN)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #7805 (Girls U11 3 East — Shaker Hts.   BLK vs Mayfield   TS)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #7812 (Girls U11 3 East — Hudson   RENN vs Shaker Hts.   BLK)
+   Location: Barlow Farm Park (Field 2A) -> Barlow Farm Park (Field 5A)
+
+🔄 Game #7802 (Girls U11 3 East — Chagrin Falls vs Mayfield   TS)
+   Date:     8/16/26 -> 9/13/26
+   Time:     4:00 PM -> 5:30 PM
+   Location: Gurney Elementary (Calvetta Brothers Floor Show - Field B 9v9) -> Gurney Elementary (Calvetta Brothers Floor Show - Field D 9v9)
+
+🔄 Game #7801 (Girls U11 3 East — Aurora vs Orange)
+   Date:     8/17/26 -> 10/14/26
+   Time:     6:30 PM -> 6:00 PM
+
+🔄 Game #7822 (Girls U11 3 East — Shaker Hts.   BLK vs Aurora)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #7818 (Girls U11 3 East — Hudson   RENN vs Mayfield   TS)
+   Location: Barlow Farm Park (Field 2A) -> Barlow Farm Park (Field 3B)
+
+🔄 Game #1801 (Girls U11 3 West — Amherst vs Parma)
+   Location: DePaola Park  (DePaola #7) -> Beaver Creek Park (Beaver Creek #10)
+
+🔄 Game #1807 (Girls U11 3 West — Amherst vs North Royalton)
+   Location: DePaola Park  (DePaola #7) -> Beaver Creek Park (Beaver Creek #10)
+
+🔄 Game #1817 (Girls U11 3 West — Bay Village   CM vs North Royalton)
+   Location: Walker Road Park  (Walker 5 9v9) -> Walker Road Park  (Walker 6 9v9)
+
+🔄 Game #1819 (Girls U11 3 West — Amherst vs Bay Village   CM)
+   Location: DePaola Park  (DePaola #7) -> Beaver Creek Park (Beaver Creek #10)
+
+🔄 Game #8103 (Girls U11 4 South — Cloverleaf vs Akron Inner City)
+   Location: Cloverleaf Soccer Association Fields (CSA Field 11 (9v9)) -> Cloverleaf Soccer Association Fields (CSA Field 8 (9v9))
+
+🔄 Game #8107 (Girls U11 4 South — Cloverleaf vs Dover   TM)
+   Location: Cloverleaf Soccer Association Fields (CSA Field 11 (9v9)) -> Cloverleaf Soccer Association Fields (CSA Field 8 (9v9))
+
+🔄 Game #8113 (Girls U11 4 South — Akron Inner City vs Norton)
+   Location: Copley Road Soccer Complex (9v9 field 1) -> Copley Road Soccer Complex (9v9 field 2)
+
+🔄 Game #8109 (Girls U11 4 South — Akron Inner City vs Revere)
+   Location: Copley Road Soccer Complex (9v9 field 1) -> Copley Road Soccer Complex (9v9 field 2)
+
+🔄 Game #8126 (Girls U11 4 South — Akron Inner City vs Dover   SM)
+   Location: Copley Road Soccer Complex (9v9 field 1) -> Copley Road Soccer Complex (9v9 field 2)
+
+🔄 Game #8131 (Girls U11 4 South — Akron Inner City vs Cloverleaf)
+   Location: Copley Road Soccer Complex (9v9 field 1) -> Copley Road Soccer Complex (9v9 field 2)
+
+🔄 Game #8212 (Girls U11 5 East — Shaker Hts.   RED vs Orange)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #8218 (Girls U11 5 East — Shaker Hts.   RED vs Streetsboro)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #8221 (Girls U11 5 East — Shaker Hts.   RED vs Geauga Federation SC)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #2205 (Girls U12 2 — Shaker Hts.   BLK vs Hudson   BATS)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #2206 (Girls U12 2 — Hudson   SFER vs NP Aurora)
+   Location: Barlow Farm Park (Field 2A) -> Barlow Farm Park (Field 5A)
+
+🔄 Game #2235 (Girls U12 2 — Bay Village   KB vs NP Aurora)
+   Date:     9/20/26 -> 8/19/26
+   Time:     1:00 PM -> 6:30 PM
+   Location: Walker Road Park  (Walker 5 9v9) -> Cahoon Park (Cahoon 11)
+
+🔄 Game #2209 (Girls U12 2 — Shaker Hts.   BLK vs Rocky River   MRN)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #2217 (Girls U12 2 — Hudson   SFER vs Bay Village   KB)
+   Location: Barlow Farm Park (Field 2A) -> Barlow Farm Park (Field 3B)
+
+🔄 Game #2228 (Girls U12 2 — Hudson   SFER vs North Olmsted)
+   Location: Barlow Farm Park (Field 2A) -> Barlow Farm Park (Field 3B)
+
+🔄 Game #2223 (Girls U12 2 — Hudson   BATS vs Bay Village   KB)
+   Location: Barlow Farm Park (Field 2A) -> Barlow Farm Park (Field 5A)
+
+🔄 Game #2240 (Girls U12 2 — Shaker Hts.   BLK vs Midview)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #2247 (Girls U12 2 — Hudson   BATS vs NP Aurora)
+   Location: Barlow Farm Park (Field 2A) -> Barlow Farm Park (Field 5A)
+
+🔄 Game #8403 (Girls U12 3 East — Kenston vs Kent   TS)
+   Location: Settler's Park (9v9 Field) -> River Road Park (River Road Park 9v9 West)
+
+🔄 Game #8405 (Girls U12 3 East — Kenston vs Cuyahoga Falls   GL)
+   Location: Settler's Park (9v9 Field) -> River Road Park (River Road Park 9v9 West)
+
+🔄 Game #8414 (Girls U12 3 East — Kenston vs Twinsburg   Blue)
+   Location: Settler's Park (9v9 Field) -> River Road Park (River Road Park 9v9 West)
+
+🔄 Game #8422 (Girls U12 3 East — Kenston vs Independence)
+   Location: Settler's Park (9v9 Field) -> River Road Park (River Road Park 9v9 West)
+
+🔄 Game #2309 (Girls U12 3 West — Parma vs Westlake   CG)
+   Date:     10/25/26 -> 10/11/26
+   Time:     6:30 PM -> 5:00 PM
+
+🔄 Game #8613 (Girls U12 4 East — Hudson   KENN vs Field)
+   Time:     6:45 PM -> 8:45 AM
+   Location: Barlow Farm Park (Field 3B) -> Barlow Farm Park (Field 5A)
+
+🔄 Game #8609 (Girls U12 4 East — Hudson   KENN vs Eastside Kickers)
+   Location: Barlow Farm Park (Field 3B) -> Barlow Farm Park (Field 5A)
+
+🔄 Game #8628 (Girls U12 4 East — Shaker Hts.   RED vs Field)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #8626 (Girls U12 4 East — Hudson   KENN vs Riverside)
+   Location: Barlow Farm Park (Field 2A) -> Barlow Farm Park (Field 5A)
+
+🔄 Game #8629 (Girls U12 4 East — Shaker Hts.   RED vs Eastside Kickers)
+   Location: Mercer Elementary School (Mercer Field) -> Mercer Elementary School (9v9 Field)
+
+🔄 Game #2401 (Girls U12 4 West — Sandusky vs Vermilion)
+   Location: Sports Force Parks (9v9 Field 7B) -> Sports Force Parks (9v9 Field 1)
+
+🔄 Game #8821 (Girls U12 5 — Amherst vs Wickliffe)
+   Location: DePaola Park  (DePaola #7) -> Beaver Creek Park (Beaver Creek #10)
+
+🔄 Game #8829 (Girls U12 5 — Wickliffe vs Orange)
+   Location: Jindra Park (Jindra Park) -> Dudley Park (Dudley Park 9v9)
+
+🔄 Game #8830 (Girls U12 5 — Amherst vs Nordonia)
+   Location: DePaola Park  (DePaola #7) -> Beaver Creek Park (Beaver Creek #10)
+
+🔄 Game #2604 (Girls U13 1 — Bay Village   CA vs Medina   13GN)
+   Location: Walker Road Park  (Walker 7 11v11) -> Bay High School  (Back Field 1 11v11)
+
+🔄 Game #2609 (Girls U13 1 — Bay Village   CA vs Kenston)
+   Location: Walker Road Park  (Walker 7 11v11) -> Bay High School  (Back Field 1 11v11)
+
+🔄 Game #2627 (Girls U13 1 — Bay Village   CA vs North Royalton)
+   Location: Walker Road Park  (Walker 7 11v11) -> Bay High School  (BHS Stadium 11v11 turf)
+
+🔄 Game #2713 (Girls U13 2 — Twinsburg vs NP Aurora)
+   Location: Tiger Stadium - Turf (High School Turf Field) -> Liberty Park  (Upper)
+
+🔄 Game #2703 (Girls U13 2 — Olmsted Falls   Blue vs Twinsburg)
+   Date:     9/8/26 -> 10/13/26
+   Time:     6:30 PM -> 5:30 PM
+
+🔄 Game #2903 (Girls U13 4 — Amherst vs LaGrange)
+   Location: Amherst Junior High (AJH #12) -> High School Field (High school field)
+
+🔄 Game #2905 (Girls U13 4 — Amherst vs Firelands)
+   Location: Amherst Junior High (AJH #12) -> High School Field (High school field)
+
+🔄 Game #2914 (Girls U13 4 — Amherst vs Mentor)
+   Location: Amherst Junior High (AJH #12) -> High School Field (High school field)
+
+🔄 Game #2920 (Girls U13 4 — Firelands vs Amherst)
+   Location: Brownhelm School (U13/U14) -> South Amherst Stadium (Field #5)
+
+🔄 Game #2924 (Girls U13 4 — Firelands vs LaGrange)
+   Location: Brownhelm School (U13/U14) -> South Amherst Stadium (Field #5)
+
+🔄 Game #2922 (Girls U13 4 — Amherst vs North Royalton)
+   Location: Amherst Junior High (AJH #12) -> High School Field (High school field)
+
+🔄 Game #3002 (Girls U13 4 South — Perry (Stark) vs Cloverleaf)
+   Date:     8/16/26 -> 10/18/26
+
+🔄 Game #3110 (Girls U14/15 1 — Bay Village   DR vs Ashland)
+   Location: Walker Road Park  (Walker 7 11v11) -> Bay High School  (BHS Stadium 11v11 turf)
+
+🔄 Game #3115 (Girls U14/15 1 — Bay Village   DR vs Brecksville Bees SA)
+   Location: Walker Road Park  (Walker 7 11v11) -> Bay High School  (Back Field 1 11v11)
+
+🔄 Game #3120 (Girls U14/15 1 — Bay Village   DR vs Brunswick)
+   Location: Walker Road Park  (Walker 7 11v11) -> Bay High School  (BHS Stadium 11v11 turf)
+
+🔄 Game #3124 (Girls U14/15 1 — Bay Village   DR vs Stow   Mar)
+   Location: Walker Road Park  (Walker 7 11v11) -> Bay High School  (BHS Stadium 11v11 turf)
+
+🔄 Game #3215 (Girls U14/15 2 — Hudson   BOWM vs Solon United)
+   Location: Barlow Farm Park (Field 1) -> Barlow Farm Park (Field 4)
+
+🔄 Game #3223 (Girls U14/15 2 — Cloverleaf vs Solon United)
+   Location: Cloverleaf Soccer Association Fields (CSA Field 10 (11v11)) -> Cloverleaf Soccer Association Fields (CSA Field 12 (11v11))
+
+🔄 Game #3231 (Girls U14/15 2 — Hudson   BOWM vs Cloverleaf)
+   Location: Barlow Farm Park (Field 1) -> Barlow Farm Park (Field 4)
+
+🔄 Game #3301 (Girls U14/15 3 — Sandusky vs Strongsville   GS)
+   Location: Sports Force Parks (11v11 Field 1) -> Sports Force Parks (11v11 Field 4)
+
+🔄 Game #9121 (Girls U14/15 4 East — Wickliffe vs Hudson   CARP)
+   Location: Orlando Park (Orlando Park 11v11) -> Eastlake North High School (Carter Stadium)
+
+🔄 Game #9131 (Girls U14/15 4 East — Wickliffe vs Aurora)
+   Location: Orlando Park (Orlando Park 11v11) -> Eastlake North High School (Carter Stadium)
+
+🔄 Game #9135 (Girls U14/15 4 East — Hudson   CARP vs Nordonia)
+   Location: Barlow Farm Park (Field 1) -> Barlow Farm Park (Field 4)
+
+🔄 Game #9113 (Girls U14/15 4 East — Hudson   CARP vs Field)
+   Location: Barlow Farm Park (Field 1) -> Barlow Farm Park (Field 4)
+
+🔄 Game #9209 (Girls U14/15 4 South — Kent   TH vs Akron Inner City)
+   Location: Al Lease Field (11v11) -> Fairchild Fields (Fairchild # 4)
+
+🔄 Game #9225 (Girls U14/15 4 South — Northwest vs Copley)
+   Location: Northwest Middle School Fields (Northwest Middle School Grass Field) -> Northwest Middle School Fields (Dr. Martin Smilek Stadium)
+
+🔄 Game #3401 (Girls U14/15 4 West — Amherst vs Avon)
+   Location: Amherst Junior High (AJH #12) -> High School Field (High school field)
+
+🔄 Game #3433 (Girls U14/15 4 West — Amherst vs Port Clinton)
+   Location: Amherst Junior High (AJH #12) -> High School Field (High school field)
+
+🔄 Game #3405 (Girls U14/15 4 West — North Ridgeville vs Midview   AC)
+   Date:     8/16/26 -> 9/22/26
+   Time:     5:30 PM -> 6:30 PM
+
+🔄 Game #3439 (Girls U14/15 4 West — Amherst vs Fairview Park)
+   Location: Amherst Junior High (AJH #12) -> High School Field (High school field)
+
+🔄 Game #3444 (Girls U14/15 4 West — Amherst vs Rocky River   BLK)
+   Location: Amherst Junior High (AJH #12) -> High School Field (High school field)
+
+🔄 Game #9401 (Girls U14/15 5 South — Lake Select SC   U14 vs Cuyahoga Falls   EK)
+   Date:     8/16/26 -> 9/12/26
+   Time:     4:00 PM -> 6:00 PM
+
