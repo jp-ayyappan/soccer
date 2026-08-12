@@ -149,6 +149,40 @@ def scrape_all_games() -> list[dict]:
     return all_games
 
 
+def geocode_address_fallback(address: str, city: str, state: str, zip_code: str) -> tuple[str, str]:
+    """Fallback geocoder via Nominatim if OHTSL returns missing or zero coordinates."""
+    queries = []
+    full_q = ", ".join(p for p in [address, city, state, zip_code] if p)
+    if full_q:
+        queries.append(full_q)
+    city_q = ", ".join(p for p in [city, state, zip_code] if p)
+    if city_q and city_q != full_q:
+        queries.append(city_q)
+
+    url = "https://nominatim.openstreetmap.org/search"
+    headers = {"User-Agent": "OHTSLGameFinder/1.0"}
+
+    for query in queries:
+        try:
+            resp = requests.get(
+                url,
+                params={"q": query, "countrycodes": "us", "format": "json", "limit": 1},
+                headers=headers,
+                timeout=5,
+            )
+            if resp.ok:
+                data = resp.json()
+                if data and len(data) > 0:
+                    lat = str(data[0].get("lat", ""))
+                    lon = str(data[0].get("lon", ""))
+                    if lat and lon:
+                        return lat, lon
+        except Exception as e:
+            print(f"    WARNING: Nominatim fallback geocoding failed for '{query}': {e}")
+        time.sleep(1.0)
+    return "", ""
+
+
 def fetch_location_details(location_ids: set[int]) -> dict[int, dict]:
     """Fetch address details for each unique location ID from the OHTSL location API.
 
@@ -171,15 +205,36 @@ def fetch_location_details(location_ids: set[int]) -> dict[int, dict]:
             community = root.find(".//cname")
             marker = root.find(".//marker")
             if marker is not None:
+                lat = (marker.findtext("latitude") or "").strip()
+                lng = (marker.findtext("longitude") or "").strip()
+                addr = (marker.findtext("address") or "").strip()
+                city = (marker.findtext("city") or "").strip()
+                state = (marker.findtext("state") or "").strip()
+                zip_code = (marker.findtext("zip") or marker.findtext("zio") or "").strip()
+
+                # If lat/lng missing or zero, attempt Nominatim geocoding fallback
+                try:
+                    lat_f = float(lat) if lat else 0.0
+                    lng_f = float(lng) if lng else 0.0
+                except ValueError:
+                    lat_f, lng_f = 0.0, 0.0
+
+                if (lat_f == 0.0 or lng_f == 0.0) and (addr or city):
+                    field_name = (marker.findtext("name") or "").strip()
+                    print(f"  Geocoding fallback for missing coordinates: '{field_name}' ({addr}, {city})...")
+                    fallback_lat, fallback_lng = geocode_address_fallback(addr, city, state, zip_code)
+                    if fallback_lat and fallback_lng:
+                        lat, lng = fallback_lat, fallback_lng
+
                 locations[loc_id] = {
                     "community": community.text if community is not None else "",
                     "field_name": (marker.findtext("name") or "").strip(),
-                    "address": (marker.findtext("address") or "").strip(),
-                    "city": (marker.findtext("city") or "").strip(),
-                    "state": (marker.findtext("state") or "").strip(),
-                    "zip": (marker.findtext("zip") or marker.findtext("zio") or "").strip(),
-                    "latitude": (marker.findtext("latitude") or "").strip(),
-                    "longitude": (marker.findtext("longitude") or "").strip(),
+                    "address": addr,
+                    "city": city,
+                    "state": state,
+                    "zip": zip_code,
+                    "latitude": lat,
+                    "longitude": lng,
                 }
         except Exception as e:
             print(f"  WARNING: Could not fetch location {loc_id}: {e}")
