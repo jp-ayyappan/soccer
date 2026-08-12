@@ -73,15 +73,35 @@
   // ── URL State Sync ──────────────────────────────────────────
   let isRestoringURL = false;
 
+  function findNearestLocation(lat, lng) {
+    if (!locations || locations.length === 0) return null;
+    let min = Infinity, closest = null;
+    locations.forEach(loc => {
+      if (loc.lat && loc.lng) {
+        const d = haversine(lat, lng, loc.lat, loc.lng);
+        if (d < min) { min = d; closest = loc; }
+      }
+    });
+    return { location: closest, distance: min };
+  }
+
   function updateURLState() {
     if (isRestoringURL) return;
     const params = new URLSearchParams();
 
     if (currentSeason) params.set("season", currentSeason.id);
     if (selectedDate) params.set("date", selectedDate);
-    if ($zipInput && $zipInput.value.trim() && $zipInput.value.trim() !== "GPS") {
-      params.set("zip", $zipInput.value.trim());
+
+    if (userLatLng) {
+      params.set("lat", userLatLng[0].toFixed(4));
+      params.set("lng", userLatLng[1].toFixed(4));
     }
+
+    const zipVal = $zipInput ? $zipInput.value.trim() : "";
+    if (zipVal && /^\d{5}$/.test(zipVal)) {
+      params.set("zip", zipVal);
+    }
+
     if (radiusMiles > 0 && radiusMiles !== 20) {
       params.set("radius", radiusMiles);
     }
@@ -140,9 +160,25 @@
       if ($radiusSelect) $radiusSelect.value = radiusMiles;
     }
 
-    // Restore ZIP
+    // Restore coordinates & ZIP
+    const latParam = params.get("lat");
+    const lngParam = params.get("lng");
     const zipParam = params.get("zip");
-    if (zipParam && zipParam.length === 5) {
+
+    if (latParam && lngParam) {
+      const lat = parseFloat(latParam);
+      const lng = parseFloat(lngParam);
+      if (!isNaN(lat) && !isNaN(lng)) {
+        userLatLng = [lat, lng];
+        const nearest = findNearestLocation(lat, lng);
+        if (nearest && nearest.location) {
+          const loc = nearest.location;
+          if ($zipInput) $zipInput.value = zipParam && zipParam.length === 5 ? zipParam : (loc.zip || loc.city || "GPS");
+        } else if ($zipInput) {
+          $zipInput.value = zipParam || "GPS";
+        }
+      }
+    } else if (zipParam && zipParam.length === 5) {
       if ($zipInput) $zipInput.value = zipParam;
       userLatLng = await geocodeZip(zipParam);
     }
@@ -199,12 +235,23 @@
     if ($useLocationBtn) $useLocationBtn.textContent = "⌛";
     navigator.geolocation.getCurrentPosition(
       (pos) => {
-        userLatLng = [pos.coords.latitude, pos.coords.longitude];
-        $zipInput.value = "GPS";
+        const lat = pos.coords.latitude;
+        const lng = pos.coords.longitude;
+        userLatLng = [lat, lng];
+
+        const nearest = findNearestLocation(lat, lng);
+        if (nearest && nearest.location) {
+          const loc = nearest.location;
+          $zipInput.value = loc.zip ? loc.zip : (loc.city || "GPS");
+        } else {
+          $zipInput.value = "GPS";
+        }
+
         if ($useLocationBtn) $useLocationBtn.textContent = "📍";
         renderMarkers();
         renderSearchResults();
         renderBreadcrumb();
+        updateURLState();
       },
       (err) => {
         console.warn("Geolocation error:", err);
