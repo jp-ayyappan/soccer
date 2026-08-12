@@ -407,6 +407,105 @@ def list_seasons():
         print(f"  {label:<20} ({csv_lines} games)  ./{season_dir}/")
 
 
+def detect_schedule_changes(new_games: list[dict], output_dir: str, season_label: str):
+    """Compare new_games against existing all_games.csv to detect reschedules, moves, additions, and removals."""
+    csv_path = os.path.join(output_dir, "all_games.csv")
+    if not os.path.exists(csv_path):
+        return
+
+    old_games = {}
+    with open(csv_path, encoding="utf-8") as f:
+        for row in csv.DictReader(f):
+            gn = row.get("game_number", "").strip()
+            if gn:
+                old_games[gn] = row
+
+    new_games_map = {str(g["game_number"]).strip(): g for g in new_games if g.get("game_number")}
+
+    changes = []
+    for gn, new_g in new_games_map.items():
+        if gn in old_games:
+            old_g = old_games[gn]
+            old_d = old_g.get("date", "").strip()
+            new_d = str(new_g.get("date", "")).strip()
+            old_t = old_g.get("time", "").strip()
+            new_t = str(new_g.get("time", "")).strip()
+            old_loc = old_g.get("location", "").strip()
+            new_loc = str(new_g.get("location", "")).strip()
+
+            if old_d != new_d or old_t != new_t or old_loc != new_loc:
+                changes.append({
+                    "type": "modified",
+                    "game_number": gn,
+                    "teams": f"{new_g.get('home_team')} vs {new_g.get('visitor_team')}",
+                    "div": f"{new_g.get('gender')} {new_g.get('age_group')} {new_g.get('division_name')}",
+                    "old_date": old_d, "new_date": new_d,
+                    "old_time": old_t, "new_time": new_t,
+                    "old_loc": old_loc, "new_loc": new_loc,
+                })
+        else:
+            changes.append({
+                "type": "added",
+                "game_number": gn,
+                "teams": f"{new_g.get('home_team')} vs {new_g.get('visitor_team')}",
+                "div": f"{new_g.get('gender')} {new_g.get('age_group')} {new_g.get('division_name')}",
+                "new_date": str(new_g.get("date", "")).strip(),
+                "new_time": str(new_g.get("time", "")).strip(),
+                "new_loc": str(new_g.get("location", "")).strip(),
+            })
+
+    for gn, old_g in old_games.items():
+        if gn not in new_games_map:
+            changes.append({
+                "type": "removed",
+                "game_number": gn,
+                "teams": f"{old_g.get('home_team')} vs {old_g.get('visitor_team')}",
+                "div": f"{old_g.get('gender')} {old_g.get('age_group')} {old_g.get('division_name')}",
+                "old_date": old_g.get("date", "").strip(),
+                "old_time": old_g.get("time", "").strip(),
+                "old_loc": old_g.get("location", "").strip(),
+            })
+
+    if not changes:
+        print("\nNo schedule changes or reschedules detected since last scrape.")
+        return
+
+    print(f"\n{'=' * 80}")
+    print(f"SCHEDULE CHANGES DETECTED: {len(changes)} games updated/added/removed")
+    print(f"{'=' * 80}")
+
+    today_str = datetime.now().strftime("%Y-%m-%d")
+    reschedule_dir = os.path.join(output_dir, "reschedules")
+    os.makedirs(reschedule_dir, exist_ok=True)
+    report_file = os.path.join(reschedule_dir, f"reschedules_{today_str}.txt")
+
+    with open(report_file, "w", encoding="utf-8") as f:
+        f.write("=" * 80 + "\n")
+        f.write(f"OHTSL {season_label.upper()} — RESCHEDULING & CHANGE REPORT ({today_str})\n")
+        f.write(f"Generated on {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+        f.write("=" * 80 + "\n\n")
+
+        for c in changes:
+            if c["type"] == "modified":
+                f.write(f"🔄 Game #{c['game_number']} ({c['div']} — {c['teams']})\n")
+                if c['old_date'] != c['new_date']:
+                    f.write(f"   Date:     {c['old_date']} -> {c['new_date']}\n")
+                if c['old_time'] != c['new_time']:
+                    f.write(f"   Time:     {c['old_time']} -> {c['new_time']}\n")
+                if c['old_loc'] != c['new_loc']:
+                    f.write(f"   Location: {c['old_loc']} -> {c['new_loc']}\n")
+                f.write("\n")
+            elif c["type"] == "added":
+                f.write(f"➕ Game #{c['game_number']} (NEW ADDITION: {c['div']} — {c['teams']})\n")
+                f.write(f"   Date/Time: {c['new_date']} at {c['new_time']}\n")
+                f.write(f"   Location:  {c['new_loc']}\n\n")
+            elif c["type"] == "removed":
+                f.write(f"❌ Game #{c['game_number']} (CANCELED/REMOVED: {c['div']} — {c['teams']})\n")
+                f.write(f"   Was: {c['old_date']} at {c['old_time']} @ {c['old_loc']}\n\n")
+
+    print(f"Written: {report_file}")
+
+
 def main():
     parser = argparse.ArgumentParser(
         description="Scrape OHTSL game schedules, grouped by location for referee planning.",
@@ -457,6 +556,9 @@ def main():
         return
 
     print(f"\nTotal games scraped: {len(all_games)}")
+
+    # Detect schedule changes before writing new outputs
+    detect_schedule_changes(all_games, output_dir, season_label)
 
     # Fetch venue address details
     unique_loc_ids = get_unique_location_ids(all_games)
