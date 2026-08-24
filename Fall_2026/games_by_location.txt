@@ -2750,7 +2750,7 @@ VENUE: Copley Road Soccer Complex (9v9 field 2)
 --------------------------------------------------------------------------------
 VENUE: Courtland Oval Field (Courtland West)
   Address: Courtland Oval, Shaker Heights, OH 44122
-  Games at this venue: 33
+  Games at this venue: 34
   Map: https://www.ohtsl.com/directionmap.php?locationid=318
 --------------------------------------------------------------------------------
 
@@ -2766,6 +2766,10 @@ VENUE: Courtland Oval Field (Courtland West)
      1:00 PM  #708    Shaker Hts.   BLK         vs North Royalton            (Girls U09 Div 2)
      2:30 PM  #203    Shaker Hts.   RED         vs Orange                    (Boys U08 Div East)
      4:30 PM  #3706   Shaker Hts.   BLK         vs Westlake   CG             (Boys U09 Div 2)
+
+  Tue 8/25/26
+  ──────────────────────────────────────────────────────────────────────
+     6:30 PM  #10418  Shaker Hts.   WHT         vs Solon United              (Boys U09 Div 5 East EN)
 
   Wed 8/26/26
   ──────────────────────────────────────────────────────────────────────
@@ -6546,7 +6550,7 @@ VENUE: Logan Field - #330 (Logan Field 331)
 --------------------------------------------------------------------------------
 VENUE: Lomond School (Field #1)
   Address: 17917 Lomond Blvd, Shaker Heights, OH 44122
-  Games at this venue: 18
+  Games at this venue: 17
   Map: https://www.ohtsl.com/directionmap.php?locationid=420
 --------------------------------------------------------------------------------
 
@@ -6561,10 +6565,6 @@ VENUE: Lomond School (Field #1)
     11:30 AM  #10604  Shaker Hts.   RED         vs Kenston   BL              (Boys U10 Div 3 East)
      1:00 PM  #1305   Shaker Hts.   RED         vs Stow   Mar                (Girls U10 Div 3 East)
      2:30 PM  #1207   Shaker Hts.   BLK         vs Olmsted Falls   Blue      (Girls U10 Div 2)
-
-  Tue 8/25/26
-  ──────────────────────────────────────────────────────────────────────
-     6:30 PM  #10418  Shaker Hts.   WHT         vs Solon United              (Boys U09 Div 5 East EN)
 
   Sun 8/30/26
   ──────────────────────────────────────────────────────────────────────

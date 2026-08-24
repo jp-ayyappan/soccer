@@ -3107,6 +3107,11 @@ Tue 8/25/26  (93 games)
      Map: https://www.ohtsl.com/directionmap.php?locationid=590
        6:30 PM  #10211  Akron Inner City          vs Stow   Whte               (Boys U09 Div 4 South EN)
 
+  📍 Courtland Oval Field (Courtland West) (1 games)
+     Courtland Oval, Shaker Heights, OH 44122
+     Map: https://www.ohtsl.com/directionmap.php?locationid=318
+       6:30 PM  #10418  Shaker Hts.   WHT         vs Solon United              (Boys U09 Div 5 East EN)
+
   📍 Cove Park (Grass Field - 7v7) (1 games)
      1294 Cove Ave, Lakewood, OH 44107
      Map: https://www.ohtsl.com/directionmap.php?locationid=312
@@ -3236,11 +3241,6 @@ Tue 8/25/26  (93 games)
      Linden Rd, Rocky River, Oh 44116
      Map: https://www.ohtsl.com/directionmap.php?locationid=6
        6:30 PM  #105    Rocky River   SRG         vs Westlake   MC             (Boys U08 Div West V)
-
-  📍 Lomond School (Field #1) (1 games)
-     17917 Lomond Blvd, Shaker Heights, OH 44122
-     Map: https://www.ohtsl.com/directionmap.php?locationid=420
-       6:30 PM  #10418  Shaker Hts.   WHT         vs Solon United              (Boys U09 Div 5 East EN)
 
   📍 Madison Middle School (9v9) (1 games)
      6079 Middle Ridge Road, Madison, OH 44057
