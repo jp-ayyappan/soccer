@@ -70,9 +70,9 @@ jobs:
           delete-branch: true
           base: "main"
 
-      - name: Enable Auto-Merge on Pull Request
+      - name: Merge Pull Request for Schedule Sync
         if: steps.cpr.outputs.pull-request-number != ''
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh pr merge ${{ steps.cpr.outputs.pull-request-number }} --auto --squash --repo ${{ github.repository }}
+          gh pr merge ${{ steps.cpr.outputs.pull-request-number }} --squash --delete-branch --admin --repo ${{ github.repository }}
