@@ -41,8 +41,8 @@ location_id,field_name,community,address,city,state,zip,latitude,longitude,game_
 253,Memorial Elementary,Brunswick,3845 Magnolia Drive,Brunswick,OH,44214,41.270493,-81.823212,36
 590,Copley Road Soccer Complex,Akron Inner City,1806 Copley Rd,Akron,OH,44320,41.086983,-81.586372,36
 73,Liberty Park,Twinsburg,9375 Liberty Rd.,Twinsburg,Oh,44087,41.317570,-81.419228,35
+318,Courtland Oval Field,Shaker Hts.,Courtland Oval,Shaker Heights,OH,44122,41.485661,-81.543114,34
 311,Madison Park,Lakewood,13201 Madison Ave,Lakewood,OH,44107,41.475002,-81.780754,33
-318,Courtland Oval Field,Shaker Hts.,Courtland Oval,Shaker Heights,OH,44122,41.485661,-81.543114,33
 77,Kreuger Park,Mentor,7556 Chillicothe Road,Mentor,Oh,44060,41.664864,-81.308525,32
 497,Manchester Middle School,Manchester,760 West Nimisila Rd,New Franklin,Oh,44319,40.937450,-81.561096,32
 588,Middlebranch Elementary School,Eagles Select,7500 Middlebranch Ave NE,Canton,oh,44720,40.888741,-81.328888,32
@@ -64,8 +64,8 @@ location_id,field_name,community,address,city,state,zip,latitude,longitude,game_
 124,Elmwood Park,Independence,6363 Selig Road,Independence,OH,44131,41.378551,-81.647667,24
 264,Orange - Brady Middle School B4 9v9 Field - Upper Left Corner,Orange,32000 Chagrin Boulevard,Orange,OH,44124,41.457684,-81.454964,24
 331,Vermilion Soccer Club Fields,Vermilion,51750 North Ridge Rd.,Vermilion,OH,44089,41.376797,-82.326225,24
-420,Lomond School,Shaker Hts.,17917 Lomond Blvd,Shaker Heights,OH,44122,41.460407,-81.553589,24
 596,Deeds Field,Dover,125 Williams Drive,Dover,OH,44622,40.556416,-81.498520,24
+420,Lomond School,Shaker Hts.,17917 Lomond Blvd,Shaker Heights,OH,44122,41.460407,-81.553589,23
 484,Summit Fairgrounds,Tallmadge,730 North Avenue,Tallmadge,OH,44278,41.121914,-81.438782,22
 70,West Geauga Commons,West Geauga,14070 Chillicothe Road,Novelty,OH,44072,41.486095,-81.343102,21
 224,Spire Institute,Geneva,5201 Spire Circle,Geneva,OH,44041,41.773827,-80.941177,21
