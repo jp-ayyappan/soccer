@@ -6,10 +6,16 @@ from scrape_ohtsl import (
     detect_season,
     infer_season_from_games,
     detect_schedule_changes,
+    is_valid_ohio_coordinate,
 )
 
 
 class TestScrapeOHTSL(unittest.TestCase):
+    def test_is_valid_ohio_coordinate(self):
+        """Verify rejecting overseas / bogus coordinates like Turkey (40.995, 28.871)."""
+        self.assertTrue(is_valid_ohio_coordinate(41.651788, -81.445520))
+        self.assertFalse(is_valid_ohio_coordinate(40.995861, 28.871763))
+        self.assertFalse(is_valid_ohio_coordinate(0.0, 0.0))
     def test_detect_season_boundaries(self):
         """Verify season detection month boundaries."""
         term, year = detect_season()

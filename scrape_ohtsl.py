@@ -183,6 +183,11 @@ def geocode_address_fallback(address: str, city: str, state: str, zip_code: str)
     return "", ""
 
 
+def is_valid_ohio_coordinate(lat_f: float, lng_f: float) -> bool:
+    """Check if coordinates fall within reasonable Midwest / Ohio bounds (38 to 43 N, -85 to -79 W)."""
+    return 38.0 <= lat_f <= 43.0 and -85.0 <= lng_f <= -79.0
+
+
 def fetch_location_details(location_ids: set[int]) -> dict[int, dict]:
     """Fetch address details for each unique location ID from the OHTSL location API.
 
@@ -212,16 +217,16 @@ def fetch_location_details(location_ids: set[int]) -> dict[int, dict]:
                 state = (marker.findtext("state") or "").strip()
                 zip_code = (marker.findtext("zip") or marker.findtext("zio") or "").strip()
 
-                # If lat/lng missing or zero, attempt Nominatim geocoding fallback
+                # If lat/lng missing, zero, or out of Ohio bounds (e.g. bogus overseas coords), fallback to Nominatim
                 try:
                     lat_f = float(lat) if lat else 0.0
                     lng_f = float(lng) if lng else 0.0
                 except ValueError:
                     lat_f, lng_f = 0.0, 0.0
 
-                if (lat_f == 0.0 or lng_f == 0.0) and (addr or city):
+                if (lat_f == 0.0 or lng_f == 0.0 or not is_valid_ohio_coordinate(lat_f, lng_f)) and (addr or city):
                     field_name = (marker.findtext("name") or "").strip()
-                    print(f"  Geocoding fallback for missing coordinates: '{field_name}' ({addr}, {city})...")
+                    print(f"  Geocoding fallback for invalid/out-of-bounds coordinates ({lat_f}, {lng_f}): '{field_name}' ({addr}, {city})...")
                     fallback_lat, fallback_lng = geocode_address_fallback(addr, city, state, zip_code)
                     if fallback_lat and fallback_lng:
                         lat, lng = fallback_lat, fallback_lng
