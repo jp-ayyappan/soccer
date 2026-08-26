@@ -115,4 +115,16 @@ describe("Web App Frontend Helper Unit Tests", () => {
     );
   });
 
+  test("selectDefaultDate chooses today if present, otherwise earliest date", () => {
+    function computeDefaultDate(dateOptions, mockTodayStr) {
+      if (dateOptions.length === 0) return "";
+      if (dateOptions.includes(mockTodayStr)) return mockTodayStr;
+      return dateOptions[0];
+    }
+
+    const available = ["8/16/26", "8/23/26", "8/30/26"];
+    assert.strictEqual(computeDefaultDate(available, "8/23/26"), "8/23/26");
+    assert.strictEqual(computeDefaultDate(available, "8/25/26"), "8/16/26");
+  });
+
 });

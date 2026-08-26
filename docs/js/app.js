@@ -151,6 +151,8 @@
     if (dateParam) {
       selectedDate = dateParam;
       if ($dateSelect) $dateSelect.value = dateParam;
+    } else {
+      selectDefaultDate();
     }
 
     // Restore radius
@@ -452,6 +454,7 @@
 
     await loadSeasonData(season.id);
     populateDateDropdown();
+    selectDefaultDate();
     initMap();
     renderMarkers();
     renderSearchResults();
@@ -501,6 +504,27 @@
       opt.textContent = sample ? `${sample.day} ${d}` : d;
       $dateSelect.appendChild(opt);
     });
+  }
+
+  function selectDefaultDate() {
+    const today = new Date();
+    const m = today.getMonth() + 1;
+    const d = today.getDate();
+    const yy = String(today.getFullYear()).slice(-2);
+    const todayStr = `${m}/${d}/${yy}`;
+
+    const dateOptions = Array.from($dateSelect.options)
+      .map(opt => opt.value)
+      .filter(val => val !== "");
+
+    if (dateOptions.length === 0) return;
+
+    if (dateOptions.includes(todayStr)) {
+      selectedDate = todayStr;
+    } else {
+      selectedDate = dateOptions[0];
+    }
+    $dateSelect.value = selectedDate;
   }
 
   function parseDate(dateStr) {
