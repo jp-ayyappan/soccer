@@ -2,8 +2,8 @@ name: Weekly Schedule Sync
 
 on:
   schedule:
-    # Every Monday at 06:00 UTC (2:00 AM EST)
-    - cron: '0 6 * * 1'
+    # Every Friday at 06:00 UTC (2:00 AM EST)
+    - cron: '0 6 * * 5'
   workflow_dispatch:
 
 permissions:
@@ -70,9 +70,9 @@ jobs:
           delete-branch: true
           base: "main"
 
-      - name: Merge Pull Request for Schedule Sync
+      - name: Enable Auto-Merge for Schedule Sync Pull Request
         if: steps.cpr.outputs.pull-request-number != ''
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh pr merge ${{ steps.cpr.outputs.pull-request-number }} --squash --delete-branch --admin --repo ${{ github.repository }}
+          gh pr merge ${{ steps.cpr.outputs.pull-request-number }} --auto --squash --delete-branch --repo ${{ github.repository }} || true
