@@ -1,6 +1,6 @@
 location,date,day,time,game_number,home_team,home_score,visitor_team,visitor_score,gender,age_group,division_name,location_id
 4th Street Field (4th Street Field),8/23/26,Sun,4:00 PM,8908,Fairless,2,Copley,4,Girls,U12,5 South,787
-4th Street Field (4th Street Field),9/8/26,Tue,6:30 PM,8902,Fairless,,Chippewa,,Girls,U12,5 South,787
+4th Street Field (4th Street Field),9/8/26,Tue,6:30 PM,8902,Fairless,1,Chippewa,1,Girls,U12,5 South,787
 4th Street Field (4th Street Field),9/13/26,Sun,5:30 PM,8924,Fairless,,Northwest,,Girls,U12,5 South,787
 4th Street Field (4th Street Field),10/11/26,Sun,2:00 PM,8939,Fairless,,Lake Select SC   U12,,Girls,U12,5 South,787
 Al Lease Field (11v11),8/30/26,Sun,12:30 PM,12712,Kent   BW,9,Kenston   BLK,4,Boys,U13,4 East,500
@@ -12,11 +12,11 @@ Al Lease Field (11v11),10/11/26,Sun,2:30 PM,9231,Kent   TH,,Northwest,,Girls,U14
 Amherst Junior High (AJH #12),8/23/26,Sun,6:00 PM,5917,Amherst,0,TUSA,5,Boys,U13,4 West,308
 Amherst Junior High (AJH #12),8/26/26,Wed,6:30 PM,6314,Amherst,7,Rocky River   MRN,3,Boys,U14/15,3 West,308
 Amherst Junior High (AJH #12),9/1/26,Tue,6:30 PM,5905,Amherst,2,Lakewood   B13G,7,Boys,U13,4 West,308
-Amherst Junior High (AJH #12),9/3/26,Thu,6:30 PM,6330,Amherst,,Westlake   WV,,Boys,U14/15,3 West,308
 Amherst Junior High (AJH #12),9/13/26,Sun,11:30 AM,5919,Amherst,,Parma,,Boys,U13,4 West,308
 Amherst Junior High (AJH #12),9/13/26,Sun,1:00 PM,5909,Amherst,,Parma,,Boys,U13,4 West,308
 Amherst Junior High (AJH #12),9/23/26,Wed,6:30 PM,6325,Amherst,,Lakewood   B12G,,Boys,U14/15,3 West,308
 Amherst Junior High (AJH #12),9/27/26,Sun,2:30 PM,5913,Amherst,,Olmsted Falls   Blue,,Boys,U13,4 West,308
+Amherst Junior High (AJH #12),10/5/26,Mon,6:30 PM,6330,Amherst,,Westlake   WV,,Boys,U14/15,3 West,308
 Arrowhead School (Arrowhead 655),8/16/26,Sun,4:00 PM,14403,Copley,9,North Canton,4,Boys,U10,4 South EN,169
 Arrowhead School (Arrowhead 655),8/26/26,Wed,6:30 PM,14408,Copley,1,Brecksville Bees SA,6,Boys,U10,4 South EN,169
 Arrowhead School (Arrowhead 655),8/27/26,Thu,6:30 PM,7505,Copley,3,Cuyahoga Falls   SV,4,Girls,U10,4 South,169
@@ -80,7 +80,7 @@ Ashland Comunity Soccer Park (Field 10),10/11/26,Sun,4:00 PM,14037,Ashland,,High
 Ashland Comunity Soccer Park (Field 10),10/18/26,Sun,4:00 PM,7017,Ashland,,Copley,,Girls,U09,4 South,358
 Ashland Comunity Soccer Park (Field 10),10/25/26,Sun,2:30 PM,7023,Ashland,,Revere   RED,,Girls,U09,4 South,358
 Ashland Comunity Soccer Park (Field 11),8/26/26,Wed,6:30 PM,10712,Ashland,0,Brunswick   WHT,1,Boys,U10,3 South,358
-Ashland Comunity Soccer Park (Field 11),9/8/26,Tue,6:30 PM,7307,Ashland,,North Canton,,Girls,U10,3 South,358
+Ashland Comunity Soccer Park (Field 11),9/8/26,Tue,6:30 PM,7307,Ashland,5,North Canton,1,Girls,U10,3 South,358
 Ashland Comunity Soccer Park (Field 6),8/16/26,Sun,1:00 PM,13201,Ashland,,Perry (Stark),,Boys,U14/15,3 South,358
 Ashland Comunity Soccer Park (Field 6),8/16/26,Sun,5:30 PM,3003,Ashland,1,Buckeye,3,Girls,U13,4 South,358
 Ashland Comunity Soccer Park (Field 6),8/22/26,Sat,2:30 PM,3005,Ashland,5,Cloverleaf,0,Girls,U13,4 South,358
@@ -92,6 +92,7 @@ Ashland Comunity Soccer Park (Field 6),9/27/26,Sun,5:30 PM,3119,Ashland,,Brecksv
 Ashland Comunity Soccer Park (Field 6),10/11/26,Sun,4:00 PM,3022,Ashland,,Fairless,,Girls,U13,4 South,358
 Ashland Comunity Soccer Park (Field 6),10/18/26,Sun,2:30 PM,13235,Ashland,,Akron Inner City,,Boys,U14/15,3 South,358
 Ashland Comunity Soccer Park (Field 6),10/18/26,Sun,5:30 PM,3113,Ashland,,Stow   Mar,,Girls,U14/15,1,358
+Ashland Comunity Soccer Park (Field 7),9/13/26,Sun,6:30 PM,11818,Ashland,,Wadsworth   GAR,,Boys,U11,2 South,358
 Ashland Comunity Soccer Park (Field 8),8/16/26,Sun,6:30 PM,3101,Ashland,0,Westlake   JD,0,Girls,U14/15,1,358
 Ashland Comunity Soccer Park (Field 9),8/16/26,Sun,11:30 AM,11802,Ashland,2,Independence,2,Boys,U11,2 South,358
 Ashland Comunity Soccer Park (Field 9),8/26/26,Wed,6:30 PM,5212,Ashland,0,Medina   12Gr,5,Boys,U12,2,358
@@ -100,7 +101,6 @@ Ashland Comunity Soccer Park (Field 9),9/3/26,Thu,6:30 PM,5223,Ashland,4,Stow   
 Ashland Comunity Soccer Park (Field 9),9/12/26,Sat,4:00 PM,12010,Ashland,,Cuyahoga Falls   JH12,,Boys,U12,3 South,358
 Ashland Comunity Soccer Park (Field 9),9/13/26,Sun,4:00 PM,12020,Ashland,,Buckeye,,Boys,U12,3 South,358
 Ashland Comunity Soccer Park (Field 9),9/13/26,Sun,5:30 PM,7915,Ashland,,Copley,,Girls,U11,3 South,358
-Ashland Comunity Soccer Park (Field 9),9/13/26,Sun,6:30 PM,11818,Ashland,,Wadsworth   GAR,,Boys,U11,2 South,358
 Ashland Comunity Soccer Park (Field 9),9/20/26,Sun,2:30 PM,5228,Ashland,,Lakewood   B14P,,Boys,U12,2,358
 Ashland Comunity Soccer Park (Field 9),9/20/26,Sun,5:30 PM,11822,Ashland,,Highland   KW1,,Boys,U11,2 South,358
 Ashland Comunity Soccer Park (Field 9),9/27/26,Sun,11:30 AM,12028,Ashland,,North Royalton,,Boys,U12,3 South,358
@@ -116,9 +116,9 @@ Babbitt Road Field (7v7),9/27/26,Sun,1:00 PM,10438,Euclid,,Orange,,Boys,U09,5 Ea
 Barberton Community Sports Complex (406),8/23/26,Sun,1:00 PM,13607,Barberton,0,Fairless,3,Boys,U14/15,5 South,578
 Barberton Community Sports Complex (406),8/27/26,Thu,6:30 PM,13609,Barberton,0,Eagles Select   U14,2,Boys,U14/15,5 South,578
 Barberton Community Sports Complex (406),8/30/26,Sun,3:30 PM,13010,Barberton,1,Dover,6,Boys,U13,5 South,578
-Barberton Community Sports Complex (406),9/3/26,Thu,6:30 PM,13602,Barberton,,Mustangs Jr,,Boys,U14/15,5 South,578
 Barberton Community Sports Complex (406),9/9/26,Wed,6:00 PM,13002,Barberton,,PLX United,,Boys,U13,5 South,578
 Barberton Community Sports Complex (406),9/13/26,Sun,2:30 PM,13015,Barberton,,PLX United,,Boys,U13,5 South,578
+Barberton Community Sports Complex (406),9/24/26,Thu,6:00 PM,13602,Barberton,,Mustangs Jr,,Boys,U14/15,5 South,578
 Barberton Community Sports Complex (406),9/30/26,Wed,6:15 PM,13020,Barberton,,Lake Select SC   U13,,Boys,U13,5 South,578
 Barberton Community Sports Complex (406),10/11/26,Sun,4:30 PM,13024,Barberton,,Manchester,,Boys,U13,5 South,578
 Barberton Community Sports Complex (406),10/18/26,Sun,2:30 PM,13636,Barberton,,North Canton,,Boys,U14/15,5 South,578
@@ -141,6 +141,7 @@ Barlow Farm Park (Field 2A),8/26/26,Wed,6:30 PM,7808,Hudson   RENN,2,Chagrin Fal
 Barlow Farm Park (Field 2A),8/30/26,Sun,8:45 AM,8613,Hudson   KENN,2,Field,7,Girls,U12,4 East,13
 Barlow Farm Park (Field 2A),8/30/26,Sun,11:30 AM,11815,Hudson   PRIN,2,Independence,5,Boys,U11,2 South,13
 Barlow Farm Park (Field 2A),8/30/26,Sun,5:30 PM,11814,Hudson   PEIG,1,Broadview Hts.,4,Boys,U11,2 South,13
+Barlow Farm Park (Field 2A),9/9/26,Wed,6:30 PM,11823,Hudson   PRIN,,Brunswick   RYL,,Boys,U11,2 South,13
 Barlow Farm Park (Field 2A),9/13/26,Sun,11:30 AM,2227,Hudson   BATS,,Rocky River   MRN,,Girls,U12,2,13
 Barlow Farm Park (Field 2A),9/19/26,Sat,4:15 PM,2242,Hudson   BATS,,Broadview Hts.,,Girls,U12,2,13
 Barlow Farm Park (Field 2A),9/27/26,Sun,11:30 AM,12326,Hudson   HARR,,Shaker Hts.   SLV,,Boys,U12,5 East,13
@@ -151,7 +152,7 @@ Barlow Farm Park (Field 2A),10/25/26,Sun,1:00 PM,11428,Hudson   CORV,,Riverside 
 Barlow Farm Park (Field 2B),8/16/26,Sun,11:30 AM,7705,Hudson   KENS,5,Eastside Kickers   SEL,0,Girls,U10,5 East,13
 Barlow Farm Park (Field 2B),8/23/26,Sun,11:30 AM,10807,Hudson   GRWA,5,Madison,9,Boys,U10,4 East EV,13
 Barlow Farm Park (Field 2B),8/27/26,Thu,6:30 PM,14112,Hudson   SCHA,3,Twinsburg   WHTE,6,Boys,U09,5 East EV,13
-Barlow Farm Park (Field 2B),9/10/26,Thu,6:15 PM,1104,Hudson   BATS,,Green,,Girls,U10,1,13
+Barlow Farm Park (Field 2B),9/10/26,Thu,6:15 PM,1104,Hudson   BATS,1,Green,3,Girls,U10,1,13
 Barlow Farm Park (Field 2B),9/13/26,Sun,5:30 PM,4113,Hudson   PEIG,,Solon United,,Boys,U10,1,13
 Barlow Farm Park (Field 2B),9/27/26,Sun,10:00 AM,4119,Hudson   PEIG,,Bay Village   BK,,Boys,U10,1,13
 Barlow Farm Park (Field 2B),9/27/26,Sun,3:00 PM,3732,Hudson   SATB,,North Royalton,,Boys,U09,2,13
@@ -165,8 +166,8 @@ Barlow Farm Park (Field 3A),8/16/26,Sun,4:00 PM,4101,Hudson   PEIG,2,Green,6,Boy
 Barlow Farm Park (Field 3A),8/23/26,Sun,1:00 PM,9905,Hudson   SATW,2,Stow   Mar,6,Boys,U09,3 East,13
 Barlow Farm Park (Field 3A),8/23/26,Sun,2:30 PM,3707,Hudson   SATB,8,Avon,3,Boys,U09,2,13
 Barlow Farm Park (Field 3A),8/30/26,Sun,3:00 PM,3719,Hudson   SATB,2,Lakewood   B17G,1,Boys,U09,2,13
-Barlow Farm Park (Field 3A),9/9/26,Wed,6:30 PM,1308,Hudson   KENW,,Mayfield   MF,,Girls,U10,3 East,13
-Barlow Farm Park (Field 3A),9/10/26,Thu,6:30 PM,712,Hudson   CHIB,,Shaker Hts.   BLK,,Girls,U09,2,13
+Barlow Farm Park (Field 3A),9/9/26,Wed,6:30 PM,1308,Hudson   KENW,0,Mayfield   MF,5,Girls,U10,3 East,13
+Barlow Farm Park (Field 3A),9/10/26,Thu,6:30 PM,712,Hudson   CHIB,5,Shaker Hts.   BLK,0,Girls,U09,2,13
 Barlow Farm Park (Field 3A),9/13/26,Sun,10:00 AM,9914,Hudson   SATW,,Mayfield   SR,,Boys,U09,3 East,13
 Barlow Farm Park (Field 3A),9/13/26,Sun,2:30 PM,11113,Hudson   VERL,,Tallmadge,,Boys,U10,5 South EV,13
 Barlow Farm Park (Field 3A),9/18/26,Fri,6:15 PM,11921,Hudson   RENN,,Chagrin Falls,,Boys,U12,3 East,13
@@ -181,7 +182,6 @@ Barlow Farm Park (Field 3B),8/28/26,Fri,6:30 PM,2217,Hudson   SFER,5,Bay Village
 Barlow Farm Park (Field 3B),8/30/26,Sun,10:00 AM,12313,Hudson   HARR,0,Eastlake,5,Boys,U12,5 East,13
 Barlow Farm Park (Field 3B),8/30/26,Sun,2:00 PM,4615,Hudson   SFER,5,Medina   11Gr,0,Boys,U11,1,13
 Barlow Farm Park (Field 3B),8/30/26,Sun,4:30 PM,2224,Hudson   SFER,5,Shaker Hts.   BLK,0,Girls,U12,2,13
-Barlow Farm Park (Field 3B),9/9/26,Wed,6:30 PM,11823,Hudson   PRIN,,Brunswick   RYL,,Boys,U11,2 South,13
 Barlow Farm Park (Field 3B),9/13/26,Sun,4:00 PM,2228,Hudson   SFER,,North Olmsted,,Girls,U12,2,13
 Barlow Farm Park (Field 3B),9/23/26,Wed,6:15 PM,4623,Hudson   SFER,,North Royalton,,Boys,U11,1,13
 Barlow Farm Park (Field 3B),10/11/26,Sun,1:00 PM,4632,Hudson   SFER,,Solon United,,Boys,U11,1,13
@@ -190,7 +190,7 @@ Barlow Farm Park (Field 3B),10/18/26,Sun,4:00 PM,7818,Hudson   RENN,,Mayfield   
 Barlow Farm Park (Field 4),8/16/26,Sun,9:00 AM,5601,Hudson   SFER,3,Bay Village   BW,0,Boys,U13,1,13
 Barlow Farm Park (Field 4),8/23/26,Sun,12:00 PM,5605,Hudson   SFER,5,Medina   13Gr,0,Boys,U13,1,13
 Barlow Farm Park (Field 4),9/2/26,Wed,6:45 PM,3215,Hudson   BOWM,0,Solon United,0,Girls,U14/15,2,13
-Barlow Farm Park (Field 4),9/10/26,Thu,6:00 PM,14803,Hudson   GUTI,,Chagrin Falls,,Boys,U14/15,2 East,13
+Barlow Farm Park (Field 4),9/10/26,Thu,6:00 PM,14803,Hudson   GUTI,4,Chagrin Falls,0,Boys,U14/15,2 East,13
 Barlow Farm Park (Field 4),9/13/26,Sun,4:00 PM,12715,Hudson   HARR,,Kenston   SLV,,Boys,U13,4 East,13
 Barlow Farm Park (Field 4),9/18/26,Fri,6:00 PM,5620,Hudson   SFER,,Green,,Boys,U13,1,13
 Barlow Farm Park (Field 4),9/24/26,Thu,6:00 PM,14816,Hudson   GUTI,,Warren,,Boys,U14/15,2 East,13
@@ -205,7 +205,7 @@ Barlow Farm Park (Field 5A),8/16/26,Sun,3:00 PM,2206,Hudson   SFER,5,NP Aurora,0
 Barlow Farm Park (Field 5A),8/23/26,Sun,5:30 PM,4608,Hudson   SFER,4,Green,3,Boys,U11,1,13
 Barlow Farm Park (Field 5A),8/28/26,Fri,6:30 PM,11808,Hudson   PRIN,2,Ashland,5,Boys,U11,2 South,13
 Barlow Farm Park (Field 5A),8/30/26,Sun,10:00 AM,7812,Hudson   RENN,0,Shaker Hts.   BLK,3,Girls,U11,3 East,13
-Barlow Farm Park (Field 5A),9/9/26,Wed,6:30 PM,11912,Hudson   RENN,,Geauga Federation SC,,Boys,U12,3 East,13
+Barlow Farm Park (Field 5A),9/9/26,Wed,6:30 PM,11912,Hudson   RENN,1,Geauga Federation SC,6,Boys,U12,3 East,13
 Barlow Farm Park (Field 5A),9/13/26,Sun,6:30 PM,11917,Hudson   RENN,,Kenston,,Boys,U12,3 East,13
 Barlow Farm Park (Field 5A),9/15/26,Tue,6:15 PM,2223,Hudson   BATS,,Bay Village   KB,,Girls,U12,2,13
 Barlow Farm Park (Field 5A),9/27/26,Sun,5:30 PM,8626,Hudson   KENN,,Riverside,,Girls,U12,4 East,13
@@ -279,7 +279,7 @@ Barton-Bradley Recreation Fields (Field 3),8/27/26,Thu,6:30 PM,4911,North Olmste
 Barton-Bradley Recreation Fields (Field 3),8/30/26,Sun,11:30 AM,2410,North Olmsted,3,Brecksville Bees SA,0,Girls,U12,4 West,337
 Barton-Bradley Recreation Fields (Field 3),8/30/26,Sun,4:00 PM,4719,North Olmsted,2,Mayfield   MO,1,Boys,U11,2,337
 Barton-Bradley Recreation Fields (Field 3),8/30/26,Sun,5:30 PM,5416,North Olmsted,5,Amherst,0,Boys,U12,4 West,337
-Barton-Bradley Recreation Fields (Field 3),9/10/26,Thu,6:00 PM,8003,North Olmsted,,Strongsville   MO,,Girls,U11,4,337
+Barton-Bradley Recreation Fields (Field 3),9/10/26,Thu,6:00 PM,8003,North Olmsted,2,Strongsville   MO,1,Girls,U11,4,337
 Barton-Bradley Recreation Fields (Field 3),9/13/26,Sun,11:30 AM,2415,North Olmsted,,North Royalton,,Girls,U12,4 West,337
 Barton-Bradley Recreation Fields (Field 3),9/13/26,Sun,4:00 PM,4918,North Olmsted,,Brunswick   WHT,,Boys,U11,4 West,337
 Barton-Bradley Recreation Fields (Field 3),9/13/26,Sun,5:30 PM,5419,North Olmsted,,TUSA,,Boys,U12,4 West,337
@@ -309,7 +309,7 @@ Bath Community Center (Bath Community Center Field 2),8/16/26,Sun,5:30 PM,5205,R
 Bath Community Center (Bath Community Center Field 2),8/23/26,Sun,5:30 PM,4810,Revere,6,Brecksville Bees SA,5,Boys,U11,3,155
 Bath Community Center (Bath Community Center Field 2),8/25/26,Tue,6:30 PM,5211,Revere   RED,6,North Canton,1,Boys,U12,2,155
 Bath Community Center (Bath Community Center Field 2),8/30/26,Sun,4:00 PM,12418,Revere   BLUE,5,Dover,0,Boys,U12,5 South,155
-Bath Community Center (Bath Community Center Field 2),9/10/26,Thu,6:30 PM,12429,Revere   BLUE,,Cloverleaf,,Boys,U12,5 South,155
+Bath Community Center (Bath Community Center Field 2),9/10/26,Thu,6:30 PM,12429,Revere   BLUE,1,Cloverleaf,1,Boys,U12,5 South,155
 Bath Community Center (Bath Community Center Field 2),9/13/26,Sun,5:30 PM,5222,Revere   RED,,Lakewood   B14P,,Boys,U12,2,155
 Bath Community Center (Bath Community Center Field 2),9/26/26,Sat,1:00 PM,12413,Revere   BLUE,,Eagles Select   U12,,Boys,U12,5 South,155
 Bath Community Center (Bath Community Center Field 2),9/27/26,Sun,11:30 AM,4833,Revere,,Strongsville   TG,,Boys,U11,3,155
@@ -320,10 +320,10 @@ Baumgardner Middle School (Rear of building),8/16/26,Sun,4:00 PM,8601,Eastside K
 Baumgardner Middle School (Rear of building),8/23/26,Sun,12:00 PM,8605,Eastside Kickers,0,Riverside,0,Girls,U12,4 East,63
 Baumgardner Middle School (Rear of building),8/30/26,Sun,12:00 PM,8616,Eastside Kickers,1,Geauga Federation SC,6,Girls,U12,4 East,63
 Baumgardner Middle School (Rear of building),8/30/26,Sun,1:30 PM,11613,Eastside Kickers,6,Shaker Hts.   GLD,1,Boys,U11,5 East EV,63
-Baumgardner Middle School (Rear of building),9/3/26,Thu,6:15 PM,12115,Eastside Kickers,,Orange,,Boys,U12,4 East,63
 Baumgardner Middle School (Rear of building),9/13/26,Sun,1:00 PM,11620,Eastside Kickers,,Madison,,Boys,U11,5 East EV,63
 Baumgardner Middle School (Rear of building),9/13/26,Sun,4:00 PM,8619,Eastside Kickers,,Madison,,Girls,U12,4 East,63
 Baumgardner Middle School (Rear of building),9/13/26,Sun,6:00 PM,12121,Eastside Kickers,,Riverside   Gold,,Boys,U12,4 East,63
+Baumgardner Middle School (Rear of building),9/17/26,Thu,6:15 PM,12115,Eastside Kickers,,Orange,,Boys,U12,4 East,63
 Baumgardner Middle School (Rear of building),9/20/26,Sun,2:30 PM,11622,Eastside Kickers,,Willoughby,,Boys,U11,5 East EV,63
 Baumgardner Middle School (Rear of building),9/27/26,Sun,2:30 PM,12131,Eastside Kickers,,Euclid,,Boys,U12,4 East,63
 Baumgardner Middle School (Rear of building),10/11/26,Sun,1:00 PM,12138,Eastside Kickers,,Stow   Gold,,Boys,U12,4 East,63
@@ -361,7 +361,7 @@ Beaver Creek Park (Beaver Creek #10),10/11/26,Sun,5:00 PM,8830,Amherst,,Nordonia
 Beaver Creek Park (Beaver Creek #10),10/18/26,Sun,11:30 AM,5321,Amherst,,Rocky River   MRN,,Boys,U12,3 West,307
 Beaver Creek Park (Beaver Creek #10),10/18/26,Sun,4:00 PM,8812,Amherst,,Twinsburg   WHT,,Girls,U12,5,307
 Becker Field (Becker Field U13),8/16/26,Sun,2:30 PM,13001,Dover,7,Tallmadge,2,Boys,U13,5 South,597
-Becker Field (Becker Field U13),9/9/26,Wed,6:30 PM,13007,Dover,,Lake Select SC   U13,,Boys,U13,5 South,597
+Becker Field (Becker Field U13),9/9/26,Wed,6:30 PM,13007,Dover,1,Lake Select SC   U13,5,Boys,U13,5 South,597
 Becker Field (Becker Field U13),9/13/26,Sun,4:30 PM,13013,Dover,,Manchester,,Boys,U13,5 South,597
 Becker Field (Becker Field U13),9/27/26,Sun,2:30 PM,13019,Dover,,PLX United,,Boys,U13,5 South,597
 Blossom Hill (Field G- Lower Grass),8/16/26,Sun,11:30 AM,12004,Brecksville Bees SA,2,Cuyahoga Falls   JH12,1,Boys,U12,3 South,372
@@ -371,7 +371,7 @@ Blossom Hill (Field G- Lower Grass),8/27/26,Thu,7:00 PM,4813,Brecksville Bees SA
 Blossom Hill (Field G- Lower Grass),8/30/26,Sun,1:00 PM,4818,Brecksville Bees SA,4,Westlake   RR,3,Boys,U11,3,372
 Blossom Hill (Field G- Lower Grass),8/30/26,Sun,2:30 PM,12014,Brecksville Bees SA,6,Ashland,2,Boys,U12,3 South,372
 Blossom Hill (Field G- Lower Grass),9/13/26,Sun,4:00 PM,2408,Brecksville Bees SA,,Vermilion,,Girls,U12,4 West,372
-Blossom Hill (Field G- Lower Grass),9/14/26,Mon,7:00 PM,2712,Brecksville Bees SA,,Olmsted Falls   Blue,,Girls,U13,2,372
+Blossom Hill (Field G- Lower Grass),9/14/26,Mon,6:15 PM,13209,Brecksville Bees SA,,Rootstown,,Boys,U14/15,3 South,372
 Blossom Hill (Field G- Lower Grass),9/20/26,Sun,5:30 PM,4829,Brecksville Bees SA,,Bay Village   AS,,Boys,U11,3,372
 Blossom Hill (Field G- Lower Grass),9/27/26,Sun,11:30 AM,12027,Brecksville Bees SA,,Wadsworth   KEN,,Boys,U12,3 South,372
 Blossom Hill (Field G- Lower Grass),9/27/26,Sun,2:30 PM,4835,Brecksville Bees SA,,Avon Lake,,Boys,U11,3,372
@@ -411,7 +411,7 @@ Blossom Hill (Turf),8/23/26,Sun,1:00 PM,13207,Brecksville Bees SA,5,Revere,1,Boy
 Blossom Hill (Turf),8/23/26,Sun,2:30 PM,3104,Brecksville Bees SA,0,Ashland,0,Girls,U14/15,1,372
 Blossom Hill (Turf),9/13/26,Sun,1:00 PM,2717,Brecksville Bees SA,,Highland   GP1,,Girls,U13,2,372
 Blossom Hill (Turf),9/13/26,Sun,4:00 PM,12617,Brecksville Bees SA,,Broadview Hts.,,Boys,U13,3 South,372
-Blossom Hill (Turf),9/14/26,Mon,6:15 PM,13209,Brecksville Bees SA,,Rootstown,,Boys,U14/15,3 South,372
+Blossom Hill (Turf),9/14/26,Mon,7:00 PM,2712,Brecksville Bees SA,,Olmsted Falls   Blue,,Girls,U13,2,372
 Blossom Hill (Turf),9/20/26,Sun,1:00 PM,12621,Brecksville Bees SA,,Revere,,Boys,U13,3 South,372
 Blossom Hill (Turf),9/20/26,Sun,2:30 PM,2721,Brecksville Bees SA,,Jackson,,Girls,U13,2,372
 Blossom Hill (Turf),9/20/26,Sun,7:00 PM,3117,Brecksville Bees SA,,Brunswick,,Girls,U14/15,1,372
@@ -467,7 +467,7 @@ Brunswick High School (Practice Field),10/18/26,Sun,11:00 AM,2705,Brunswick,,Bre
 Buckeye Primary School  (Buckeye Primary School Back Field 12),8/23/26,Sun,2:30 PM,7608,Buckeye,2,Dover,4,Girls,U10,5 South,8
 Buckeye Primary School  (Buckeye Primary School Back Field 12),8/26/26,Wed,6:30 PM,10912,Buckeye,0,Columbia Station,5,Boys,U10,4 South EV,8
 Buckeye Primary School  (Buckeye Primary School Back Field 12),9/1/26,Tue,6:30 PM,7602,Buckeye,0,Medina   10GY,5,Girls,U10,5 South,8
-Buckeye Primary School  (Buckeye Primary School Back Field 12),9/10/26,Thu,6:00 PM,10337,Buckeye,,Brunswick   WHT,,Boys,U09,5 South EV,8
+Buckeye Primary School  (Buckeye Primary School Back Field 12),9/10/26,Thu,6:00 PM,10337,Buckeye,5,Brunswick   WHT,1,Boys,U09,5 South EV,8
 Buckeye Primary School  (Buckeye Primary School Back Field 12),9/12/26,Sat,1:00 PM,10311,Buckeye,,Revere   BLUE,,Boys,U09,5 South EV,8
 Buckeye Primary School  (Buckeye Primary School Back Field 12),9/13/26,Sun,1:00 PM,7624,Buckeye,,Highland   JM1,,Girls,U10,5 South,8
 Buckeye Primary School  (Buckeye Primary School Back Field 12),9/13/26,Sun,2:30 PM,10322,Buckeye,,Broadview Hts.,,Boys,U09,5 South EV,8
@@ -497,7 +497,7 @@ Buckeye Primary School  (Buckeye Primary School Back Field 16),8/27/26,Thu,6:30 
 Buckeye Primary School  (Buckeye Primary School Back Field 16),8/30/26,Sun,1:00 PM,3012,Buckeye,6,Ashland,1,Girls,U13,4 South,8
 Buckeye Primary School  (Buckeye Primary School Back Field 16),8/30/26,Sun,4:00 PM,13213,Buckeye,0,Akron Inner City,3,Boys,U14/15,3 South,8
 Buckeye Primary School  (Buckeye Primary School Back Field 16),9/1/26,Tue,6:30 PM,9212,Buckeye,6,Northwest,1,Girls,U14/15,4 South,8
-Buckeye Primary School  (Buckeye Primary School Back Field 16),9/8/26,Tue,6:30 PM,13611,Buckeye,,Mustangs Jr,,Boys,U14/15,5 South,8
+Buckeye Primary School  (Buckeye Primary School Back Field 16),9/8/26,Tue,6:30 PM,13611,Buckeye,3,Mustangs Jr,1,Boys,U14/15,5 South,8
 Buckeye Primary School  (Buckeye Primary School Back Field 16),9/13/26,Sun,11:00 AM,9217,Buckeye,,Medina   14WT,,Girls,U14/15,4 South,8
 Buckeye Primary School  (Buckeye Primary School Back Field 16),9/13/26,Sun,1:00 PM,13220,Buckeye,,Cuyahoga Falls   JS,,Boys,U14/15,3 South,8
 Buckeye Primary School  (Buckeye Primary School Back Field 16),9/13/26,Sun,4:00 PM,13618,Buckeye,,Eagles Select   U14,,Boys,U14/15,5 South,8
@@ -549,11 +549,11 @@ Champion Event Center (7v7),8/17/26,Mon,6:00 PM,13802,North Canton,4,Brecksville
 Champion Event Center (7v7),8/23/26,Sun,2:30 PM,13804,North Canton,4,Perry (Stark),4,Boys,U09,4 South EV,545
 Champion Event Center (7v7),8/23/26,Sun,4:00 PM,14404,North Canton,0,Field,3,Boys,U10,4 South EN,545
 Champion Event Center (7v7),9/1/26,Tue,6:00 PM,7305,North Canton,0,Norton,3,Girls,U10,3 South,545
-Champion Event Center (7v7),9/3/26,Thu,6:30 PM,7618,North Canton,,Lake Select SC   U10,,Girls,U10,5 South,545
-Champion Event Center (7v7),9/10/26,Thu,6:30 PM,7613,North Canton,,Green,,Girls,U10,5 South,545
+Champion Event Center (7v7),9/10/26,Thu,6:30 PM,7613,North Canton,2,Green,6,Girls,U10,5 South,545
 Champion Event Center (7v7),9/13/26,Sun,1:00 PM,7314,North Canton,,Mustangs Jr,,Girls,U10,3 South,545
 Champion Event Center (7v7),9/20/26,Sun,1:00 PM,7629,North Canton,,Dover,,Girls,U10,5 South,545
 Champion Event Center (7v7),9/20/26,Sun,2:30 PM,13817,North Canton,,Stow   Gray,,Boys,U09,4 South EV,545
+Champion Event Center (7v7),9/21/26,Mon,6:15 PM,7618,North Canton,,Lake Select SC   U10,,Girls,U10,5 South,545
 Champion Event Center (7v7),9/27/26,Sun,1:30 PM,7635,North Canton,,Highland   JM1,,Girls,U10,5 South,545
 Champion Event Center (7v7),10/1/26,Thu,6:00 PM,14409,North Canton,,Green,,Boys,U10,4 South EN,545
 Champion Event Center (7v7),10/1/26,Thu,6:30 PM,13823,North Canton,,Eagles Select   U9,,Boys,U09,4 South EV,545
@@ -572,12 +572,12 @@ City Park (Field 2),9/13/26,Sun,2:30 PM,10429,Streetsboro,,Shaker Hts.   WHT,,Bo
 City Park (Field 2),9/20/26,Sun,2:30 PM,10435,Streetsboro,,Stow   Gold,,Boys,U09,5 East EN,222
 City Park (Field 2),9/27/26,Sun,2:30 PM,10126,Streetsboro,,Riverside,,Boys,U09,4 East,222
 City Park (Field 2),10/11/26,Sun,2:30 PM,10131,Streetsboro,,North Royalton,,Boys,U09,4 East,222
-City Park (Field 3),8/16/26,Sun,1:00 PM,11404,Streetsboro,,Willoughby,,Boys,U11,4 East,222
 City Park (Field 3),8/16/26,Sun,4:00 PM,14602,Streetsboro,2,Twinsburg   WHTE,7,Boys,U11,5 East EN,222
 City Park (Field 3),8/23/26,Sun,4:00 PM,14604,Streetsboro,1,Westlake   LD,6,Boys,U11,5 East EN,222
 City Park (Field 3),8/30/26,Sun,4:00 PM,11418,Streetsboro,3,Kent   GD,1,Boys,U11,4 East,222
 City Park (Field 3),9/1/26,Tue,6:30 PM,8210,Streetsboro,2,Solon United,4,Girls,U11,5 East,222
 City Park (Field 3),9/20/26,Sun,1:00 PM,14617,Streetsboro,,Nordonia,,Boys,U11,5 East EN,222
+City Park (Field 3),9/23/26,Wed,6:00 PM,11404,Streetsboro,,Willoughby,,Boys,U11,4 East,222
 City Park (Field 3),9/27/26,Sun,1:00 PM,8220,Streetsboro,,Orange,,Girls,U11,5 East,222
 City Park (Field 3),9/27/26,Sun,4:00 PM,11433,Streetsboro,,Hudson   CORV,,Boys,U11,4 East,222
 City Park (Field 3),10/1/26,Thu,6:00 PM,8215,Streetsboro,,Chagrin Falls   Blac,,Girls,U11,5 East,222
@@ -676,7 +676,7 @@ Copley Fairlawn Middle School (Middle School Football),9/13/26,Sun,1:00 PM,13217
 Copley Fairlawn Middle School (Middle School Football),9/13/26,Sun,2:30 PM,12813,Copley,,New Philadelphia   TZ,,Boys,U13,4 South,732
 Copley Fairlawn Middle School (Middle School Football),9/20/26,Sun,2:30 PM,9223,Copley,,Kent   TH,,Girls,U14/15,4 South,732
 Copley Fairlawn Middle School (Middle School Football),9/27/26,Sun,5:30 PM,12819,Copley,,North Canton,,Boys,U13,4 South,732
-Copley Fairlawn Middle School (Middle School Football),10/11/26,Sun,11:30 AM,9232,Copley,,Medina   14WT,,Girls,U14/15,4 South,732
+Copley Fairlawn Middle School (Middle School Football),10/11/26,Sun,7:00 PM,9232,Copley,,Medina   14WT,,Girls,U14/15,4 South,732
 Copley Fairlawn Middle School (Middle School Football),10/25/26,Sun,1:00 PM,12807,Copley,,Northwest,,Boys,U13,4 South,732
 Copley Road Soccer Complex (11v11 field 5),8/30/26,Sun,3:00 PM,9216,Akron Inner City,1,Northwest,5,Girls,U14/15,4 South,590
 Copley Road Soccer Complex (11v11 field 5),9/13/26,Sun,5:30 PM,5719,Akron Inner City,,North Olmsted,,Boys,U13,2,590
@@ -726,7 +726,7 @@ Courtland Oval Field (Courtland West),8/29/26,Sat,3:00 PM,202,Shaker Hts.   BLK,
 Courtland Oval Field (Courtland West),8/30/26,Sun,1:00 PM,7112,Shaker Hts.   U8B,5,Brecksville Bees SA,4,Girls,U09,5 East,318
 Courtland Oval Field (Courtland West),8/30/26,Sun,4:15 PM,4208,Shaker Hts.   BLK,4,Chagrin Falls   Oran,2,Boys,U10,2 East,318
 Courtland Oval Field (Courtland West),8/30/26,Sun,5:30 PM,1219,Shaker Hts.   BLK,1,Westlake   NF,4,Girls,U10,2,318
-Courtland Oval Field (Courtland West),9/8/26,Tue,6:30 PM,14140,Shaker Hts.   SLV,,Stow   Blck,,Boys,U09,5 East EV,318
+Courtland Oval Field (Courtland West),9/8/26,Tue,6:30 PM,14140,Shaker Hts.   SLV,3,Stow   Blck,2,Boys,U09,5 East EV,318
 Courtland Oval Field (Courtland West),9/13/26,Sun,1:00 PM,206,Shaker Hts.   RED,,Solon United,,Boys,U08,East,318
 Courtland Oval Field (Courtland West),9/13/26,Sun,4:00 PM,7113,Shaker Hts.   U8B,,West Geauga,,Girls,U09,5 East,318
 Courtland Oval Field (Courtland West),9/13/26,Sun,5:30 PM,1314,Shaker Hts.   RED,,Chagrin Falls,,Girls,U10,3 East,318
@@ -737,9 +737,6 @@ Courtland Oval Field (Courtland West),9/20/26,Sun,2:30 PM,211,Shaker Hts.   RED,
 Courtland Oval Field (Courtland West),9/27/26,Sun,11:30 AM,4214,Shaker Hts.   BLK,,Twinsburg   Blue,,Boys,U10,2 East,318
 Courtland Oval Field (Courtland West),9/27/26,Sun,1:00 PM,10440,Shaker Hts.   WHT,,Geauga Federation SC,,Boys,U09,5 East EN,318
 Courtland Oval Field (Courtland West),9/27/26,Sun,2:30 PM,7119,Shaker Hts.   U8B,,Chagrin Falls   Blac,,Girls,U09,5 East,318
-Courtland Oval Field (Courtland West),10/11/26,Sun,11:30 AM,1322,Shaker Hts.   RED,,Warren,,Girls,U10,3 East,318
-Courtland Oval Field (Courtland West),10/11/26,Sun,1:00 PM,739,Shaker Hts.   BLK,,Avon,,Girls,U09,2,318
-Courtland Oval Field (Courtland West),10/11/26,Sun,2:30 PM,215,Shaker Hts.   BLK,,Orange,,Boys,U08,East,318
 Courtland Oval Field (Courtland West),10/18/26,Sun,1:00 PM,7125,Shaker Hts.   RED,,Brecksville Bees SA,,Girls,U09,5 East,318
 Courtland Oval Field (Courtland West),10/18/26,Sun,2:30 PM,10118,Shaker Hts.   RED,,North Royalton,,Boys,U09,4 East,318
 Courtland Oval Field (Courtland West),10/18/26,Sun,4:00 PM,3716,Shaker Hts.   BLK,,North Royalton,,Boys,U09,2,318
@@ -762,7 +759,7 @@ Crestview Elementary (9v9),8/30/26,Sun,11:30 AM,8815,Brunswick   WHT,5,Amherst,0
 Crestview Elementary (9v9),8/30/26,Sun,2:30 PM,1720,Brunswick,1,Westlake   PD,2,Girls,U11,2,254
 Crestview Elementary (9v9),9/2/26,Wed,6:15 PM,5114,Brunswick   RYL,2,Lakewood   B14G,4,Boys,U12,1,254
 Crestview Elementary (9v9),9/3/26,Thu,6:30 PM,8501,Brunswick   RYL,,Columbia Station,,Girls,U12,3 South,254
-Crestview Elementary (9v9),9/10/26,Thu,6:30 PM,4903,Brunswick   WHT,,Bay Village   KD,,Boys,U11,4 West,254
+Crestview Elementary (9v9),9/10/26,Thu,6:30 PM,4903,Brunswick   WHT,1,Bay Village   KD,6,Boys,U11,4 West,254
 Crestview Elementary (9v9),9/13/26,Sun,1:00 PM,12213,Brunswick   WHT,,Lake Select SC   U12,,Boys,U12,4 South EV,254
 Crestview Elementary (9v9),9/13/26,Sun,4:00 PM,8513,Brunswick   RYL,,New Philadelphia   KB,,Girls,U12,3 South,254
 Crestview Elementary (9v9),9/17/26,Thu,6:00 PM,1740,Brunswick,,Olmsted Falls   Blue,,Girls,U11,2,254
@@ -789,7 +786,7 @@ DePaola Park  ( DePaola #3),8/25/26,Tue,6:30 PM,4309,Amherst,4,Bay Village   JH,
 DePaola Park  ( DePaola #3),8/26/26,Wed,6:30 PM,15109,Amherst,5,Avon Lake,0,Girls,U10,4 West EV,298
 DePaola Park  ( DePaola #3),8/30/26,Sun,11:30 AM,15111,Amherst,4,Westlake   BL,3,Girls,U10,4 West EV,298
 DePaola Park  ( DePaola #3),8/30/26,Sun,1:00 PM,4419,Amherst,3,Olmsted Falls   Gold,2,Boys,U10,4 West,298
-DePaola Park  ( DePaola #3),9/10/26,Thu,6:30 PM,4313,Amherst,,Firelands,,Boys,U10,3 West,298
+DePaola Park  ( DePaola #3),9/10/26,Thu,6:30 PM,4313,Amherst,3,Firelands,3,Boys,U10,3 West,298
 DePaola Park  ( DePaola #3),9/20/26,Sun,11:00 AM,15116,Amherst,,Avon,,Girls,U10,4 West EV,298
 DePaola Park  ( DePaola #3),9/20/26,Sun,2:30 PM,4426,Amherst,,Avon,,Boys,U10,4 West,298
 DePaola Park  ( DePaola #3),9/27/26,Sun,1:00 PM,4432,Amherst,,North Olmsted,,Boys,U10,4 West,298
@@ -865,8 +862,8 @@ Dodge Intermediate School  (Dodge Front A),10/25/26,Sun,11:30 AM,10415,Twinsburg
 Dodge Intermediate School  (Dodge Front B),8/16/26,Sun,1:00 PM,14102,Twinsburg   WHTE,4,Mayfield   RC,4,Boys,U09,5 East EV,178
 Dodge Intermediate School  (Dodge Front B),8/16/26,Sun,4:00 PM,14303,Twinsburg   WHTE,1,Chagrin Falls   Whit,6,Boys,U10,4 East EN,178
 Dodge Intermediate School  (Dodge Front B),8/30/26,Sun,2:30 PM,10422,Twinsburg   Blue,5,Orange,0,Boys,U09,5 East EN,178
-Dodge Intermediate School  (Dodge Front B),9/13/26,Sun,2:30 PM,4207,Twinsburg   Blue,,Wickliffe,,Boys,U10,2 East,178
 Dodge Intermediate School  (Dodge Front B),9/13/26,Sun,4:00 PM,14314,Twinsburg   WHTE,,Wickliffe,,Boys,U10,4 East EN,178
+Dodge Intermediate School  (Dodge Front B),9/15/26,Tue,6:30 PM,4207,Twinsburg   Blue,,Wickliffe,,Boys,U10,2 East,178
 Dodge Intermediate School  (Dodge Front B),9/20/26,Sun,1:00 PM,4212,Twinsburg   Blue,,Chagrin Falls   Oran,,Boys,U10,2 East,178
 Dodge Intermediate School  (Dodge Front B),10/11/26,Sun,11:30 AM,10446,Twinsburg   Blue,,Shaker Hts.   WHT,,Boys,U09,5 East EN,178
 Dodge Intermediate School  (Dodge Front B),10/18/26,Sun,10:30 AM,4216,Twinsburg   Blue,,Warren,,Boys,U10,2 East,178
@@ -909,7 +906,7 @@ Eastlake Travel Soccer  (Eastlake U11),9/20/26,Sun,4:00 PM,12322,Eastlake,,Willo
 Eastlake Travel Soccer  (Lower Field U13),8/30/26,Sun,2:30 PM,13507,Eastlake,5,Rocky River   WHT,0,Boys,U14/15,5,9
 Eastlake Travel Soccer  (Lower Field U13),9/20/26,Sun,1:00 PM,13512,Eastlake,,Nordonia,,Boys,U14/15,5,9
 Edinburg Park (U10 Field B1),8/23/26,Sun,2:30 PM,11104,Southeast,7,Hudson   VERL,2,Boys,U10,5 South EV,587
-Edinburg Park (U10 Field B1),9/8/26,Tue,6:30 PM,11117,Southeast,,Highland   KS2,,Boys,U10,5 South EV,587
+Edinburg Park (U10 Field B1),9/8/26,Tue,6:30 PM,11117,Southeast,5,Highland   KS2,3,Boys,U10,5 South EV,587
 Edinburg Park (U10 Field B1),9/10/26,Thu,6:30 PM,11102,Southeast,,Copley,,Boys,U10,5 South EV,587
 Edinburg Park (U10 Field B1),10/1/26,Thu,6:30 PM,11123,Southeast,,Revere   BLUE,,Boys,U10,5 South EV,587
 Edinburg Park (U12 Field C1),8/16/26,Sun,1:00 PM,11701,Southeast,6,New Philadelphia   TM,6,Boys,U11,5 South,587
@@ -930,7 +927,7 @@ Elmwood Park (Field 1),8/23/26,Sun,2:30 PM,1408,Independence   YEL,0,Orange,4,Gi
 Elmwood Park (Field 1),8/25/26,Tue,6:30 PM,3909,Independence,7,Westlake   TB,2,Boys,U09,4 West EN,124
 Elmwood Park (Field 1),8/26/26,Wed,6:30 PM,1215,Independence   BLUE,0,Bay Village   BW,5,Girls,U10,2,124
 Elmwood Park (Field 1),8/30/26,Sun,2:30 PM,3913,Independence,3,Lakewood   B17P,2,Boys,U09,4 West EN,124
-Elmwood Park (Field 1),9/8/26,Tue,6:30 PM,1415,Independence   YEL,,Solon United,,Girls,U10,4 East,124
+Elmwood Park (Field 1),9/8/26,Tue,6:30 PM,1415,Independence   YEL,2,Solon United,2,Girls,U10,4 East,124
 Elmwood Park (Field 1),9/13/26,Sun,1:00 PM,10614,Independence,,Solon United,,Boys,U10,3 East,124
 Elmwood Park (Field 1),9/13/26,Sun,6:00 PM,1221,Independence   BLUE,,Kenston,,Girls,U10,2,124
 Elmwood Park (Field 1),9/20/26,Sun,2:30 PM,1423,Independence   YEL,,Aurora,,Girls,U10,4 East,124
@@ -1040,7 +1037,6 @@ Foltz Fields (Foltz 3A),8/27/26,Thu,6:30 PM,509,Strongsville   KP,,Rocky River  
 Foltz Fields (Foltz 3A),8/30/26,Sun,12:00 PM,3718,Strongsville   CF,7,Westlake   CG,3,Boys,U09,2,230
 Foltz Fields (Foltz 3A),8/30/26,Sun,2:00 PM,14208,Strongsville   AS,8,Medina   10Gr,3,Boys,U10,2 South,230
 Foltz Fields (Foltz 3A),8/30/26,Sun,4:00 PM,10013,Strongsville   BL,6,Norton,2,Boys,U09,3 South,230
-Foltz Fields (Foltz 3A),9/13/26,Sun,11:00 AM,721,Strongsville   EE-G,,Westlake   JB,,Girls,U09,2,230
 Foltz Fields (Foltz 3A),9/13/26,Sun,2:30 PM,309,Strongsville   JD,,Broadview Hts.,,Boys,U08,South V,230
 Foltz Fields (Foltz 3A),9/20/26,Sun,11:30 AM,3729,Strongsville   CF,,North Royalton,,Boys,U09,2,230
 Foltz Fields (Foltz 3A),9/20/26,Sun,1:00 PM,516,Strongsville   KP,,North Olmsted,,Girls,U08,West V,230
@@ -1056,6 +1052,7 @@ Foltz Fields (Foltz 3A),10/11/26,Sun,4:00 PM,10031,Strongsville   BL,,Green,,Boy
 Foltz Fields (Foltz 3A),10/14/26,Wed,5:45 PM,731,Strongsville   EE-G,,Hudson   CHIB,,Girls,U09,2,230
 Foltz Fields (Foltz 3A),10/18/26,Sun,2:30 PM,317,Strongsville   JD,,Brunswick,,Boys,U08,South V,230
 Foltz Fields (Foltz 3A),10/18/26,Sun,4:00 PM,14201,Strongsville   AS,,Highland   NF1,,Boys,U10,2 South,230
+Foltz Fields (Foltz 3A),10/21/26,Wed,5:45 PM,721,Strongsville   EE-G,,Westlake   JB,,Girls,U09,2,230
 Foltz Fields (Foltz 3A),10/25/26,Sun,1:00 PM,14219,Strongsville   AS,,Green,,Boys,U10,2 South,230
 Foltz Fields (Foltz 3A),10/25/26,Sun,2:30 PM,320,Strongsville   TK,,Parma,,Boys,U08,South V,230
 Foltz Fields (Foltz 3B),8/23/26,Sun,2:30 PM,303,Strongsville   TK,,Strongsville   JD,,Boys,U08,South V,230
@@ -1096,6 +1093,7 @@ Foltz Fields (Foltz Prandi 11A),8/23/26,Sun,2:30 PM,5108,Strongsville   NB,6,Bay
 "Garfield Middle School (Turf Stadium - 7v7, 9v9, 11v11)",8/30/26,Sun,2:30 PM,3420,Lakewood   G11G,1,Rocky River   BLK,6,Girls,U14/15,4 West,195
 "Garfield Middle School (Turf Stadium - 7v7, 9v9, 11v11)",8/30/26,Sun,4:00 PM,13508,Lakewood   B12P,0,Nordonia,5,Boys,U14/15,5,195
 "Garfield Middle School (Turf Stadium - 7v7, 9v9, 11v11)",8/30/26,Sun,5:30 PM,8814,Lakewood   G14P,1,Wickliffe,6,Girls,U12,5,195
+"Garfield Middle School (Turf Stadium - 7v7, 9v9, 11v11)",9/11/26,Fri,6:30 PM,5120,Lakewood   B14G,,Orange,,Boys,U12,1,195
 "Garfield Middle School (Turf Stadium - 7v7, 9v9, 11v11)",9/13/26,Sun,10:00 AM,3724,Lakewood   B17G,,Fairview Park,,Boys,U09,2,195
 "Garfield Middle School (Turf Stadium - 7v7, 9v9, 11v11)",9/13/26,Sun,11:30 AM,5417,Lakewood   B14W,,Rocky River   WHT,,Boys,U12,4 West,195
 "Garfield Middle School (Turf Stadium - 7v7, 9v9, 11v11)",9/13/26,Sun,1:00 PM,3430,Lakewood   G11G,,Vermilion,,Girls,U14/15,4 West,195
@@ -1141,6 +1139,7 @@ Glenwillow Fields (Glenwillow Fields- 9v9),8/30/26,Sun,12:00 PM,8614,Solon Unite
 Glenwillow Fields (Glenwillow Fields- 9v9),8/30/26,Sun,1:00 PM,11915,Solon United,5,Hudson   RENN,0,Boys,U12,3 East,44
 Glenwillow Fields (Glenwillow Fields- 9v9),8/30/26,Sun,2:30 PM,12314,Solon United,4,West Geauga,2,Boys,U12,5 East,44
 Glenwillow Fields (Glenwillow Fields- 9v9),8/30/26,Sun,4:00 PM,4614,Solon United,3,Avon,5,Boys,U11,1,44
+Glenwillow Fields (Glenwillow Fields- 9v9),9/9/26,Wed,6:30 PM,12304,Solon United,2,Aurora,4,Boys,U12,5 East,44
 Glenwillow Fields (Glenwillow Fields- 9v9),9/13/26,Sun,4:00 PM,8213,Solon United,,Shaker Hts.   RED,,Girls,U11,5 East,44
 Glenwillow Fields (Glenwillow Fields- 9v9),9/16/26,Wed,6:30 PM,11412,Solon United,,Geneva,,Boys,U11,4 East,44
 Glenwillow Fields (Glenwillow Fields- 9v9),9/20/26,Sun,12:30 PM,11923,Solon United,,Shaker Hts.   RED,,Boys,U12,3 East,44
@@ -1160,6 +1159,7 @@ Glenwillow Fields (Glenwillow Fields- lower ),8/30/26,Sun,11:30 AM,10419,Solon U
 Glenwillow Fields (Glenwillow Fields- lower ),8/30/26,Sun,2:30 PM,207,Solon United,,Orange,,Boys,U08,East,44
 Glenwillow Fields (Glenwillow Fields- lower ),8/30/26,Sun,4:00 PM,10115,Solon United,1,Riverside,6,Boys,U09,4 East,44
 Glenwillow Fields (Glenwillow Fields- lower ),9/2/26,Wed,6:30 PM,1412,Solon United,,Olmsted Falls   Gold,,Girls,U10,4 East,44
+Glenwillow Fields (Glenwillow Fields- lower ),9/9/26,Wed,6:30 PM,9907,Solon United,5,Hudson   SATW,4,Boys,U09,3 East,44
 Glenwillow Fields (Glenwillow Fields- lower ),9/13/26,Sun,1:00 PM,1417,Solon United,,Geauga Federation SC,,Girls,U10,4 East,44
 Glenwillow Fields (Glenwillow Fields- lower ),9/20/26,Sun,11:30 AM,212,Solon United,,Shaker Hts.   BLK,,Boys,U08,East,44
 Glenwillow Fields (Glenwillow Fields- lower ),9/20/26,Sun,1:00 PM,6823,Solon United,,Orange,,Girls,U09,4 East,44
@@ -1176,9 +1176,9 @@ Goldwood Primary School (Goldwood),8/23/26,Sun,4:00 PM,905,Rocky River   WHT,2,A
 Goldwood Primary School (Goldwood),8/25/26,Tue,6:30 PM,4009,Rocky River   BLK,1,Midview,4,Boys,U09,5 West EV,361
 Goldwood Primary School (Goldwood),8/26/26,Wed,6:30 PM,7215,Rocky River   BLK,6,Westlake   KP,1,Girls,U09,5 West,361
 Goldwood Primary School (Goldwood),9/2/26,Wed,6:30 PM,9707,Rocky River   STM,,Bay Village   NP,,Boys,U08,West N,361
-Goldwood Primary School (Goldwood),9/3/26,Thu,6:30 PM,7213,Rocky River   GLD,,Avon Lake,,Girls,U09,5 West,361
 Goldwood Primary School (Goldwood),9/9/26,Wed,6:30 PM,4513,Rocky River   WHT,,Port Clinton   WHT,,Boys,U10,5 West,361
 Goldwood Primary School (Goldwood),9/13/26,Sun,4:30 PM,515,Rocky River   STM,,North Ridgeville,,Girls,U08,West V,361
+Goldwood Primary School (Goldwood),9/24/26,Thu,6:00 PM,7213,Rocky River   GLD,,Avon Lake,,Girls,U09,5 West,361
 Goldwood Primary School (Goldwood),9/27/26,Sun,4:00 PM,113,Rocky River   SRG,,Olmsted Falls   Gold,,Boys,U08,West V,361
 Goldwood Primary School (Goldwood),9/27/26,Sun,5:30 PM,9719,Rocky River   STM,,Olmsted Falls   Blue,,Boys,U08,West N,361
 Goldwood Primary School (Goldwood),10/11/26,Sun,2:30 PM,524,Rocky River   STM,,Olmsted Falls   Blue,,Girls,U08,West V,361
@@ -1190,7 +1190,7 @@ Granger Park Fields (7v7 - Field #1A),8/23/26,Sun,1:30 PM,7609,Highland   JM1,5,
 Granger Park Fields (7v7 - Field #1A),8/24/26,Mon,6:30 PM,11105,Highland   KS2,1,Copley,3,Boys,U10,5 South EV,251
 Granger Park Fields (7v7 - Field #1A),8/30/26,Sun,4:00 PM,14914,Highland   AK1,4,Revere   BLUE,3,Girls,U09,5 South EN,251
 Granger Park Fields (7v7 - Field #1A),8/30/26,Sun,5:30 PM,10916,Highland   DT,5,Columbia Station,10,Boys,U10,4 South EV,251
-Granger Park Fields (7v7 - Field #1A),9/10/26,Thu,6:30 PM,10901,Highland   DT,,Strongsville   DP,,Boys,U10,4 South EV,251
+Granger Park Fields (7v7 - Field #1A),9/10/26,Thu,6:30 PM,10901,Highland   DT,4,Strongsville   DP,1,Boys,U10,4 South EV,251
 Granger Park Fields (7v7 - Field #1A),9/11/26,Fri,6:30 PM,7620,Highland   JM1,,Revere,,Girls,U10,5 South,251
 Granger Park Fields (7v7 - Field #1A),9/13/26,Sun,11:30 AM,10324,Highland   BR1,,Revere   BLUE,,Boys,U09,5 South EV,251
 Granger Park Fields (7v7 - Field #1A),9/13/26,Sun,1:00 PM,10020,Highland   KS1,,Strongsville   BL,,Boys,U09,3 South,251
@@ -1242,7 +1242,7 @@ Gurney Elementary (Calvetta Brothers Floor Show - Field C 7v7),8/28/26,Fri,6:30 
 Gurney Elementary (Calvetta Brothers Floor Show - Field C 7v7),8/30/26,Sun,10:00 AM,14312,Chagrin Falls   Whit,6,Twinsburg   WHTE,1,Boys,U10,4 East EN,49
 Gurney Elementary (Calvetta Brothers Floor Show - Field C 7v7),8/30/26,Sun,1:00 PM,1311,Chagrin Falls,0,Mayfield   MF,5,Girls,U10,3 East,49
 Gurney Elementary (Calvetta Brothers Floor Show - Field C 7v7),8/30/26,Sun,2:30 PM,6816,Chagrin Falls   Oran,5,Twinsburg,2,Girls,U09,4 East,49
-Gurney Elementary (Calvetta Brothers Floor Show - Field C 7v7),9/8/26,Tue,6:30 PM,4210,Chagrin Falls   Oran,,Warren,,Boys,U10,2 East,49
+Gurney Elementary (Calvetta Brothers Floor Show - Field C 7v7),9/8/26,Tue,6:30 PM,4210,Chagrin Falls   Oran,1,Warren,4,Boys,U10,2 East,49
 Gurney Elementary (Calvetta Brothers Floor Show - Field C 7v7),9/13/26,Sun,1:00 PM,7115,Chagrin Falls   Blac,,Madison,,Girls,U09,5 East,49
 Gurney Elementary (Calvetta Brothers Floor Show - Field C 7v7),9/13/26,Sun,2:30 PM,6819,Chagrin Falls   Oran,,Solon United,,Girls,U09,4 East,49
 Gurney Elementary (Calvetta Brothers Floor Show - Field C 7v7),9/13/26,Sun,5:00 PM,10817,Chagrin Falls   Blac,,Eastside Kickers,,Boys,U10,4 East EV,49
@@ -1395,8 +1395,8 @@ Hopfinger Zimmerman Park (Field 1 - 7v7),8/30/26,Sun,2:30 PM,4315,Port Clinton  
 Hopfinger Zimmerman Park (Field 1 - 7v7),9/18/26,Fri,6:30 PM,15108,Port Clinton,,Westlake   BL,,Girls,U10,4 West EV,717
 Hopfinger Zimmerman Park (Field 1 - 7v7),9/20/26,Sun,11:30 AM,4323,Port Clinton   RED,,Amherst,,Boys,U10,3 West,717
 Hopfinger Zimmerman Park (Field 1 - 7v7),9/20/26,Sun,1:00 PM,4526,Port Clinton   WHT,,Bay Village   SA,,Boys,U10,5 West,717
-Hopfinger Zimmerman Park (Field 1 - 7v7),9/20/26,Sun,1:00 PM,15118,Port Clinton,,Avon Lake,,Girls,U10,4 West EV,717
 Hopfinger Zimmerman Park (Field 1 - 7v7),9/20/26,Sun,2:30 PM,7228,Port Clinton,,Midview,,Girls,U09,5 West,717
+Hopfinger Zimmerman Park (Field 1 - 7v7),9/24/26,Thu,6:30 PM,15118,Port Clinton,,Avon Lake,,Girls,U10,4 West EV,717
 Hopfinger Zimmerman Park (Field 1 - 7v7),9/27/26,Sun,11:30 AM,15121,Port Clinton,,Amherst,,Girls,U10,4 West EV,717
 Hopfinger Zimmerman Park (Field 1 - 7v7),9/27/26,Sun,1:00 PM,4532,Port Clinton   WHT,,Lakewood   B16W,,Boys,U10,5 West,717
 Hopfinger Zimmerman Park (Field 1 - 7v7),10/18/26,Sun,1:00 PM,15112,Port Clinton,,Bay Village   BH,,Girls,U10,4 West EV,717
@@ -1457,7 +1457,7 @@ James Day Park (Field # 3),8/30/26,Sun,11:30 AM,7411,Parma,8,North Ridgeville,3,
 James Day Park (Field # 3),8/30/26,Sun,1:00 PM,10319,Parma,5,Highland   BR1,6,Boys,U09,5 South EV,332
 James Day Park (Field # 3),8/31/26,Mon,6:00 PM,302,Parma,,Brunswick,,Boys,U08,South V,332
 James Day Park (Field # 3),9/1/26,Tue,6:30 PM,907,Parma,6,Westlake   GF,1,Girls,U09,4 West,332
-James Day Park (Field # 3),9/10/26,Thu,6:30 PM,14919,Parma,,Wadsworth   PHA,,Girls,U09,5 South EN,332
+James Day Park (Field # 3),9/10/26,Thu,6:30 PM,14919,Parma,6,Wadsworth   PHA,1,Girls,U09,5 South EN,332
 James Day Park (Field # 3),9/13/26,Sun,2:30 PM,310,Parma,,Strongsville   TK,,Boys,U08,South V,332
 James Day Park (Field # 3),9/13/26,Sun,4:00 PM,4524,Parma,,Bay Village   SA,,Boys,U10,5 West,332
 James Day Park (Field # 3),9/20/26,Sun,11:30 AM,7416,Parma,,Rocky River   WHT,,Girls,U10,4 West,332
@@ -1483,7 +1483,7 @@ James Day Park (Field # 7),8/27/26,Thu,6:30 PM,1809,Parma,3,Strongsville   MAD,0
 James Day Park (Field # 7),8/30/26,Sun,11:30 AM,1811,Parma,2,Bay Village   CM,3,Girls,U11,3 West,332
 James Day Park (Field # 7),8/30/26,Sun,1:00 PM,5513,Parma,3,Norwalk HCYSC,4,Boys,U12,5 West,332
 James Day Park (Field # 7),8/30/26,Sun,2:30 PM,2313,Parma,8,Lakewood   G14G,3,Girls,U12,3 West,332
-James Day Park (Field # 7),9/9/26,Wed,6:00 PM,4914,Parma,,LaGrange,,Boys,U11,4 West,332
+James Day Park (Field # 7),9/9/26,Wed,6:00 PM,4914,Parma,3,LaGrange,2,Boys,U11,4 West,332
 James Day Park (Field # 7),9/20/26,Sun,5:30 PM,1816,Parma,,Amherst,,Girls,U11,3 West,332
 James Day Park (Field # 7),9/27/26,Sun,11:30 AM,4927,Parma,,Norwalk HCYSC,,Boys,U11,4 West,332
 James Day Park (Field # 7),9/27/26,Sun,2:30 PM,5526,Parma,,Lakewood   B14B,,Boys,U12,5 West,332
@@ -1502,7 +1502,7 @@ James Day Park (Field #1),8/30/26,Sun,1:00 PM,5901,Parma,5,Olmsted Falls   Blue,
 James Day Park (Field #1),8/30/26,Sun,2:30 PM,13414,Parma,5,Green,1,Boys,U14/15,4 South,332
 James Day Park (Field #1),8/30/26,Sun,5:30 PM,3315,Parma,4,Westlake   RR,0,Girls,U14/15,3,332
 James Day Park (Field #1),9/1/26,Tue,6:00 PM,3308,Parma,1,North Olmsted,1,Girls,U14/15,3,332
-James Day Park (Field #1),9/9/26,Wed,6:00 PM,2819,Parma,,Strongsville   CL,,Girls,U13,3,332
+James Day Park (Field #1),9/9/26,Wed,6:00 PM,2819,Parma,5,Strongsville   CL,1,Girls,U13,3,332
 James Day Park (Field #1),9/20/26,Sun,2:30 PM,3323,Parma,,Highland   DE1,,Girls,U14/15,3,332
 James Day Park (Field #1),9/21/26,Mon,6:00 PM,3332,Parma,,Avon Lake,,Girls,U14/15,3,332
 James Day Park (Field #1),9/27/26,Sun,1:00 PM,5914,Parma,,TUSA,,Boys,U13,4 West,332
@@ -1517,11 +1517,11 @@ Kenston High School Bomber Stadium (Stadium Turf),8/16/26,Sun,1:00 PM,12702,Kens
 Kenston High School Bomber Stadium (Stadium Turf),8/16/26,Sun,4:00 PM,14802,Kenston,1,Mayfield   MA,1,Boys,U14/15,2 East,618
 Kenston High School Bomber Stadium (Stadium Turf),8/23/26,Sun,1:00 PM,12704,Kenston   SLV,0,Mayfield   DW,5,Boys,U13,4 East,618
 Kenston High School Bomber Stadium (Stadium Turf),8/23/26,Sun,2:30 PM,12705,Kenston   BLK,5,Hudson   HARR,0,Boys,U13,4 East,618
-Kenston High School Bomber Stadium (Stadium Turf),9/6/26,Sun,4:00 PM,14818,Kenston,,Hudson   GUTI,,Boys,U14/15,2 East,618
+Kenston High School Bomber Stadium (Stadium Turf),9/6/26,Sun,4:00 PM,14818,Kenston,2,Hudson   GUTI,1,Boys,U14/15,2 East,618
 Kenston High School Bomber Stadium (Stadium Turf),9/13/26,Sun,1:00 PM,12714,Kenston   BLK,,Wickliffe,,Boys,U13,4 East,618
-Kenston High School Bomber Stadium (Stadium Turf),9/20/26,Sun,1:00 PM,14822,Kenston,,Warren,,Boys,U14/15,2 East,618
 Kenston High School Bomber Stadium (Stadium Turf),9/20/26,Sun,2:30 PM,12717,Kenston   SLV,,Kenston   BLK,,Boys,U13,4 East,618
 Kenston High School Bomber Stadium (Stadium Turf),9/27/26,Sun,6:00 PM,2615,Kenston,,Medina   13GN,,Girls,U13,1,618
+Kenston High School Bomber Stadium (Stadium Turf),10/4/26,Sun,4:00 PM,14822,Kenston,,Warren,,Boys,U14/15,2 East,618
 Kenston High School Bomber Stadium (Stadium Turf),10/11/26,Sun,1:00 PM,12722,Kenston   BLK,,Mayfield   DW,,Boys,U13,4 East,618
 Kenston High School Bomber Stadium (Stadium Turf),10/11/26,Sun,4:00 PM,12723,Kenston   SLV,,Wickliffe,,Boys,U13,4 East,618
 Kenston High School Bomber Stadium (Stadium Turf),10/11/26,Sun,5:30 PM,2623,Kenston,,North Royalton,,Girls,U13,1,618
@@ -1531,7 +1531,7 @@ Kenston High School Grass Fields ( 11v11 Field 1),8/27/26,Thu,6:30 PM,14811,Kens
 Kenston High School Grass Fields (11v11 Field 2),8/30/26,Sun,6:00 PM,2610,Kenston,1,Mayfield   SS,1,Girls,U13,1,619
 Kirk Schuring Park (KSP 11v11 Field 7),8/27/26,Thu,6:30 PM,2720,Jackson,2,Twinsburg,5,Girls,U13,2,775
 Kirk Schuring Park (KSP 11v11 Field 7),8/31/26,Mon,6:30 PM,3217,Jackson,0,Hudson   BOWM,2,Girls,U14/15,2,775
-Kirk Schuring Park (KSP 11v11 Field 7),9/8/26,Tue,6:30 PM,3210,Jackson,,Perry (Stark),,Girls,U14/15,2,775
+Kirk Schuring Park (KSP 11v11 Field 7),9/8/26,Tue,6:30 PM,3210,Jackson,0,Perry (Stark),1,Girls,U14/15,2,775
 Kirk Schuring Park (KSP 7v7 Field 8),8/23/26,Sun,5:30 PM,7304,Jackson,3,Ashland,6,Girls,U10,3 South,775
 Kirk Schuring Park (KSP 7v7 Field 8),8/25/26,Tue,6:30 PM,14015,Jackson,3,Eagles Select   U8B,4,Boys,U09,5 South EN,775
 Kirk Schuring Park (KSP 7v7 Field 8),8/30/26,Sun,2:30 PM,7010,Jackson,4,Medina   U9WT,8,Girls,U09,4 South,775
@@ -1552,7 +1552,7 @@ Kreuger Park (11v11 #1),8/16/26,Sun,1:00 PM,12901,Mentor,1,North Royalton,0,Boys
 Kreuger Park (11v11 #1),8/27/26,Thu,6:30 PM,13312,Mentor,2,Stow   Mar,4,Boys,U14/15,4 East,77
 Kreuger Park (11v11 #1),8/30/26,Sun,11:30 AM,12908,Mentor,2,West Geauga,3,Boys,U13,5 East,77
 Kreuger Park (11v11 #1),8/30/26,Sun,4:00 PM,2911,Mentor,0,Bay Village   JK,2,Girls,U13,4,77
-Kreuger Park (11v11 #1),9/6/26,Sun,11:00 AM,2909,Mentor,,Firelands,,Girls,U13,4,77
+Kreuger Park (11v11 #1),9/6/26,Sun,11:00 AM,2909,Mentor,1,Firelands,2,Girls,U13,4,77
 Kreuger Park (11v11 #1),9/13/26,Sun,11:30 AM,13317,Mentor,,NP Aurora,,Boys,U14/15,4 East,77
 Kreuger Park (11v11 #1),9/20/26,Sun,11:30 AM,2916,Mentor,,North Royalton,,Girls,U13,4,77
 Kreuger Park (11v11 #1),9/20/26,Sun,5:30 PM,13321,Mentor,,Shaker Hts.   B/R,,Boys,U14/15,4 East,77
@@ -1586,7 +1586,7 @@ LaGrange Community Park (Field #3),8/23/26,Sun,10:00 AM,7209,LaGrange,6,Rocky Ri
 LaGrange Community Park (Field #3),8/26/26,Wed,6:00 PM,3907,LaGrange,7,Bay Village   SE,2,Boys,U09,4 West EN,16
 LaGrange Community Park (Field #3),8/30/26,Sun,10:00 AM,7220,LaGrange,4,Port Clinton,0,Girls,U09,5 West,16
 LaGrange Community Park (Field #3),9/22/26,Tue,6:30 PM,3924,LaGrange,,Rocky River   WHT,,Boys,U09,4 West EN,16
-LaGrange Community Park (Field #3),10/2/26,Fri,6:30 PM,3925,LaGrange,,Bay Village   DS,,Boys,U09,4 West EN,16
+LaGrange Community Park (Field #3),9/29/26,Tue,6:00 PM,3925,LaGrange,,Bay Village   DS,,Boys,U09,4 West EN,16
 LaGrange Community Park (Field #3),10/11/26,Sun,2:30 PM,7240,LaGrange,,Westlake   KP,,Girls,U09,5 West,16
 LaGrange Community Park (Field #4),9/10/26,Thu,6:30 PM,4910,LaGrange,,Fairview Park,,Boys,U11,4 West,16
 LaGrange Community Park (Field #4),9/13/26,Sun,6:00 PM,4823,LaGrange,,Strongsville   TG,,Boys,U11,3,16
@@ -1598,7 +1598,7 @@ LaGrange Community Park (Field #4),10/5/26,Mon,6:00 PM,4920,LaGrange,,Bay Villag
 LaGrange Community Park (Field #4),10/11/26,Sun,1:00 PM,4836,LaGrange,,Brecksville Bees SA,,Boys,U11,3,16
 LaGrange Community Park (Field #5),8/25/26,Tue,6:30 PM,5809,LaGrange,5,Avon Lake,2,Boys,U13,3 West,16
 LaGrange Community Park (Field #5),8/27/26,Thu,6:30 PM,5806,LaGrange,2,Bay Village   TH,4,Boys,U13,3 West,16
-LaGrange Community Park (Field #5),9/8/26,Tue,6:30 PM,2912,LaGrange,,Amherst,,Girls,U13,4,16
+LaGrange Community Park (Field #5),9/8/26,Tue,6:30 PM,2912,LaGrange,2,Amherst,0,Girls,U13,4,16
 LaGrange Community Park (Field #5),9/11/26,Fri,6:30 PM,2918,LaGrange,,Firelands,,Girls,U13,4,16
 LaGrange Community Park (Field #5),9/15/26,Tue,6:30 PM,2908,LaGrange,,Bay Village   JK,,Girls,U13,4,16
 LaGrange Community Park (Field #5),9/17/26,Thu,6:00 PM,5816,LaGrange,,Westlake   DS,,Boys,U13,3 West,16
@@ -1621,8 +1621,8 @@ Lake Community Park (Behind Lake HS Stadium) (13U/14U/15U/HS 11v11),8/16/26,Sun,
 Lake Community Park (Behind Lake HS Stadium) (13U/14U/15U/HS 11v11),8/23/26,Sun,4:00 PM,13005,Lake Select SC   U13,6,Barberton,1,Boys,U13,5 South,668
 Lake Community Park (Behind Lake HS Stadium) (13U/14U/15U/HS 11v11),8/23/26,Sun,5:30 PM,13606,Lake Select SC   U14,5,Wadsworth   PET,0,Boys,U14/15,5 South,668
 Lake Community Park (Behind Lake HS Stadium) (13U/14U/15U/HS 11v11),8/29/26,Sat,1:00 PM,9405,Lake Select SC   U14,0,Revere   BLUE,1,Girls,U14/15,5 South,668
-Lake Community Park (Behind Lake HS Stadium) (13U/14U/15U/HS 11v11),9/12/26,Sat,6:00 PM,9401,Lake Select SC   U14,,Cuyahoga Falls   EK,,Girls,U14/15,5 South,668
 Lake Community Park (Behind Lake HS Stadium) (13U/14U/15U/HS 11v11),9/13/26,Sun,5:30 PM,9419,Lake Select SC   U14,,PLX United,,Girls,U14/15,5 South,668
+Lake Community Park (Behind Lake HS Stadium) (13U/14U/15U/HS 11v11),9/19/26,Sat,6:00 PM,9401,Lake Select SC   U14,,Cuyahoga Falls   EK,,Girls,U14/15,5 South,668
 Lake Community Park (Behind Lake HS Stadium) (13U/14U/15U/HS 11v11),9/27/26,Sun,2:30 PM,13628,Lake Select SC   U14,,Barberton,,Boys,U14/15,5 South,668
 Lake Community Park (Behind Lake HS Stadium) (13U/14U/15U/HS 11v11),10/4/26,Sun,2:30 PM,9416,Lake Select SC   U14,,Chippewa,,Girls,U14/15,5 South,668
 Lake Community Park (Behind Lake HS Stadium) (13U/14U/15U/HS 11v11),10/10/26,Sat,3:00 PM,13022,Lake Select SC   U13,,Dover,,Boys,U13,5 South,668
@@ -1750,7 +1750,6 @@ Lomond School (Field #1),8/23/26,Sun,2:30 PM,1207,Shaker Hts.   BLK,4,Olmsted Fa
 Lomond School (Field #1),8/30/26,Sun,1:00 PM,11017,Shaker Hts.   SLV,1,Mentor,2,Boys,U10,5 East,420
 Lomond School (Field #1),8/30/26,Sun,2:30 PM,7720,Shaker Hts.   WHT,4,Eastside Kickers   SEL,0,Girls,U10,5 East,420
 Lomond School (Field #1),9/2/26,Wed,6:30 PM,14307,Shaker Hts.   WHT,2,Twinsburg   WHTE,1,Boys,U10,4 East EN,420
-Lomond School (Field #1),9/9/26,Wed,6:30 PM,11014,Shaker Hts.   GLD,,Shaker Hts.   SLV,,Boys,U10,5 East,420
 Lomond School (Field #1),9/20/26,Sun,9:00 AM,11030,Shaker Hts.   GLD,,Mentor,,Boys,U10,5 East,420
 Lomond School (Field #1),10/11/26,Sun,2:30 PM,10623,Shaker Hts.   RED,,Solon United,,Boys,U10,3 East,420
 Lomond School (Field #1),10/17/26,Sat,4:00 PM,14319,Shaker Hts.   WHT,,Stow   Gold,,Boys,U10,4 East EN,420
@@ -1765,6 +1764,9 @@ Lomond School (Field #2),8/23/26,Sun,6:30 PM,11010,Shaker Hts.   SLV,1,Willoughb
 Lomond School (Field #2),8/30/26,Sun,2:30 PM,14120,Shaker Hts.   SLV,3,Hudson   SCHA,1,Boys,U09,5 East EV,420
 Lomond School (Field #2),9/15/26,Tue,6:30 PM,11001,Shaker Hts.   SLV,,Solon United,,Boys,U10,5 East,420
 Lomond School (Field #2),9/20/26,Sun,9:30 AM,10617,Shaker Hts.   RED,,Independence,,Boys,U10,3 East,420
+Lomond School (Field #2),10/11/26,Sun,11:30 AM,1322,Shaker Hts.   RED,,Warren,,Girls,U10,3 East,420
+Lomond School (Field #2),10/11/26,Sun,1:00 PM,739,Shaker Hts.   BLK,,Avon,,Girls,U09,2,420
+Lomond School (Field #2),10/11/26,Sun,2:30 PM,215,Shaker Hts.   BLK,,Orange,,Boys,U08,East,420
 Lomond School (Field #2),10/25/26,Sun,10:00 AM,14301,Shaker Hts.   WHT,,Wickliffe,,Boys,U10,4 East EN,420
 Lou Groza Field (Lou Groza football field),8/30/26,Sun,11:30 AM,5907,TUSA,7,Amherst,3,Boys,U13,4 West,693
 Lou Groza Field (Lou Groza football field),9/20/26,Sun,11:30 AM,5912,TUSA,,Lakewood   B13G,,Boys,U13,4 West,693
@@ -1777,20 +1779,20 @@ Lucille Heasley Soccer Fields (Heasley 1),8/23/26,Sun,11:30 AM,11507,North Royal
 Lucille Heasley Soccer Fields (Heasley 1),8/27/26,Thu,6:30 PM,2407,North Royalton,3,Avon,1,Girls,U12,4 West,261
 Lucille Heasley Soccer Fields (Heasley 1),8/30/26,Sun,2:30 PM,11519,North Royalton,5,Highland   BB1,4,Boys,U11,4 South,261
 Lucille Heasley Soccer Fields (Heasley 1),8/31/26,Mon,6:30 PM,1608,North Royalton,1,Highland   EM2,2,Girls,U11,1,261
-Lucille Heasley Soccer Fields (Heasley 1),9/9/26,Wed,6:00 PM,1621,North Royalton,,Medina   11GN,,Girls,U11,1,261
+Lucille Heasley Soccer Fields (Heasley 1),9/9/26,Wed,6:00 PM,1621,North Royalton,1,Medina   11GN,3,Girls,U11,1,261
 Lucille Heasley Soccer Fields (Heasley 1),9/13/26,Sun,1:00 PM,12018,North Royalton,,Strongsville   EE-B,,Boys,U12,3 South,261
 Lucille Heasley Soccer Fields (Heasley 1),9/13/26,Sun,5:30 PM,1814,North Royalton,,Parma,,Girls,U11,3 West,261
 Lucille Heasley Soccer Fields (Heasley 1),9/16/26,Wed,6:30 PM,1612,North Royalton,,Stow   Mar,,Girls,U11,1,261
 Lucille Heasley Soccer Fields (Heasley 1),9/19/26,Sat,6:00 PM,2416,North Royalton,,Sandusky,,Girls,U12,4 West,261
 Lucille Heasley Soccer Fields (Heasley 1),9/20/26,Sun,2:30 PM,11526,North Royalton,,Tallmadge,,Boys,U11,4 South,261
 Lucille Heasley Soccer Fields (Heasley 1),9/20/26,Sun,4:00 PM,12022,North Royalton,,Wadsworth   KEN,,Boys,U12,3 South,261
-Lucille Heasley Soccer Fields (Heasley 1),9/20/26,Sun,5:30 PM,1618,North Royalton,,Avon,,Girls,U11,1,261
+Lucille Heasley Soccer Fields (Heasley 1),9/23/26,Wed,6:30 PM,1618,North Royalton,,Avon,,Girls,U11,1,261
 Lucille Heasley Soccer Fields (Heasley 1),9/25/26,Fri,6:30 PM,4609,North Royalton,,Aurora,,Boys,U11,1,261
 Lucille Heasley Soccer Fields (Heasley 1),9/27/26,Sun,11:30 AM,11532,North Royalton,,Medina   11Wh,,Boys,U11,4 South,261
 Lucille Heasley Soccer Fields (Heasley 1),9/27/26,Sun,4:00 PM,4626,North Royalton,,Medina   11Gr,,Boys,U11,1,261
-Lucille Heasley Soccer Fields (Heasley 1),9/27/26,Sun,5:30 PM,2421,North Royalton,,Brecksville Bees SA,,Girls,U12,4 West,261
-Lucille Heasley Soccer Fields (Heasley 1),10/9/26,Fri,6:30 PM,4631,North Royalton,,North Canton,,Boys,U11,1,261
+Lucille Heasley Soccer Fields (Heasley 1),10/1/26,Thu,5:30 PM,2421,North Royalton,,Brecksville Bees SA,,Girls,U12,4 West,261
 Lucille Heasley Soccer Fields (Heasley 1),10/11/26,Sun,5:30 PM,1822,North Royalton,,Amherst,,Girls,U11,3 West,261
+Lucille Heasley Soccer Fields (Heasley 1),10/15/26,Thu,6:00 PM,4631,North Royalton,,North Canton,,Boys,U11,1,261
 Lucille Heasley Soccer Fields (Heasley 1),10/18/26,Sun,11:30 AM,12011,North Royalton,,Brecksville Bees SA,,Boys,U12,3 South,261
 Lucille Heasley Soccer Fields (Heasley 1),10/18/26,Sun,2:30 PM,4613,North Royalton,,Green,,Boys,U11,1,261
 Lucille Heasley Soccer Fields (Heasley 2 W),8/21/26,Fri,6:30 PM,1112,North Royalton,6,Brunswick   RYL,1,Girls,U10,1,261
@@ -1805,9 +1807,9 @@ Lucille Heasley Soccer Fields (Heasley 2),8/27/26,Thu,6:30 PM,5712,North Royalto
 Lucille Heasley Soccer Fields (Heasley 2),8/28/26,Fri,6:30 PM,12906,North Royalton,3,Shaker Hts.   WHT,2,Boys,U13,5 East,261
 Lucille Heasley Soccer Fields (Heasley 2),8/30/26,Sun,11:30 AM,13112,North Royalton,3,Riverside   CT,7,Boys,U14/15,3 East,261
 Lucille Heasley Soccer Fields (Heasley 2),9/13/26,Sun,4:00 PM,2913,North Royalton,,LaGrange,,Girls,U13,4,261
+Lucille Heasley Soccer Fields (Heasley 2),9/17/26,Thu,6:00 PM,9023,North Royalton,,Twinsburg,,Girls,U14/15,3 East,261
 Lucille Heasley Soccer Fields (Heasley 2),9/20/26,Sun,1:00 PM,12911,North Royalton,,Mentor,,Boys,U13,5 East,261
 Lucille Heasley Soccer Fields (Heasley 2),9/20/26,Sun,2:30 PM,5721,North Royalton,,Stow   Mar,,Boys,U13,2,261
-Lucille Heasley Soccer Fields (Heasley 2),9/20/26,Sun,4:00 PM,9023,North Royalton,,Twinsburg,,Girls,U14/15,3 East,261
 Lucille Heasley Soccer Fields (Heasley 2),9/20/26,Sun,5:30 PM,2824,North Royalton,,Revere,,Girls,U13,3,261
 Lucille Heasley Soccer Fields (Heasley 2),9/21/26,Mon,6:00 PM,5717,North Royalton,,Avon Lake,,Boys,U13,2,261
 Lucille Heasley Soccer Fields (Heasley 2),9/23/26,Wed,6:30 PM,2618,North Royalton,,Bay Village   CA,,Girls,U13,1,261
@@ -1868,9 +1870,13 @@ Macedonia Rec (Manor Field),8/16/26,Sun,10:30 AM,11002,Nordonia,7,Mentor,3,Boys,
 Macedonia Rec (Manor Field),8/16/26,Sun,3:00 PM,7702,Nordonia,,Willoughby,,Girls,U10,5 East,756
 Macedonia Rec (Manor Field),8/23/26,Sun,12:00 PM,7708,Nordonia,5,Hudson   KENS,0,Girls,U10,5 East,756
 Macedonia Rec (Manor Field),9/13/26,Sun,1:00 PM,7724,Nordonia,,Shaker Hts.   WHT,,Girls,U10,5 East,756
+Macedonia Rec (Manor Field),9/13/26,Sun,2:30 PM,14125,Nordonia,,Chagrin Falls,,Boys,U09,5 East EV,756
 Macedonia Rec (Manor Field),9/17/26,Thu,6:30 PM,11024,Nordonia,,Mantua,,Boys,U10,5 East,756
+Macedonia Rec (Manor Field),9/20/26,Sun,2:30 PM,14130,Nordonia,,Mayfield   RC,,Boys,U09,5 East EV,756
+Macedonia Rec (Manor Field),9/27/26,Sun,3:00 PM,14134,Nordonia,,Twinsburg   WHTE,,Boys,U09,5 East EV,756
 Macedonia Rec (Manor Field),10/11/26,Sun,1:00 PM,11039,Nordonia,,Shaker Hts.   SLV,,Boys,U10,5 East,756
 Macedonia Rec (Manor Field),10/18/26,Sun,10:00 AM,7739,Nordonia,,Rootstown,,Girls,U10,5 East,756
+Macedonia Rec (Manor Field),10/18/26,Sun,11:30 AM,14114,Nordonia,,West Geauga,,Boys,U09,5 East EV,756
 Macedonia Rec Center 9v9 Field (North Fields),8/16/26,Sun,11:30 AM,8802,Nordonia,5,Amherst,0,Girls,U12,5,115
 Macedonia Rec Center 9v9 Field (North Fields),8/16/26,Sun,4:00 PM,14603,Nordonia,7,Broadview Hts.,2,Boys,U11,5 East EN,115
 Macedonia Rec Center 9v9 Field (North Fields),8/17/26,Mon,6:30 PM,12101,Nordonia,1,Stow   Gold,3,Boys,U12,4 East,115
@@ -1879,14 +1885,10 @@ Macedonia Rec Center 9v9 Field (North Fields),8/23/26,Sun,1:00 PM,11008,Nordonia
 Macedonia Rec Center 9v9 Field (North Fields),8/23/26,Sun,2:20 PM,12110,Nordonia,1,Riverside   Gold,2,Boys,U12,4 East,115
 Macedonia Rec Center 9v9 Field (North Fields),8/30/26,Sun,2:30 PM,12117,Nordonia,1,Eastside Kickers,6,Boys,U12,4 East,115
 Macedonia Rec Center 9v9 Field (North Fields),9/13/26,Sun,11:30 AM,14614,Nordonia,,Shaker Hts.   SLV,,Boys,U11,5 East EN,115
-Macedonia Rec Center 9v9 Field (North Fields),9/13/26,Sun,2:30 PM,14125,Nordonia,,Chagrin Falls,,Boys,U09,5 East EV,115
 Macedonia Rec Center 9v9 Field (North Fields),9/13/26,Sun,5:30 PM,8818,Nordonia,,Twinsburg   WHT,,Girls,U12,5,115
 Macedonia Rec Center 9v9 Field (North Fields),9/20/26,Sun,1:00 PM,8822,Nordonia,,Orange,,Girls,U12,5,115
-Macedonia Rec Center 9v9 Field (North Fields),9/20/26,Sun,2:30 PM,14130,Nordonia,,Mayfield   RC,,Boys,U09,5 East EV,115
 Macedonia Rec Center 9v9 Field (North Fields),9/27/26,Sun,1:00 PM,12133,Nordonia,,Orange,,Boys,U12,4 East,115
-Macedonia Rec Center 9v9 Field (North Fields),9/27/26,Sun,3:00 PM,14134,Nordonia,,Twinsburg   WHTE,,Boys,U09,5 East EV,115
 Macedonia Rec Center 9v9 Field (North Fields),10/11/26,Sun,4:00 PM,14622,Nordonia,,Westlake   LD,,Boys,U11,5 East EN,115
-Macedonia Rec Center 9v9 Field (North Fields),10/18/26,Sun,11:30 AM,14114,Nordonia,,West Geauga,,Boys,U09,5 East EV,115
 Macedonia Rec Center 9v9 Field (North Fields),10/18/26,Sun,1:00 PM,8811,Nordonia,,Lakewood   G14P,,Girls,U12,5,115
 Madison Middle School (11v11),8/16/26,Sun,10:00 AM,9104,Madison,2,Hudson   CARP,5,Girls,U14/15,4 East,289
 Madison Middle School (11v11),8/23/26,Sun,1:00 PM,9106,Madison,0,Riverside,5,Girls,U14/15,4 East,289
@@ -1928,8 +1930,7 @@ Madison Middle School (9v9),10/25/26,Sun,2:30 PM,11614,Madison,,Eastside Kickers
 "Madison Park  (Grass Field - 7v7, 9v9)",8/30/26,Sun,11:30 AM,13913,Lakewood   B17B,3,North Olmsted,6,Boys,U09,5 West EN,311
 "Madison Park  (Grass Field - 7v7, 9v9)",8/30/26,Sun,2:30 PM,719,Lakewood   G17G,2,Shaker Hts.   BLK,7,Girls,U09,2,311
 "Madison Park  (Grass Field - 7v7, 9v9)",8/30/26,Sun,4:00 PM,7410,Lakewood   G16P,4,Rocky River   WHT,3,Girls,U10,4 West,311
-"Madison Park  (Grass Field - 7v7, 9v9)",9/9/26,Wed,6:30 PM,4511,Lakewood   B16W,,Bay Village   SA,,Boys,U10,5 West,311
-"Madison Park  (Grass Field - 7v7, 9v9)",9/11/26,Fri,6:30 PM,5120,Lakewood   B14G,,Orange,,Boys,U12,1,311
+"Madison Park  (Grass Field - 7v7, 9v9)",9/9/26,Wed,6:30 PM,4511,Lakewood   B16W,3,Bay Village   SA,7,Boys,U10,5 West,311
 "Madison Park  (Grass Field - 7v7, 9v9)",9/13/26,Sun,10:00 AM,15009,Lakewood   G16G,,Twinsburg   Blue,,Girls,U10,3 West,311
 "Madison Park  (Grass Field - 7v7, 9v9)",9/13/26,Sun,11:30 AM,4522,Lakewood   B16W,,Brunswick   BLK,,Boys,U10,5 West,311
 "Madison Park  (Grass Field - 7v7, 9v9)",9/13/26,Sun,1:00 PM,3918,Lakewood   B17P,,LaGrange,,Boys,U09,4 West EN,311
@@ -2010,7 +2011,7 @@ Mayfield High School Stadium (Stadium),10/25/26,Sun,4:00 PM,2628,Mayfield   SS,,
 "Mayfield Village (Field 2 - North fields, middle field)",8/27/26,Thu,6:30 PM,14115,Mayfield   RC,5,Stow   Blck,0,Boys,U09,5 East EV,108
 "Mayfield Village (Field 2 - North fields, middle field)",8/28/26,Fri,6:30 PM,810,Mayfield   Sk,1,North Ridgeville,5,Girls,U09,3,108
 "Mayfield Village (Field 2 - North fields, middle field)",8/30/26,Sun,2:30 PM,9911,Mayfield   SR,6,Eastside Kickers,1,Boys,U09,3 East,108
-"Mayfield Village (Field 2 - North fields, middle field)",9/10/26,Thu,6:30 PM,9906,Mayfield   SR,,Geauga Federation SC,,Boys,U09,3 East,108
+"Mayfield Village (Field 2 - North fields, middle field)",9/10/26,Thu,6:30 PM,9906,Mayfield   SR,5,Geauga Federation SC,0,Boys,U09,3 East,108
 "Mayfield Village (Field 2 - North fields, middle field)",9/12/26,Sat,5:30 PM,14131,Mayfield   RC,,Hudson   SCHA,,Boys,U09,5 East EV,108
 "Mayfield Village (Field 2 - North fields, middle field)",9/13/26,Sun,10:00 AM,820,Mayfield   Sk,,Aurora,,Girls,U09,3,108
 "Mayfield Village (Field 2 - North fields, middle field)",9/13/26,Sun,5:30 PM,4114,Mayfield   KHA,,Green,,Boys,U10,1,108
@@ -2039,7 +2040,7 @@ Mayfield Village (Field 3 - North Field closest to Route 91),9/27/26,Sun,5:30 PM
 Mayfield Village (Field 3 - North Field closest to Route 91),10/11/26,Sun,5:30 PM,4739,Mayfield   MO,,Bay Village   MC,,Boys,U11,2,108
 Mayfield Village (Field 3 - North Field closest to Route 91),10/18/26,Sun,5:00 PM,4702,Mayfield   MO,,Westlake   AM,,Boys,U11,2,108
 Mayfield Village (Field 4),8/16/26,Sun,5:30 PM,12701,Mayfield   DW,5,Wickliffe,0,Boys,U13,4 East,108
-Mayfield Village (Field 4),9/10/26,Thu,6:30 PM,14817,Mayfield   MA,,Green,,Boys,U14/15,2 East,108
+Mayfield Village (Field 4),9/10/26,Thu,6:30 PM,14817,Mayfield   MA,2,Green,1,Boys,U14/15,2 East,108
 Mayfield Village (Field 4),9/13/26,Sun,2:30 PM,12713,Mayfield   DW,,Kent   BW,,Boys,U13,4 East,108
 Mayfield Village (Field 4),9/15/26,Tue,6:30 PM,2625,Mayfield   SS,,Green,,Girls,U13,1,108
 Mayfield Village (Field 4),10/18/26,Sun,11:00 AM,12707,Mayfield   DW,,Kenston   BLK,,Boys,U13,4 East,108
@@ -2048,8 +2049,8 @@ Medina - Blakeslee Park (Blakeslee A- up front near road),8/23/26,Sun,11:30 AM,8
 Medina - Blakeslee Park (Blakeslee A- up front near road),8/25/26,Tue,6:30 PM,1609,Medina   11GN,6,Avon,4,Girls,U11,1,207
 Medina - Blakeslee Park (Blakeslee A- up front near road),8/27/26,Thu,6:30 PM,7908,Medina   11WT,4,Copley,6,Girls,U11,3 South,207
 Medina - Blakeslee Park (Blakeslee A- up front near road),8/30/26,Sun,5:30 PM,1611,Medina   11GN,4,Highland   EM2,1,Girls,U11,1,207
-Medina - Blakeslee Park (Blakeslee A- up front near road),9/3/26,Thu,6:30 PM,5202,Medina   12Gr,,Green,,Boys,U12,2,207
 Medina - Blakeslee Park (Blakeslee A- up front near road),9/13/26,Sun,4:00 PM,5224,Medina   12Gr,,North Canton,,Boys,U12,2,207
+Medina - Blakeslee Park (Blakeslee A- up front near road),9/16/26,Wed,6:00 PM,5202,Medina   12Gr,,Green,,Boys,U12,2,207
 Medina - Blakeslee Park (Blakeslee A- up front near road),9/16/26,Wed,6:15 PM,8517,Medina   12GN,,Highland   BD1,,Girls,U12,3 South,207
 Medina - Blakeslee Park (Blakeslee A- up front near road),9/27/26,Sun,6:00 PM,7921,Medina   11WT,,Stow   Gold,,Girls,U11,3 South,207
 Medina - Blakeslee Park (Blakeslee A- up front near road),10/8/26,Thu,6:30 PM,8523,Medina   12GN,,Columbia Station,,Girls,U12,3 South,207
@@ -2089,10 +2090,10 @@ Medina Huffman/Cunningham Fields (Cunningham 12 (11v11) ),8/23/26,Sun,5:30 PM,30
 Medina Huffman/Cunningham Fields (Cunningham 12 (11v11) ),8/23/26,Sun,6:30 PM,3208,Medina   14GN,3,Rocky River   MRN,1,Girls,U14/15,2,205
 Medina Huffman/Cunningham Fields (Cunningham 12 (11v11) ),8/26/26,Wed,6:30 PM,5615,Medina   13Gr,1,Solon United,2,Boys,U13,1,205
 Medina Huffman/Cunningham Fields (Cunningham 12 (11v11) ),8/30/26,Sun,4:00 PM,3011,Medina   13WT,0,Perry (Stark),4,Girls,U13,4 South,205
-Medina Huffman/Cunningham Fields (Cunningham 12 (11v11) ),9/13/26,Sun,10:00 AM,2621,Medina   13GN,,Mayfield   SS,,Girls,U13,1,205
 Medina Huffman/Cunningham Fields (Cunningham 12 (11v11) ),9/13/26,Sun,11:30 AM,12619,Medina   13Wh,,Brunswick,,Boys,U13,3 South,205
 Medina Huffman/Cunningham Fields (Cunningham 12 (11v11) ),9/20/26,Sun,2:30 PM,6116,Medina   15Gr,,Olmsted Falls   Blue,,Boys,U14/15,1,205
 Medina Huffman/Cunningham Fields (Cunningham 12 (11v11) ),10/11/26,Sun,5:30 PM,3239,Medina   14GN,,Jackson,,Girls,U14/15,2,205
+Medina Huffman/Cunningham Fields (Cunningham 12 (11v11) ),10/18/26,Sun,1:00 PM,2621,Medina   13GN,,Mayfield   SS,,Girls,U13,1,205
 Medina Huffman/Cunningham Fields (Cunningham 13 (9v9)),8/30/26,Sun,2:30 PM,7912,Medina   11WT,1,Wadsworth   STA,2,Girls,U11,3 South,205
 Medina Huffman/Cunningham Fields (Cunningham 14 (7v7)),8/23/26,Sun,4:00 PM,6705,Medina   U9GN,5,Brunswick,3,Girls,U09,3 South,205
 Medina Huffman/Cunningham Fields (Cunningham 14 (7v7)),8/25/26,Tue,6:30 PM,1005,Medina   U8GY,5,Akron Inner City,0,Girls,U09,5 South EV,205
@@ -2176,13 +2177,13 @@ Memorial Elementary (#1 7v7),8/30/26,Sun,2:00 PM,4501,Brunswick   BLK,2,Port Cli
 Memorial Elementary (#1 7v7),8/30/26,Sun,4:00 PM,6710,Brunswick,7,Green,3,Girls,U09,3 South,253
 Memorial Elementary (#1 7v7),8/30/26,Sun,5:30 PM,10714,Brunswick   RYL,2,Cuyahoga Falls   MG,1,Boys,U10,3 South,253
 Memorial Elementary (#1 7v7),9/2/26,Wed,6:30 PM,3814,Brunswick   RYL,1,Rocky River   MRN,6,Boys,U09,3 West,253
-Memorial Elementary (#1 7v7),9/3/26,Thu,6:30 PM,6715,Brunswick,,Highland   EM1,,Girls,U09,3 South,253
 Memorial Elementary (#1 7v7),9/8/26,Tue,6:30 PM,307,Brunswick,,Strongsville   JD,,Boys,U08,South V,253
 Memorial Elementary (#1 7v7),9/13/26,Sun,12:00 PM,10325,Brunswick   WHT,,Parma,,Boys,U09,5 South EV,253
+Memorial Elementary (#1 7v7),9/13/26,Sun,1:30 PM,6715,Brunswick,,Highland   EM1,,Girls,U09,3 South,253
 Memorial Elementary (#1 7v7),9/13/26,Sun,5:00 PM,1114,Brunswick   RYL,,Medina   10GN,,Girls,U10,1,253
+Memorial Elementary (#1 7v7),9/18/26,Fri,6:00 PM,10724,Brunswick   WHT,,Brunswick   RYL,,Boys,U10,3 South,253
 Memorial Elementary (#1 7v7),9/20/26,Sun,1:00 PM,10330,Brunswick   WHT,,Copley,,Boys,U09,5 South EV,253
 Memorial Elementary (#1 7v7),9/20/26,Sun,2:30 PM,312,Brunswick,,Parma,,Boys,U08,South V,253
-Memorial Elementary (#1 7v7),9/20/26,Sun,4:00 PM,10724,Brunswick   WHT,,Brunswick   RYL,,Boys,U10,3 South,253
 Memorial Elementary (#1 7v7),9/21/26,Mon,6:30 PM,15012,Brunswick   WHT,,North Royalton,,Girls,U10,3 West,253
 Memorial Elementary (#1 7v7),9/27/26,Sun,11:30 AM,4533,Brunswick   BLK,,Bay Village   AF,,Boys,U10,5 West,253
 Memorial Elementary (#1 7v7),9/27/26,Sun,1:00 PM,6720,Brunswick,,Medina   U9GN,,Girls,U09,3 South,253
@@ -2212,6 +2213,7 @@ Mercer Elementary School (7v7 Field),8/16/26,Sun,5:30 PM,7703,Shaker Hts.   WHT,
 Mercer Elementary School (7v7 Field),8/23/26,Sun,11:00 AM,7709,Shaker Hts.   WHT,3,Willoughby,6,Girls,U10,5 East,798
 Mercer Elementary School (7v7 Field),8/23/26,Sun,5:30 PM,14109,Shaker Hts.   SLV,1,Mayfield   RC,6,Boys,U09,5 East EV,798
 Mercer Elementary School (7v7 Field),8/27/26,Thu,6:30 PM,10111,Shaker Hts.   RED,6,Eastside Kickers   SEL,3,Boys,U09,4 East,798
+Mercer Elementary School (7v7 Field),9/9/26,Wed,6:30 PM,11014,Shaker Hts.   GLD,,Shaker Hts.   SLV,,Boys,U10,5 East,798
 Mercer Elementary School (7v7 Field),9/13/26,Sun,6:30 PM,210,Shaker Hts.   BLK,,Shaker Hts.   RED,,Boys,U08,East,798
 Mercer Elementary School (7v7 Field),9/20/26,Sun,9:30 AM,7117,Shaker Hts.   U8B,,Shaker Hts.   RED,,Girls,U09,5 East,798
 Mercer Elementary School (7v7 Field),9/20/26,Sun,5:30 PM,1226,Shaker Hts.   BLK,,Rocky River   MRN,,Girls,U10,2,798
@@ -2313,8 +2315,8 @@ Midview Soccer Complex (Field H),8/26/26,Wed,6:30 PM,5011,Midview   JL,1,Midview
 Midview Soccer Complex (Field H),8/28/26,Fri,6:30 PM,5005,Midview   JL,0,Avon,5,Boys,U11,5 West,89
 Midview Soccer Complex (Field H),8/30/26,Sun,11:30 AM,5020,Midview   TJ,0,Avon,5,Boys,U11,5 West,89
 Midview Soccer Complex (Field H),8/30/26,Sun,5:00 PM,2012,Midview,6,Buckeye,2,Girls,U11,5 West,89
-Midview Soccer Complex (Field H),9/8/26,Tue,6:30 PM,2214,Midview,,Firelands,,Girls,U12,2,89
-Midview Soccer Complex (Field H),9/9/26,Wed,6:30 PM,5003,Midview   TJ,,Fairview Park,,Boys,U11,5 West,89
+Midview Soccer Complex (Field H),9/8/26,Tue,6:30 PM,2214,Midview,1,Firelands,5,Girls,U12,2,89
+Midview Soccer Complex (Field H),9/9/26,Wed,6:30 PM,5003,Midview   TJ,5,Fairview Park,2,Boys,U11,5 West,89
 Midview Soccer Complex (Field H),9/13/26,Sun,11:30 AM,5022,Midview   JL,,Rocky River   WHT,,Boys,U11,5 West,89
 Midview Soccer Complex (Field H),9/13/26,Sun,4:00 PM,2013,Midview,,Fairview Park,,Girls,U11,5 West,89
 Midview Soccer Complex (Field H),9/20/26,Sun,5:30 PM,2017,Midview,,Rocky River   GRY,,Girls,U11,5 West,89
@@ -2408,16 +2410,16 @@ Newton Park (404),9/27/26,Sun,4:30 PM,14035,Barberton,,Manchester,,Boys,U09,5 So
 Newton Park (404),10/11/26,Sun,2:30 PM,14524,Barberton,,Eagles Select   U10,,Boys,U10,5 South EN,577
 Nordonia High School (Stadium),8/16/26,Sun,8:30 AM,12502,Nordonia,5,Shaker Hts.   RED,4,Boys,U13,3 East,129
 Nordonia High School (Stadium),8/16/26,Sun,1:00 PM,9103,Nordonia,1,Riverside,2,Girls,U14/15,4 East,129
-Nordonia High School (Stadium),8/16/26,Sun,4:00 PM,13502,Nordonia,,Eastlake,,Boys,U14/15,5,129
 Nordonia High School (Stadium),8/23/26,Sun,4:00 PM,9109,Nordonia,0,Wickliffe,5,Girls,U14/15,4 East,129
 Nordonia High School (Stadium),8/30/26,Sun,2:30 PM,9120,Nordonia,2,Aurora,0,Girls,U14/15,4 East,129
-Nordonia High School (Stadium),9/13/26,Sun,1:00 PM,13510,Nordonia,,Streetsboro,,Boys,U14/15,5,129
-Nordonia High School (Stadium),9/13/26,Sun,5:00 PM,12518,Nordonia,,Riverside   KC,,Boys,U13,3 East,129
 Nordonia High School (Stadium),9/20/26,Sun,2:30 PM,12522,Nordonia,,NP Aurora,,Boys,U13,3 East,129
 Nordonia High School (Stadium),10/11/26,Sun,1:00 PM,13515,Nordonia,,Rocky River   WHT,,Boys,U14/15,5,129
 Nordonia High School (Stadium),10/11/26,Sun,2:30 PM,9140,Nordonia,,Madison,,Girls,U14/15,4 East,129
+Nordonia High School (Stadium),10/11/26,Sun,5:00 PM,13502,Nordonia,,Eastlake,,Boys,U14/15,5,129
 Nordonia High School (Stadium),10/18/26,Sun,12:00 PM,12511,Nordonia,,Riverside   JJ,,Boys,U13,3 East,129
 Nordonia High School (Stadium),10/18/26,Sun,2:30 PM,13518,Nordonia,,Lakewood   B12P,,Boys,U14/15,5,129
+Nordonia Middle School (Grass field ),9/13/26,Sun,5:00 PM,12518,Nordonia,,Riverside   KC,,Boys,U13,3 East,235
+Nordonia Middle School (Grass field ),9/14/26,Mon,6:30 PM,13510,Nordonia,,Streetsboro,,Boys,U14/15,5,235
 North Larwrence Township Park (7v7),8/23/26,Sun,11:30 AM,6706,Mustangs Jr,4,Ashland,3,Girls,U09,3 South,627
 North Larwrence Township Park (7v7),8/23/26,Sun,1:00 PM,7306,Mustangs Jr,2,New Philadelphia   JB,0,Girls,U10,3 South,627
 North Larwrence Township Park (7v7),8/25/26,Tue,6:30 PM,6709,Mustangs Jr,3,Brunswick,0,Girls,U09,3 South,627
@@ -2498,7 +2500,7 @@ Oakleaf Community Park (Field 1: Bottom),8/30/26,Sun,11:30 AM,1012,Norton,5,Medi
 Oakleaf Community Park (Field 1: Bottom),8/30/26,Sun,1:00 PM,7310,Norton,1,Ashland,3,Girls,U10,3 South,583
 Oakleaf Community Park (Field 1: Bottom),8/30/26,Sun,4:00 PM,10715,Norton,3,Ashland,4,Boys,U10,3 South,583
 Oakleaf Community Park (Field 1: Bottom),9/3/26,Thu,6:30 PM,1008,Norton,,Wadsworth   ACC,,Girls,U09,5 South EV,583
-Oakleaf Community Park (Field 1: Bottom),9/10/26,Thu,6:30 PM,10002,Norton,,Ashland,,Boys,U09,3 South,583
+Oakleaf Community Park (Field 1: Bottom),9/10/26,Thu,6:30 PM,10002,Norton,2,Ashland,4,Boys,U09,3 South,583
 Oakleaf Community Park (Field 1: Bottom),9/13/26,Sun,10:00 AM,10018,Norton,,Green,,Boys,U09,3 South,583
 Oakleaf Community Park (Field 1: Bottom),9/13/26,Sun,5:30 PM,7315,Norton,,Jackson,,Girls,U10,3 South,583
 Oakleaf Community Park (Field 1: Bottom),9/19/26,Sat,1:00 PM,10723,Norton,,Revere   RED,,Boys,U10,3 South,583
@@ -2523,7 +2525,7 @@ Oakleaf Community Park (Field 4: Middle ),9/20/26,Sun,5:30 PM,12622,Norton,,Medi
 Oberland Park (11v11 - Field 4),8/27/26,Thu,6:30 PM,5709,Geauga Federation SC,2,Akron Inner City,7,Boys,U13,2,90
 Oberland Park (11v11 - Field 4),8/30/26,Sun,1:00 PM,5713,Geauga Federation SC,3,Highland   NF2,1,Boys,U13,2,90
 Oberland Park (11v11 - Field 4),8/30/26,Sun,4:00 PM,13110,Geauga Federation SC,2,Solon United,4,Boys,U14/15,3 East,90
-Oberland Park (11v11 - Field 4),9/9/26,Wed,6:15 PM,13115,Geauga Federation SC,,Hudson   NEGR,,Boys,U14/15,3 East,90
+Oberland Park (11v11 - Field 4),9/9/26,Wed,6:15 PM,13115,Geauga Federation SC,1,Hudson   NEGR,0,Boys,U14/15,3 East,90
 Oberland Park (11v11 - Field 4),9/13/26,Sun,1:00 PM,9020,Geauga Federation SC,,Twinsburg,,Girls,U14/15,3 East,90
 Oberland Park (11v11 - Field 4),9/27/26,Sun,11:30 AM,13120,Geauga Federation SC,,Riverside   CT,,Boys,U14/15,3 East,90
 Oberland Park (11v11 - Field 4),9/27/26,Sun,1:00 PM,5726,Geauga Federation SC,,North Royalton,,Boys,U13,2,90
@@ -2546,7 +2548,7 @@ Oberland Park (7-7 Field 2),8/30/26,Sun,5:00 PM,6814,Geauga Federation SC,0,Huds
 Oberland Park (7-7 Field 2),8/30/26,Sun,5:30 PM,10612,Geauga Federation SC,3,Independence,2,Boys,U10,3 East,90
 Oberland Park (7-7 Field 2),9/20/26,Sun,11:45 AM,9918,Geauga Federation SC,,Stow   Mar,,Boys,U09,3 East,90
 Oberland Park (7-7 Field 2),9/20/26,Sun,1:00 PM,10436,Geauga Federation SC,,Solon United,,Boys,U09,5 East EN,90
-Oberland Park (7-7 Field 2),9/20/26,Sun,4:00 PM,10618,Geauga Federation SC,,Riverside   JA,,Boys,U10,3 East,90
+Oberland Park (7-7 Field 2),9/26/26,Sat,3:00 PM,10618,Geauga Federation SC,,Riverside   JA,,Boys,U10,3 East,90
 Oberland Park (7-7 Field 2),9/27/26,Sun,11:30 AM,10621,Geauga Federation SC,,Solon United,,Boys,U10,3 East,90
 Oberland Park (7-7 Field 2),9/27/26,Sun,1:00 PM,9921,Geauga Federation SC,,Mayfield   SR,,Boys,U09,3 East,90
 Oberland Park (7-7 Field 2),9/27/26,Sun,5:30 PM,1427,Geauga Federation SC,,Eastside Kickers,,Girls,U10,4 East,90
@@ -2636,7 +2638,7 @@ Oregon Trail Park (Oregon Trail Park 7v7 #747),8/30/26,Sun,2:30 PM,9910,Stow   M
 Oregon Trail Park (Oregon Trail Park 7v7 #747),8/30/26,Sun,4:00 PM,10420,Stow   Gold,2,Euclid,3,Boys,U09,5 East EN,177
 Oregon Trail Park (Oregon Trail Park 7v7 #747),8/30/26,Sun,6:00 PM,1310,Stow   Mar,1,Warren,6,Girls,U10,3 East,177
 Oregon Trail Park (Oregon Trail Park 7v7 #747),9/2/26,Wed,6:30 PM,1001,Stow   Gold,2,Highland   KR1,1,Girls,U09,5 South EV,177
-Oregon Trail Park (Oregon Trail Park 7v7 #747),9/10/26,Thu,6:30 PM,13814,Stow   Gray,,Eagles Select   U9,,Boys,U09,4 South EV,177
+Oregon Trail Park (Oregon Trail Park 7v7 #747),9/10/26,Thu,6:30 PM,13814,Stow   Gray,2,Eagles Select   U9,5,Boys,U09,4 South EV,177
 Oregon Trail Park (Oregon Trail Park 7v7 #747),9/13/26,Sun,1:00 PM,9915,Stow   Mar,,Eastside Kickers,,Boys,U09,3 East,177
 Oregon Trail Park (Oregon Trail Park 7v7 #747),9/13/26,Sun,4:00 PM,10430,Stow   Gold,,Solon United,,Boys,U09,5 East EN,177
 Oregon Trail Park (Oregon Trail Park 7v7 #747),9/13/26,Sun,6:00 PM,14918,Stow   Mar,,North Royalton,,Girls,U09,5 South EN,177
@@ -2690,7 +2692,7 @@ Osborne Park (Osborne Park 9v9),8/23/26,Sun,4:00 PM,11607,Willoughby,0,Geauga Fe
 Osborne Park (Osborne Park 9v9),8/23/26,Sun,5:30 PM,11207,Willoughby,2,Shaker Hts.   RED,6,Boys,U11,3 East,81
 Osborne Park (Osborne Park 9v9),8/26/26,Wed,6:00 PM,11408,Willoughby,5,Solon United,0,Boys,U11,4 East,81
 Osborne Park (Osborne Park 9v9),8/27/26,Thu,6:30 PM,11609,Willoughby,6,Mantua,2,Boys,U11,5 East EV,81
-Osborne Park (Osborne Park 9v9),9/8/26,Tue,6:30 PM,12316,Willoughby,,Mantua,,Boys,U12,5 East,81
+Osborne Park (Osborne Park 9v9),9/8/26,Tue,6:30 PM,12316,Willoughby,5,Mantua,0,Boys,U12,5 East,81
 Osborne Park (Osborne Park 9v9),9/9/26,Wed,6:30 PM,11419,Willoughby,,Hudson   CORV,,Boys,U11,4 East,81
 Osborne Park (Osborne Park 9v9),9/13/26,Sun,5:00 PM,12319,Willoughby,,Aurora,,Boys,U12,5 East,81
 Osborne Park (Osborne Park 9v9),9/20/26,Sun,1:00 PM,11224,Willoughby,,Riverside   BH,,Boys,U11,3 East,81
@@ -2762,7 +2764,6 @@ Parkside (Field #1S - 7v7),10/16/26,Fri,5:30 PM,919,Westlake   GF,,Avon,,Girls,U
 Parkside (Field #1S - 7v7),10/25/26,Sun,2:30 PM,420,Westlake   BL,,Bay Village   MU,,Girls,U08,West N,690
 Parkside (Field #2 - 11v11),8/23/26,Sun,6:30 PM,3106,Westlake   JD,0,Stow   Mar,0,Girls,U14/15,1,690
 Parkside (Field #2 - 11v11),8/28/26,Fri,6:30 PM,3109,Westlake   JD,0,Bay Village   DR,5,Girls,U14/15,1,690
-Parkside (Field #2 - 11v11),9/9/26,Wed,6:30 PM,3317,Westlake   RR,,Avon Lake,,Girls,U14/15,3,690
 Parkside (Field #2 - 11v11),9/20/26,Sun,4:00 PM,6217,Westlake   MW,,Midview,,Boys,U14/15,2,690
 Parkside (Field #2 - 11v11),10/18/26,Sun,5:30 PM,5819,Westlake   DS,,Port Clinton,,Boys,U13,3 West,690
 Parkside (Field #2N - 7v7),9/8/26,Tue,6:30 PM,102,Westlake   MC,,Avon Lake,,Boys,U08,West V,690
@@ -2771,8 +2772,8 @@ Parkside (Field #2N - 7v7),9/13/26,Sun,4:00 PM,9715,Westlake   KM,,Olmsted Falls
 Parkside (Field #2N - 7v7),9/23/26,Wed,6:15 PM,9720,Westlake   KM,,Bay Village   NP,,Boys,U08,West N,690
 Parkside (Field #2N - 7v7),9/24/26,Thu,6:00 PM,3734,Westlake   CG,,Lakewood   B17G,,Boys,U09,2,690
 Parkside (Field #2S - 7v7),8/23/26,Sun,11:30 AM,3905,Westlake   TB,6,North Olmsted,1,Boys,U09,4 West EN,690
-Parkside (Field #2S - 7v7),9/3/26,Thu,6:30 PM,3714,Westlake   CG,,Avon Lake,,Boys,U09,2,690
 Parkside (Field #2S - 7v7),9/13/26,Sun,4:00 PM,110,Westlake   MC,,Olmsted Falls   Gold,,Boys,U08,West V,690
+Parkside (Field #2S - 7v7),9/28/26,Mon,6:15 PM,3714,Westlake   CG,,Avon Lake,,Boys,U09,2,690
 Parkside (Field #2S - 7v7),9/30/26,Wed,6:00 PM,735,Westlake   JB,,Rocky River   MRN,,Girls,U09,2,690
 Pleasant Valley (7v7) (PV - 7v7),8/16/26,Sun,11:30 AM,14002,New Philadelphia   MV,5,Jackson,4,Boys,U09,5 South EN,774
 Pleasant Valley (7v7) (PV - 7v7),8/23/26,Sun,2:30 PM,14008,New Philadelphia   MV,4,Ashland,4,Boys,U09,5 South EN,774
@@ -2809,7 +2810,7 @@ Portage Lakes Career Center Fields (101),8/25/26,Tue,6:30 PM,6707,Green,4,Medina
 Portage Lakes Career Center Fields (101),8/27/26,Thu,6:30 PM,4109,Green,2,Avon,3,Boys,U10,1,439
 Portage Lakes Career Center Fields (101),8/30/26,Sun,11:30 AM,14410,Green,3,Copley,8,Boys,U10,4 South EN,439
 Portage Lakes Career Center Fields (101),9/4/26,Fri,6:30 PM,1107,Green,0,Brunswick   RYL,2,Girls,U10,1,439
-Portage Lakes Career Center Fields (101),9/8/26,Tue,6:30 PM,6701,Green,,Mustangs Jr,,Girls,U09,3 South,439
+Portage Lakes Career Center Fields (101),9/8/26,Tue,6:30 PM,6701,Green,5,Mustangs Jr,3,Girls,U09,3 South,439
 Portage Lakes Career Center Fields (101),9/13/26,Sun,11:30 AM,14415,Green,,Field,,Boys,U10,4 South EN,439
 Portage Lakes Career Center Fields (101),9/13/26,Sun,1:00 PM,1113,Green,,North Royalton,,Girls,U10,1,439
 Portage Lakes Career Center Fields (101),9/13/26,Sun,2:30 PM,6713,Green,,Ashland,,Girls,U09,3 South,439
@@ -2864,6 +2865,7 @@ Porter Fields (Field #2 - 11v11),8/19/26,Wed,6:30 PM,3321,Westlake   RR,0,Strong
 Porter Fields (Field #2 - 11v11),8/23/26,Sun,5:30 PM,6204,Westlake   MW,4,North Olmsted,1,Boys,U14/15,2,246
 Porter Fields (Field #2 - 11v11),8/27/26,Thu,6:30 PM,5807,Westlake   DS,2,Fairview Park,3,Boys,U13,3 West,246
 Porter Fields (Field #2 - 11v11),8/28/26,Fri,6:30 PM,6315,Westlake   WV,6,Independence,1,Boys,U14/15,3 West,246
+Porter Fields (Field #2 - 11v11),9/9/26,Wed,6:30 PM,3317,Westlake   RR,0,Avon Lake,5,Girls,U14/15,3,246
 Porter Fields (Field #2 - 11v11),9/13/26,Sun,2:30 PM,5813,Westlake   DS,,Bay Village   TH,,Boys,U13,3 West,246
 Porter Fields (Field #2 - 11v11),9/13/26,Sun,4:00 PM,6321,Westlake   WV,,Sandusky,,Boys,U14/15,3 West,246
 Porter Fields (Field #2 - 11v11),9/16/26,Wed,6:15 PM,6338,Westlake   WV,,Lakewood   B12G,,Boys,U14/15,3 West,246
@@ -2879,8 +2881,8 @@ Revere High School (Revere High School),9/13/26,Sun,2:30 PM,12620,Revere,,Wadswo
 Revere High School (Revere High School),9/17/26,Thu,6:15 PM,3214,Revere   RED,,Jackson,,Girls,U14/15,2,154
 Revere High School (Revere High School),9/20/26,Sun,1:00 PM,9421,Revere   BLUE,,Cuyahoga Falls   EK,,Girls,U14/15,5 South,154
 Revere High School (Revere High School),9/20/26,Sun,6:00 PM,13221,Revere,,Copley,,Boys,U14/15,3 South,154
-Revere High School (Revere High School),9/27/26,Sun,10:00 AM,3234,Revere   RED,,Medina   14GN,,Girls,U14/15,2,154
 Revere High School (Revere High School),9/27/26,Sun,1:00 PM,12628,Revere,,Norton,,Boys,U13,3 South,154
+Revere High School (Revere High School),9/27/26,Sun,5:30 PM,3234,Revere   RED,,Medina   14GN,,Girls,U14/15,2,154
 Revere High School (Revere High School),10/11/26,Sun,1:00 PM,9430,Revere   BLUE,,Mustangs Jr,,Girls,U14/15,5 South,154
 Revere High School (Revere High School),10/11/26,Sun,2:30 PM,12629,Revere,,Medina   13Wh,,Boys,U13,3 South,154
 Revere High School (Revere High School),10/11/26,Sun,4:00 PM,13230,Revere,,Ashland,,Boys,U14/15,3 South,154
@@ -2957,9 +2959,9 @@ River Road Park (River Road Park 9v9 West),8/26/26,Wed,6:30 PM,11211,Kenston,2,R
 River Road Park (River Road Park 9v9 West),8/30/26,Sun,5:30 PM,11914,Kenston,2,Chagrin Falls,4,Boys,U12,3 East,617
 River Road Park (River Road Park 9v9 West),9/13/26,Sun,1:00 PM,11218,Kenston,,Willoughby,,Boys,U11,3 East,617
 River Road Park (River Road Park 9v9 West),9/13/26,Sun,2:30 PM,8414,Kenston,,Twinsburg   Blue,,Girls,U12,3 East,617
-River Road Park (River Road Park 9v9 West),9/20/26,Sun,5:30 PM,11222,Kenston,,NP Aurora,,Boys,U11,3 East,617
 River Road Park (River Road Park 9v9 West),9/27/26,Sun,5:30 PM,11927,Kenston,,West Geauga,,Boys,U12,3 East,617
 River Road Park (River Road Park 9v9 West),10/12/26,Mon,6:00 PM,8422,Kenston,,Independence,,Girls,U12,3 East,617
+River Road Park (River Road Park 9v9 West),10/16/26,Fri,6:00 PM,11222,Kenston,,NP Aurora,,Boys,U11,3 East,617
 River Road Park (River Road Park East 3),8/16/26,Sun,10:00 AM,10601,Kenston   BL,2,Solon United,3,Boys,U10,3 East,617
 River Road Park (River Road Park East 3),8/16/26,Sun,11:30 AM,201,Kenston,,Shaker Hts.   RED,,Boys,U08,East,617
 River Road Park (River Road Park East 3),8/25/26,Tue,6:30 PM,11012,Kenston   WT,2,Nordonia,7,Boys,U10,5 East,617
@@ -2996,7 +2998,7 @@ Riverview Elementary 7v7 (7v7),8/16/26,Sun,3:00 PM,10802,Riverside   CB,9,Chagri
 Riverview Elementary 7v7 (7v7),8/23/26,Sun,11:30 AM,7106,Riverside,5,Shaker Hts.   U8B,1,Girls,U09,5 East,15
 Riverview Elementary 7v7 (7v7),8/30/26,Sun,1:00 PM,10610,Riverside   JA,3,Kenston   BL,2,Boys,U10,3 East,15
 Riverview Elementary 7v7 (7v7),8/30/26,Sun,2:30 PM,7111,Riverside,2,Madison,1,Girls,U09,5 East,15
-Riverview Elementary 7v7 (7v7),9/9/26,Wed,6:30 PM,10811,Riverside   CB,,Eastside Kickers,,Boys,U10,4 East EV,15
+Riverview Elementary 7v7 (7v7),9/9/26,Wed,6:30 PM,10811,Riverside   CB,2,Eastside Kickers,7,Boys,U10,4 East EV,15
 Riverview Elementary 7v7 (7v7),9/13/26,Sun,11:30 AM,10818,Riverside   CB,,Hudson   GRWA,,Boys,U10,4 East EV,15
 Riverview Elementary 7v7 (7v7),9/13/26,Sun,1:00 PM,10117,Riverside,,Eastside Kickers   SEL,,Boys,U09,4 East,15
 Riverview Elementary 7v7 (7v7),9/13/26,Sun,2:30 PM,7114,Riverside,,Brecksville Bees SA,,Girls,U09,5 East,15
@@ -3017,7 +3019,7 @@ Riverview Elementary 7v7 (9v9),8/28/26,Fri,6:30 PM,12113,Riverside   Gold,4,Stow
 Riverview Elementary 7v7 (9v9),8/30/26,Sun,11:30 AM,11214,Riverside   BH,2,Shaker Hts.   RED,5,Boys,U11,3 East,15
 Riverview Elementary 7v7 (9v9),8/30/26,Sun,4:00 PM,8014,Riverside,0,Mentor,3,Girls,U11,4,15
 Riverview Elementary 7v7 (9v9),8/30/26,Sun,6:45 PM,12118,Riverside   Gold,2,Shaker Hts.   WHT,2,Boys,U12,4 East,15
-Riverview Elementary 7v7 (9v9),9/9/26,Wed,6:30 PM,11403,Riverside   BP,,Stow   Gold,,Boys,U11,4 East,15
+Riverview Elementary 7v7 (9v9),9/9/26,Wed,6:30 PM,11403,Riverside   BP,3,Stow   Gold,2,Boys,U11,4 East,15
 Riverview Elementary 7v7 (9v9),9/13/26,Sun,10:00 AM,8617,Riverside,,Solon United,,Girls,U12,4 East,15
 Riverview Elementary 7v7 (9v9),9/13/26,Sun,11:30 AM,11918,Riverside   Blk,,Geauga Federation SC,,Boys,U12,3 East,15
 Riverview Elementary 7v7 (9v9),9/13/26,Sun,4:00 PM,11436,Riverside   BP,,West Geauga,,Boys,U11,4 East,15
@@ -3097,7 +3099,7 @@ Rootstown Community Park  (#5),9/20/26,Sun,1:00 PM,14717,Rootstown,,Tallmadge,,B
 Rootstown Community Park  (#7),8/23/26,Sun,10:00 AM,7710,Rootstown,1,West Geauga,4,Girls,U10,5 East,651
 Rootstown Community Park  (#7),8/31/26,Mon,6:30 PM,7717,Rootstown,3,Willoughby,5,Girls,U10,5 East,651
 Rootstown Community Park  (#7),9/4/26,Fri,6:30 PM,10336,Rootstown,4,North Royalton,7,Boys,U09,5 South EV,651
-Rootstown Community Park  (#7),9/8/26,Tue,6:00 PM,10323,Rootstown,,Eagles Select   U8A,,Boys,U09,5 South EV,651
+Rootstown Community Park  (#7),9/8/26,Tue,6:00 PM,10323,Rootstown,4,Eagles Select   U8A,7,Boys,U09,5 South EV,651
 Rootstown Community Park  (#7),9/12/26,Sat,4:00 PM,10312,Rootstown,,Highland   BR1,,Boys,U09,5 South EV,651
 Rootstown Community Park  (#7),9/20/26,Sun,2:30 PM,10328,Rootstown,,Broadview Hts.,,Boys,U09,5 South EV,651
 Rootstown Community Park  (#7),9/26/26,Sat,4:00 PM,7733,Rootstown,,Tallmadge,,Girls,U10,5 East,651
@@ -3132,6 +3134,7 @@ Schady Rd Soccer Complex (7v7-1),8/24/26,Mon,6:30 PM,706,Olmsted Falls   Blue,5,
 Schady Rd Soccer Complex (7v7-1),10/12/26,Mon,6:00 PM,716,Olmsted Falls   Blue,,North Royalton,,Girls,U09,2,12
 Schady Rd Soccer Complex (7v7-1),10/25/26,Sun,2:30 PM,120,Olmsted Falls   Gold,,Westlake   MC,,Boys,U08,West V,12
 Schady Rd Soccer Complex (7v7-2),8/25/26,Tue,6:30 PM,106,Olmsted Falls   Gold,,Avon Lake,,Boys,U08,West V,12
+Schady Rd Soccer Complex (7v7-2),9/20/26,Sun,4:00 PM,4427,Olmsted Falls   Silv,,Olmsted Falls   Gold,,Boys,U10,4 West,12
 Schady Rd Soccer Complex (7v7-3),8/16/26,Sun,11:30 AM,4003,Olmsted Falls   Silv,3,Rocky River   BLK,0,Boys,U09,5 West EV,12
 Schady Rd Soccer Complex (7v7-3),8/16/26,Sun,2:30 PM,9702,Olmsted Falls   Blue,,Westlake   KM,,Boys,U08,West N,12
 Schady Rd Soccer Complex (7v7-3),8/16/26,Sun,4:00 PM,4404,Olmsted Falls   Silv,1,Norwalk HCYSC,6,Boys,U10,4 West,12
@@ -3144,12 +3147,11 @@ Schady Rd Soccer Complex (7v7-3),8/28/26,Fri,6:30 PM,4515,Olmsted Falls   Wht,3,
 Schady Rd Soccer Complex (7v7-3),8/30/26,Sun,11:30 AM,4416,Olmsted Falls   Silv,1,North Olmsted,2,Boys,U10,4 West,12
 Schady Rd Soccer Complex (7v7-3),8/30/26,Sun,4:00 PM,3813,Olmsted Falls   Blue,4,Avon Lake,0,Boys,U09,3 West,12
 Schady Rd Soccer Complex (7v7-3),8/31/26,Mon,6:30 PM,4402,Olmsted Falls   Gold,3,Avon Lake,2,Boys,U10,4 West,12
-Schady Rd Soccer Complex (7v7-3),9/10/26,Thu,6:30 PM,818,Olmsted Falls   Gold,,Strongsville   DC,,Girls,U09,3,12
+Schady Rd Soccer Complex (7v7-3),9/10/26,Thu,6:30 PM,818,Olmsted Falls   Gold,4,Strongsville   DC,2,Girls,U09,3,12
 Schady Rd Soccer Complex (7v7-3),9/13/26,Sun,11:30 AM,4521,Olmsted Falls   Wht,,Rocky River   WHT,,Boys,U10,5 West,12
 Schady Rd Soccer Complex (7v7-3),9/13/26,Sun,2:30 PM,4424,Olmsted Falls   Gold,,Avon,,Boys,U10,4 West,12
 Schady Rd Soccer Complex (7v7-3),9/13/26,Sun,5:30 PM,10515,Olmsted Falls   Blue,,Lakewood   B16G,,Boys,U10,2 West,12
 Schady Rd Soccer Complex (7v7-3),9/16/26,Wed,6:00 PM,4008,Olmsted Falls   Silv,,Columbia Station,,Boys,U09,5 West EV,12
-Schady Rd Soccer Complex (7v7-3),9/20/26,Sun,11:30 AM,4427,Olmsted Falls   Silv,,Olmsted Falls   Gold,,Boys,U10,4 West,12
 Schady Rd Soccer Complex (7v7-3),9/20/26,Sun,2:30 PM,13924,Olmsted Falls   Gold,,Avon Lake,,Boys,U09,5 West EN,12
 Schady Rd Soccer Complex (7v7-3),9/20/26,Sun,4:00 PM,9717,Olmsted Falls   Blue,,Bay Village   NP,,Boys,U08,West N,12
 Schady Rd Soccer Complex (7v7-3),9/20/26,Sun,5:30 PM,111,Olmsted Falls   Gold,,Bay Village   BK,,Boys,U08,West V,12
@@ -3172,7 +3174,7 @@ Schady Rd Soccer Complex (7v7-4),8/25/26,Tue,6:30 PM,3809,Olmsted Falls   Blue,5
 Schady Rd Soccer Complex (7v7-4),8/26/26,Wed,6:30 PM,508,Olmsted Falls   Blue,,North Ridgeville,,Girls,U08,West V,12
 Schady Rd Soccer Complex (7v7-4),8/30/26,Sun,5:30 PM,512,Olmsted Falls   Blue,,Columbia Station,,Girls,U08,West V,12
 Schady Rd Soccer Complex (7v7-4),9/2/26,Wed,6:30 PM,10510,Olmsted Falls   Blue,,North Royalton,,Boys,U10,2 West,12
-Schady Rd Soccer Complex (7v7-4),9/9/26,Wed,6:00 PM,1212,Olmsted Falls   Blue,,Westlake   NF,,Girls,U10,2,12
+Schady Rd Soccer Complex (7v7-4),9/9/26,Wed,6:00 PM,1212,Olmsted Falls   Blue,4,Westlake   NF,1,Girls,U10,2,12
 Schady Rd Soccer Complex (7v7-4),9/13/26,Sun,1:00 PM,1223,Olmsted Falls   Blue,,Bay Village   BW,,Girls,U10,2,12
 Schady Rd Soccer Complex (7v7-4),9/13/26,Sun,5:30 PM,802,Olmsted Falls   Gold,,Bay Village   JW,,Girls,U09,3,12
 Schady Rd Soccer Complex (7v7-4),9/20/26,Sun,1:00 PM,1228,Olmsted Falls   Blue,,Cuyahoga Falls   TC,,Girls,U10,2,12
@@ -3188,7 +3190,6 @@ Schady Rd Soccer Complex (9v9-1),8/16/26,Sun,4:00 PM,5303,Olmsted Falls   Blue,6
 Schady Rd Soccer Complex (9v9-1),8/23/26,Sun,5:30 PM,5305,Olmsted Falls   Blue,1,Bay Village   AC,6,Boys,U12,3 West,12
 Schady Rd Soccer Complex (9v9-1),8/25/26,Tue,6:30 PM,5510,Olmsted Falls   Gold,3,Bay Village   JS,2,Boys,U12,5 West,12
 Schady Rd Soccer Complex (9v9-1),8/27/26,Thu,6:30 PM,5015,Olmsted Falls   Gold,1,North Ridgeville,5,Boys,U11,5 West,12
-Schady Rd Soccer Complex (9v9-1),9/2/26,Wed,6:30 PM,4712,Olmsted Falls   Blue,,Mayfield   MO,,Boys,U11,2,12
 Schady Rd Soccer Complex (9v9-1),9/13/26,Sun,11:30 AM,5520,Olmsted Falls   Gold,,Parma,,Boys,U12,5 West,12
 Schady Rd Soccer Complex (9v9-1),9/13/26,Sun,1:00 PM,5021,Olmsted Falls   Gold,,Sandusky,,Boys,U11,5 West,12
 Schady Rd Soccer Complex (9v9-1),9/13/26,Sun,4:00 PM,5314,Olmsted Falls   Blue,,Rocky River   MRN,,Boys,U12,3 West,12
@@ -3198,12 +3199,13 @@ Schady Rd Soccer Complex (9v9-1),10/11/26,Sun,11:30 AM,5322,Olmsted Falls   Blue
 Schady Rd Soccer Complex (9v9-1),10/11/26,Sun,4:00 PM,5038,Olmsted Falls   Gold,,TUSA,,Boys,U11,5 West,12
 Schady Rd Soccer Complex (9v9-1),10/11/26,Sun,5:30 PM,5529,Olmsted Falls   Gold,,Port Clinton,,Boys,U12,5 West,12
 Schady Rd Soccer Complex (9v9-1),10/14/26,Wed,5:30 PM,4736,Olmsted Falls   Blue,,Rocky River   MRN,,Boys,U11,2,12
+Schady Rd Soccer Complex (9v9-1),10/17/26,Sat,4:00 PM,4712,Olmsted Falls   Blue,,Mayfield   MO,,Boys,U11,2,12
 Schady Rd Soccer Complex (9v9-2),8/16/26,Sun,11:30 AM,1704,Olmsted Falls   Blue,3,Jackson,2,Girls,U11,2,12
 Schady Rd Soccer Complex (9v9-2),8/23/26,Sun,11:30 AM,2307,Olmsted Falls   Blue,1,Westlake   CG,1,Girls,U12,3 West,12
 Schady Rd Soccer Complex (9v9-2),8/23/26,Sun,6:00 PM,1706,Olmsted Falls   Blue,7,Cuyahoga Falls   RV,3,Girls,U11,2,12
 Schady Rd Soccer Complex (9v9-2),8/25/26,Tue,6:30 PM,1808,Olmsted Falls   Gold,3,Bay Village   CM,1,Girls,U11,3 West,12
 Schady Rd Soccer Complex (9v9-2),8/30/26,Sun,1:00 PM,1812,Olmsted Falls   Gold,4,North Royalton,2,Girls,U11,3 West,12
-Schady Rd Soccer Complex (9v9-2),9/9/26,Wed,6:00 PM,4728,Olmsted Falls   Blue,,Bay Village   MC,,Boys,U11,2,12
+Schady Rd Soccer Complex (9v9-2),9/9/26,Wed,6:00 PM,4728,Olmsted Falls   Blue,1,Bay Village   MC,6,Boys,U11,2,12
 Schady Rd Soccer Complex (9v9-2),9/13/26,Sun,12:00 PM,4723,Olmsted Falls   Blue,,Shaker Hts.   BLK,,Boys,U11,2,12
 Schady Rd Soccer Complex (9v9-2),9/13/26,Sun,4:00 PM,2324,Olmsted Falls   Blue,,Port Clinton,,Girls,U12,3 West,12
 Schady Rd Soccer Complex (9v9-2),9/14/26,Mon,6:00 PM,1716,Olmsted Falls   Blue,,Avon Lake,,Girls,U11,2,12
@@ -3221,7 +3223,6 @@ Schwartz Road Park (#10 - 7v7),9/13/26,Sun,4:00 PM,15113,Avon,,Port Clinton,,Gir
 Schwartz Road Park (#10 - 7v7),9/27/26,Sun,11:30 AM,1120,Avon,,Brunswick   RYL,,Girls,U10,1,330
 Schwartz Road Park (#10 - 7v7),10/9/26,Fri,6:00 PM,4120,Avon,,Mayfield   KHA,,Boys,U10,1,330
 Schwartz Road Park (#10 - 7v7),10/11/26,Sun,2:30 PM,4440,Avon,,Olmsted Falls   Silv,,Boys,U10,4 West,330
-Schwartz Road Park (#10 - 7v7),10/18/26,Sun,5:30 PM,15119,Avon,,Westlake   BL,,Girls,U10,4 West EV,330
 Schwartz Road Park (#11 - 7v7),8/28/26,Fri,6:30 PM,733,Avon,0,Olmsted Falls   Blue,0,Girls,U09,2,330
 Schwartz Road Park (#11 - 7v7),9/13/26,Sun,2:30 PM,1115,Avon,,Hudson   BATS,,Girls,U10,1,330
 Schwartz Road Park (#11 - 7v7),10/9/26,Fri,6:30 PM,1509,Avon,,North Olmsted,,Girls,U10,5 West,330
@@ -3260,9 +3261,9 @@ Schwartz Road Park (#3 - 9v9),10/11/26,Sun,5:30 PM,5036,Avon,,Sandusky,,Boys,U11
 Schwartz Road Park (#3 - 9v9),10/17/26,Sat,1:00 PM,4610,Avon,,Hudson   SFER,,Boys,U11,1,330
 Schwartz Road Park (#3 - 9v9),10/18/26,Sun,1:00 PM,2026,Avon,,Midview,,Girls,U11,5 West,330
 Schwartz Road Park (#3 - 9v9),10/18/26,Sun,2:30 PM,5012,Avon,,Lakewood   B15G,,Boys,U11,5 West,330
+Schwartz Road Park (#3 - 9v9),10/18/26,Sun,4:00 PM,1615,Avon,,Highland   EM2,,Girls,U11,1,330
 Schwartz Road Park (#4 - 9V9),9/13/26,Sun,1:00 PM,5023,Avon,,North Ridgeville,,Boys,U11,5 West,330
 Schwartz Road Park (#4 - 9V9),10/11/26,Sun,1:00 PM,2023,Avon,,TUSA,,Girls,U11,5 West,330
-Schwartz Road Park (#4 - 9V9),10/18/26,Sun,4:00 PM,1615,Avon,,Highland   EM2,,Girls,U11,1,330
 Schwartz Road Park (#9 - 7v7),8/16/26,Sun,1:00 PM,4403,Avon,8,Fairview Park,7,Boys,U10,4 West,330
 Schwartz Road Park (#9 - 7v7),8/16/26,Sun,2:30 PM,701,Avon,6,Lakewood   G17G,3,Girls,U09,2,330
 Schwartz Road Park (#9 - 7v7),8/16/26,Sun,4:00 PM,15101,Avon,2,Amherst,2,Girls,U10,4 West EV,330
@@ -3288,6 +3289,7 @@ Schwartz Road Park (#9 - 7v7),10/11/26,Sun,11:30 AM,1531,Avon,,Avon Lake,,Girls,
 Schwartz Road Park (#9 - 7v7),10/11/26,Sun,2:30 PM,923,Avon,,Fairview Park,,Girls,U09,4 West,330
 Schwartz Road Park (#9 - 7v7),10/11/26,Sun,5:30 PM,4124,Avon,,Solon United,,Boys,U10,1,330
 Schwartz Road Park (#9 - 7v7),10/18/26,Sun,2:30 PM,926,Avon,,Westlake   GF,,Girls,U09,4 West,330
+Schwartz Road Park (#9 - 7v7),10/18/26,Sun,5:30 PM,15119,Avon,,Westlake   BL,,Girls,U10,4 West EV,330
 Settler's Park (9v9 Field),8/16/26,Sun,2:30 PM,11202,Kenston,2,Stow   Mar,6,Boys,U11,3 East,616
 Shaker Heights High School (Stadium Turf Field),8/23/26,Sun,2:30 PM,12904,Shaker Hts.   WHT,0,Mentor,5,Boys,U13,5 East,426
 Shaker Heights High School (Stadium Turf Field),8/23/26,Sun,6:30 PM,3209,Shaker Hts.   BLK,0,Hudson   BOWM,5,Girls,U14/15,2,426
@@ -3300,13 +3302,13 @@ Shaker Heights High School (Stadium Turf Field),9/13/26,Sun,4:00 PM,12517,Shaker
 Shaker Heights High School (Stadium Turf Field),9/20/26,Sun,2:30 PM,12912,Shaker Hts.   WHT,,West Geauga,,Boys,U13,5 East,426
 Shaker Heights High School (Stadium Turf Field),9/20/26,Sun,6:00 PM,12521,Shaker Hts.   RED,,Hudson   PRIN,,Boys,U13,3 East,426
 Shaker Heights High School (Stadium Turf Field),9/27/26,Sun,4:00 PM,13328,Shaker Hts.   B/R,,Geneva,,Boys,U14/15,4 East,426
-Shaker Heights High School (Stadium Turf Field),10/10/26,Sat,4:00 PM,5608,Shaker Hts.   BLK,,Bay Village   BW,,Boys,U13,1,426
 Shaker Heights High School (Stadium Turf Field),10/11/26,Sun,2:30 PM,2829,Shaker Hts.   RED,,Parma,,Girls,U13,3,426
 Shaker Heights High School (Stadium Turf Field),10/11/26,Sun,4:00 PM,12916,Shaker Hts.   WHT,,North Royalton,,Boys,U13,5 East,426
 Shaker Heights High School (Stadium Turf Field),10/11/26,Sun,5:30 PM,13329,Shaker Hts.   B/R,,Wickliffe,,Boys,U14/15,4 East,426
 Shaker Heights High School (Stadium Turf Field),10/18/26,Sun,3:00 PM,2828,Shaker Hts.   RED,,Fairview Park,,Girls,U13,3,426
 Shaker Heights High School (Stadium Turf Field),10/18/26,Sun,5:00 PM,5625,Shaker Hts.   BLK,,Hudson   SFER,,Boys,U13,1,426
-Shaker Heights Main Library (Main Library Field),9/9/26,Wed,6:30 PM,2617,Shaker Hts.   BLK,,Mayfield   SS,,Girls,U13,1,316
+Shaker Heights High School (Stadium Turf Field),10/24/26,Sat,4:30 PM,5608,Shaker Hts.   BLK,,Bay Village   BW,,Boys,U13,1,426
+Shaker Heights Main Library (Main Library Field),9/9/26,Wed,6:30 PM,2617,Shaker Hts.   BLK,7,Mayfield   SS,2,Girls,U13,1,316
 Shaker Heights Main Library (Main Library Field),10/11/26,Sun,10:00 AM,12530,Shaker Hts.   RED,,Nordonia,,Boys,U13,3 East,316
 Shaker Heights Main Library (Main Library Field),10/25/26,Sun,11:30 AM,3240,Shaker Hts.   BLK,,Solon United,,Girls,U14/15,2,316
 Shaker Heights Main Library (Main Library Field),10/25/26,Sun,1:00 PM,2820,Shaker Hts.   RED,,Aurora,,Girls,U13,3,316
@@ -3337,10 +3339,10 @@ Shaker Heights Middle School (Median Field (across Shaker Blvd from the school))
 Shaker Heights Middle School (Median Field (across Shaker Blvd from the school)),9/20/26,Sun,11:30 AM,14616,Shaker Hts.   SLV,,Westlake   LD,,Boys,U11,5 East EN,487
 Shaker Heights Middle School (Median Field (across Shaker Blvd from the school)),9/20/26,Sun,1:00 PM,12321,Shaker Hts.   SLV,,West Geauga,,Boys,U12,5 East,487
 Shaker Heights Middle School (Median Field (across Shaker Blvd from the school)),9/20/26,Sun,2:30 PM,4727,Shaker Hts.   BLK,,Mayfield   MO,,Boys,U11,2,487
+Shaker Heights Middle School (Median Field (across Shaker Blvd from the school)),9/24/26,Thu,6:15 PM,2240,Shaker Hts.   BLK,,Midview,,Girls,U12,2,487
 Shaker Heights Middle School (Median Field (across Shaker Blvd from the school)),9/27/26,Sun,9:30 AM,12134,Shaker Hts.   WHT,,Twinsburg,,Boys,U12,4 East,487
 Shaker Heights Middle School (Median Field (across Shaker Blvd from the school)),9/27/26,Sun,1:00 PM,11228,Shaker Hts.   RED,,Kenston,,Boys,U11,3 East,487
 Shaker Heights Middle School (Median Field (across Shaker Blvd from the school)),9/27/26,Sun,2:30 PM,8221,Shaker Hts.   RED,,Geauga Federation SC,,Girls,U11,5 East,487
-Shaker Heights Middle School (Median Field (across Shaker Blvd from the school)),9/27/26,Sun,4:00 PM,2240,Shaker Hts.   BLK,,Midview,,Girls,U12,2,487
 Shaker Heights Middle School (Median Field (across Shaker Blvd from the school)),10/7/26,Wed,5:45 PM,5121,Shaker Hts.   BLK,,Lakewood   B14G,,Boys,U12,1,487
 Shaker Heights Middle School (Median Field (across Shaker Blvd from the school)),10/11/26,Sun,11:30 AM,11629,Shaker Hts.   GLD,,Willoughby,,Boys,U11,5 East EV,487
 Shaker Heights Middle School (Median Field (across Shaker Blvd from the school)),10/11/26,Sun,1:00 PM,12330,Shaker Hts.   SLV,,Eastlake,,Boys,U12,5 East,487
@@ -3378,8 +3380,8 @@ Sharon Community Park (Field 2: 9v9 - Middle Field),8/25/26,Tue,6:30 PM,12415,Hi
 Sharon Community Park (Field 2: 9v9 - Middle Field),8/26/26,Wed,6:30 PM,8912,Highland   BM1,0,Fairless,3,Girls,U12,5 South,199
 Sharon Community Park (Field 2: 9v9 - Middle Field),8/30/26,Sun,2:30 PM,11816,Highland   KW1,3,Wadsworth   GAR,2,Boys,U11,2 South,199
 Sharon Community Park (Field 2: 9v9 - Middle Field),9/1/26,Tue,6:30 PM,12012,Highland   JC2,4,Strongsville   EE-B,1,Boys,U12,3 South,199
-Sharon Community Park (Field 2: 9v9 - Middle Field),9/3/26,Thu,6:30 PM,11539,Highland   BB1,,Wadsworth   DOL,,Boys,U11,4 South,199
-Sharon Community Park (Field 2: 9v9 - Middle Field),9/9/26,Wed,6:30 PM,12017,Highland   JC2,,Brecksville Bees SA,,Boys,U12,3 South,199
+Sharon Community Park (Field 2: 9v9 - Middle Field),9/9/26,Wed,6:30 PM,12017,Highland   JC2,3,Brecksville Bees SA,3,Boys,U12,3 South,199
+Sharon Community Park (Field 2: 9v9 - Middle Field),9/10/26,Thu,6:30 PM,11539,Highland   BB1,,Wadsworth   DOL,,Boys,U11,4 South,199
 Sharon Community Park (Field 2: 9v9 - Middle Field),9/11/26,Fri,6:00 PM,8522,Highland   BD1,,Brunswick   RYL,,Girls,U12,3 South,199
 Sharon Community Park (Field 2: 9v9 - Middle Field),9/13/26,Sun,11:30 AM,11819,Highland   KW1,,Hudson   PRIN,,Boys,U11,2 South,199
 Sharon Community Park (Field 2: 9v9 - Middle Field),9/13/26,Sun,2:30 PM,11524,Highland   BB1,,Tallmadge,,Boys,U11,4 South,199
@@ -3467,7 +3469,6 @@ Solon Community Park (7v7),8/23/26,Sun,5:30 PM,10606,Solon United,3,Geauga Feder
 Solon Community Park (7v7),8/30/26,Sun,1:00 PM,11019,Solon United,2,Nordonia,5,Boys,U10,5 East,47
 Solon Community Park (7v7),8/30/26,Sun,4:00 PM,10611,Solon United,5,Shaker Hts.   RED,2,Boys,U10,3 East,47
 Solon Community Park (7v7),8/30/26,Sun,5:30 PM,4112,Solon United,2,Mayfield   KHA,4,Boys,U10,1,47
-Solon Community Park (7v7),9/9/26,Wed,6:30 PM,9907,Solon United,,Hudson   SATW,,Boys,U09,3 East,47
 Solon Community Park (7v7),9/11/26,Fri,6:30 PM,4118,Solon United,,Avon,,Boys,U10,1,47
 Solon Community Park (7v7),9/14/26,Mon,6:30 PM,10609,Solon United,,Riverside   JA,,Boys,U10,3 East,47
 Solon Community Park (7v7),9/20/26,Sun,2:30 PM,10616,Solon United,,Kenston   BL,,Boys,U10,3 East,47
@@ -3478,17 +3479,14 @@ Solon Community Park (7v7),9/27/26,Sun,2:30 PM,9919,Solon United,,Eastside Kicke
 Solon Community Park (7v7),10/18/26,Sun,1:00 PM,9901,Solon United,,Mayfield   SR,,Boys,U09,3 East,47
 Solon Community Park (7v7),10/18/26,Sun,2:30 PM,4108,Solon United,,Bay Village   BK,,Boys,U10,1,47
 Solon Community Park (9v9),8/16/26,Sun,5:30 PM,11402,Solon United,5,West Geauga,3,Boys,U11,4 East,47
-Solon Community Park (9v9),9/9/26,Wed,6:30 PM,12304,Solon United,0,Aurora,2,Boys,U12,5 East,47
 South Amherst Stadium (Field #5),10/1/26,Thu,6:00 PM,2915,Firelands,,Bay Village   JK,,Girls,U13,4,676
 South Amherst Stadium (Field #5),10/7/26,Wed,6:30 PM,2924,Firelands,,LaGrange,,Girls,U13,4,676
 Southside Community Park (11v11) (SSCP - 11v11),9/27/26,Sun,1:00 PM,12821,New Philadelphia   TZ,,Perry (Stark),,Boys,U13,4 South,772
 Spire Institute (Indoor Full Field - Field Turf),8/16/26,Sun,5:00 PM,11401,Geneva,0,Chagrin Falls,2,Boys,U11,4 East,224
-Spire Institute (Indoor Full Field - Field Turf),9/13/26,Sun,4:00 PM,11422,Geneva,,Hudson   CORV,,Boys,U11,4 East,224
 Spire Institute (Indoor Full Field - Field Turf),9/27/26,Sun,2:30 PM,11431,Geneva,,Shaker Hts.   WHT,,Boys,U11,4 East,224
 Spire Institute (Indoor Partial Field - Field Turf),8/30/26,Sun,2:30 PM,11016,Geneva,7,Stow   Gray,4,Boys,U10,5 East,224
 Spire Institute (Outdoor Turf Stadium ),8/16/26,Sun,1:00 PM,13302,Geneva,2,Mentor,1,Boys,U14/15,4 East,224
 Spire Institute (Outdoor Turf Stadium ),8/26/26,Wed,6:30 PM,12509,Geneva,1,NP Aurora,6,Boys,U13,3 East,224
-Spire Institute (Outdoor Turf Stadium ),9/13/26,Sun,1:00 PM,13318,Geneva,,Stow   Mar,,Boys,U14/15,4 East,224
 Spire Institute (Outdoor Turf Stadium ),9/20/26,Sun,3:00 PM,13322,Geneva,,Wickliffe,,Boys,U14/15,4 East,224
 Spire Institute (Outdoor Turf Stadium ),9/27/26,Sun,1:00 PM,12526,Geneva,,Shaker Hts.   RED,,Boys,U13,3 East,224
 Spire Institute (Outdoor Turf Stadium ),10/11/26,Sun,2:30 PM,12531,Geneva,,Riverside   KC,,Boys,U13,3 East,224
@@ -3496,6 +3494,8 @@ Spire Institute (Track and Field Buildling Indoor Turf Field),8/16/26,Sun,1:00 P
 Spire Institute (Track and Field Buildling Indoor Turf Field),8/16/26,Sun,2:30 PM,10401,Geneva,2,Kenston   SK,2,Boys,U09,5 East EN,224
 Spire Institute (Track and Field Buildling Indoor Turf Field),8/23/26,Sun,10:00 AM,11006,Geneva,4,Shaker Hts.   GLD,4,Boys,U10,5 East,224
 Spire Institute (Track and Field Buildling Indoor Turf Field),9/13/26,Sun,11:00 AM,1420,Geneva,,Aurora,,Girls,U10,4 East,224
+Spire Institute (Track and Field Buildling Indoor Turf Field),9/13/26,Sun,1:00 PM,13318,Geneva,,Stow   Mar,,Boys,U14/15,4 East,224
+Spire Institute (Track and Field Buildling Indoor Turf Field),9/13/26,Sun,4:00 PM,11422,Geneva,,Hudson   CORV,,Boys,U11,4 East,224
 Spire Institute (Track and Field Buildling Indoor Turf Field),9/20/26,Sun,1:00 PM,11027,Geneva,,Nordonia,,Boys,U10,5 East,224
 Spire Institute (Track and Field Buildling Indoor Turf Field),9/20/26,Sun,2:30 PM,10433,Geneva,,Wickliffe,,Boys,U09,5 East EN,224
 Spire Institute (Track and Field Buildling Indoor Turf Field),9/27/26,Sun,1:00 PM,1428,Geneva,,Orange,,Girls,U10,4 East,224
@@ -3591,7 +3591,7 @@ Spring Hill Sports Complex (Field 113),8/23/26,Sun,11:30 AM,9406,Green,1,Manches
 Spring Hill Sports Complex (Field 113),8/23/26,Sun,3:00 PM,2605,Green,0,Kenston,3,Girls,U13,1,162
 Spring Hill Sports Complex (Field 113),8/30/26,Sun,2:30 PM,9414,Green,5,Cuyahoga Falls   EK,0,Girls,U14/15,5 South,162
 Spring Hill Sports Complex (Field 113),8/30/26,Sun,5:30 PM,3219,Green,1,Medina   14GN,2,Girls,U14/15,2,162
-Spring Hill Sports Complex (Field 113),9/1/26,Tue,6:30 PM,9404,Green,,PLX United,,Girls,U14/15,5 South,162
+Spring Hill Sports Complex (Field 113),9/1/26,Tue,6:30 PM,9404,Green,4,PLX United,0,Girls,U14/15,5 South,162
 Spring Hill Sports Complex (Field 113),9/20/26,Sun,2:30 PM,3226,Green,,Shaker Hts.   BLK,,Girls,U14/15,2,162
 Spring Hill Sports Complex (Field 113),9/27/26,Sun,11:30 AM,3232,Green,,Rocky River   MRN,,Girls,U14/15,2,162
 Spring Hill Sports Complex (Field 113),9/27/26,Sun,4:00 PM,2620,Green,,Bay Village   CA,,Girls,U13,1,162
@@ -3604,7 +3604,7 @@ Spring Hill Sports Complex (Field 114),8/23/26,Sun,4:00 PM,3207,Green,4,Cloverle
 Spring Hill Sports Complex (Field 114),8/23/26,Sun,5:30 PM,14806,Green,1,Chagrin Falls,1,Boys,U14/15,2 East,162
 Spring Hill Sports Complex (Field 114),8/25/26,Tue,6:30 PM,13410,Green,1,North Ridgeville,3,Boys,U14/15,4 South,162
 Spring Hill Sports Complex (Field 114),8/30/26,Sun,5:30 PM,14814,Green,2,West Geauga,1,Boys,U14/15,2 East,162
-Spring Hill Sports Complex (Field 114),9/9/26,Wed,6:30 PM,5609,Green,,Medina   13Gr,,Boys,U13,1,162
+Spring Hill Sports Complex (Field 114),9/9/26,Wed,6:30 PM,5609,Green,3,Medina   13Gr,1,Boys,U13,1,162
 Spring Hill Sports Complex (Field 114),9/27/26,Sun,10:30 AM,5627,Green,,Bay Village   BW,,Boys,U13,1,162
 Spring Hill Sports Complex (Field 114),9/27/26,Sun,2:30 PM,13428,Green,,Cloverleaf,,Boys,U14/15,4 South,162
 Spring Hill Sports Complex (Field 114),9/29/26,Tue,6:30 PM,14827,Green,,Warren,,Boys,U14/15,2 East,162
@@ -3617,7 +3617,7 @@ St John Medical Center Fields (Field #2 - 9v9 (middle field)),8/25/26,Tue,6:30 P
 St John Medical Center Fields (Field #2 - 9v9 (middle field)),8/27/26,Thu,6:30 PM,2310,Westlake   CG,1,Avon Lake,0,Girls,U12,3 West,247
 St John Medical Center Fields (Field #2 - 9v9 (middle field)),8/30/26,Sun,2:30 PM,8015,Westlake   GF,0,Rocky River   WHT,3,Girls,U11,4,247
 St John Medical Center Fields (Field #2 - 9v9 (middle field)),9/1/26,Tue,6:30 PM,14607,Westlake   LD,0,Nordonia,5,Boys,U11,5 East EN,247
-St John Medical Center Fields (Field #2 - 9v9 (middle field)),9/8/26,Tue,6:15 PM,5431,Westlake   ZA,,Amherst,,Boys,U12,4 West,247
+St John Medical Center Fields (Field #2 - 9v9 (middle field)),9/8/26,Tue,6:15 PM,5431,Westlake   ZA,4,Amherst,1,Boys,U12,4 West,247
 St John Medical Center Fields (Field #2 - 9v9 (middle field)),9/13/26,Sun,5:30 PM,14613,Westlake   LD,,Broadview Hts.,,Boys,U11,5 East EN,247
 St John Medical Center Fields (Field #2 - 9v9 (middle field)),9/20/26,Sun,4:00 PM,8023,Westlake   GF,,Strongsville   MO,,Girls,U11,4,247
 St John Medical Center Fields (Field #2 - 9v9 (middle field)),9/27/26,Sun,2:30 PM,5426,Westlake   ZA,,Lakewood   B14W,,Boys,U12,4 West,247
@@ -3757,7 +3757,6 @@ Tri-City Park (Tri-City #3  9 v 9 North (next to Tennis)),8/23/26,Sun,2:30 PM,49
 Tri-City Park (Tri-City #3  9 v 9 North (next to Tennis)),8/26/26,Wed,6:30 PM,2009,Fairview Park,5,Avon,0,Girls,U11,5 West,223
 Tri-City Park (Tri-City #3  9 v 9 North (next to Tennis)),8/27/26,Thu,6:30 PM,5410,Fairview Park,4,TUSA,2,Boys,U12,4 West,223
 Tri-City Park (Tri-City #3  9 v 9 North (next to Tennis)),8/30/26,Sun,1:00 PM,4915,Fairview Park,7,Amherst,2,Boys,U11,4 West,223
-Tri-City Park (Tri-City #3  9 v 9 North (next to Tennis)),9/3/26,Thu,6:30 PM,5014,Fairview Park,,Rocky River   WHT,,Boys,U11,5 West,223
 Tri-City Park (Tri-City #3  9 v 9 North (next to Tennis)),9/13/26,Sun,11:00 AM,5025,Fairview Park,,TUSA,,Boys,U11,5 West,223
 Tri-City Park (Tri-City #3  9 v 9 North (next to Tennis)),9/13/26,Sun,1:00 PM,5420,Fairview Park,,Westlake   ZA,,Boys,U12,4 West,223
 Tri-City Park (Tri-City #3  9 v 9 North (next to Tennis)),9/20/26,Sun,2:30 PM,5030,Fairview Park,,Olmsted Falls   Gold,,Boys,U11,5 West,223
@@ -3767,6 +3766,7 @@ Tri-City Park (Tri-City #3  9 v 9 North (next to Tennis)),9/27/26,Sun,11:30 AM,5
 Tri-City Park (Tri-City #3  9 v 9 North (next to Tennis)),10/11/26,Sun,2:30 PM,4932,Fairview Park,,Parma,,Boys,U11,4 West,223
 Tri-City Park (Tri-City #3  9 v 9 North (next to Tennis)),10/11/26,Sun,4:00 PM,5429,Fairview Park,,North Olmsted,,Boys,U12,4 West,223
 Tri-City Park (Tri-City #3  9 v 9 North (next to Tennis)),10/11/26,Sun,5:30 PM,2024,Fairview Park,,Rocky River   GRY,,Girls,U11,5 West,223
+Tri-City Park (Tri-City #3  9 v 9 North (next to Tennis)),10/18/26,Sun,11:30 AM,5014,Fairview Park,,Rocky River   WHT,,Boys,U11,5 West,223
 Tri-City Park (Tri-City #3  9 v 9 North (next to Tennis)),10/18/26,Sun,1:00 PM,2027,Fairview Park,,TUSA,,Girls,U11,5 West,223
 Tri-City Park (Tri-City #4 7 v 7 North (next to Tennis)),8/16/26,Sun,1:00 PM,3703,Fairview Park,4,Westlake   CG,2,Boys,U09,2,223
 Tri-City Park (Tri-City #4 7 v 7 North (next to Tennis)),8/16/26,Sun,2:30 PM,9802,Fairview Park,,Bay Village   AH,,Boys,U08,West E,223
@@ -3833,7 +3833,7 @@ Troy Intermediate School (Troy 7B),8/26/26,Wed,6:30 PM,714,Avon Lake,2,Avon,3,Gi
 Troy Intermediate School (Troy 7B),8/30/26,Sun,1:00 PM,408,Avon Lake,,Bay Village   MU,,Girls,U08,West N,249
 Troy Intermediate School (Troy 7B),8/30/26,Sun,2:30 PM,107,Avon Lake,,Rocky River   SRG,,Boys,U08,West V,249
 Troy Intermediate School (Troy 7B),8/30/26,Sun,4:00 PM,3717,Avon Lake,5,Medina   9Grn,1,Boys,U09,2,249
-Troy Intermediate School (Troy 7B),9/10/26,Thu,6:30 PM,1237,Avon Lake,,Brecksville Bees SA,,Girls,U10,2,249
+Troy Intermediate School (Troy 7B),9/10/26,Thu,6:30 PM,1237,Avon Lake,6,Brecksville Bees SA,1,Girls,U10,2,249
 Troy Intermediate School (Troy 7B),9/13/26,Sun,1:00 PM,3818,Avon Lake,,Parma,,Boys,U09,3 West,249
 Troy Intermediate School (Troy 7B),9/13/26,Sun,4:00 PM,13714,Avon Lake,,Westlake   SB,,Boys,U09,4 West EV,249
 Troy Intermediate School (Troy 7B),9/14/26,Mon,6:30 PM,3811,Avon Lake,,Brunswick   RYL,,Boys,U09,3 West,249
@@ -3865,7 +3865,7 @@ Troy Intermediate School (Troy 7C),8/30/26,Sun,1:00 PM,7219,Avon Lake,2,Vermilio
 Troy Intermediate School (Troy 7C),8/30/26,Sun,2:30 PM,9808,Avon Lake,,Fairview Park,,Boys,U08,West E,249
 Troy Intermediate School (Troy 7C),8/30/26,Sun,4:00 PM,13914,Avon Lake,1,North Ridgeville,6,Boys,U09,5 West EN,249
 Troy Intermediate School (Troy 7C),8/30/26,Sun,5:30 PM,15110,Avon Lake,3,Avon,2,Girls,U10,4 West EV,249
-Troy Intermediate School (Troy 7C),9/8/26,Tue,6:30 PM,13705,Avon Lake,,Vermilion,,Boys,U09,4 West EV,249
+Troy Intermediate School (Troy 7C),9/8/26,Tue,6:30 PM,13705,Avon Lake,2,Vermilion,7,Boys,U09,4 West EV,249
 Troy Intermediate School (Troy 7C),9/12/26,Sat,1:00 PM,13904,Avon Lake,,Rocky River   GLD,,Boys,U09,5 West EN,249
 Troy Intermediate School (Troy 7C),9/13/26,Sun,2:30 PM,15115,Avon Lake,,Westlake   BL,,Girls,U10,4 West EV,249
 Troy Intermediate School (Troy 7C),9/13/26,Sun,5:30 PM,4421,Avon Lake,,Norwalk HCYSC,,Boys,U10,4 West,249
@@ -3878,9 +3878,9 @@ Troy Intermediate School (Troy 7C),9/26/26,Sat,5:00 PM,1222,Avon Lake,,Cuyahoga 
 Troy Intermediate School (Troy 7C),9/27/26,Sun,11:30 AM,4325,Avon Lake,,Port Clinton   RED,,Boys,U10,3 West,249
 Troy Intermediate School (Troy 7C),9/27/26,Sun,1:00 PM,13927,Avon Lake,,Sandusky,,Boys,U09,5 West EN,249
 Troy Intermediate School (Troy 7C),9/27/26,Sun,2:30 PM,7232,Avon Lake,,North Olmsted,,Girls,U09,5 West,249
+Troy Intermediate School (Troy 7C),9/27/26,Sun,4:00 PM,419,Avon Lake,,Rocky River   TID,,Girls,U08,West N,249
 Troy Intermediate School (Troy 7C),10/11/26,Sun,2:30 PM,15124,Avon Lake,,Port Clinton,,Girls,U10,4 West EV,249
 Troy Intermediate School (Troy 7C),10/11/26,Sun,4:00 PM,116,Avon Lake,,Olmsted Falls   Gold,,Boys,U08,West V,249
-Troy Intermediate School (Troy 7C),10/25/26,Sun,2:30 PM,419,Avon Lake,,Rocky River   TID,,Girls,U08,West N,249
 Troy Intermediate School (Troy 9A),8/16/26,Sun,1:00 PM,4803,Avon Lake,0,Westlake   RR,5,Boys,U11,3,249
 Troy Intermediate School (Troy 9A),8/16/26,Sun,2:30 PM,1705,Avon Lake,0,Westlake   PD,3,Girls,U11,2,249
 Troy Intermediate School (Troy 9A),8/16/26,Sun,4:00 PM,8002,Avon Lake,0,Rocky River   WHT,5,Girls,U11,4,249
@@ -3891,7 +3891,7 @@ Troy Intermediate School (Troy 9A),8/26/26,Wed,6:30 PM,4714,Avon Lake,2,Bay Vill
 Troy Intermediate School (Troy 9A),8/27/26,Thu,6:30 PM,8011,Avon Lake,0,Riverside,1,Girls,U11,4,249
 Troy Intermediate School (Troy 9A),8/30/26,Sun,1:00 PM,2315,Avon Lake,2,North Ridgeville,4,Girls,U12,3 West,249
 Troy Intermediate School (Troy 9A),8/30/26,Sun,4:00 PM,4820,Avon Lake,1,LaGrange,6,Boys,U11,3,249
-Troy Intermediate School (Troy 9A),9/10/26,Thu,6:30 PM,1711,Avon Lake,,Brunswick,,Girls,U11,2,249
+Troy Intermediate School (Troy 9A),9/10/26,Thu,6:30 PM,1711,Avon Lake,0,Brunswick,0,Girls,U11,2,249
 Troy Intermediate School (Troy 9A),9/13/26,Sun,9:00 AM,1722,Avon Lake,,Twinsburg   Blue,,Girls,U11,2,249
 Troy Intermediate School (Troy 9A),9/13/26,Sun,11:30 AM,8018,Avon Lake,,North Olmsted,,Girls,U11,4,249
 Troy Intermediate School (Troy 9A),9/14/26,Mon,6:30 PM,5124,Avon Lake,,Brunswick   RYL,,Boys,U12,1,249
@@ -3952,7 +3952,7 @@ Walker Road Park  (Walker 1 - 7v7),8/30/26,Sun,2:30 PM,3815,Bay Village   SM,5,N
 Walker Road Park  (Walker 1 - 7v7),8/30/26,Sun,4:00 PM,1216,Bay Village   BW,5,Avon Lake,0,Girls,U10,2,144
 Walker Road Park  (Walker 1 - 7v7),8/30/26,Sun,5:30 PM,4417,Bay Village   MW,6,Avon Lake,3,Boys,U10,4 West,144
 Walker Road Park  (Walker 1 - 7v7),9/3/26,Thu,6:30 PM,3915,Bay Village   DS,,North Olmsted,,Boys,U09,4 West EN,144
-Walker Road Park  (Walker 1 - 7v7),9/13/26,Sun,1:00 PM,15114,Bay Village   BH,,Amherst,,Girls,U10,4 West EV,144
+Walker Road Park  (Walker 1 - 7v7),9/13/26,Sun,11:30 AM,15114,Bay Village   BH,,Amherst,,Girls,U10,4 West EV,144
 Walker Road Park  (Walker 1 - 7v7),9/13/26,Sun,2:30 PM,4319,Bay Village   JH,,Port Clinton   RED,,Boys,U10,3 West,144
 Walker Road Park  (Walker 1 - 7v7),9/13/26,Sun,4:00 PM,9714,Bay Village   NP,,Avon Lake,,Boys,U08,West N,144
 Walker Road Park  (Walker 1 - 7v7),9/13/26,Sun,5:30 PM,3920,Bay Village   SE,,Independence,,Boys,U09,4 West EN,144
@@ -4059,8 +4059,8 @@ Walker Road Park  (Walker 6 9v9),10/25/26,Sun,11:30 AM,4931,Bay Village   KD,,Br
 Walker Road Park  (Walker 7 11v11),8/16/26,Sun,4:00 PM,2902,Bay Village   JK,1,Firelands,2,Girls,U13,4,144
 Walker Road Park  (Walker 7 11v11),8/23/26,Sun,2:30 PM,2904,Bay Village   JK,1,North Royalton,4,Girls,U13,4,144
 Walker Road Park  (Walker 7 11v11),8/25/26,Tue,6:30 PM,5808,Bay Village   TH,0,Port Clinton,4,Boys,U13,3 West,144
-Walker Road Park  (Walker 7 11v11),9/8/26,Tue,6:30 PM,5611,Bay Village   BW,,Solon United,,Boys,U13,1,144
-Walker Road Park  (Walker 7 11v11),9/10/26,Thu,6:30 PM,5606,Bay Village   BW,,Chagrin Falls,,Boys,U13,1,144
+Walker Road Park  (Walker 7 11v11),9/8/26,Tue,6:30 PM,5611,Bay Village   BW,4,Solon United,0,Boys,U13,1,144
+Walker Road Park  (Walker 7 11v11),9/10/26,Thu,6:30 PM,5606,Bay Village   BW,5,Chagrin Falls,0,Boys,U13,1,144
 Walker Road Park  (Walker 7 11v11),9/13/26,Sun,1:00 PM,4822,Bay Village   AS,,Revere,,Boys,U11,3,144
 Walker Road Park  (Walker 7 11v11),9/20/26,Sun,1:00 PM,5818,Bay Village   TH,,Avon Lake,,Boys,U13,3 West,144
 Walker Road Park  (Walker 7 11v11),9/20/26,Sun,5:30 PM,2917,Bay Village   JK,,Amherst,,Girls,U13,4,144
@@ -4103,7 +4103,7 @@ Waterworks Park (Waterworks 9V9 (Field 2)),9/13/26,Sun,2:00 PM,11525,Cuyahoga Fa
 Waterworks Park (Waterworks 9V9 (Field 2)),9/13/26,Sun,4:00 PM,1725,Cuyahoga Falls   RV,,Green,,Girls,U11,2,279
 Waterworks Park (Waterworks 9V9 (Field 2)),9/16/26,Wed,6:00 PM,8415,Cuyahoga Falls   GL,,Stow   Mar,,Girls,U12,3 East,279
 Waterworks Park (Waterworks 9V9 (Field 2)),9/20/26,Sun,11:30 AM,11530,Cuyahoga Falls   JH11,,Lake Select SC   U11,,Boys,U11,4 South,279
-Waterworks Park (Waterworks 9V9 (Field 2)),9/20/26,Sun,5:30 PM,12023,Cuyahoga Falls   JH12,,Buckeye,,Boys,U12,3 South,279
+Waterworks Park (Waterworks 9V9 (Field 2)),9/20/26,Sun,4:00 PM,12023,Cuyahoga Falls   JH12,,Buckeye,,Boys,U12,3 South,279
 Waterworks Park (Waterworks 9V9 (Field 2)),9/27/26,Sun,2:30 PM,1734,Cuyahoga Falls   RV,,Rocky River   MRN,,Girls,U11,2,279
 Waterworks Park (Waterworks 9V9 (Field 2)),9/27/26,Sun,4:00 PM,11534,Cuyahoga Falls   JH11,,Highland   BB1,,Boys,U11,4 South,279
 Waterworks Park (Waterworks 9V9 (Field 2)),9/27/26,Sun,5:30 PM,8420,Cuyahoga Falls   GL,,Kenston,,Girls,U12,3 East,279
@@ -4116,7 +4116,7 @@ West Geauga Commons (Junior (Side) Field),8/25/26,Tue,6:30 PM,8809,West Geauga,7
 West Geauga Commons (Junior (Side) Field),8/30/26,Sun,11:00 AM,8813,West Geauga,9,Nordonia,4,Girls,U12,5,70
 West Geauga Commons (Junior (Side) Field),8/30/26,Sun,2:30 PM,11420,West Geauga,3,Chagrin Falls,6,Boys,U11,4 East,70
 West Geauga Commons (Junior (Side) Field),8/30/26,Sun,5:30 PM,11916,West Geauga,0,Geauga Federation SC,5,Boys,U12,3 East,70
-West Geauga Commons (Junior (Side) Field),9/8/26,Tue,6:30 PM,11414,West Geauga,,Streetsboro,,Boys,U11,4 East,70
+West Geauga Commons (Junior (Side) Field),9/8/26,Tue,6:30 PM,11414,West Geauga,1,Streetsboro,6,Boys,U11,4 East,70
 West Geauga Commons (Junior (Side) Field),9/13/26,Sun,11:30 AM,12320,West Geauga,,Hudson   HARR,,Boys,U12,5 East,70
 West Geauga Commons (Junior (Side) Field),9/13/26,Sun,1:00 PM,11919,West Geauga,,Solon United,,Boys,U12,3 East,70
 West Geauga Commons (Junior (Side) Field),9/15/26,Tue,6:30 PM,11424,West Geauga,,Willoughby,,Boys,U11,4 East,70
