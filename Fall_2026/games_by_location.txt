@@ -3,7 +3,7 @@ OHTSL FALL 2026 — GAMES GROUPED BY LOCATION
 Sorted by date/time within each venue
 ================================================================================
 
-Total venues: 385
+Total venues: 387
 Total games:  4144
 
 --------------------------------------------------------------------------------
@@ -73,10 +73,6 @@ VENUE: Amherst Junior High (AJH #12)
   ──────────────────────────────────────────────────────────────────────
      6:30 PM  #5905   Amherst                   vs Lakewood   B13G           (Boys U13 Div 4 West)
 
-  Thu 9/3/26
-  ──────────────────────────────────────────────────────────────────────
-     6:30 PM  #6330   Amherst                   vs Westlake   WV             (Boys U14/15 Div 3 West)
-
   Sun 9/13/26
   ──────────────────────────────────────────────────────────────────────
     11:30 AM  #5919   Amherst                   vs Parma                     (Boys U13 Div 4 West)
@@ -89,6 +85,10 @@ VENUE: Amherst Junior High (AJH #12)
   Sun 9/27/26
   ──────────────────────────────────────────────────────────────────────
      2:30 PM  #5913   Amherst                   vs Olmsted Falls   Blue      (Boys U13 Div 4 West)
+
+  Mon 10/5/26
+  ──────────────────────────────────────────────────────────────────────
+     6:30 PM  #6330   Amherst                   vs Westlake   WV             (Boys U14/15 Div 3 West)
 
 --------------------------------------------------------------------------------
 VENUE: Arrowhead School (Arrowhead 655)
@@ -361,6 +361,17 @@ VENUE: Ashland Comunity Soccer Park (Field 6)
      5:30 PM  #3113   Ashland                   vs Stow   Mar                (Girls U14/15 Div 1)
 
 --------------------------------------------------------------------------------
+VENUE: Ashland Comunity Soccer Park (Field 7)
+  Address: 1580 Middle Rowsburg Road, Ashland, OH 44805
+  Games at this venue: 1
+  Map: https://www.ohtsl.com/directionmap.php?locationid=358
+--------------------------------------------------------------------------------
+
+  Sun 9/13/26
+  ──────────────────────────────────────────────────────────────────────
+     6:30 PM  #11818  Ashland                   vs Wadsworth   GAR           (Boys U11 Div 2 South)
+
+--------------------------------------------------------------------------------
 VENUE: Ashland Comunity Soccer Park (Field 8)
   Address: 1580 Middle Rowsburg Road, Ashland, OH 44805
   Games at this venue: 1
@@ -374,7 +385,7 @@ VENUE: Ashland Comunity Soccer Park (Field 8)
 --------------------------------------------------------------------------------
 VENUE: Ashland Comunity Soccer Park (Field 9)
   Address: 1580 Middle Rowsburg Road, Ashland, OH 44805
-  Games at this venue: 16
+  Games at this venue: 15
   Map: https://www.ohtsl.com/directionmap.php?locationid=358
 --------------------------------------------------------------------------------
 
@@ -402,7 +413,6 @@ VENUE: Ashland Comunity Soccer Park (Field 9)
   ──────────────────────────────────────────────────────────────────────
      4:00 PM  #12020  Ashland                   vs Buckeye                   (Boys U12 Div 3 South)
      5:30 PM  #7915   Ashland                   vs Copley                    (Girls U11 Div 3 South)
-     6:30 PM  #11818  Ashland                   vs Wadsworth   GAR           (Boys U11 Div 2 South)
 
   Sun 9/20/26
   ──────────────────────────────────────────────────────────────────────
@@ -466,10 +476,6 @@ VENUE: Barberton Community Sports Complex (406)
   ──────────────────────────────────────────────────────────────────────
      3:30 PM  #13010  Barberton                 vs Dover                     (Boys U13 Div 5 South)
 
-  Thu 9/3/26
-  ──────────────────────────────────────────────────────────────────────
-     6:30 PM  #13602  Barberton                 vs Mustangs Jr               (Boys U14/15 Div 5 South)
-
   Wed 9/9/26
   ──────────────────────────────────────────────────────────────────────
      6:00 PM  #13002  Barberton                 vs PLX United                (Boys U13 Div 5 South)
@@ -477,6 +483,10 @@ VENUE: Barberton Community Sports Complex (406)
   Sun 9/13/26
   ──────────────────────────────────────────────────────────────────────
      2:30 PM  #13015  Barberton                 vs PLX United                (Boys U13 Div 5 South)
+
+  Thu 9/24/26
+  ──────────────────────────────────────────────────────────────────────
+     6:00 PM  #13602  Barberton                 vs Mustangs Jr               (Boys U14/15 Div 5 South)
 
   Wed 9/30/26
   ──────────────────────────────────────────────────────────────────────
@@ -540,7 +550,7 @@ VENUE: Barlow Farm Park (Field 1)
 --------------------------------------------------------------------------------
 VENUE: Barlow Farm Park (Field 2A)
   Address: 1965 Barlow Road, Hudson, OH 44236
-  Games at this venue: 13
+  Games at this venue: 14
   Map: https://www.ohtsl.com/directionmap.php?locationid=13
 --------------------------------------------------------------------------------
 
@@ -561,6 +571,10 @@ VENUE: Barlow Farm Park (Field 2A)
      8:45 AM  #8613   Hudson   KENN             vs Field                     (Girls U12 Div 4 East)
     11:30 AM  #11815  Hudson   PRIN             vs Independence              (Boys U11 Div 2 South)
      5:30 PM  #11814  Hudson   PEIG             vs Broadview Hts.            (Boys U11 Div 2 South)
+
+  Wed 9/9/26
+  ──────────────────────────────────────────────────────────────────────
+     6:30 PM  #11823  Hudson   PRIN             vs Brunswick   RYL           (Boys U11 Div 2 South)
 
   Sun 9/13/26
   ──────────────────────────────────────────────────────────────────────
@@ -688,7 +702,7 @@ VENUE: Barlow Farm Park (Field 3A)
 --------------------------------------------------------------------------------
 VENUE: Barlow Farm Park (Field 3B)
   Address: 1965 Barlow Road, Hudson, OH 44236
-  Games at this venue: 12
+  Games at this venue: 11
   Map: https://www.ohtsl.com/directionmap.php?locationid=13
 --------------------------------------------------------------------------------
 
@@ -709,10 +723,6 @@ VENUE: Barlow Farm Park (Field 3B)
     10:00 AM  #12313  Hudson   HARR             vs Eastlake                  (Boys U12 Div 5 East)
      2:00 PM  #4615   Hudson   SFER             vs Medina   11Gr             (Boys U11 Div 1)
      4:30 PM  #2224   Hudson   SFER             vs Shaker Hts.   BLK         (Girls U12 Div 2)
-
-  Wed 9/9/26
-  ──────────────────────────────────────────────────────────────────────
-     6:30 PM  #11823  Hudson   PRIN             vs Brunswick   RYL           (Boys U11 Div 2 South)
 
   Sun 9/13/26
   ──────────────────────────────────────────────────────────────────────
@@ -1225,15 +1235,15 @@ VENUE: Baumgardner Middle School (Rear of building)
     12:00 PM  #8616   Eastside Kickers          vs Geauga Federation SC      (Girls U12 Div 4 East)
      1:30 PM  #11613  Eastside Kickers          vs Shaker Hts.   GLD         (Boys U11 Div 5 East EV)
 
-  Thu 9/3/26
-  ──────────────────────────────────────────────────────────────────────
-     6:15 PM  #12115  Eastside Kickers          vs Orange                    (Boys U12 Div 4 East)
-
   Sun 9/13/26
   ──────────────────────────────────────────────────────────────────────
      1:00 PM  #11620  Eastside Kickers          vs Madison                   (Boys U11 Div 5 East EV)
      4:00 PM  #8619   Eastside Kickers          vs Madison                   (Girls U12 Div 4 East)
      6:00 PM  #12121  Eastside Kickers          vs Riverside   Gold          (Boys U12 Div 4 East)
+
+  Thu 9/17/26
+  ──────────────────────────────────────────────────────────────────────
+     6:15 PM  #12115  Eastside Kickers          vs Orange                    (Boys U12 Div 4 East)
 
   Sun 9/20/26
   ──────────────────────────────────────────────────────────────────────
@@ -1434,7 +1444,7 @@ VENUE: Blossom Hill (Field G- Lower Grass)
 
   Mon 9/14/26
   ──────────────────────────────────────────────────────────────────────
-     7:00 PM  #2712   Brecksville Bees SA       vs Olmsted Falls   Blue      (Girls U13 Div 2)
+     6:15 PM  #13209  Brecksville Bees SA       vs Rootstown                 (Boys U14/15 Div 3 South)
 
   Sun 9/20/26
   ──────────────────────────────────────────────────────────────────────
@@ -1567,7 +1577,7 @@ VENUE: Blossom Hill (Turf)
 
   Mon 9/14/26
   ──────────────────────────────────────────────────────────────────────
-     6:15 PM  #13209  Brecksville Bees SA       vs Rootstown                 (Boys U14/15 Div 3 South)
+     7:00 PM  #2712   Brecksville Bees SA       vs Olmsted Falls   Blue      (Girls U13 Div 2)
 
   Sun 9/20/26
   ──────────────────────────────────────────────────────────────────────
@@ -2112,10 +2122,6 @@ VENUE: Champion Event Center (7v7)
   ──────────────────────────────────────────────────────────────────────
      6:00 PM  #7305   North Canton              vs Norton                    (Girls U10 Div 3 South)
 
-  Thu 9/3/26
-  ──────────────────────────────────────────────────────────────────────
-     6:30 PM  #7618   North Canton              vs Lake Select SC   U10      (Girls U10 Div 5 South)
-
   Thu 9/10/26
   ──────────────────────────────────────────────────────────────────────
      6:30 PM  #7613   North Canton              vs Green                     (Girls U10 Div 5 South)
@@ -2128,6 +2134,10 @@ VENUE: Champion Event Center (7v7)
   ──────────────────────────────────────────────────────────────────────
      1:00 PM  #7629   North Canton              vs Dover                     (Girls U10 Div 5 South)
      2:30 PM  #13817  North Canton              vs Stow   Gray               (Boys U09 Div 4 South EV)
+
+  Mon 9/21/26
+  ──────────────────────────────────────────────────────────────────────
+     6:15 PM  #7618   North Canton              vs Lake Select SC   U10      (Girls U10 Div 5 South)
 
   Sun 9/27/26
   ──────────────────────────────────────────────────────────────────────
@@ -2218,7 +2228,6 @@ VENUE: City Park (Field 3)
 
   Sun 8/16/26
   ──────────────────────────────────────────────────────────────────────
-     1:00 PM  #11404  Streetsboro               vs Willoughby                (Boys U11 Div 4 East)
      4:00 PM  #14602  Streetsboro               vs Twinsburg   WHTE          (Boys U11 Div 5 East EN)
 
   Sun 8/23/26
@@ -2236,6 +2245,10 @@ VENUE: City Park (Field 3)
   Sun 9/20/26
   ──────────────────────────────────────────────────────────────────────
      1:00 PM  #14617  Streetsboro               vs Nordonia                  (Boys U11 Div 5 East EN)
+
+  Wed 9/23/26
+  ──────────────────────────────────────────────────────────────────────
+     6:00 PM  #11404  Streetsboro               vs Willoughby                (Boys U11 Div 4 East)
 
   Sun 9/27/26
   ──────────────────────────────────────────────────────────────────────
@@ -2608,7 +2621,7 @@ VENUE: Copley Fairlawn Middle School (Middle School Football)
 
   Sun 10/11/26
   ──────────────────────────────────────────────────────────────────────
-    11:30 AM  #9232   Copley                    vs Medina   14WT             (Girls U14/15 Div 4 South)
+     7:00 PM  #9232   Copley                    vs Medina   14WT             (Girls U14/15 Div 4 South)
 
   Sun 10/25/26
   ──────────────────────────────────────────────────────────────────────
@@ -2787,7 +2800,7 @@ VENUE: Copley Road Soccer Complex (9v9 field 2)
 --------------------------------------------------------------------------------
 VENUE: Courtland Oval Field (Courtland West)
   Address: Courtland Oval, Shaker Heights, OH 44122
-  Games at this venue: 33
+  Games at this venue: 30
   Map: https://www.ohtsl.com/directionmap.php?locationid=318
 --------------------------------------------------------------------------------
 
@@ -2846,12 +2859,6 @@ VENUE: Courtland Oval Field (Courtland West)
     11:30 AM  #4214   Shaker Hts.   BLK         vs Twinsburg   Blue          (Boys U10 Div 2 East)
      1:00 PM  #10440  Shaker Hts.   WHT         vs Geauga Federation SC      (Boys U09 Div 5 East EN)
      2:30 PM  #7119   Shaker Hts.   U8B         vs Chagrin Falls   Blac      (Girls U09 Div 5 East)
-
-  Sun 10/11/26
-  ──────────────────────────────────────────────────────────────────────
-    11:30 AM  #1322   Shaker Hts.   RED         vs Warren                    (Girls U10 Div 3 East)
-     1:00 PM  #739    Shaker Hts.   BLK         vs Avon                      (Girls U09 Div 2)
-     2:30 PM  #215    Shaker Hts.   BLK         vs Orange                    (Boys U08 Div East)
 
   Sun 10/18/26
   ──────────────────────────────────────────────────────────────────────
@@ -3310,8 +3317,11 @@ VENUE: Dodge Intermediate School  (Dodge Front B)
 
   Sun 9/13/26
   ──────────────────────────────────────────────────────────────────────
-     2:30 PM  #4207   Twinsburg   Blue          vs Wickliffe                 (Boys U10 Div 2 East)
      4:00 PM  #14314  Twinsburg   WHTE          vs Wickliffe                 (Boys U10 Div 4 East EN)
+
+  Tue 9/15/26
+  ──────────────────────────────────────────────────────────────────────
+     6:30 PM  #4207   Twinsburg   Blue          vs Wickliffe                 (Boys U10 Div 2 East)
 
   Sun 9/20/26
   ──────────────────────────────────────────────────────────────────────
@@ -4070,7 +4080,6 @@ VENUE: Foltz Fields (Foltz 3A)
 
   Sun 9/13/26
   ──────────────────────────────────────────────────────────────────────
-    11:00 AM  #721    Strongsville   EE-G       vs Westlake   JB             (Girls U09 Div 2)
      2:30 PM  #309    Strongsville   JD         vs Broadview Hts.            (Boys U08 Div South V)
 
   Sun 9/20/26
@@ -4107,6 +4116,10 @@ VENUE: Foltz Fields (Foltz 3A)
   ──────────────────────────────────────────────────────────────────────
      2:30 PM  #317    Strongsville   JD         vs Brunswick                 (Boys U08 Div South V)
      4:00 PM  #14201  Strongsville   AS         vs Highland   NF1            (Boys U10 Div 2 South)
+
+  Wed 10/21/26
+  ──────────────────────────────────────────────────────────────────────
+     5:45 PM  #721    Strongsville   EE-G       vs Westlake   JB             (Girls U09 Div 2)
 
   Sun 10/25/26
   ──────────────────────────────────────────────────────────────────────
@@ -4250,7 +4263,7 @@ VENUE: Foltz Fields (Foltz Prandi 11A)
 --------------------------------------------------------------------------------
 VENUE: Garfield Middle School (Turf Stadium - 7v7, 9v9, 11v11)
   Address: 13114 Detroit Ave, Lakewood, OH 44107
-  Games at this venue: 47
+  Games at this venue: 48
   Map: https://www.ohtsl.com/directionmap.php?locationid=195
 --------------------------------------------------------------------------------
 
@@ -4281,6 +4294,10 @@ VENUE: Garfield Middle School (Turf Stadium - 7v7, 9v9, 11v11)
      2:30 PM  #3420   Lakewood   G11G           vs Rocky River   BLK         (Girls U14/15 Div 4 West)
      4:00 PM  #13508  Lakewood   B12P           vs Nordonia                  (Boys U14/15 Div 5)
      5:30 PM  #8814   Lakewood   G14P           vs Wickliffe                 (Girls U12 Div 5)
+
+  Fri 9/11/26
+  ──────────────────────────────────────────────────────────────────────
+     6:30 PM  #5120   Lakewood   B14G           vs Orange                    (Boys U12 Div 1)
 
   Sun 9/13/26
   ──────────────────────────────────────────────────────────────────────
@@ -4363,7 +4380,7 @@ VENUE: Geneva High School (Large)
 --------------------------------------------------------------------------------
 VENUE: Glenwillow Fields (Glenwillow Fields- 9v9)
   Address: 7360 Austin Powder Dr., Solon, OH 44139
-  Games at this venue: 21
+  Games at this venue: 22
   Map: https://www.ohtsl.com/directionmap.php?locationid=44
 --------------------------------------------------------------------------------
 
@@ -4389,6 +4406,10 @@ VENUE: Glenwillow Fields (Glenwillow Fields- 9v9)
      1:00 PM  #11915  Solon United              vs Hudson   RENN             (Boys U12 Div 3 East)
      2:30 PM  #12314  Solon United              vs West Geauga               (Boys U12 Div 5 East)
      4:00 PM  #4614   Solon United              vs Avon                      (Boys U11 Div 1)
+
+  Wed 9/9/26
+  ──────────────────────────────────────────────────────────────────────
+     6:30 PM  #12304  Solon United              vs Aurora                    (Boys U12 Div 5 East)
 
   Sun 9/13/26
   ──────────────────────────────────────────────────────────────────────
@@ -4421,7 +4442,7 @@ VENUE: Glenwillow Fields (Glenwillow Fields- 9v9)
 --------------------------------------------------------------------------------
 VENUE: Glenwillow Fields (Glenwillow Fields- lower )
   Address: 7360 Austin Powder Dr., Solon, OH 44139
-  Games at this venue: 20
+  Games at this venue: 21
   Map: https://www.ohtsl.com/directionmap.php?locationid=44
 --------------------------------------------------------------------------------
 
@@ -4442,6 +4463,10 @@ VENUE: Glenwillow Fields (Glenwillow Fields- lower )
   Wed 9/2/26
   ──────────────────────────────────────────────────────────────────────
      6:30 PM  #1412   Solon United              vs Olmsted Falls   Gold      (Girls U10 Div 4 East)
+
+  Wed 9/9/26
+  ──────────────────────────────────────────────────────────────────────
+     6:30 PM  #9907   Solon United              vs Hudson   SATW             (Boys U09 Div 3 East)
 
   Sun 9/13/26
   ──────────────────────────────────────────────────────────────────────
@@ -4500,10 +4525,6 @@ VENUE: Goldwood Primary School (Goldwood)
   ──────────────────────────────────────────────────────────────────────
      6:30 PM  #9707   Rocky River   STM         vs Bay Village   NP          (Boys U08 Div West N)
 
-  Thu 9/3/26
-  ──────────────────────────────────────────────────────────────────────
-     6:30 PM  #7213   Rocky River   GLD         vs Avon Lake                 (Girls U09 Div 5 West)
-
   Wed 9/9/26
   ──────────────────────────────────────────────────────────────────────
      6:30 PM  #4513   Rocky River   WHT         vs Port Clinton   WHT        (Boys U10 Div 5 West)
@@ -4511,6 +4532,10 @@ VENUE: Goldwood Primary School (Goldwood)
   Sun 9/13/26
   ──────────────────────────────────────────────────────────────────────
      4:30 PM  #515    Rocky River   STM         vs North Ridgeville          (Girls U08 Div West V)
+
+  Thu 9/24/26
+  ──────────────────────────────────────────────────────────────────────
+     6:00 PM  #7213   Rocky River   GLD         vs Avon Lake                 (Girls U09 Div 5 West)
 
   Sun 9/27/26
   ──────────────────────────────────────────────────────────────────────
@@ -5304,8 +5329,11 @@ VENUE: Hopfinger Zimmerman Park (Field 1 - 7v7)
   ──────────────────────────────────────────────────────────────────────
     11:30 AM  #4323   Port Clinton   RED        vs Amherst                   (Boys U10 Div 3 West)
      1:00 PM  #4526   Port Clinton   WHT        vs Bay Village   SA          (Boys U10 Div 5 West)
-     1:00 PM  #15118  Port Clinton              vs Avon Lake                 (Girls U10 Div 4 West EV)
      2:30 PM  #7228   Port Clinton              vs Midview                   (Girls U09 Div 5 West)
+
+  Thu 9/24/26
+  ──────────────────────────────────────────────────────────────────────
+     6:30 PM  #15118  Port Clinton              vs Avon Lake                 (Girls U10 Div 4 West EV)
 
   Sun 9/27/26
   ──────────────────────────────────────────────────────────────────────
@@ -5777,12 +5805,15 @@ VENUE: Kenston High School Bomber Stadium (Stadium Turf)
 
   Sun 9/20/26
   ──────────────────────────────────────────────────────────────────────
-     1:00 PM  #14822  Kenston                   vs Warren                    (Boys U14/15 Div 2 East)
      2:30 PM  #12717  Kenston   SLV             vs Kenston   BLK             (Boys U13 Div 4 East)
 
   Sun 9/27/26
   ──────────────────────────────────────────────────────────────────────
      6:00 PM  #2615   Kenston                   vs Medina   13GN             (Girls U13 Div 1)
+
+  Sun 10/4/26
+  ──────────────────────────────────────────────────────────────────────
+     4:00 PM  #14822  Kenston                   vs Warren                    (Boys U14/15 Div 2 East)
 
   Sun 10/11/26
   ──────────────────────────────────────────────────────────────────────
@@ -6074,9 +6105,9 @@ VENUE: LaGrange Community Park (Field #3)
   ──────────────────────────────────────────────────────────────────────
      6:30 PM  #3924   LaGrange                  vs Rocky River   WHT         (Boys U09 Div 4 West EN)
 
-  Fri 10/2/26
+  Tue 9/29/26
   ──────────────────────────────────────────────────────────────────────
-     6:30 PM  #3925   LaGrange                  vs Bay Village   DS          (Boys U09 Div 4 West EN)
+     6:00 PM  #3925   LaGrange                  vs Bay Village   DS          (Boys U09 Div 4 West EN)
 
   Sun 10/11/26
   ──────────────────────────────────────────────────────────────────────
@@ -6227,13 +6258,13 @@ VENUE: Lake Community Park (Behind Lake HS Stadium) (13U/14U/15U/HS 11v11)
   ──────────────────────────────────────────────────────────────────────
      1:00 PM  #9405   Lake Select SC   U14      vs Revere   BLUE             (Girls U14/15 Div 5 South)
 
-  Sat 9/12/26
-  ──────────────────────────────────────────────────────────────────────
-     6:00 PM  #9401   Lake Select SC   U14      vs Cuyahoga Falls   EK       (Girls U14/15 Div 5 South)
-
   Sun 9/13/26
   ──────────────────────────────────────────────────────────────────────
      5:30 PM  #9419   Lake Select SC   U14      vs PLX United                (Girls U14/15 Div 5 South)
+
+  Sat 9/19/26
+  ──────────────────────────────────────────────────────────────────────
+     6:00 PM  #9401   Lake Select SC   U14      vs Cuyahoga Falls   EK       (Girls U14/15 Div 5 South)
 
   Sun 9/27/26
   ──────────────────────────────────────────────────────────────────────
@@ -6606,7 +6637,7 @@ VENUE: Logan Field - #330 (Logan Field 331)
 --------------------------------------------------------------------------------
 VENUE: Lomond School (Field #1)
   Address: 17917 Lomond Blvd, Shaker Heights, OH 44122
-  Games at this venue: 17
+  Games at this venue: 16
   Map: https://www.ohtsl.com/directionmap.php?locationid=420
 --------------------------------------------------------------------------------
 
@@ -6628,10 +6659,6 @@ VENUE: Lomond School (Field #1)
   Wed 9/2/26
   ──────────────────────────────────────────────────────────────────────
      6:30 PM  #14307  Shaker Hts.   WHT         vs Twinsburg   WHTE          (Boys U10 Div 4 East EN)
-
-  Wed 9/9/26
-  ──────────────────────────────────────────────────────────────────────
-     6:30 PM  #11014  Shaker Hts.   GLD         vs Shaker Hts.   SLV         (Boys U10 Div 5 East)
 
   Sun 9/20/26
   ──────────────────────────────────────────────────────────────────────
@@ -6660,7 +6687,7 @@ VENUE: Lomond School (Field #1)
 --------------------------------------------------------------------------------
 VENUE: Lomond School (Field #2)
   Address: 17917 Lomond Blvd, Shaker Heights, OH 44122
-  Games at this venue: 6
+  Games at this venue: 9
   Map: https://www.ohtsl.com/directionmap.php?locationid=420
 --------------------------------------------------------------------------------
 
@@ -6680,6 +6707,12 @@ VENUE: Lomond School (Field #2)
   Sun 9/20/26
   ──────────────────────────────────────────────────────────────────────
      9:30 AM  #10617  Shaker Hts.   RED         vs Independence              (Boys U10 Div 3 East)
+
+  Sun 10/11/26
+  ──────────────────────────────────────────────────────────────────────
+    11:30 AM  #1322   Shaker Hts.   RED         vs Warren                    (Girls U10 Div 3 East)
+     1:00 PM  #739    Shaker Hts.   BLK         vs Avon                      (Girls U09 Div 2)
+     2:30 PM  #215    Shaker Hts.   BLK         vs Orange                    (Boys U08 Div East)
 
   Sun 10/25/26
   ──────────────────────────────────────────────────────────────────────
@@ -6758,7 +6791,10 @@ VENUE: Lucille Heasley Soccer Fields (Heasley 1)
   ──────────────────────────────────────────────────────────────────────
      2:30 PM  #11526  North Royalton            vs Tallmadge                 (Boys U11 Div 4 South)
      4:00 PM  #12022  North Royalton            vs Wadsworth   KEN           (Boys U12 Div 3 South)
-     5:30 PM  #1618   North Royalton            vs Avon                      (Girls U11 Div 1)
+
+  Wed 9/23/26
+  ──────────────────────────────────────────────────────────────────────
+     6:30 PM  #1618   North Royalton            vs Avon                      (Girls U11 Div 1)
 
   Fri 9/25/26
   ──────────────────────────────────────────────────────────────────────
@@ -6768,15 +6804,18 @@ VENUE: Lucille Heasley Soccer Fields (Heasley 1)
   ──────────────────────────────────────────────────────────────────────
     11:30 AM  #11532  North Royalton            vs Medina   11Wh             (Boys U11 Div 4 South)
      4:00 PM  #4626   North Royalton            vs Medina   11Gr             (Boys U11 Div 1)
-     5:30 PM  #2421   North Royalton            vs Brecksville Bees SA       (Girls U12 Div 4 West)
 
-  Fri 10/9/26
+  Thu 10/1/26
   ──────────────────────────────────────────────────────────────────────
-     6:30 PM  #4631   North Royalton            vs North Canton              (Boys U11 Div 1)
+     5:30 PM  #2421   North Royalton            vs Brecksville Bees SA       (Girls U12 Div 4 West)
 
   Sun 10/11/26
   ──────────────────────────────────────────────────────────────────────
      5:30 PM  #1822   North Royalton            vs Amherst                   (Girls U11 Div 3 West)
+
+  Thu 10/15/26
+  ──────────────────────────────────────────────────────────────────────
+     6:00 PM  #4631   North Royalton            vs North Canton              (Boys U11 Div 1)
 
   Sun 10/18/26
   ──────────────────────────────────────────────────────────────────────
@@ -6842,11 +6881,14 @@ VENUE: Lucille Heasley Soccer Fields (Heasley 2)
   ──────────────────────────────────────────────────────────────────────
      4:00 PM  #2913   North Royalton            vs LaGrange                  (Girls U13 Div 4)
 
+  Thu 9/17/26
+  ──────────────────────────────────────────────────────────────────────
+     6:00 PM  #9023   North Royalton            vs Twinsburg                 (Girls U14/15 Div 3 East)
+
   Sun 9/20/26
   ──────────────────────────────────────────────────────────────────────
      1:00 PM  #12911  North Royalton            vs Mentor                    (Boys U13 Div 5 East)
      2:30 PM  #5721   North Royalton            vs Stow   Mar                (Boys U13 Div 2)
-     4:00 PM  #9023   North Royalton            vs Twinsburg                 (Girls U14/15 Div 3 East)
      5:30 PM  #2824   North Royalton            vs Revere                    (Girls U13 Div 3)
 
   Mon 9/21/26
@@ -7043,7 +7085,7 @@ VENUE: MQA Soccer Fields (Mary Queen of the Apostle's Church) (Field 1 9v9)
 --------------------------------------------------------------------------------
 VENUE: Macedonia Rec (Manor Field)
   Address: 1634 E Aurora Rd, Macedonia, Oh 44056
-  Games at this venue: 7
+  Games at this venue: 11
   Map: https://www.ohtsl.com/directionmap.php?locationid=756
 --------------------------------------------------------------------------------
 
@@ -7059,10 +7101,19 @@ VENUE: Macedonia Rec (Manor Field)
   Sun 9/13/26
   ──────────────────────────────────────────────────────────────────────
      1:00 PM  #7724   Nordonia                  vs Shaker Hts.   WHT         (Girls U10 Div 5 East)
+     2:30 PM  #14125  Nordonia                  vs Chagrin Falls             (Boys U09 Div 5 East EV)
 
   Thu 9/17/26
   ──────────────────────────────────────────────────────────────────────
      6:30 PM  #11024  Nordonia                  vs Mantua                    (Boys U10 Div 5 East)
+
+  Sun 9/20/26
+  ──────────────────────────────────────────────────────────────────────
+     2:30 PM  #14130  Nordonia                  vs Mayfield   RC             (Boys U09 Div 5 East EV)
+
+  Sun 9/27/26
+  ──────────────────────────────────────────────────────────────────────
+     3:00 PM  #14134  Nordonia                  vs Twinsburg   WHTE          (Boys U09 Div 5 East EV)
 
   Sun 10/11/26
   ──────────────────────────────────────────────────────────────────────
@@ -7071,11 +7122,12 @@ VENUE: Macedonia Rec (Manor Field)
   Sun 10/18/26
   ──────────────────────────────────────────────────────────────────────
     10:00 AM  #7739   Nordonia                  vs Rootstown                 (Girls U10 Div 5 East)
+    11:30 AM  #14114  Nordonia                  vs West Geauga               (Boys U09 Div 5 East EV)
 
 --------------------------------------------------------------------------------
 VENUE: Macedonia Rec Center 9v9 Field (North Fields)
   Address: 1511 E. Aurora Rd., Macedonia, OH 44056
-  Games at this venue: 17
+  Games at this venue: 13
   Map: https://www.ohtsl.com/directionmap.php?locationid=115
 --------------------------------------------------------------------------------
 
@@ -7101,18 +7153,15 @@ VENUE: Macedonia Rec Center 9v9 Field (North Fields)
   Sun 9/13/26
   ──────────────────────────────────────────────────────────────────────
     11:30 AM  #14614  Nordonia                  vs Shaker Hts.   SLV         (Boys U11 Div 5 East EN)
-     2:30 PM  #14125  Nordonia                  vs Chagrin Falls             (Boys U09 Div 5 East EV)
      5:30 PM  #8818   Nordonia                  vs Twinsburg   WHT           (Girls U12 Div 5)
 
   Sun 9/20/26
   ──────────────────────────────────────────────────────────────────────
      1:00 PM  #8822   Nordonia                  vs Orange                    (Girls U12 Div 5)
-     2:30 PM  #14130  Nordonia                  vs Mayfield   RC             (Boys U09 Div 5 East EV)
 
   Sun 9/27/26
   ──────────────────────────────────────────────────────────────────────
      1:00 PM  #12133  Nordonia                  vs Orange                    (Boys U12 Div 4 East)
-     3:00 PM  #14134  Nordonia                  vs Twinsburg   WHTE          (Boys U09 Div 5 East EV)
 
   Sun 10/11/26
   ──────────────────────────────────────────────────────────────────────
@@ -7120,7 +7169,6 @@ VENUE: Macedonia Rec Center 9v9 Field (North Fields)
 
   Sun 10/18/26
   ──────────────────────────────────────────────────────────────────────
-    11:30 AM  #14114  Nordonia                  vs West Geauga               (Boys U09 Div 5 East EV)
      1:00 PM  #8811   Nordonia                  vs Lakewood   G14P           (Girls U12 Div 5)
 
 --------------------------------------------------------------------------------
@@ -7240,7 +7288,7 @@ VENUE: Madison Middle School (9v9)
 --------------------------------------------------------------------------------
 VENUE: Madison Park  (Grass Field - 7v7, 9v9)
   Address: 13201 Madison Ave, Lakewood, OH 44107
-  Games at this venue: 33
+  Games at this venue: 32
   Map: https://www.ohtsl.com/directionmap.php?locationid=311
 --------------------------------------------------------------------------------
 
@@ -7275,10 +7323,6 @@ VENUE: Madison Park  (Grass Field - 7v7, 9v9)
   Wed 9/9/26
   ──────────────────────────────────────────────────────────────────────
      6:30 PM  #4511   Lakewood   B16W           vs Bay Village   SA          (Boys U10 Div 5 West)
-
-  Fri 9/11/26
-  ──────────────────────────────────────────────────────────────────────
-     6:30 PM  #5120   Lakewood   B14G           vs Orange                    (Boys U12 Div 1)
 
   Sun 9/13/26
   ──────────────────────────────────────────────────────────────────────
@@ -7708,16 +7752,13 @@ VENUE: Medina - Blakeslee Park (Blakeslee A- up front near road)
   ──────────────────────────────────────────────────────────────────────
      5:30 PM  #1611   Medina   11GN             vs Highland   EM2            (Girls U11 Div 1)
 
-  Thu 9/3/26
-  ──────────────────────────────────────────────────────────────────────
-     6:30 PM  #5202   Medina   12Gr             vs Green                     (Boys U12 Div 2)
-
   Sun 9/13/26
   ──────────────────────────────────────────────────────────────────────
      4:00 PM  #5224   Medina   12Gr             vs North Canton              (Boys U12 Div 2)
 
   Wed 9/16/26
   ──────────────────────────────────────────────────────────────────────
+     6:00 PM  #5202   Medina   12Gr             vs Green                     (Boys U12 Div 2)
      6:15 PM  #8517   Medina   12GN             vs Highland   BD1            (Girls U12 Div 3 South)
 
   Sun 9/27/26
@@ -7897,7 +7938,6 @@ VENUE: Medina Huffman/Cunningham Fields (Cunningham 12 (11v11) )
 
   Sun 9/13/26
   ──────────────────────────────────────────────────────────────────────
-    10:00 AM  #2621   Medina   13GN             vs Mayfield   SS             (Girls U13 Div 1)
     11:30 AM  #12619  Medina   13Wh             vs Brunswick                 (Boys U13 Div 3 South)
 
   Sun 9/20/26
@@ -7907,6 +7947,10 @@ VENUE: Medina Huffman/Cunningham Fields (Cunningham 12 (11v11) )
   Sun 10/11/26
   ──────────────────────────────────────────────────────────────────────
      5:30 PM  #3239   Medina   14GN             vs Jackson                   (Girls U14/15 Div 2)
+
+  Sun 10/18/26
+  ──────────────────────────────────────────────────────────────────────
+     1:00 PM  #2621   Medina   13GN             vs Mayfield   SS             (Girls U13 Div 1)
 
 --------------------------------------------------------------------------------
 VENUE: Medina Huffman/Cunningham Fields (Cunningham 13 (9v9))
@@ -8250,10 +8294,6 @@ VENUE: Memorial Elementary (#1 7v7)
   ──────────────────────────────────────────────────────────────────────
      6:30 PM  #3814   Brunswick   RYL           vs Rocky River   MRN         (Boys U09 Div 3 West)
 
-  Thu 9/3/26
-  ──────────────────────────────────────────────────────────────────────
-     6:30 PM  #6715   Brunswick                 vs Highland   EM1            (Girls U09 Div 3 South)
-
   Tue 9/8/26
   ──────────────────────────────────────────────────────────────────────
      6:30 PM  #307    Brunswick                 vs Strongsville   JD         (Boys U08 Div South V)
@@ -8261,13 +8301,17 @@ VENUE: Memorial Elementary (#1 7v7)
   Sun 9/13/26
   ──────────────────────────────────────────────────────────────────────
     12:00 PM  #10325  Brunswick   WHT           vs Parma                     (Boys U09 Div 5 South EV)
+     1:30 PM  #6715   Brunswick                 vs Highland   EM1            (Girls U09 Div 3 South)
      5:00 PM  #1114   Brunswick   RYL           vs Medina   10GN             (Girls U10 Div 1)
+
+  Fri 9/18/26
+  ──────────────────────────────────────────────────────────────────────
+     6:00 PM  #10724  Brunswick   WHT           vs Brunswick   RYL           (Boys U10 Div 3 South)
 
   Sun 9/20/26
   ──────────────────────────────────────────────────────────────────────
      1:00 PM  #10330  Brunswick   WHT           vs Copley                    (Boys U09 Div 5 South EV)
      2:30 PM  #312    Brunswick                 vs Parma                     (Boys U08 Div South V)
-     4:00 PM  #10724  Brunswick   WHT           vs Brunswick   RYL           (Boys U10 Div 3 South)
 
   Mon 9/21/26
   ──────────────────────────────────────────────────────────────────────
@@ -8364,7 +8408,7 @@ VENUE: Memorial Pool Field (9v9)
 --------------------------------------------------------------------------------
 VENUE: Mercer Elementary School (7v7 Field)
   Address: 23325 Wimbledon Road, Shaker Heights, OH 44122
-  Games at this venue: 12
+  Games at this venue: 13
   Map: https://www.ohtsl.com/directionmap.php?locationid=798
 --------------------------------------------------------------------------------
 
@@ -8381,6 +8425,10 @@ VENUE: Mercer Elementary School (7v7 Field)
   Thu 8/27/26
   ──────────────────────────────────────────────────────────────────────
      6:30 PM  #10111  Shaker Hts.   RED         vs Eastside Kickers   SEL    (Boys U09 Div 4 East)
+
+  Wed 9/9/26
+  ──────────────────────────────────────────────────────────────────────
+     6:30 PM  #11014  Shaker Hts.   GLD         vs Shaker Hts.   SLV         (Boys U10 Div 5 East)
 
   Sun 9/13/26
   ──────────────────────────────────────────────────────────────────────
@@ -9063,7 +9111,7 @@ VENUE: Newton Park (404)
 --------------------------------------------------------------------------------
 VENUE: Nordonia High School (Stadium)
   Address: 8006 south bedford rd, Macedonia, oh 44056
-  Games at this venue: 12
+  Games at this venue: 10
   Map: https://www.ohtsl.com/directionmap.php?locationid=129
 --------------------------------------------------------------------------------
 
@@ -9071,7 +9119,6 @@ VENUE: Nordonia High School (Stadium)
   ──────────────────────────────────────────────────────────────────────
      8:30 AM  #12502  Nordonia                  vs Shaker Hts.   RED         (Boys U13 Div 3 East)
      1:00 PM  #9103   Nordonia                  vs Riverside                 (Girls U14/15 Div 4 East)
-     4:00 PM  #13502  Nordonia                  vs Eastlake                  (Boys U14/15 Div 5)
 
   Sun 8/23/26
   ──────────────────────────────────────────────────────────────────────
@@ -9081,11 +9128,6 @@ VENUE: Nordonia High School (Stadium)
   ──────────────────────────────────────────────────────────────────────
      2:30 PM  #9120   Nordonia                  vs Aurora                    (Girls U14/15 Div 4 East)
 
-  Sun 9/13/26
-  ──────────────────────────────────────────────────────────────────────
-     1:00 PM  #13510  Nordonia                  vs Streetsboro               (Boys U14/15 Div 5)
-     5:00 PM  #12518  Nordonia                  vs Riverside   KC            (Boys U13 Div 3 East)
-
   Sun 9/20/26
   ──────────────────────────────────────────────────────────────────────
      2:30 PM  #12522  Nordonia                  vs NP Aurora                 (Boys U13 Div 3 East)
@@ -9094,11 +9136,27 @@ VENUE: Nordonia High School (Stadium)
   ──────────────────────────────────────────────────────────────────────
      1:00 PM  #13515  Nordonia                  vs Rocky River   WHT         (Boys U14/15 Div 5)
      2:30 PM  #9140   Nordonia                  vs Madison                   (Girls U14/15 Div 4 East)
+     5:00 PM  #13502  Nordonia                  vs Eastlake                  (Boys U14/15 Div 5)
 
   Sun 10/18/26
   ──────────────────────────────────────────────────────────────────────
     12:00 PM  #12511  Nordonia                  vs Riverside   JJ            (Boys U13 Div 3 East)
      2:30 PM  #13518  Nordonia                  vs Lakewood   B12P           (Boys U14/15 Div 5)
+
+--------------------------------------------------------------------------------
+VENUE: Nordonia Middle School (Grass field )
+  Address: 73 Leonard Ave, Northfield, OH 44067
+  Games at this venue: 2
+  Map: https://www.ohtsl.com/directionmap.php?locationid=235
+--------------------------------------------------------------------------------
+
+  Sun 9/13/26
+  ──────────────────────────────────────────────────────────────────────
+     5:00 PM  #12518  Nordonia                  vs Riverside   KC            (Boys U13 Div 3 East)
+
+  Mon 9/14/26
+  ──────────────────────────────────────────────────────────────────────
+     6:30 PM  #13510  Nordonia                  vs Streetsboro               (Boys U14/15 Div 5)
 
 --------------------------------------------------------------------------------
 VENUE: North Larwrence Township Park (7v7)
@@ -9589,7 +9647,10 @@ VENUE: Oberland Park (7-7 Field 2)
   ──────────────────────────────────────────────────────────────────────
     11:45 AM  #9918   Geauga Federation SC      vs Stow   Mar                (Boys U09 Div 3 East)
      1:00 PM  #10436  Geauga Federation SC      vs Solon United              (Boys U09 Div 5 East EN)
-     4:00 PM  #10618  Geauga Federation SC      vs Riverside   JA            (Boys U10 Div 3 East)
+
+  Sat 9/26/26
+  ──────────────────────────────────────────────────────────────────────
+     3:00 PM  #10618  Geauga Federation SC      vs Riverside   JA            (Boys U10 Div 3 East)
 
   Sun 9/27/26
   ──────────────────────────────────────────────────────────────────────
@@ -10248,7 +10309,7 @@ VENUE: Parkside (Field #1S - 7v7)
 --------------------------------------------------------------------------------
 VENUE: Parkside (Field #2 - 11v11)
   Address: 24525 Hilliard Blvd., Westlake, OH 44145
-  Games at this venue: 5
+  Games at this venue: 4
   Map: https://www.ohtsl.com/directionmap.php?locationid=690
 --------------------------------------------------------------------------------
 
@@ -10259,10 +10320,6 @@ VENUE: Parkside (Field #2 - 11v11)
   Fri 8/28/26
   ──────────────────────────────────────────────────────────────────────
      6:30 PM  #3109   Westlake   JD             vs Bay Village   DR          (Girls U14/15 Div 1)
-
-  Wed 9/9/26
-  ──────────────────────────────────────────────────────────────────────
-     6:30 PM  #3317   Westlake   RR             vs Avon Lake                 (Girls U14/15 Div 3)
 
   Sun 9/20/26
   ──────────────────────────────────────────────────────────────────────
@@ -10307,13 +10364,13 @@ VENUE: Parkside (Field #2S - 7v7)
   ──────────────────────────────────────────────────────────────────────
     11:30 AM  #3905   Westlake   TB             vs North Olmsted             (Boys U09 Div 4 West EN)
 
-  Thu 9/3/26
-  ──────────────────────────────────────────────────────────────────────
-     6:30 PM  #3714   Westlake   CG             vs Avon Lake                 (Boys U09 Div 2)
-
   Sun 9/13/26
   ──────────────────────────────────────────────────────────────────────
      4:00 PM  #110    Westlake   MC             vs Olmsted Falls   Gold      (Boys U08 Div West V)
+
+  Mon 9/28/26
+  ──────────────────────────────────────────────────────────────────────
+     6:15 PM  #3714   Westlake   CG             vs Avon Lake                 (Boys U09 Div 2)
 
   Wed 9/30/26
   ──────────────────────────────────────────────────────────────────────
@@ -10600,7 +10657,7 @@ VENUE: Porter Fields (Field #1 - 9v9)
 --------------------------------------------------------------------------------
 VENUE: Porter Fields (Field #2 - 11v11)
   Address: 29301 Center Ridge Road, Westlake, OH 44145
-  Games at this venue: 15
+  Games at this venue: 16
   Map: https://www.ohtsl.com/directionmap.php?locationid=246
 --------------------------------------------------------------------------------
 
@@ -10627,6 +10684,10 @@ VENUE: Porter Fields (Field #2 - 11v11)
   Fri 8/28/26
   ──────────────────────────────────────────────────────────────────────
      6:30 PM  #6315   Westlake   WV             vs Independence              (Boys U14/15 Div 3 West)
+
+  Wed 9/9/26
+  ──────────────────────────────────────────────────────────────────────
+     6:30 PM  #3317   Westlake   RR             vs Avon Lake                 (Girls U14/15 Div 3)
 
   Sun 9/13/26
   ──────────────────────────────────────────────────────────────────────
@@ -10685,8 +10746,8 @@ VENUE: Revere High School (Revere High School)
 
   Sun 9/27/26
   ──────────────────────────────────────────────────────────────────────
-    10:00 AM  #3234   Revere   RED              vs Medina   14GN             (Girls U14/15 Div 2)
      1:00 PM  #12628  Revere                    vs Norton                    (Boys U13 Div 3 South)
+     5:30 PM  #3234   Revere   RED              vs Medina   14GN             (Girls U14/15 Div 2)
 
   Sun 10/11/26
   ──────────────────────────────────────────────────────────────────────
@@ -10925,10 +10986,6 @@ VENUE: River Road Park (River Road Park 9v9 West)
      1:00 PM  #11218  Kenston                   vs Willoughby                (Boys U11 Div 3 East)
      2:30 PM  #8414   Kenston                   vs Twinsburg   Blue          (Girls U12 Div 3 East)
 
-  Sun 9/20/26
-  ──────────────────────────────────────────────────────────────────────
-     5:30 PM  #11222  Kenston                   vs NP Aurora                 (Boys U11 Div 3 East)
-
   Sun 9/27/26
   ──────────────────────────────────────────────────────────────────────
      5:30 PM  #11927  Kenston                   vs West Geauga               (Boys U12 Div 3 East)
@@ -10936,6 +10993,10 @@ VENUE: River Road Park (River Road Park 9v9 West)
   Mon 10/12/26
   ──────────────────────────────────────────────────────────────────────
      6:00 PM  #8422   Kenston                   vs Independence              (Girls U12 Div 3 East)
+
+  Fri 10/16/26
+  ──────────────────────────────────────────────────────────────────────
+     6:00 PM  #11222  Kenston                   vs NP Aurora                 (Boys U11 Div 3 East)
 
 --------------------------------------------------------------------------------
 VENUE: River Road Park (River Road Park East 3)
@@ -11552,7 +11613,7 @@ VENUE: Schady Rd Soccer Complex (7v7-1)
 --------------------------------------------------------------------------------
 VENUE: Schady Rd Soccer Complex (7v7-2)
   Address: 27075 Schady Road, Olmsted Falls, Oh 44138
-  Games at this venue: 1
+  Games at this venue: 2
   Map: https://www.ohtsl.com/directionmap.php?locationid=12
 --------------------------------------------------------------------------------
 
@@ -11560,10 +11621,14 @@ VENUE: Schady Rd Soccer Complex (7v7-2)
   ──────────────────────────────────────────────────────────────────────
      6:30 PM  #106    Olmsted Falls   Gold      vs Avon Lake                 (Boys U08 Div West V)
 
+  Sun 9/20/26
+  ──────────────────────────────────────────────────────────────────────
+     4:00 PM  #4427   Olmsted Falls   Silv      vs Olmsted Falls   Gold      (Boys U10 Div 4 West)
+
 --------------------------------------------------------------------------------
 VENUE: Schady Rd Soccer Complex (7v7-3)
   Address: 27075 Schady Road, Olmsted Falls, Oh 44138
-  Games at this venue: 31
+  Games at this venue: 30
   Map: https://www.ohtsl.com/directionmap.php?locationid=12
 --------------------------------------------------------------------------------
 
@@ -11613,7 +11678,6 @@ VENUE: Schady Rd Soccer Complex (7v7-3)
 
   Sun 9/20/26
   ──────────────────────────────────────────────────────────────────────
-    11:30 AM  #4427   Olmsted Falls   Silv      vs Olmsted Falls   Gold      (Boys U10 Div 4 West)
      2:30 PM  #13924  Olmsted Falls   Gold      vs Avon Lake                 (Boys U09 Div 5 West EN)
      4:00 PM  #9717   Olmsted Falls   Blue      vs Bay Village   NP          (Boys U08 Div West N)
      5:30 PM  #111    Olmsted Falls   Gold      vs Bay Village   BK          (Boys U08 Div West V)
@@ -11736,10 +11800,6 @@ VENUE: Schady Rd Soccer Complex (9v9-1)
   ──────────────────────────────────────────────────────────────────────
      6:30 PM  #5015   Olmsted Falls   Gold      vs North Ridgeville          (Boys U11 Div 5 West)
 
-  Wed 9/2/26
-  ──────────────────────────────────────────────────────────────────────
-     6:30 PM  #4712   Olmsted Falls   Blue      vs Mayfield   MO             (Boys U11 Div 2)
-
   Sun 9/13/26
   ──────────────────────────────────────────────────────────────────────
     11:30 AM  #5520   Olmsted Falls   Gold      vs Parma                     (Boys U12 Div 5 West)
@@ -11760,6 +11820,10 @@ VENUE: Schady Rd Soccer Complex (9v9-1)
   Wed 10/14/26
   ──────────────────────────────────────────────────────────────────────
      5:30 PM  #4736   Olmsted Falls   Blue      vs Rocky River   MRN         (Boys U11 Div 2)
+
+  Sat 10/17/26
+  ──────────────────────────────────────────────────────────────────────
+     4:00 PM  #4712   Olmsted Falls   Blue      vs Mayfield   MO             (Boys U11 Div 2)
 
 --------------------------------------------------------------------------------
 VENUE: Schady Rd Soccer Complex (9v9-2)
@@ -11818,7 +11882,7 @@ VENUE: Schady Rd Soccer Complex (9v9-2)
 --------------------------------------------------------------------------------
 VENUE: Schwartz Road Park (#10 - 7v7)
   Address: 35001 Schwartz Road, Avon, OH 44011
-  Games at this venue: 10
+  Games at this venue: 9
   Map: https://www.ohtsl.com/directionmap.php?locationid=330
 --------------------------------------------------------------------------------
 
@@ -11848,10 +11912,6 @@ VENUE: Schwartz Road Park (#10 - 7v7)
   Sun 10/11/26
   ──────────────────────────────────────────────────────────────────────
      2:30 PM  #4440   Avon                      vs Olmsted Falls   Silv      (Boys U10 Div 4 West)
-
-  Sun 10/18/26
-  ──────────────────────────────────────────────────────────────────────
-     5:30 PM  #15119  Avon                      vs Westlake   BL             (Girls U10 Div 4 West EV)
 
 --------------------------------------------------------------------------------
 VENUE: Schwartz Road Park (#11 - 7v7)
@@ -11933,7 +11993,7 @@ VENUE: Schwartz Road Park (#13 - 11V11)
 --------------------------------------------------------------------------------
 VENUE: Schwartz Road Park (#3 - 9v9)
   Address: 35001 Schwartz Road, Avon, OH 44011
-  Games at this venue: 21
+  Games at this venue: 22
   Map: https://www.ohtsl.com/directionmap.php?locationid=330
 --------------------------------------------------------------------------------
 
@@ -11990,11 +12050,12 @@ VENUE: Schwartz Road Park (#3 - 9v9)
   ──────────────────────────────────────────────────────────────────────
      1:00 PM  #2026   Avon                      vs Midview                   (Girls U11 Div 5 West)
      2:30 PM  #5012   Avon                      vs Lakewood   B15G           (Boys U11 Div 5 West)
+     4:00 PM  #1615   Avon                      vs Highland   EM2            (Girls U11 Div 1)
 
 --------------------------------------------------------------------------------
 VENUE: Schwartz Road Park (#4 - 9V9)
   Address: 35001 Schwartz Road, Avon, OH 44011
-  Games at this venue: 3
+  Games at this venue: 2
   Map: https://www.ohtsl.com/directionmap.php?locationid=330
 --------------------------------------------------------------------------------
 
@@ -12006,14 +12067,10 @@ VENUE: Schwartz Road Park (#4 - 9V9)
   ──────────────────────────────────────────────────────────────────────
      1:00 PM  #2023   Avon                      vs TUSA                      (Girls U11 Div 5 West)
 
-  Sun 10/18/26
-  ──────────────────────────────────────────────────────────────────────
-     4:00 PM  #1615   Avon                      vs Highland   EM2            (Girls U11 Div 1)
-
 --------------------------------------------------------------------------------
 VENUE: Schwartz Road Park (#9 - 7v7)
   Address: 35001 Schwartz Road, Avon, OH 44011
-  Games at this venue: 25
+  Games at this venue: 26
   Map: https://www.ohtsl.com/directionmap.php?locationid=330
 --------------------------------------------------------------------------------
 
@@ -12071,6 +12128,7 @@ VENUE: Schwartz Road Park (#9 - 7v7)
   Sun 10/18/26
   ──────────────────────────────────────────────────────────────────────
      2:30 PM  #926    Avon                      vs Westlake   GF             (Girls U09 Div 4 West)
+     5:30 PM  #15119  Avon                      vs Westlake   BL             (Girls U10 Div 4 West EV)
 
 --------------------------------------------------------------------------------
 VENUE: Settler's Park (9v9 Field)
@@ -12116,10 +12174,6 @@ VENUE: Shaker Heights High School (Stadium Turf Field)
   ──────────────────────────────────────────────────────────────────────
      4:00 PM  #13328  Shaker Hts.   B/R         vs Geneva                    (Boys U14/15 Div 4 East)
 
-  Sat 10/10/26
-  ──────────────────────────────────────────────────────────────────────
-     4:00 PM  #5608   Shaker Hts.   BLK         vs Bay Village   BW          (Boys U13 Div 1)
-
   Sun 10/11/26
   ──────────────────────────────────────────────────────────────────────
      2:30 PM  #2829   Shaker Hts.   RED         vs Parma                     (Girls U13 Div 3)
@@ -12130,6 +12184,10 @@ VENUE: Shaker Heights High School (Stadium Turf Field)
   ──────────────────────────────────────────────────────────────────────
      3:00 PM  #2828   Shaker Hts.   RED         vs Fairview Park             (Girls U13 Div 3)
      5:00 PM  #5625   Shaker Hts.   BLK         vs Hudson   SFER             (Boys U13 Div 1)
+
+  Sat 10/24/26
+  ──────────────────────────────────────────────────────────────────────
+     4:30 PM  #5608   Shaker Hts.   BLK         vs Bay Village   BW          (Boys U13 Div 1)
 
 --------------------------------------------------------------------------------
 VENUE: Shaker Heights Main Library (Main Library Field)
@@ -12234,12 +12292,15 @@ VENUE: Shaker Heights Middle School (Median Field (across Shaker Blvd from the s
      1:00 PM  #12321  Shaker Hts.   SLV         vs West Geauga               (Boys U12 Div 5 East)
      2:30 PM  #4727   Shaker Hts.   BLK         vs Mayfield   MO             (Boys U11 Div 2)
 
+  Thu 9/24/26
+  ──────────────────────────────────────────────────────────────────────
+     6:15 PM  #2240   Shaker Hts.   BLK         vs Midview                   (Girls U12 Div 2)
+
   Sun 9/27/26
   ──────────────────────────────────────────────────────────────────────
      9:30 AM  #12134  Shaker Hts.   WHT         vs Twinsburg                 (Boys U12 Div 4 East)
      1:00 PM  #11228  Shaker Hts.   RED         vs Kenston                   (Boys U11 Div 3 East)
      2:30 PM  #8221   Shaker Hts.   RED         vs Geauga Federation SC      (Girls U11 Div 5 East)
-     4:00 PM  #2240   Shaker Hts.   BLK         vs Midview                   (Girls U12 Div 2)
 
   Wed 10/7/26
   ──────────────────────────────────────────────────────────────────────
@@ -12364,13 +12425,13 @@ VENUE: Sharon Community Park (Field 2: 9v9 - Middle Field)
   ──────────────────────────────────────────────────────────────────────
      6:30 PM  #12012  Highland   JC2            vs Strongsville   EE-B       (Boys U12 Div 3 South)
 
-  Thu 9/3/26
-  ──────────────────────────────────────────────────────────────────────
-     6:30 PM  #11539  Highland   BB1            vs Wadsworth   DOL           (Boys U11 Div 4 South)
-
   Wed 9/9/26
   ──────────────────────────────────────────────────────────────────────
      6:30 PM  #12017  Highland   JC2            vs Brecksville Bees SA       (Boys U12 Div 3 South)
+
+  Thu 9/10/26
+  ──────────────────────────────────────────────────────────────────────
+     6:30 PM  #11539  Highland   BB1            vs Wadsworth   DOL           (Boys U11 Div 4 South)
 
   Fri 9/11/26
   ──────────────────────────────────────────────────────────────────────
@@ -12663,7 +12724,7 @@ VENUE: Sofios Park (Field #7 9v9)
 --------------------------------------------------------------------------------
 VENUE: Solon Community Park (7v7)
   Address: 6775 SOM Ctr Rd, SOLON, OH 44139
-  Games at this venue: 15
+  Games at this venue: 14
   Map: https://www.ohtsl.com/directionmap.php?locationid=47
 --------------------------------------------------------------------------------
 
@@ -12677,10 +12738,6 @@ VENUE: Solon Community Park (7v7)
      1:00 PM  #11019  Solon United              vs Nordonia                  (Boys U10 Div 5 East)
      4:00 PM  #10611  Solon United              vs Shaker Hts.   RED         (Boys U10 Div 3 East)
      5:30 PM  #4112   Solon United              vs Mayfield   KHA            (Boys U10 Div 1)
-
-  Wed 9/9/26
-  ──────────────────────────────────────────────────────────────────────
-     6:30 PM  #9907   Solon United              vs Hudson   SATW             (Boys U09 Div 3 East)
 
   Fri 9/11/26
   ──────────────────────────────────────────────────────────────────────
@@ -12712,17 +12769,13 @@ VENUE: Solon Community Park (7v7)
 --------------------------------------------------------------------------------
 VENUE: Solon Community Park (9v9)
   Address: 6775 SOM Ctr Rd, SOLON, OH 44139
-  Games at this venue: 2
+  Games at this venue: 1
   Map: https://www.ohtsl.com/directionmap.php?locationid=47
 --------------------------------------------------------------------------------
 
   Sun 8/16/26
   ──────────────────────────────────────────────────────────────────────
      5:30 PM  #11402  Solon United              vs West Geauga               (Boys U11 Div 4 East)
-
-  Wed 9/9/26
-  ──────────────────────────────────────────────────────────────────────
-     6:30 PM  #12304  Solon United              vs Aurora                    (Boys U12 Div 5 East)
 
 --------------------------------------------------------------------------------
 VENUE: South Amherst Stadium (Field #5)
@@ -12753,17 +12806,13 @@ VENUE: Southside Community Park (11v11) (SSCP - 11v11)
 --------------------------------------------------------------------------------
 VENUE: Spire Institute (Indoor Full Field - Field Turf)
   Address: 5201 Spire Circle, Geneva, OH 44041
-  Games at this venue: 3
+  Games at this venue: 2
   Map: https://www.ohtsl.com/directionmap.php?locationid=224
 --------------------------------------------------------------------------------
 
   Sun 8/16/26
   ──────────────────────────────────────────────────────────────────────
      5:00 PM  #11401  Geneva                    vs Chagrin Falls             (Boys U11 Div 4 East)
-
-  Sun 9/13/26
-  ──────────────────────────────────────────────────────────────────────
-     4:00 PM  #11422  Geneva                    vs Hudson   CORV             (Boys U11 Div 4 East)
 
   Sun 9/27/26
   ──────────────────────────────────────────────────────────────────────
@@ -12783,7 +12832,7 @@ VENUE: Spire Institute (Indoor Partial Field - Field Turf)
 --------------------------------------------------------------------------------
 VENUE: Spire Institute (Outdoor Turf Stadium )
   Address: 5201 Spire Circle, Geneva, OH 44041
-  Games at this venue: 6
+  Games at this venue: 5
   Map: https://www.ohtsl.com/directionmap.php?locationid=224
 --------------------------------------------------------------------------------
 
@@ -12794,10 +12843,6 @@ VENUE: Spire Institute (Outdoor Turf Stadium )
   Wed 8/26/26
   ──────────────────────────────────────────────────────────────────────
      6:30 PM  #12509  Geneva                    vs NP Aurora                 (Boys U13 Div 3 East)
-
-  Sun 9/13/26
-  ──────────────────────────────────────────────────────────────────────
-     1:00 PM  #13318  Geneva                    vs Stow   Mar                (Boys U14/15 Div 4 East)
 
   Sun 9/20/26
   ──────────────────────────────────────────────────────────────────────
@@ -12814,7 +12859,7 @@ VENUE: Spire Institute (Outdoor Turf Stadium )
 --------------------------------------------------------------------------------
 VENUE: Spire Institute (Track and Field Buildling Indoor Turf Field)
   Address: 5201 Spire Circle, Geneva, OH 44041
-  Games at this venue: 11
+  Games at this venue: 13
   Map: https://www.ohtsl.com/directionmap.php?locationid=224
 --------------------------------------------------------------------------------
 
@@ -12830,6 +12875,8 @@ VENUE: Spire Institute (Track and Field Buildling Indoor Turf Field)
   Sun 9/13/26
   ──────────────────────────────────────────────────────────────────────
     11:00 AM  #1420   Geneva                    vs Aurora                    (Girls U10 Div 4 East)
+     1:00 PM  #13318  Geneva                    vs Stow   Mar                (Boys U14/15 Div 4 East)
+     4:00 PM  #11422  Geneva                    vs Hudson   CORV             (Boys U11 Div 4 East)
 
   Sun 9/20/26
   ──────────────────────────────────────────────────────────────────────
@@ -13832,10 +13879,6 @@ VENUE: Tri-City Park (Tri-City #3  9 v 9 North (next to Tennis))
   ──────────────────────────────────────────────────────────────────────
      1:00 PM  #4915   Fairview Park             vs Amherst                   (Boys U11 Div 4 West)
 
-  Thu 9/3/26
-  ──────────────────────────────────────────────────────────────────────
-     6:30 PM  #5014   Fairview Park             vs Rocky River   WHT         (Boys U11 Div 5 West)
-
   Sun 9/13/26
   ──────────────────────────────────────────────────────────────────────
     11:00 AM  #5025   Fairview Park             vs TUSA                      (Boys U11 Div 5 West)
@@ -13859,6 +13902,7 @@ VENUE: Tri-City Park (Tri-City #3  9 v 9 North (next to Tennis))
 
   Sun 10/18/26
   ──────────────────────────────────────────────────────────────────────
+    11:30 AM  #5014   Fairview Park             vs Rocky River   WHT         (Boys U11 Div 5 West)
      1:00 PM  #2027   Fairview Park             vs TUSA                      (Girls U11 Div 5 West)
 
 --------------------------------------------------------------------------------
@@ -14180,15 +14224,12 @@ VENUE: Troy Intermediate School (Troy 7C)
     11:30 AM  #4325   Avon Lake                 vs Port Clinton   RED        (Boys U10 Div 3 West)
      1:00 PM  #13927  Avon Lake                 vs Sandusky                  (Boys U09 Div 5 West EN)
      2:30 PM  #7232   Avon Lake                 vs North Olmsted             (Girls U09 Div 5 West)
+     4:00 PM  #419    Avon Lake                 vs Rocky River   TID         (Girls U08 Div West N)
 
   Sun 10/11/26
   ──────────────────────────────────────────────────────────────────────
      2:30 PM  #15124  Avon Lake                 vs Port Clinton              (Girls U10 Div 4 West EV)
      4:00 PM  #116    Avon Lake                 vs Olmsted Falls   Gold      (Boys U08 Div West V)
-
-  Sun 10/25/26
-  ──────────────────────────────────────────────────────────────────────
-     2:30 PM  #419    Avon Lake                 vs Rocky River   TID         (Girls U08 Div West N)
 
 --------------------------------------------------------------------------------
 VENUE: Troy Intermediate School (Troy 9A)
@@ -14450,7 +14491,7 @@ VENUE: Walker Road Park  (Walker 1 - 7v7)
 
   Sun 9/13/26
   ──────────────────────────────────────────────────────────────────────
-     1:00 PM  #15114  Bay Village   BH          vs Amherst                   (Girls U10 Div 4 West EV)
+    11:30 AM  #15114  Bay Village   BH          vs Amherst                   (Girls U10 Div 4 West EV)
      2:30 PM  #4319   Bay Village   JH          vs Port Clinton   RED        (Boys U10 Div 3 West)
      4:00 PM  #9714   Bay Village   NP          vs Avon Lake                 (Boys U08 Div West N)
      5:30 PM  #3920   Bay Village   SE          vs Independence              (Boys U09 Div 4 West EN)
@@ -14923,7 +14964,7 @@ VENUE: Waterworks Park (Waterworks 9V9 (Field 2))
   Sun 9/20/26
   ──────────────────────────────────────────────────────────────────────
     11:30 AM  #11530  Cuyahoga Falls   JH11     vs Lake Select SC   U11      (Boys U11 Div 4 South)
-     5:30 PM  #12023  Cuyahoga Falls   JH12     vs Buckeye                   (Boys U12 Div 3 South)
+     4:00 PM  #12023  Cuyahoga Falls   JH12     vs Buckeye                   (Boys U12 Div 3 South)
 
   Sun 9/27/26
   ──────────────────────────────────────────────────────────────────────
